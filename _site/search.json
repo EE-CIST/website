@@ -6,14 +6,14 @@
       "description": "Some additional details about EE2023",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:53:54+02:00"
+      "last_modified": "2022-07-02T19:56:17+02:00"
     },
     {
       "path": "index.html",
       "title": "Ecole d'été du CIST 2023",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\nBlablabla…\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:53:56+02:00"
+      "last_modified": "2022-07-02T19:56:19+02:00"
     },
     {
       "path": "intro.html",
@@ -21,7 +21,7 @@
       "description": "Méthodes et outils des sciences des territoires",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:53:58+02:00"
+      "last_modified": "2022-07-02T19:56:21+02:00"
     },
     {
       "path": "material.html",
@@ -29,15 +29,15 @@
       "description": "Tout le matériel nécéssaire, utilisé dans le module",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:54:01+02:00"
+      "last_modified": "2022-07-02T19:56:23+02:00"
     },
     {
       "path": "members.html",
       "title": "Membre de l'école d'été",
       "description": "Tous le participants à la préparation et au montage de l'école d'été",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n:::: {style=“display: flex;”} ::: {style=“width:30%;”}\r\n\r\n\r\n\r\n:::\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:54:03+02:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:56:26+02:00"
     },
     {
       "path": "pgm.html",
@@ -45,7 +45,7 @@
       "description": "Programme de la semaine de l'école dété qui s'est déroulé à Ouidah au Bènin du x au x mars 2023",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T19:54:06+02:00"
+      "last_modified": "2022-07-02T19:56:28+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
