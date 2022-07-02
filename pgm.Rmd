@@ -1,0 +1,10 @@
+---
+title: "Programme"
+description: |
+  Programme de la semaine de l'école dété qui s'est déroulé à Ouidah au Bènin du x au x mars 2023
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

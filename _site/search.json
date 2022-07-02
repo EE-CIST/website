@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "A propos...",
+      "description": "Some additional details about EE2023",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:30:59+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ecole d'été du CIST 2023",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\nBlablabla…\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:31:00+02:00"
+    },
+    {
+      "path": "intro.html",
+      "title": "Ecole été 2023 du CIST",
+      "description": "Méthodes et outils des sciences des territoires",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:31:02+02:00"
+    },
+    {
+      "path": "material.html",
+      "title": "Support du module",
+      "description": "Tout le matériel nécéssaire, utilisé dans le module",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:31:03+02:00"
+    },
+    {
+      "path": "members.html",
+      "title": "Membre de l'école d'été",
+      "description": "Tous le participants à la préparation et au montage de l'école d'été",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:31:05+02:00"
+    },
+    {
+      "path": "pgm.html",
+      "title": "Programme",
+      "description": "Programme de la semaine de l'école dété qui s'est déroulé à Ouidah au Bènin du x au x mars 2023",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-02T19:31:07+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

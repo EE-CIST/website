@@ -1,0 +1,40 @@
+---
+title: "Membre de l'école d'été"
+description: |
+  Tous le participants à la préparation et au montage de l'école d'été
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::: {style="display: flex;"}
+::: {style="width:30%;"}
+```{r}
+knitr::include_graphics('https://pbs.twimg.com/profile_images/1324776264423608321/iadVpBEn_400x400.png')
+```
+:::
+
+::: {style="width:30%;margin-left:5%;margin-top:20px;"}
+Nom Prénom   
+Statut  
+Nationalité  
+Thématique   
+:::
+::::
+
+
+:::: {style="display: flex;"}
+::: {style="width:30%;"}
+```{r}
+knitr::include_graphics('https://pbs.twimg.com/profile_images/1324776264423608321/iadVpBEn_400x400.png')
+```
+:::
+
+::: {style="width:30%;margin-left:5%;margin-top:20px;"}
+Nom Prénom   
+Statut  
+Nationalité  
+Thématique   
+:::
+::::

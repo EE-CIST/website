@@ -1,0 +1,47 @@
+name: "siteweb"
+title: "EE2023"
+description: |
+  École d'été 2023 du CIST : Méthodes et outils des sciences des territoires
+output_dir: "_site"
+navbar:
+  logo:
+    image: https://pbs.twimg.com/profile_images/1324776264423608321/iadVpBEn_400x400.png
+    href: https://cist.cnrs.fr/
+  search: true
+  source_url: https://github.com/rstudio/distill
+  left:
+    - text: "Présentation"
+      href: intro.html
+    - text: "Programme"
+      href: pgm.html
+    - text: "Membres"
+      href: members.html    
+    - text: "Supports et matériels"
+      menu:
+        - text: "Données 1"
+          href: material.html
+        - text: "Données 2"
+          href: material.html
+        - text: "---"
+        - text: "Statistique uniariée"
+          href: material.html
+        - text: "Statistique biariée"
+          href: material.html
+        - text: "Statistique multiariée"
+          href: material.html
+        - text: "---"
+        - text: "Cartographie 1"
+          href: material.html
+        - text: "Cartographie 2"
+          href: material.html
+        - text: "---"
+        - text: "Analyse spatiale 1"
+          href: material.html
+        - text: "Analyse spatiale 2"
+          href: material.html
+
+    - text: "A propos"
+      href: about.html
+output: distill::distill_article
+
+

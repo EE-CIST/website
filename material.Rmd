@@ -1,0 +1,10 @@
+---
+title: "Support du module"
+description: |
+  Tout le matériel nécéssaire, utilisé dans le module
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

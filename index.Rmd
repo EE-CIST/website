@@ -1,0 +1,20 @@
+---
+title: "Ecole d'été du CIST 2023"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+<br>
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('./img/header.png')
+```
+
+Blablabla...

@@ -1,0 +1,10 @@
+---
+title: "A propos..."
+description: |
+  Some additional details about EE2023
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
