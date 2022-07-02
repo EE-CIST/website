@@ -6,14 +6,14 @@
       "description": "Some additional details about EE2023",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:14+02:00"
+      "last_modified": "2022-07-02T20:06:46+02:00"
     },
     {
       "path": "index.html",
-      "title": "Ecole d'été du CIST 2023",
+      "title": "Méthodes et outils des sciences des territoires",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\nBlablabla…\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:16+02:00"
+      "last_modified": "2022-07-02T20:06:47+02:00"
     },
     {
       "path": "intro.html",
@@ -21,7 +21,7 @@
       "description": "Méthodes et outils des sciences des territoires",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:18+02:00"
+      "last_modified": "2022-07-02T20:06:49+02:00"
     },
     {
       "path": "material.html",
@@ -29,7 +29,7 @@
       "description": "Tout le matériel nécéssaire, utilisé dans le module",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:20+02:00"
+      "last_modified": "2022-07-02T20:06:50+02:00"
     },
     {
       "path": "members.html",
@@ -37,7 +37,7 @@
       "description": "Tous le participants à la préparation et au montage de l'école d'été",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNom Prénom\r\nStatut\r\nNationalité\r\nThématique\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:22+02:00"
+      "last_modified": "2022-07-02T20:06:52+02:00"
     },
     {
       "path": "pgm.html",
@@ -45,7 +45,7 @@
       "description": "Programme de la semaine de l'école dété qui s'est déroulé à Ouidah au Bènin du x au x mars 2023",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-02T20:00:24+02:00"
+      "last_modified": "2022-07-02T20:06:54+02:00"
     }
   ],
   "collections": ["posts/posts.json"]

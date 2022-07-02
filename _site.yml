@@ -1,5 +1,5 @@
 name: "siteweb"
-title: "EE2023"
+title: "École d'été 2023"
 description: |
   École d'été 2023 du CIST : Méthodes et outils des sciences des territoires
 output_dir: "_site"
@@ -9,7 +9,7 @@ navbar:
     href: https://cist.cnrs.fr/
   search: true
   source_url: https://github.com/EE-CIST/website
-  left:
+  right:
     - text: "Présentation"
       href: intro.html
     - text: "Programme"
