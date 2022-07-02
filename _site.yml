@@ -8,7 +8,7 @@ navbar:
     image: https://pbs.twimg.com/profile_images/1324776264423608321/iadVpBEn_400x400.png
     href: https://cist.cnrs.fr/
   search: true
-  source_url: https://github.com/rstudio/distill
+  source_url: https://github.com/EE-CIST/website
   left:
     - text: "Présentation"
       href: intro.html

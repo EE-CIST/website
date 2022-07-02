@@ -1,2 +1,7 @@
-# website
-Site web de l'école d'été 2023 du CIST 
+# Ecole été CIST2023
+
+## Méthodes et outils des sciences des territoires
+
+-> Visiter le [site](https://cist2023.netlify.app/)
+
+
