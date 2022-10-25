@@ -1,0 +1,26 @@
+---
+title: "**Équipe de formation**"
+listing:
+  id: formateurs
+  fields: [title, Statut, Pays]
+  filter-ui: true
+  contents: formateurs
+  sort: "date desc"
+  type: table
+  categories: true
+about:
+  template: marquee
+  image : img/formateurs.jpeg
+  image-width: 40em
+  image-shape: rounded
+---
+
+
+::: {#formateurs}
+
+:::
+
+
+
+
+

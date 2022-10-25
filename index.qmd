@@ -1,0 +1,50 @@
+---
+title: "**École d'été CIST·2023**"
+---
+
+## Méthodes et outils des sciences des territoires, une perspective Nord-Sud
+
+::: {#map}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(sf)
+library(leaflet)
+
+lat = 6.349879282633317
+lng = 2.0875418515099504
+
+
+file <- 'https://www.centrelogivac.org/wp-content/uploads/2021/09/DJI_0084-450x253.jpg'
+
+# Création d'un point (localisation centre des colloques)
+ptsfg <- st_point(c(lng, lat)) 
+ptsfc <- st_sfc(ptsfg, crs = (4326))
+ptdf <- data.frame(id= 1, name = "UMR8504")
+Here <- st_sf(ptdf,geometry = ptsfc)
+
+icons <- awesomeIcons(
+  icon = 'ios-people',
+  iconColor = 'white',
+  library = 'ion',
+  markerColor = 'blue'
+)
+
+
+# Affichage du point - carte interactive
+mamap <- leaflet(Here, width = 350, height = 170) %>%
+            setView( lat = lat+2, lng = lng, zoom = 6) %>% addProviderTiles("CartoDB.Positron") %>%
+             addAwesomeMarkers( icon = icons,popup = paste0("<img src = ", file,  " width = 160>", "<br /><p style='text-align:center;'><a href='https://www.irsp-ouidah.org/' style='font-size:12pt;'>Institut Régional</br>de Santé Publique</br>Comlan Alfred Quenum</a></p>"))
+```
+
+```{r, echo=FALSE}
+mamap
+```
+:::
+
+::: {#maptext}
+L'école d'été CIST·2023 s'est déroulée en mars 2023 à Ouidah, Bénin, etc... ... .. . .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... ... ... .. .. ... .... .... ... ... .. .. ... ....
+
+</br></br>
+
+<img src="img/logo.png" width="90%;"/>
+:::

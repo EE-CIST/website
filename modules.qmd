@@ -1,0 +1,27 @@
+---
+title: "**Modules**"
+subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
+listing:
+  id: modules
+  fields: [ date, title, author]
+  contents: modules
+  sort: "date asc"
+  filter-ui: true
+  type: grid
+  categories: true
+---
+
+
+
+
+::: callout-important
+## Condition d'utilisation
+A préciser
+:::
+
+Accédez à l'ensemble des supports de cours ou d'exercice, ainsi qu'aux données utilisées en cliquant sur le module ciblé.
+
+::: {#modules}
+:::
+
+

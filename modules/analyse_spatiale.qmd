@@ -1,0 +1,20 @@
+---
+title: "Analyse spatiale"
+date: 03/01/2023
+author: 
+- Mr xy
+- Mme xx
+
+about:
+  template: marquee
+  image: img/wip.jpg
+  links:
+    - icon: github
+      text: GitLab
+      href: https://gitlab.huma-num.fr/elementr/session_2
+categories: 
+- analyse spatiale
+- statistique
+---
+
+...

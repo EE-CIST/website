@@ -1,0 +1,24 @@
+---
+title: "Sébastien Rey-Coyrehourcq"
+author: Rey-Coyrehourcq Sébastien
+bibliography: biblio/rey.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  image : img/wip.jpg
+  image-width: 40em
+  image-shape: rounded
+Statut: Ingénieur de recherche
+Pays: France
+categories: 
+- organisation
+- enseignement
+---
+
+</br>
+
+##### Bibliographie
+
+::: {#refs}
+:::

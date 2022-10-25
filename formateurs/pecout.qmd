@@ -1,0 +1,24 @@
+---
+title: "Hugues Pecout"
+author: Pecout Hugues
+bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  image : img/wip.jpg
+  image-width: 40em
+  image-shape: rounded
+Statut: Ingénieur d'études
+Pays: France
+categories: 
+- organisation
+- enseignement
+---
+
+</br>
+
+##### Bibliographie
+
+::: {#refs}
+:::

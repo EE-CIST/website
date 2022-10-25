@@ -1,0 +1,67 @@
+project:
+  type: website
+lang: fr
+website:
+  title: "<b>CIST·2023</b>"
+  favicon: img/cist.png
+  twitter-card: true
+  site-url: https://cist2023.netlify.app/
+  description: "Site web de l'école d'été international 2023 du CIST"
+  page-navigation: true
+  categories: ["introduction"]
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    background: "#1a8cab"
+    left: 
+      - href: ecole_thematique.qmd
+        text: École d'été
+      - href: programme.qmd
+        text: Programme
+      - href: equipe.qmd
+        text: Formateur·rices
+      - href: modules.qmd
+        text: Modules
+      - href: apropos.qmd
+        text: Á propos
+    right:
+      - href: contact.qmd
+        text: Contact
+    tools:
+      - icon: github
+        aria-label: GitHub
+        text: GitHub
+        href: https://github.com/EE-CIST/website
+  sidebar:
+    contents:
+      - href: ecole_thematique.qmd
+        text: <b>École d'été</b>
+      - programme.qmd
+      - href: equipe.qmd
+        text: <b>Formateur·rices</b>      
+      - modules.qmd
+      - href: modules/stat_uni.qmd
+        text: Statistique univariée
+      - href: modules/stat_biv.qmd 
+        text: Statistique bivariée
+      - href: modules/cartographie_1.qmd
+        text: Cartographie
+      - href: modules/analyse_spatiale.qmd
+        text: Analyse spatiale
+  page-footer: ET CIST·2023 - [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - INED · IRD · LaReSPD
+  margin-header: |
+    ![](img/cist.png)
+
+
+format:
+  html:
+    theme: 
+      light: Minty
+      dark: cyborg
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

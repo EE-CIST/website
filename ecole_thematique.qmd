@@ -1,0 +1,10 @@
+---
+title: "École d'été internationale CIST·2023"
+about:
+  template: marquee
+  image : img/header.png
+  image-width: 40em
+  image-shape: rounded
+---
+
+Présentation...
