@@ -1,6 +1,11 @@
 ---
 title: "Hugues Pecout"
-author: Pecout Hugues
+author: 
+ - name: Pecout Hugues
+   affiliation:  
+   - UMR Géographie-Cités 
+   - CNRS
+affiliation: CNRS   
 bibliography: biblio/pecout.bib
 nocite: '@*'
 csl: geo.csl
@@ -8,14 +13,15 @@ about:
   template: marquee
   image-width: 10em
   image-shape: rounded
-Statut: IE géomatique
-affiliation:  UMR Géographie-Cités - CNRS
-Pays: France
+statut: IE géomatique
+pays: France
 categories: 
 - organisation
 - enseignement
 image : img/pecout.png
 ---
+
+{{< meta statut >}}
 
 </br>
 

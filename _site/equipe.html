@@ -69,7 +69,7 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-image','listing-author','listing-Statut','listing-affiliation','listing-Pays',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-author-sort'] }],
+      valueNames: ['listing-image','listing-author','listing-affiliation','listing-pays',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-author-sort'] }],
       
       searchColumns: ["listing-title","listing-author"],
     };
@@ -247,10 +247,7 @@ ul.task-list{list-style: none;}
 <a class="sort" data-sort="listing-author-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Nom</a>
 </th>
 <th>
-Statut
-</th>
-<th>
-affiliation
+Institution
 </th>
 <th>
 Pays
@@ -258,7 +255,7 @@ Pays
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666778929469" data-listing-reading-time-sort="0.01" data-listing-author-sort="Amadou Sanni Mouftaou" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666792172511" data-listing-reading-time-sort="0.025" data-listing-author-sort="Amadou Sanni Mouftaou" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -266,17 +263,14 @@ Pays
 <td class="listing-author">
 <a href="./formateurs/sanni.html" class="author">Amadou Sanni Mouftaou</a>
 </td>
-<td class="listing-Statut">
-Enseignant-Chercheur
-</td>
 <td class="listing-affiliation">
-ENSPD - Université de Parakou
+Université de Parakou
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 Bénin
 </td>
 </tr>
-<tr data-index="1" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666776537230" data-listing-reading-time-sort="0.01" data-listing-author-sort="Bonnet Emmanuel" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="1" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666792082572" data-listing-reading-time-sort="0.025" data-listing-author-sort="Bonnet Emmanuel" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -284,17 +278,14 @@ Bénin
 <td class="listing-author">
 <a href="./formateurs/bonnet.html" class="author">Bonnet Emmanuel</a>
 </td>
-<td class="listing-Statut">
-Directeur de recherche
-</td>
 <td class="listing-affiliation">
-UMR PRODIG - IRD
+IRD
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="2" data-categories="enseignement" data-listing-file-modified-sort="1666787494808" data-listing-reading-time-sort="0.01" data-listing-author-sort="Dansou Justin" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="2" data-categories="enseignement" data-listing-file-modified-sort="1666792095448" data-listing-reading-time-sort="0.025" data-listing-author-sort="Dansou Justin" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -302,17 +293,14 @@ France
 <td class="listing-author">
 <a href="./formateurs/dansou.html" class="author">Dansou Justin</a>
 </td>
-<td class="listing-Statut">
-Enseignant-Chercheur
-</td>
 <td class="listing-affiliation">
-ENSPD - Université de Parakou
+Université de Parakou
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 Bénin
 </td>
 </tr>
-<tr data-index="3" data-categories="organisation" data-listing-file-modified-sort="1666787386848" data-listing-reading-time-sort="0.01" data-listing-author-sort="Gentilhomme Marion" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="3" data-categories="organisation" data-listing-file-modified-sort="1666792120967" data-listing-reading-time-sort="0.025" data-listing-author-sort="Gentilhomme Marion" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="./formateurs/img/wip.jpg" style="height: 100px;">
@@ -320,35 +308,29 @@ Bénin
 <td class="listing-author">
 <a href="./formateurs/gentilhomme.html" class="author">Gentilhomme Marion</a>
 </td>
-<td class="listing-Statut">
-IE en communication
-</td>
 <td class="listing-affiliation">
-CIST - Université Paris 1 Panthéon-Sorbonne
+Université Paris 1 Panthéon-Sorbonne
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="4" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666776492510" data-listing-reading-time-sort="0.01" data-listing-author-sort="Grasland Claude" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="4" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666792413156" data-listing-reading-time-sort="0.025" data-listing-author-sort="Grasland Claude" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
-<img src="img/wip.jpg" style="height: 100px;">
+<img src="./formateurs/img/grasland.jpg" style="height: 100px;">
 </td>
 <td class="listing-author">
 <a href="./formateurs/grasland.html" class="author">Grasland Claude</a>
 </td>
-<td class="listing-Statut">
-Professeur
-</td>
 <td class="listing-affiliation">
-UMR Géographie-Cités- CIST - Université Paris-Cité
+Université Paris-Cité
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="5" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666776522838" data-listing-reading-time-sort="0.01" data-listing-author-sort="Guérin-Pace France" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="5" data-categories="direction,organisation,enseignement" data-listing-file-modified-sort="1666792135319" data-listing-reading-time-sort="0.025" data-listing-author-sort="Guérin-Pace France" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -356,17 +338,14 @@ France
 <td class="listing-author">
 <a href="./formateurs/guerin.html" class="author">Guérin-Pace France</a>
 </td>
-<td class="listing-Statut">
-Directrice de recherche
-</td>
 <td class="listing-affiliation">
-UR12 Mobilités, parcours, territoires - INED
+INED
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="6" data-categories="organisation" data-listing-file-modified-sort="1666787167104" data-listing-reading-time-sort="0.01" data-listing-author-sort="Larcher Hélèna" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="6" data-categories="organisation" data-listing-file-modified-sort="1666792143359" data-listing-reading-time-sort="0.025" data-listing-author-sort="Larcher Hélèna" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -374,17 +353,14 @@ France
 <td class="listing-author">
 <a href="./formateurs/larcher.html" class="author">Larcher Hélèna</a>
 </td>
-<td class="listing-Statut">
-IE - Responsable administrative et financière
-</td>
 <td class="listing-affiliation">
-CIST - Université Paris-Cité
+Université Paris-Cité
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="7" data-categories="organisation,enseignement" data-listing-file-modified-sort="1666787287686" data-listing-reading-time-sort="0.01" data-listing-author-sort="Pecout Hugues" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="7" data-categories="organisation,enseignement" data-listing-file-modified-sort="1666792242134" data-listing-reading-time-sort="0.025" data-listing-author-sort="Pecout Hugues" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="./formateurs/img/pecout.png" style="height: 100px;">
@@ -392,17 +368,14 @@ France
 <td class="listing-author">
 <a href="./formateurs/pecout.html" class="author">Pecout Hugues</a>
 </td>
-<td class="listing-Statut">
-IE géomatique
-</td>
 <td class="listing-affiliation">
-UMR Géographie-Cités - CNRS
+CNRS
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="8" data-categories="enseignement" data-listing-file-modified-sort="1666787411944" data-listing-reading-time-sort="0.01" data-listing-author-sort="Rey-Coyrehourcq Sébastien" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="8" data-categories="enseignement" data-listing-file-modified-sort="1666792159275" data-listing-reading-time-sort="0.025" data-listing-author-sort="Rey-Coyrehourcq Sébastien" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -410,17 +383,14 @@ France
 <td class="listing-author">
 <a href="./formateurs/rey-coyrehourcq.html" class="author">Rey-Coyrehourcq Sébastien</a>
 </td>
-<td class="listing-Statut">
-Ingénieur de recherche
-</td>
 <td class="listing-affiliation">
-UMR IDEES - Université Rouen-Normandie
+Université Rouen-Normandie
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 France
 </td>
 </tr>
-<tr data-index="9" data-categories="enseignement" data-listing-file-modified-sort="1666787339429" data-listing-reading-time-sort="0.01" data-listing-author-sort="Toure Labaly" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="9" data-categories="enseignement" data-listing-file-modified-sort="1666792186399" data-listing-reading-time-sort="0.025" data-listing-author-sort="Toure Labaly" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-image">
 <img src="img/wip.jpg" style="height: 100px;">
@@ -428,13 +398,10 @@ France
 <td class="listing-author">
 <a href="./formateurs/toure.html" class="author">Toure Labaly</a>
 </td>
-<td class="listing-Statut">
-Enseignant-Chercheur
-</td>
 <td class="listing-affiliation">
 Université du Sine Saloum El-Hâdj Ibrahima Niass
 </td>
-<td class="listing-Pays">
+<td class="listing-pays">
 Sénégal
 </td>
 </tr>

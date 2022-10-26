@@ -1,17 +1,23 @@
 ---
 title: "Justin Dansou"
-author: Dansou Justin 
+author: 
+  - name: Dansou Justin 
+    affiliation:  
+    - ENSPD 
+    - Université de Parakou
+affiliation: Université de Parakou
 about:
   template: marquee
   image : img/wip.jpg
   image-width: 40em
   image-shape: rounded
-Statut: Enseignant-Chercheur
-affiliation:  ENSPD - Université de Parakou
-Pays: Bénin
+statut: Enseignant-Chercheur
+pays: Bénin
 categories: 
 - enseignement
 ---
+
+{{< meta statut >}}
 
 </br>
 
@@ -19,3 +25,4 @@ categories:
 
 ::: {#refs}
 :::
+

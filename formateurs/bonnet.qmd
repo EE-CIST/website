@@ -1,19 +1,26 @@
 ---
 title: "Emmanuel Bonnet"
-author: Bonnet Emmanuel
+author: 
+  - name: Bonnet Emmanuel
+    affiliations: 
+    - UMR PRODIG 
+    - IRD
+affiliation: IRD   
 about:
   template: marquee
   image : img/wip.jpg
   image-width: 40em
   image-shape: rounded
-Statut: Directeur de recherche
-affiliation:  UMR PRODIG - IRD
-Pays: France
+statut: Directeur de recherche
+pays: France
 categories: 
 - direction
 - organisation
 - enseignement
 ---
+
+{{< meta statut >}}
+
 
 </br>
 
@@ -21,3 +28,4 @@ categories:
 
 ::: {#refs}
 :::
+

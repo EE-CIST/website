@@ -1,19 +1,25 @@
 ---
 title: "France Guérin-Pace"
-author: Guérin-Pace France 
+author: 
+  - name: Guérin-Pace France 
+    affiliation: 
+    - UR12 Mobilités, parcours, territoires 
+    - INED
+affiliation: INED    
 about:
   template: marquee
   image : img/wip.jpg
   image-width: 40em
   image-shape: rounded
-Statut: Directrice de recherche
-affiliation: UR12 Mobilités, parcours, territoires - INED
-Pays: France
+statut: Directrice de recherche
+pays: France
 categories: 
 - direction
 - organisation
 - enseignement
 ---
+
+{{< meta statut >}}
 
 </br>
 

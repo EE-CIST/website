@@ -2,7 +2,7 @@
 title: "**Équipe de formation**"
 listing:
   id: formateurs
-  fields: [image, author, Statut, affiliation, Pays]
+  fields: [image, author, affiliation, pays]
   filter-ui: true
   contents: formateurs
   sort-ui: true
@@ -17,13 +17,15 @@ listing:
   page-size: 30
   field-display-names:
     author: "Nom"
-
+    pays: "Pays"
+    affiliation: "Institution"
 about:
   template: marquee
   image : img/formateurs.jpeg
   image-width: 40em
   image-shape: rounded
 ---
+
 
 ::: {#formateurs}
 :::

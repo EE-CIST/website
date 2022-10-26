@@ -1,6 +1,11 @@
 ---
 title: "Sébastien Rey-Coyrehourcq"
-author: Rey-Coyrehourcq Sébastien
+author: 
+  - name: Rey-Coyrehourcq Sébastien
+    affiliation:  
+    - MR IDEES 
+    - Université Rouen-Normandie
+affiliation: Université Rouen-Normandie
 bibliography: biblio/rey.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,12 +14,13 @@ about:
   image : img/wip.jpg
   image-width: 40em
   image-shape: rounded
-Statut: Ingénieur de recherche
-affiliation:  UMR IDEES - Université Rouen-Normandie
-Pays: France
+statut: Ingénieur de recherche
+pays: France
 categories: 
 - enseignement
 ---
+
+{{< meta statut >}}
 
 </br>
 

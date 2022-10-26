@@ -1,17 +1,23 @@
 ---
 title: "Hélèna Larcher"
-author: Larcher Hélèna
+author: 
+  - name: Larcher Hélèna
+    affiliation: 
+    - CIST 
+    - Université Paris-Cité
+affiliation: Université Paris-Cité
 about:
   template: marquee
   image : img/wip.jpg
   image-width: 40em
   image-shape: rounded
-Statut: IE - Responsable administrative et financière
-affiliation: CIST - Université Paris-Cité
-Pays: France
+statut: IE - Responsable administrative et financière
+pays: France
 categories: 
 - organisation
 ---
+
+{{< meta statut >}}
 
 </br>
 
