@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Bonnet"
 author: 
-  - name: Bonnet Emmanuel
+  - name: BONNET Emmanuel
     affiliations: 
     - UMR PRODIG 
     - IRD

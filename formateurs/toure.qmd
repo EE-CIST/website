@@ -1,7 +1,7 @@
 ---
 title: "Labaly Toure"
 author: 
-  - name: Toure Labaly 
+  - name: TOURE Labaly 
     affiliation: 
     - Université du Sine Saloum El-Hâdj Ibrahima Niass
 affiliation: Université du Sine Saloum El-Hâdj Ibrahima Niass   

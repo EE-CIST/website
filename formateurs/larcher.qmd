@@ -1,7 +1,7 @@
 ---
 title: "Hélèna Larcher"
 author: 
-  - name: Larcher Hélèna
+  - name: LARCHER Hélèna
     affiliation: 
     - CIST 
     - Université Paris-Cité
