@@ -1,13 +1,13 @@
 ---
 title: "Cartographie"
+subtitle: "Introduction à la cartographie"
 date: 02/28/2023
 author: 
 - Mr xy
 - Mme xx
-
+image: img/carto.jpg
 about:
   template: marquee
-  image: img/wip.jpg
   links:
     - icon: github
       text: GitLab

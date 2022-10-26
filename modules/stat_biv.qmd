@@ -1,13 +1,13 @@
 ---
 title: "Statistique bivariée"
+subtitle: "Introduction à la statistique descritpive bivariée"
 date: 02/27/2023
 author: 
 - Mr xy
 - Mme xx
-
+image: img/bivariee.jpg
 about:
   template: marquee
-  image: img/wip.jpg
   links:
     - icon: github
       text: GitLab

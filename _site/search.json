@@ -193,7 +193,7 @@
     "href": "equipe.html",
     "title": "Équipe de formation",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitre\n\n\nStatut\n\n\nPays\n\n\n\n\n\n\nSébastien Rey-Coyrehourcq\n\n\nIngénieur de recherche\n\n\nFrance\n\n\n\n\nHugues Pecout\n\n\nIngénieur d’études\n\n\nFrance\n\n\n\n\n\nAucun article correspondant"
+    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nNom\n\n\nStatut\n\n\naffiliation\n\n\nPays\n\n\n\n\n\n\n\n\n\nAmadou Sanni Mouftaou\n\n\nEnseignant-Chercheur\n\n\nENSPD - Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nBonnet Emmanuel\n\n\nDirecteur de recherche\n\n\nUMR PRODIG - IRD\n\n\nFrance\n\n\n\n\n\n\n\nDansou Justin\n\n\nEnseignant-Chercheur\n\n\nENSPD - Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nGentilhomme Marion\n\n\nIE en communication\n\n\nCIST - Université Paris 1 Panthéon-Sorbonne\n\n\nFrance\n\n\n\n\n\n\n\nGrasland Claude\n\n\nProfesseur\n\n\nUMR Géographie-Cités- CIST - Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nGuérin-Pace France\n\n\nDirectrice de recherche\n\n\nUR12 Mobilités, parcours, territoires - INED\n\n\nFrance\n\n\n\n\n\n\n\nLarcher Hélèna\n\n\nIE - Responsable administrative et financière\n\n\nCIST - Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nPecout Hugues\n\n\nIE géomatique\n\n\nUMR Géographie-Cités - CNRS\n\n\nFrance\n\n\n\n\n\n\n\nRey-Coyrehourcq Sébastien\n\n\nIngénieur de recherche\n\n\nUMR IDEES - Université Rouen-Normandie\n\n\nFrance\n\n\n\n\n\n\n\nToure Labaly\n\n\nEnseignant-Chercheur\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\nSénégal\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "formateurs/seance2.html",
@@ -263,7 +263,7 @@
     "href": "modules.html",
     "title": "Modules",
     "section": "",
-    "text": "Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nStatistique univariée\n\n\n\nMr xy, Mme xx\n\n\n27 févr. 2023\n\n\n\n\n\n\n\n\n\n\n\nStatistique bivariée\n\n\n\nMr xy, Mme xx\n\n\n27 févr. 2023\n\n\n\n\n\n\n\n\n\n\n\nCartographie\n\n\n\nMr xy, Mme xx\n\n\n28 févr. 2023\n\n\n\n\n\n\n\n\n\n\n\nAnalyse spatiale\n\n\n\nMr xy, Mme xx\n\n\n1 mars 2023\n\n\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistique univariée\n\n\nIntroduction à la statistique descritpive univariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistique bivariée\n\n\nIntroduction à la statistique descritpive bivariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCartographie\n\n\nIntroduction à la cartographie\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse spatiale\n\n\nIntroduction à l’autocorrélation spatiale\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "modules/analyse_spatiale.html",
@@ -292,5 +292,61 @@
     "title": "Statistique univariée",
     "section": "",
     "text": "…"
+  },
+  {
+    "objectID": "formateurs/toure.html",
+    "href": "formateurs/toure.html",
+    "title": "Labaly Toure",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/dansou.html",
+    "href": "formateurs/dansou.html",
+    "title": "Justin Dansou",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/sanni.html",
+    "href": "formateurs/sanni.html",
+    "title": "Mouftaou Amadou Sanni",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/guerin.html",
+    "href": "formateurs/guerin.html",
+    "title": "France Guérin-Pace",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/bonnet.html",
+    "href": "formateurs/bonnet.html",
+    "title": "Emmanuel Bonnet",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/grasland.html",
+    "href": "formateurs/grasland.html",
+    "title": "Claude Grasland",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/gentilhomme.html",
+    "href": "formateurs/gentilhomme.html",
+    "title": "Marion Gentilhomme",
+    "section": "",
+    "text": "Bibliographie"
+  },
+  {
+    "objectID": "formateurs/larcher.html",
+    "href": "formateurs/larcher.html",
+    "title": "Hélèna Larcher",
+    "section": "",
+    "text": "Bibliographie"
   }
 ]

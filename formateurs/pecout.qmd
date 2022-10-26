@@ -6,14 +6,15 @@ nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  image : img/wip.jpg
-  image-width: 40em
+  image-width: 10em
   image-shape: rounded
-Statut: Ingénieur d'études
+Statut: IE géomatique
+affiliation:  UMR Géographie-Cités - CNRS
 Pays: France
 categories: 
 - organisation
 - enseignement
+image : img/pecout.png
 ---
 
 </br>

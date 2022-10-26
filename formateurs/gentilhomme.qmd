@@ -1,0 +1,21 @@
+---
+title: "Marion Gentilhomme"
+author: Gentilhomme Marion
+about:
+  template: marquee
+  image-width: 10em
+  image-shape: rounded
+Statut: IE en communication
+affiliation:  CIST - Université Paris 1 Panthéon-Sorbonne
+Pays: France
+categories: 
+- organisation
+image : img/wip.jpg
+---
+
+</br>
+
+##### Bibliographie
+
+::: {#refs}
+:::

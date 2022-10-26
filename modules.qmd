@@ -3,19 +3,19 @@ title: "**Modules**"
 subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
 listing:
   id: modules
-  fields: [ date, title, author]
+  fields: [image, title, subtitle, author]
   contents: modules
+  sort-ui:  [title, date, author]
   sort: "date asc"
   filter-ui: true
   type: grid
   categories: true
+  page-size: 30
 ---
-
-
-
 
 ::: callout-important
 ## Condition d'utilisation
+
 A préciser
 :::
 
@@ -23,5 +23,3 @@ Accédez à l'ensemble des supports de cours ou d'exercice, ainsi qu'aux donnée
 
 ::: {#modules}
 :::
-
-

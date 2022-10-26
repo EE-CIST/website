@@ -2,12 +2,22 @@
 title: "**Équipe de formation**"
 listing:
   id: formateurs
-  fields: [title, Statut, Pays]
+  fields: [image, author, Statut, affiliation, Pays]
   filter-ui: true
   contents: formateurs
-  sort: "date desc"
+  sort-ui: true
+  sort: 
+  - "author"
   type: table
   categories: true
+  image-height: 100px
+  table-hover: true
+  field-links: ["author"]
+  image-placeholder: img/wip.jpg
+  page-size: 30
+  field-display-names:
+    author: "Nom"
+
 about:
   template: marquee
   image : img/formateurs.jpeg
@@ -15,12 +25,5 @@ about:
   image-shape: rounded
 ---
 
-
 ::: {#formateurs}
-
 :::
-
-
-
-
-

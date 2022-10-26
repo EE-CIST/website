@@ -1,13 +1,13 @@
 ---
 title: "Analyse spatiale"
+subtitle: "Introduction à l'autocorrélation spatiale"
 date: 03/01/2023
 author: 
 - Mr xy
 - Mme xx
-
+image: img/spatial.png
 about:
   template: marquee
-  image: img/wip.jpg
   links:
     - icon: github
       text: GitLab

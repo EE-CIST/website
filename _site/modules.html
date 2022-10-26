@@ -70,9 +70,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -133,7 +133,7 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="./contact.html">Contact</a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img">
 </i> 
  </a>
   </li>  
@@ -245,82 +245,107 @@ Condition d’utilisation
 <p>Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.</p>
 <div id="listing-modules" class="quarto-listing quarto-listing-container-grid">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-modules-sort" class="form-select" aria-label="Trier par" onchange="window['quarto-listings']['listing-modules'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Trier par</option>
+       <option value="index" data-direction="asc">Ordre par défaut</option>
+         <option value="listing-title" data-direction="asc">
+          Titre
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Auteur·rice
+        </option>
+     </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="statistique" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1666772718791" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="0" data-categories="statistique" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1666786351354" data-listing-reading-time-sort="0.005">
 <a href="./modules/stat_uni.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./modules/img/univarie.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Statistique univariée
 </h5>
-<div class="card-attribution card-text-small justify">
+<div class="card-subtitle listing-subtitle">
+Introduction à la statistique descritpive univariée
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 Mr xy, Mme xx
-</div>
-<div class="listing-date">
-27 févr. 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="statistique,modélisation" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1666772718791" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="1" data-categories="statistique,modélisation" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1666786332237" data-listing-reading-time-sort="0.005">
 <a href="./modules/stat_biv.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./modules/img/bivariee.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Statistique bivariée
 </h5>
-<div class="card-attribution card-text-small justify">
+<div class="card-subtitle listing-subtitle">
+Introduction à la statistique descritpive bivariée
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 Mr xy, Mme xx
-</div>
-<div class="listing-date">
-27 févr. 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="cartographie" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1666772718791" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="2" data-categories="cartographie" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1666786339313" data-listing-reading-time-sort="0.005">
 <a href="./modules/cartographie_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./modules/img/carto.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Cartographie
 </h5>
-<div class="card-attribution card-text-small justify">
+<div class="card-subtitle listing-subtitle">
+Introduction à la cartographie
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 Mr xy, Mme xx
-</div>
-<div class="listing-date">
-28 févr. 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="analyse spatiale,statistique" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1666772718791" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="3" data-categories="analyse spatiale,statistique" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1666786398668" data-listing-reading-time-sort="0.005">
 <a href="./modules/analyse_spatiale.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./modules/img/spatial.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Analyse spatiale
 </h5>
-<div class="card-attribution card-text-small justify">
+<div class="card-subtitle listing-subtitle">
+Introduction à l’autocorrélation spatiale
+</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 Mr xy, Mme xx
-</div>
-<div class="listing-date">
-1 mars 2023
 </div>
 </div>
 </div>

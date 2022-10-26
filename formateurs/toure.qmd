@@ -1,0 +1,21 @@
+---
+title: "Labaly Toure"
+author: Toure Labaly 
+about:
+  template: marquee
+  image : img/wip.jpg
+  image-width: 40em
+  image-shape: rounded
+Statut: Enseignant-Chercheur
+affiliation: Université du Sine Saloum El-Hâdj Ibrahima Niass
+Pays: Sénégal
+categories: 
+- enseignement
+---
+
+</br>
+
+##### Bibliographie
+
+::: {#refs}
+:::

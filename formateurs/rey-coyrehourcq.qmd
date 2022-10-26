@@ -10,9 +10,9 @@ about:
   image-width: 40em
   image-shape: rounded
 Statut: Ingénieur de recherche
+affiliation:  UMR IDEES - Université Rouen-Normandie
 Pays: France
 categories: 
-- organisation
 - enseignement
 ---
 

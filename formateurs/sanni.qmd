@@ -1,0 +1,23 @@
+---
+title: "Mouftaou Amadou Sanni"
+author: Amadou Sanni Mouftaou
+about:
+  template: marquee
+  image : img/wip.jpg
+  image-width: 40em
+  image-shape: rounded
+Statut: Enseignant-Chercheur
+affiliation: ENSPD - Université de Parakou
+Pays: Bénin
+categories: 
+- direction
+- organisation
+- enseignement
+---
+
+</br>
+
+##### Bibliographie
+
+::: {#refs}
+:::
