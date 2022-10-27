@@ -19,12 +19,5 @@ categories:
 - enseignement
 image : img/grasland.jpg
 ---
+ 	
 
-{{< meta statut >}}
-
-</br>
-
-##### Bibliographie
-
-::: {#refs}
-:::

@@ -1,5 +1,8 @@
 ---
 title: "Marion Gentilhomme"
+format:
+  html:
+    theme: cosmo
 author: 
   - name: "GENTILHOMME Marion"
     affiliation:  
