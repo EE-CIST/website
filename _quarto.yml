@@ -8,7 +8,6 @@ website:
   site-url: https://cist2023.netlify.app/
   description: "Site web de l'école d'été international 2023 du CIST"
   page-navigation: true
-  categories: ["introduction"]
   search: 
     location: navbar
     type: overlay
