@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/seance.html",
-    "items": [
-      "/posts/seance3.html",
-      "/posts/seance2.html",
-      "/posts/seance1.html"
-    ]
-  },
-  {
     "listing": "/equipe.html",
     "items": [
       "/formateurs/sanni.html",
@@ -25,8 +17,8 @@
   {
     "listing": "/modules.html",
     "items": [
-      "/modules/stat_uni.html",
       "/modules/stat_biv.html",
+      "/modules/stat_uni.html",
       "/modules/cartographie_1.html",
       "/modules/analyse_spatiale.html"
     ]
