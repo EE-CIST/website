@@ -23,7 +23,7 @@ website:
       - href: modules.qmd
         text: Modules
       - href: apropos.qmd
-        text: Á propos
+        text: À propos
     right:
       - href: contact.qmd
         text: Contact
