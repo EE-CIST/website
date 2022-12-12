@@ -16,7 +16,6 @@ about:
 statut: IE géomatique
 pays: France
 categories: 
-- organisation
 - enseignement
 image : img/pecout.png
 ---
