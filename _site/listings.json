@@ -17,8 +17,8 @@
   {
     "listing": "/modules.html",
     "items": [
-      "/modules/stat_uni.html",
       "/modules/stat_biv.html",
+      "/modules/stat_uni.html",
       "/modules/cartographie_1.html",
       "/modules/analyse_spatiale.html"
     ]

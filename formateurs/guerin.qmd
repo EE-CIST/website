@@ -17,6 +17,7 @@ categories:
 - direction
 - organisation
 - enseignement
+image : img/guerin.jpg
 ---
 
 {{< meta statut >}}
