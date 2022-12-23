@@ -8,22 +8,52 @@ author:
 affiliation: Université de Parakou
 about:
   template: marquee
-  image : img/wip.jpg
-  image-width: 40em
+  image-width: 15em
   image-shape: rounded
 statut: Enseignant-Chercheur
 pays: Bénin
 categories: 
-- direction
-- organisation
-- enseignement
+- Direction
+- Organisation
+- Enseignant·es
+image: img/amadou_sanni-m-2.png
 ---
 
-{{< meta statut >}}
+Statut : {{< meta statut >}}  
+Discipline : {{< meta discipline >}}  
+Laboratoire : {{< meta laboratoire >}}   
+Etablissement de rattachement : {{< meta affiliation >}}   
+Pays : {{< meta pays >}}  
 
-</br>
+:::{#id-name}
+:::
 
-##### Bibliographie
+#####  Thème de recherche
+
+Blabla bla
+
+:::{#id-name}
+
+:::
+
+
+
+#####  Enseignements dispensés
+- Enseignement 1
+- Enseignement 2
+- Enseignement 3
+- Enseignement 4
+- Enseignement 5
+
+#####  Données mobilisées
+- data 1
+- data 2
+- data 3
+- data 4
+- data 5
+  
+#####  Publications
 
 ::: {#refs}
+
 :::

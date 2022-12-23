@@ -8,24 +8,52 @@ author:
 affiliation: IRD   
 about:
   template: marquee
-  image : img/wip.jpg
-  image-width: 40em
+  image-width: 15em
   image-shape: rounded
 statut: Directeur de recherche
 pays: France
 categories: 
-- direction
-- organisation
-- enseignement
+- Direction
+- Organisation
+- Enseignant·es
+image : img/bonnet-e.png
 ---
 
-{{< meta statut >}}
+Statut : {{< meta statut >}}  
+Discipline : {{< meta discipline >}}  
+Laboratoire : {{< meta laboratoire >}}   
+Etablissement de rattachement : {{< meta affiliation >}}   
+Pays : {{< meta pays >}}  
 
-
-</br>
-
-##### Bibliographie
-
-::: {#refs}
+:::{#id-name}
 :::
 
+#####  Thème de recherche
+
+Blabla bla
+
+:::{#id-name}
+
+:::
+
+
+
+#####  Enseignements dispensés
+- Enseignement 1
+- Enseignement 2
+- Enseignement 3
+- Enseignement 4
+- Enseignement 5
+
+#####  Données mobilisées
+- data 1
+- data 2
+- data 3
+- data 4
+- data 5
+  
+#####  Publications
+
+::: {#refs}
+
+:::

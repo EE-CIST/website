@@ -4,12 +4,12 @@
     "items": [
       "/formateurs/sanni.html",
       "/formateurs/bonnet.html",
-      "/formateurs/dansou.html",
       "/formateurs/gentilhomme.html",
       "/formateurs/grasland.html",
       "/formateurs/guerin.html",
-      "/formateurs/larcher.html",
       "/formateurs/pecout.html",
+      "/formateurs/dansou.html",
+      "/formateurs/larcher.html",
       "/formateurs/rey-coyrehourcq.html",
       "/formateurs/toure.html"
     ]
@@ -17,8 +17,8 @@
   {
     "listing": "/modules.html",
     "items": [
-      "/modules/stat_biv.html",
       "/modules/stat_uni.html",
+      "/modules/stat_biv.html",
       "/modules/cartographie_1.html",
       "/modules/analyse_spatiale.html"
     ]

@@ -26,6 +26,5 @@ about:
   image-shape: rounded
 ---
 
-
 ::: {#formateurs}
 :::

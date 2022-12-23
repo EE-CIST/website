@@ -3,19 +3,18 @@ title: "Claude Grasland"
 author: 
   - name: GRASLAND Claude
     affiliation: 
-    - UMR Géographie-Cités
-    - CIST
+    - UMR Géographie-Cités / CIST
     - Université Paris-Cité
 affiliation: Université Paris-Cité
 about:
   template: marquee
-  image-width: 40em
+  image-width: 15em
   image-shape: rounded
 statut: Professeur
 pays: France
 categories: 
-- direction
-- organisation
-- enseignement
-image : img/grasland.jpg
+- Direction
+- Organisation
+- Enseignant·es
+image: img/grasland-c.png
 ---

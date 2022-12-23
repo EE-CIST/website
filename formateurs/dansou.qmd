@@ -1,28 +1,70 @@
 ---
-title: "Justin Dansou"
-author: 
-  - name: DANSOU Justin 
-    affiliation:  
-    - ENSPD 
-    - Université de Parakou
-affiliation: Université de Parakou
+author: "Justin Dansou"
+image : img/dansou-j.png
+# bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
+categories: 
+- Enseignant·es
 about:
   template: marquee
-  image : img/wip.jpg
-  image-width: 40em
+  image:  img/dansou-j.png
+  image-width: 15em
   image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: Université de Parakou
+laboratoire: ENSPD 
 statut: Enseignant-Chercheur
+discipline: Statistique
 pays: Bénin
-categories: 
-- enseignement
 ---
 
-{{< meta statut >}}
+::: {#id-name}
+{{< meta author >}}
+:::
 
-</br>
+Statut : {{< meta statut >}}\
+Discipline : {{< meta discipline >}}\
+Laboratoire : {{< meta laboratoire >}}\
+Etablissement de rattachement : {{< meta affiliation >}}\
+Pays : {{< meta pays >}}
 
-##### Bibliographie
+<div>
+
+</div>
+
+##### Thème de recherche
+
+Blabla bla
+
+<div>
+
+</div>
+
+##### Enseignements dispensés
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+##### Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+##### Publications
 
 ::: {#refs}
 :::
-

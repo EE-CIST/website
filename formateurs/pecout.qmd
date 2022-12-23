@@ -1,30 +1,61 @@
 ---
-title: "Hugues Pecout"
-author: 
- - name: PECOUT Hugues
-   affiliation:  
-   - UMR Géographie-Cités 
-   - CNRS
-affiliation: CNRS   
+author: "Hugues Pecout"
+image : img/pecout.png
 bibliography: biblio/pecout.bib
 nocite: '@*'
 csl: geo.csl
+categories: 
+- Enseignant·es
 about:
   template: marquee
-  image-width: 10em
+  image: img/pecout.png
+  image-width: 15em
   image-shape: rounded
-statut: IE géomatique
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: CNRS
+laboratoire: UMR Géographie-Cités 
+statut: Ingénieur d'études 
+discipline: Géomatique
 pays: France
-categories: 
-- enseignement
-image : img/pecout.png
 ---
 
-{{< meta statut >}}
+::: {#id-name}
+{{< meta author >}}
+:::
 
-</br>
+Statut : {{< meta statut >}} Discipline : {{< meta discipline >}}\
+Laboratoire : {{< meta laboratoire >}}\
+Etablissement de rattachement : {{< meta affiliation >}}\
+Pays : {{< meta pays >}}
 
-##### Bibliographie
+##### Thème de recherche
+
+Blabla bla
+
+##### Enseignements dispensés
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+##### Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+##### Publications
 
 ::: {#refs}
 :::

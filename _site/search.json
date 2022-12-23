@@ -1,22 +1,22 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "École d’été CIST·2023",
+    "objectID": "equipe.html",
+    "href": "equipe.html",
+    "title": "Équipe de formation",
     "section": "",
-    "text": "L’école d’été CIST·2023 s’est déroulée en mars 2023 à Ouidah, Bénin, etc… … .. . …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .."
+    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nNom\n\n\nInstitution\n\n\nPays\n\n\n\n\n\n\n\n\n\nAMADOU SANNI Mouftaou\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nBONNET Emmanuel\n\n\nIRD\n\n\nFrance\n\n\n\n\n\n\n\nGENTILHOMME Marion\n\n\nUniversité Paris 1 Panthéon-Sorbonne\n\n\nFrance\n\n\n\n\n\n\n\nGRASLAND Claude\n\n\nUniversité Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nGUÉRIN-PACE France\n\n\nINED\n\n\nFrance\n\n\n\n\n\n\n\nHugues Pecout\n\n\nCNRS\n\n\nFrance\n\n\n\n\n\n\n\nJustin Dansou\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nLARCHER Hélèna\n\n\nUniversité Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nREY-COYREHOURCQ Sébastien\n\n\nUniversité Rouen-Normandie\n\n\nFrance\n\n\n\n\n\n\n\nTOURE Labaly\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\nSénégal\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "modules/stat_uni.html",
+    "href": "modules/stat_uni.html",
+    "title": "Statistique univariée",
+    "section": "",
+    "text": "…"
   },
   {
     "objectID": "modules/stat_biv.html",
     "href": "modules/stat_biv.html",
     "title": "Statistique bivariée",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "modules/analyse_spatiale.html",
-    "href": "modules/analyse_spatiale.html",
-    "title": "Analyse spatiale",
     "section": "",
     "text": "…"
   },
@@ -28,25 +28,25 @@
     "text": "…"
   },
   {
-    "objectID": "modules/stat_uni.html",
-    "href": "modules/stat_uni.html",
-    "title": "Statistique univariée",
+    "objectID": "modules/analyse_spatiale.html",
+    "href": "modules/analyse_spatiale.html",
+    "title": "Analyse spatiale",
     "section": "",
     "text": "…"
-  },
-  {
-    "objectID": "ecole_thematique.html",
-    "href": "ecole_thematique.html",
-    "title": "École d’été internationale du CIST",
-    "section": "",
-    "text": "Première action de formation d’envergure du CIST coordonnée par Mouftaou Amadou Sanni (LARESPD / Université de Parakou, Bénin), Emmanuel Bonnet (IRD), Claude Grasland (CIST) et France Guérin-Pace (Ined)\n\nCette école d’été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d’une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès d’un nombre équivalent de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l’école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l’emploi d’outils informatiques d’accès libre.\n\n\n\n\nLa première étape de ce projet se tiendra sur le campus Condorcet avec l’accueil durant une semaine d’une quinzaine de formateur·rices de pays d’Afrique francophone subsaharienne (Burkina Faso, Bénin, Cameroun, Côte d’Ivoire, Mali, Niger, Sénégal, Togo). Avec une quinzaine d’homologues du Nord, ils échangeront afin de mettre en place très concrètement un corpus d’enseignements, d’outils et de données qui pourront être mobilisés en fonction des besoins scientifiques et pédagogiques des participant.es autour de thématiques ciblées.\nInitialement prévue en janvier 2022, cette première phase a été reportée en juin 2022 en raison du contexte sanitaire.\n\n\n\n\nLa deuxième étape se déroulera début 2023 au siège de l’Institut régional de santé Comal Alfred Quesnum (IRSP-CAQ) à Ouidah (Bénin). L’école d’été réunira à nouveau dureant une semaine l’ensemble des formateur·rices présent·es au cours de la première semaine, ainsi qu’un ensemble d’apprenant.es (doctorant.es, ingénieur.es, etc.). Les modalités de sélection des apprenant.es seront décidées lors de la première étape en privilégiant autant que possible la diversité géographique et disciplinaire.\nCette seconde étape permettra de tester, améliorer et valider les modules pédagogiques mis au point au cours de la première phase qui seront, ensuite, largement diffusés."
   },
   {
     "objectID": "programme.html",
     "href": "programme.html",
     "title": "Programme",
     "section": "",
-    "text": "Du 6 au 12 mars\n\nlundimardimercredijeudivendredisamedidimanche\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Cartographie I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Cartographie II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Analyse spatiale I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Analyse spatiale II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h\n14h-17h\n\n\n\n\n9h-12h\n14h-17h"
+    "text": "Du 27 février au 5 mars\n\nlundimardimercredijeudivendredisamedidimanche\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Cartographie I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Cartographie II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Analyse spatiale I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Analyse spatiale II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h\n14h-17h\n\n\n\n\n9h-12h\n14h-17h\n\n\n\n\n\n\nDu 6 au 12 mars\n\nlundimardimercredijeudivendredisamedidimanche\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Cartographie I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Cartographie II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Analyse spatiale I\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Analyse spatiale II\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h - Statistiques descriptives univariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n14h-17h - Statistiques descriptives bivariée\n\nDescription :\nLieu :\nPrérequis :\nMatériaux : page du module\n\n\n\n\n\n9h-12h\n14h-17h\n\n\n\n\n9h-12h\n14h-17h"
+  },
+  {
+    "objectID": "modules.html",
+    "href": "modules.html",
+    "title": "Modules",
+    "section": "",
+    "text": "Condition d’utilisation\n\n\n\nA préciser\n\n\nAccédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistique univariée\n\n\nIntroduction à la statistique descritpive univariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistique bivariée\n\n\nIntroduction à la statistique descritpive bivariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCartographie\n\n\nIntroduction à la cartographie\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse spatiale\n\n\nIntroduction à l’autocorrélation spatiale\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "apropos.html",
@@ -56,80 +56,80 @@
     "text": "Précision, crédits, conditions d’utilisation, ect…"
   },
   {
+    "objectID": "ecole_thematique.html",
+    "href": "ecole_thematique.html",
+    "title": "École d’été internationale du CIST",
+    "section": "",
+    "text": "Première action de formation d’envergure du CIST coordonnée par Mouftaou Amadou Sanni (LARESPD / Université de Parakou, Bénin), Emmanuel Bonnet (IRD), Claude Grasland (CIST) et France Guérin-Pace (Ined)\n\nCette école d’été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d’une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès d’un nombre équivalent de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l’école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l’emploi d’outils informatiques d’accès libre.\n\n\n\n\nLa première étape de ce projet se tiendra sur le campus Condorcet avec l’accueil durant une semaine d’une quinzaine de formateur·rices de pays d’Afrique francophone subsaharienne (Burkina Faso, Bénin, Cameroun, Côte d’Ivoire, Mali, Niger, Sénégal, Togo). Avec une quinzaine d’homologues du Nord, ils échangeront afin de mettre en place très concrètement un corpus d’enseignements, d’outils et de données qui pourront être mobilisés en fonction des besoins scientifiques et pédagogiques des participant.es autour de thématiques ciblées.\nInitialement prévue en janvier 2022, cette première phase a été reportée en juin 2022 en raison du contexte sanitaire.\n\n\n\n\nLa deuxième étape se déroulera début 2023 au siège de l’Institut régional de santé Comal Alfred Quesnum (IRSP-CAQ) à Ouidah (Bénin). L’école d’été réunira à nouveau dureant une semaine l’ensemble des formateur·rices présent·es au cours de la première semaine, ainsi qu’un ensemble d’apprenant.es (doctorant.es, ingénieur.es, etc.). Les modalités de sélection des apprenant.es seront décidées lors de la première étape en privilégiant autant que possible la diversité géographique et disciplinaire.\nCette seconde étape permettra de tester, améliorer et valider les modules pédagogiques mis au point au cours de la première phase qui seront, ensuite, largement diffusés."
+  },
+  {
     "objectID": "formateurs/rey-coyrehourcq.html",
     "href": "formateurs/rey-coyrehourcq.html",
     "title": "Sébastien Rey-Coyrehourcq",
     "section": "",
-    "text": "Bibliographie"
-  },
-  {
-    "objectID": "formateurs/pecout.html",
-    "href": "formateurs/pecout.html",
-    "title": "Hugues Pecout",
-    "section": "",
-    "text": "Bibliographie\n\nGiraud T, Pecout H. 2022b. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nGiraud T, Pecout H. 2022a. Cartograohie avec R Disponible sur: https://rcarto.github.io/cartographie_avec_r/"
-  },
-  {
-    "objectID": "formateurs/gentilhomme.html",
-    "href": "formateurs/gentilhomme.html",
-    "title": "Marion Gentilhomme",
-    "section": "",
-    "text": "Bibliographie"
-  },
-  {
-    "objectID": "formateurs/bonnet.html",
-    "href": "formateurs/bonnet.html",
-    "title": "Emmanuel Bonnet",
-    "section": "",
-    "text": "Bibliographie"
-  },
-  {
-    "objectID": "formateurs/larcher.html",
-    "href": "formateurs/larcher.html",
-    "title": "Hélèna Larcher",
-    "section": "",
-    "text": "Bibliographie"
-  },
-  {
-    "objectID": "formateurs/sanni.html",
-    "href": "formateurs/sanni.html",
-    "title": "Mouftaou Amadou Sanni",
-    "section": "",
-    "text": "Bibliographie"
+    "text": "Statut : Ingénieur de recherche\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : Université Rouen-Normandie\nPays : France\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
   },
   {
     "objectID": "formateurs/guerin.html",
     "href": "formateurs/guerin.html",
     "title": "France Guérin-Pace",
     "section": "",
-    "text": "Bibliographie"
+    "text": "Statut : Directrice de recherche\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : INED\nPays : France\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
   },
   {
-    "objectID": "formateurs/dansou.html",
-    "href": "formateurs/dansou.html",
-    "title": "Justin Dansou",
+    "objectID": "formateurs/larcher.html",
+    "href": "formateurs/larcher.html",
+    "title": "Hélèna Larcher",
     "section": "",
-    "text": "Bibliographie"
+    "text": "Statut : IE - Responsable administrative et financière\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : Université Paris-Cité\nPays : France\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
+  },
+  {
+    "objectID": "formateurs/pecout.html",
+    "href": "formateurs/pecout.html",
+    "title": "<b>EE·2023</b>",
+    "section": "",
+    "text": "Hugues Pecout\n\nStatut : Ingénieur d’études Discipline : Géomatique\nLaboratoire : UMR Géographie-Cités\nEtablissement de rattachement : CNRS\nPays : France\n\nThème de recherche\nBlabla bla\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications\n\n\nGiraud T, Pecout H. 2022b. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nGiraud T, Pecout H. 2022a. Cartograohie avec R Disponible sur: https://rcarto.github.io/cartographie_avec_r/"
   },
   {
     "objectID": "formateurs/toure.html",
     "href": "formateurs/toure.html",
     "title": "Labaly Toure",
     "section": "",
-    "text": "Bibliographie"
+    "text": "Statut : Enseignant-Chercheur\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : Université du Sine Saloum El-Hâdj Ibrahima Niass\nPays : Sénégal\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
   },
   {
-    "objectID": "equipe.html",
-    "href": "equipe.html",
-    "title": "Équipe de formation",
+    "objectID": "formateurs/dansou.html",
+    "href": "formateurs/dansou.html",
+    "title": "<b>EE·2023</b>",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nNom\n\n\nInstitution\n\n\nPays\n\n\n\n\n\n\n\n\n\nAMADOU SANNI Mouftaou\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nBONNET Emmanuel\n\n\nIRD\n\n\nFrance\n\n\n\n\n\n\n\nDANSOU Justin\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nGENTILHOMME Marion\n\n\nUniversité Paris 1 Panthéon-Sorbonne\n\n\nFrance\n\n\n\n\n\n\n\nGRASLAND Claude\n\n\nUniversité Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nGUÉRIN-PACE France\n\n\nINED\n\n\nFrance\n\n\n\n\n\n\n\nLARCHER Hélèna\n\n\nUniversité Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nPECOUT Hugues\n\n\nCNRS\n\n\nFrance\n\n\n\n\n\n\n\nREY-COYREHOURCQ Sébastien\n\n\nUniversité Rouen-Normandie\n\n\nFrance\n\n\n\n\n\n\n\nTOURE Labaly\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\nSénégal\n\n\n\n\n\nAucun article correspondant"
+    "text": "Justin Dansou\n\nStatut : Enseignant-Chercheur\nDiscipline : Statistique\nLaboratoire : ENSPD\nEtablissement de rattachement : Université de Parakou\nPays : Bénin\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
   },
   {
-    "objectID": "modules.html",
-    "href": "modules.html",
-    "title": "Modules",
+    "objectID": "formateurs/bonnet.html",
+    "href": "formateurs/bonnet.html",
+    "title": "Emmanuel Bonnet",
     "section": "",
-    "text": "Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistique bivariée\n\n\nIntroduction à la statistique descritpive bivariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistique univariée\n\n\nIntroduction à la statistique descritpive univariée\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCartographie\n\n\nIntroduction à la cartographie\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse spatiale\n\n\nIntroduction à l’autocorrélation spatiale\n\n\n\nMr xy, Mme xx\n\n\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Statut : Directeur de recherche\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : IRD\nPays : France\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
+  },
+  {
+    "objectID": "formateurs/gentilhomme.html",
+    "href": "formateurs/gentilhomme.html",
+    "title": "Marion Gentilhomme",
+    "section": "",
+    "text": "Statut : IE en communication\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : Université Paris 1 Panthéon-Sorbonne\nPays : France\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
+  },
+  {
+    "objectID": "formateurs/sanni.html",
+    "href": "formateurs/sanni.html",
+    "title": "Mouftaou Amadou Sanni",
+    "section": "",
+    "text": "Statut : Enseignant-Chercheur\nDiscipline : ?meta:discipline\nLaboratoire : ?meta:laboratoire\nEtablissement de rattachement : Université de Parakou\nPays : Bénin\n\n\n\nThème de recherche\nBlabla bla\n\n\n\n\nEnseignements dispensés\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5\n\n\n\nDonnées mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5\n\n\n\nPublications"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "École d’été CIST·2023",
+    "section": "",
+    "text": "L’école d’été CIST·2023 s’est déroulée en mars 2023 à Ouidah, Bénin, etc… … .. . …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .. .. … …. …. … … .."
   }
 ]
