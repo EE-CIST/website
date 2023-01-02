@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./modules/stat_uni.html" rel="next">
+<link href="./modules/A_data_type.html" rel="next">
 <link href="./equipe.html" rel="prev">
 <link href="./img/cist.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
@@ -75,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-author','listing-image','listing-title','listing-subtitle','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./equipe.html">
- <span class="menu-text">Formateur·rices</span></a>
+ <span class="menu-text">Équipe</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./modules.html">
@@ -146,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -185,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./equipe.html" class="sidebar-item-text sidebar-link"><b>Formateur·rices</b></a>
+  <a href="./equipe.html" class="sidebar-item-text sidebar-link"><b>Équipe</b></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -195,22 +195,62 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/stat_uni.html" class="sidebar-item-text sidebar-link">Statistique univariée</a>
+  <a href="./modules/A_data_type.html" class="sidebar-item-text sidebar-link">L’info. géographique</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/stat_biv.html" class="sidebar-item-text sidebar-link">Statistique bivariée</a>
+  <a href="./modules/B_data_type.html" class="sidebar-item-text sidebar-link">Données d’enquête</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/cartographie_1.html" class="sidebar-item-text sidebar-link">Cartographie</a>
+  <a href="./modules/C_data_type.html" class="sidebar-item-text sidebar-link">Données recensement</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/analyse_spatiale.html" class="sidebar-item-text sidebar-link">Analyse spatiale</a>
+  <a href="./modules/F_stat_uni.html" class="sidebar-item-text sidebar-link">Statistique univariée</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/H_stat_biv.html" class="sidebar-item-text sidebar-link">Statistique bivariée</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/K_stat_multi.html" class="sidebar-item-text sidebar-link">Statistique multivariée</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/G_cartographie.html" class="sidebar-item-text sidebar-link">Cartographie</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/I_semi_point.html" class="sidebar-item-text sidebar-link">Semis de points</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/J_distance_acces.html" class="sidebar-item-text sidebar-link">Accessibilité</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/L_Modelisation.html" class="sidebar-item-text sidebar-link">Modélisation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/D_QGIS.html" class="sidebar-item-text sidebar-link">Initiation à QGIS</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/E_R.html" class="sidebar-item-text sidebar-link">Inititation à R</a>
   </div>
 </li>
     </ul>
@@ -221,7 +261,7 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="img/cist.png" class="img-fluid"></p>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(4)</span></div><div class="category" data-category="analyse spatiale">analyse spatiale <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cartographie">cartographie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modélisation">modélisation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="statistique">statistique <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Analyse spatiale">Analyse spatiale <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Cartographie">Cartographie <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Données">Données <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Géomatique">Géomatique <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Statistique">Statistique <span class="quarto-category-count">(5)</span></div><div class="category" data-category="outil">outil <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
@@ -257,18 +297,15 @@ Condition d’utilisation
 </div>
 </div>
 <p>Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.</p>
-<div id="listing-modules" class="quarto-listing quarto-listing-container-grid">
+<div id="listing-modules" class="quarto-listing quarto-listing-container-default">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
      <select id="listing-modules-sort" class="form-select" aria-label="Trier par" onchange="window['quarto-listings']['listing-modules'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Trier par</option>
        <option value="index" data-direction="asc">Ordre par défaut</option>
-         <option value="listing-title" data-direction="asc">
-          Titre
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Auteur·rice
+         <option value="listing-categories" data-direction="asc">
+          Thématique
         </option>
      </select>
   </div>
@@ -277,94 +314,372 @@ Condition d’utilisation
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="statistique" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1671814072690" data-listing-reading-time-sort="0.005">
-<a href="./modules/stat_uni.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./modules/img/univarie.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Données,Géomatique,Analyse spatiale,Cartographie" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1672340790985" data-listing-reading-time-sort="1.195" data-listing-title-sort="L'information Géographique">
+<div class="thumbnail">
+<p><a href="./modules/A_data_type.html"> <img src="./modules/img/sig.jpg" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/A_data_type.html">
+<h3 class="no-anchor listing-title">
+L’information Géographique
+</h3>
+<div class="listing-subtitle">
+Introduction à l’information Géographique
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Données'); return false;">
+Données
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Géomatique'); return false;">
+Géomatique
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Analyse spatiale'); return false;">
+Analyse spatiale
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Cartographie'); return false;">
+Cartographie
+</div>
+</div>
+<a href="./modules/A_data_type.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/A_data_type.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Données" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1672336321502" data-listing-reading-time-sort="1.195" data-listing-title-sort="Données d'enquête">
+<div class="thumbnail">
+<p><a href="./modules/B_data_type.html"> <img src="./modules/img/enquete.jpg" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/B_data_type.html">
+<h3 class="no-anchor listing-title">
+Données d’enquête
+</h3>
+<div class="listing-subtitle">
+Introduction aux données d’enquête
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Données'); return false;">
+Données
+</div>
+</div>
+<a href="./modules/B_data_type.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/B_data_type.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Données" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1672336218272" data-listing-reading-time-sort="1.195" data-listing-title-sort="Données de recensement">
+<div class="thumbnail">
+<p><a href="./modules/C_data_type.html"> <img src="./modules/img/recensement.jpg" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/C_data_type.html">
+<h3 class="no-anchor listing-title">
+Données de recensement
+</h3>
+<div class="listing-subtitle">
+Introduction aux données de recensement
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Données'); return false;">
+Données
+</div>
+</div>
+<a href="./modules/C_data_type.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/C_data_type.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Statistique" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1672342874480" data-listing-reading-time-sort="1.22" data-listing-title-sort="Statistique univariée">
+<div class="thumbnail">
+<p><a href="./modules/F_stat_uni.html"> <img src="./modules/img/univarie.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/F_stat_uni.html">
+<h3 class="no-anchor listing-title">
 Statistique univariée
-</h5>
-<div class="card-subtitle listing-subtitle">
+</h3>
+<div class="listing-subtitle">
 Introduction à la statistique descritpive univariée
 </div>
-<div class="card-attribution card-text-small start">
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Statistique'); return false;">
+Statistique
+</div>
+</div>
+<a href="./modules/F_stat_uni.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/F_stat_uni.html">
 <div class="listing-author">
-Mr xy, Mme xx
-</div>
-</div>
-</div>
+Mr xx, Mme xx
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="statistique,modélisation" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1671814072690" data-listing-reading-time-sort="0.005">
-<a href="./modules/stat_biv.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./modules/img/bivariee.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Cartographie" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1672342761310" data-listing-reading-time-sort="1.195" data-listing-title-sort="Cartographie Thématique">
+<div class="thumbnail">
+<p><a href="./modules/G_cartographie.html"> <img src="./modules/img/carto.jpg" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/G_cartographie.html">
+<h3 class="no-anchor listing-title">
+Cartographie Thématique
+</h3>
+<div class="listing-subtitle">
+Introduction à la sémiologie grahique et à la cartographie
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Cartographie'); return false;">
+Cartographie
+</div>
+</div>
+<a href="./modules/G_cartographie.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/G_cartographie.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="Statistique" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1672344843879" data-listing-reading-time-sort="1.22" data-listing-title-sort="Statistique bivariée">
+<div class="thumbnail">
+<p><a href="./modules/H_stat_biv.html"> <img src="./modules/img/khi2.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/H_stat_biv.html">
+<h3 class="no-anchor listing-title">
 Statistique bivariée
-</h5>
-<div class="card-subtitle listing-subtitle">
+</h3>
+<div class="listing-subtitle">
 Introduction à la statistique descritpive bivariée
 </div>
-<div class="card-attribution card-text-small start">
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Statistique'); return false;">
+Statistique
+</div>
+</div>
+<a href="./modules/H_stat_biv.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/H_stat_biv.html">
 <div class="listing-author">
-Mr xy, Mme xx
-</div>
-</div>
-</div>
+Mr xx, Mme xx
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="cartographie" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1671814072686" data-listing-reading-time-sort="0.005">
-<a href="./modules/cartographie_1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./modules/img/carto.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cartographie
-</h5>
-<div class="card-subtitle listing-subtitle">
-Introduction à la cartographie
 </div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Mr xy, Mme xx
+<div class="quarto-post image-right" data-index="6" data-categories="Analyse spatiale" data-listing-date-sort="1677711600000" data-listing-file-modified-sort="1672344940020" data-listing-reading-time-sort="1.195" data-listing-title-sort="Semis de Points">
+<div class="thumbnail">
+<p><a href="./modules/I_semi_point.html"> <img src="./modules/img/point.png" class="thumnail-image" style="height: 150px;"> </a></p>
 </div>
-</div>
-</div>
+<div class="body">
+<a href="./modules/I_semi_point.html">
+<h3 class="no-anchor listing-title">
+Semis de Points
+</h3>
+<div class="listing-subtitle">
+Introduction à l’analyse de Semis de Points
 </div>
 </a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="analyse spatiale,statistique" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1671814072686" data-listing-reading-time-sort="0.005">
-<a href="./modules/analyse_spatiale.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./modules/img/spatial.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Analyse spatiale'); return false;">
 Analyse spatiale
-</h5>
-<div class="card-subtitle listing-subtitle">
-Introduction à l’autocorrélation spatiale
 </div>
-<div class="card-attribution card-text-small start">
+</div>
+<a href="./modules/I_semi_point.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/I_semi_point.html">
 <div class="listing-author">
-Mr xy, Mme xx
-</div>
-</div>
-</div>
+Mr xx, Mme xx
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="Analyse spatiale" data-listing-date-sort="1677711600000" data-listing-file-modified-sort="1672344938369" data-listing-reading-time-sort="1.195" data-listing-title-sort="Distance et accessibilité">
+<div class="thumbnail">
+<p><a href="./modules/J_distance_acces.html"> <img src="./modules/img/distance.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/J_distance_acces.html">
+<h3 class="no-anchor listing-title">
+Distance et accessibilité
+</h3>
+<div class="listing-subtitle">
+Introduction à l’analyse de distance
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Analyse spatiale'); return false;">
+Analyse spatiale
+</div>
+</div>
+<a href="./modules/J_distance_acces.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/J_distance_acces.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="Statistique" data-listing-date-sort="1677798000000" data-listing-file-modified-sort="1672344960947" data-listing-reading-time-sort="1.195" data-listing-title-sort="Statistique multivariée">
+<div class="thumbnail">
+<p><a href="./modules/K_stat_multi.html"> <img src="./modules/img/multi.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/K_stat_multi.html">
+<h3 class="no-anchor listing-title">
+Statistique multivariée
+</h3>
+<div class="listing-subtitle">
+Introduction à la statistique descritpive multivariée
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Statistique'); return false;">
+Statistique
+</div>
+</div>
+<a href="./modules/K_stat_multi.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/K_stat_multi.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="Statistique" data-listing-date-sort="1677798000000" data-listing-file-modified-sort="1672346295269" data-listing-reading-time-sort="1.195" data-listing-title-sort="Modélisation">
+<div class="thumbnail">
+<p><a href="./modules/L_Modelisation.html"> <img src="./modules/img/model.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/L_Modelisation.html">
+<h3 class="no-anchor listing-title">
+Modélisation
+</h3>
+<div class="listing-subtitle">
+Introduction à la modélisation
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Statistique'); return false;">
+Statistique
+</div>
+</div>
+<a href="./modules/L_Modelisation.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/L_Modelisation.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="outil,Géomatique,Analyse spatiale,Cartographie" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1672342976568" data-listing-reading-time-sort="1.22" data-listing-title-sort="Initiation à QGIS">
+<div class="thumbnail">
+<p><a href="./modules/D_QGIS.html"> <img src="./modules/img/qgis.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/D_QGIS.html">
+<h3 class="no-anchor listing-title">
+Initiation à QGIS
+</h3>
+<div class="listing-subtitle">
+Introduction à QGIS
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('outil'); return false;">
+outil
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Géomatique'); return false;">
+Géomatique
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Analyse spatiale'); return false;">
+Analyse spatiale
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Cartographie'); return false;">
+Cartographie
+</div>
+</div>
+<a href="./modules/D_QGIS.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/D_QGIS.html">
+<div class="listing-author">
+Mr xx, Mme xx
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="outil,Géomatique,Analyse spatiale,Cartographie,Statistique" data-listing-date-sort="1677452400000" data-listing-file-modified-sort="1672342985099" data-listing-reading-time-sort="1.22" data-listing-title-sort="Initiation à R">
+<div class="thumbnail">
+<p><a href="./modules/E_R.html"> <img src="./modules/img/R.png" class="thumnail-image" style="height: 150px;"> </a></p>
+</div>
+<div class="body">
+<a href="./modules/E_R.html">
+<h3 class="no-anchor listing-title">
+Initiation à R
+</h3>
+<div class="listing-subtitle">
+Introduction à R pour le traitement de l’information géographique
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('outil'); return false;">
+outil
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Géomatique'); return false;">
+Géomatique
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Analyse spatiale'); return false;">
+Analyse spatiale
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Cartographie'); return false;">
+Cartographie
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Statistique'); return false;">
+Statistique
+</div>
+</div>
+<a href="./modules/E_R.html"> </a>
+</div>
+<div class="metadata">
+<a href="./modules/E_R.html">
+<div class="listing-author">
+Justin Dansou, Hugues Pecout
+</div>
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
@@ -627,12 +942,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="./equipe.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><b>Formateur·rices</b></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><b>Équipe</b></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./modules/stat_uni.html" class="pagination-link">
-        <span class="nav-page-text">Statistique univariée</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./modules/A_data_type.html" class="pagination-link">
+        <span class="nav-page-text">L’info. géographique</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

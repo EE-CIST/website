@@ -1,0 +1,79 @@
+---
+title: Sèïvè Ermine Armande Damenou
+name: "Damenou Sèïvè Ermine Armande"
+image : img/damenou-e.png
+# bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
+categories: 
+- Enseignant·es
+about:
+  template: marquee
+  image: img/damenou-e.png
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: CRECI, Université de Parakou
+statut: Enseignante-chercheuse en sciences de gestion
+pays: Bénin
+
+format:
+  html: 
+    css: styles_bis.css
+---
+
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
+:::
+
+::: {#affiliation}
+{{< meta affiliation >}}
+:::
+
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
+
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
+
+::: {#liste}
+-   Theme 1
+-   Theme 2
+-   Theme 3
+-   Theme 4
+-   Theme 5
+:::
+
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
+
+<div>
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+## <i class="bi bi-file-earmark-text"></i> Publications
+
+::: {#refs}
+:::

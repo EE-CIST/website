@@ -1,59 +1,82 @@
 ---
 title: "Mouftaou Amadou Sanni"
-author: 
- - name: AMADOU SANNI Mouftaou
-   affiliation: 
-   - ENSPD 
-   - Université de Parakou
-affiliation: Université de Parakou
-about:
-  template: marquee
-  image-width: 15em
-  image-shape: rounded
-statut: Enseignant-Chercheur
-pays: Bénin
+name: "Sanni Mouftaou Amadou"
+image: img/amadou_sanni-m-2.png
+# bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
 categories: 
 - Direction
-- Organisation
 - Enseignant·es
-image: img/amadou_sanni-m-2.png
+about:
+  template: marquee
+  image: img/amadou_sanni-m-2.png
+  image-width: 18em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: ENSPD, Université de Parakou
+statut: "Professeur des universités en Démographie"
+pays: Bénin
+
+format:
+  html: 
+    css: styles_bis.css
 ---
 
-Statut : {{< meta statut >}}  
-Discipline : {{< meta discipline >}}  
-Laboratoire : {{< meta laboratoire >}}   
-Etablissement de rattachement : {{< meta affiliation >}}   
-Pays : {{< meta pays >}}  
-
-:::{#id-name}
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
 :::
 
-#####  Thème de recherche
-
-Blabla bla
-
-:::{#id-name}
-
+::: {#affiliation}
+{{< meta affiliation >}}
 :::
 
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
 
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
-#####  Enseignements dispensés
-- Enseignement 1
-- Enseignement 2
-- Enseignement 3
-- Enseignement 4
-- Enseignement 5
+::: {#liste}
+-   Theme 1
+-   Theme 2
+-   Theme 3
+-   Theme 4
+-   Theme 5
+:::
 
-#####  Données mobilisées
-- data 1
-- data 2
-- data 3
-- data 4
-- data 5
-  
-#####  Publications
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
+
+<div>
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
-
 :::
+
+------------------------------------------------------------------------

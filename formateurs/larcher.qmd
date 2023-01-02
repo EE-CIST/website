@@ -1,58 +1,79 @@
 ---
 title: "Hélèna Larcher"
-author: 
-  - name: LARCHER Hélèna
-    affiliation: 
-    - CIST 
-    - Université Paris-Cité
-affiliation: Université Paris-Cité
-about:
-  template: marquee
-  image : img/wip.jpg
-  image-width: 40em
-  image-shape: rounded
-statut: IE - Responsable administrative et financière
-pays: France
+name: "Larcher Héléna"
+image : img/wip.jpg
+# bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
 categories: 
 - Organisation
+about:
+  template: marquee
+  image: img/wip.jpg
+  image-width: 18em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: FR CIST, Université Paris-Cité 
+statut: Ingénieur d'études en gestion administrative et financière
+pays: France
+
+format:
+  html: 
+    css: styles_bis.css
 ---
 
-
-Statut : {{< meta statut >}}  
-Discipline : {{< meta discipline >}}  
-Laboratoire : {{< meta laboratoire >}}   
-Etablissement de rattachement : {{< meta affiliation >}}   
-Pays : {{< meta pays >}}  
-
-:::{#id-name}
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
 :::
 
-#####  Thème de recherche
-
-Blabla bla
-
-:::{#id-name}
-
+::: {#affiliation}
+{{< meta affiliation >}}
 :::
 
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
 
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
-#####  Enseignements dispensés
-- Enseignement 1
-- Enseignement 2
-- Enseignement 3
-- Enseignement 4
-- Enseignement 5
+::: {#liste}
+-   Theme 1
+-   Theme 2
+-   Theme 3
+-   Theme 4
+-   Theme 5
+:::
 
-#####  Données mobilisées
-- data 1
-- data 2
-- data 3
-- data 4
-- data 5
-  
-#####  Publications
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
+
+<div>
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
-
 :::

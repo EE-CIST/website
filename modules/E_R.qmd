@@ -1,0 +1,119 @@
+---
+title: "Initiation à R"
+subtitle: "Introduction à R pour le traitement de l'information géographique"
+image: img/R.png
+date: 02/27/2023
+categories: 
+- outil
+- Géomatique
+- Analyse spatiale
+- Cartographie
+- Statistique
+ordre: "21" 
+author: 
+- Justin Dansou
+- Hugues Pecout
+author-title: Auteurs
+bibliography: biblio/session1.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: GitLab
+      href: https://gitlab.huma-num.fr/elementr/session_2
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+
+
+::: {#contrib}
+
+### Contributeur·rice·s
+Hugues Pecout, ...
+
+:::
+
+::: {#block}
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+:::
+
+
+::: {#block}
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+:::
+
+::: {#block}
+
+## <i class="bi bi-bookmark"></i> Résumé
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+:::
+
+::: {#block}
+
+## <i class="bi bi-person-video3"></i> Support de cours
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+:::
+
+
+<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+
+<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+
+</iframe>
+
+
+::: {#url}
+<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
+:::
+
+</object>
+
+
+::: {#block}
+
+## <i class="bi bi-person-video3"></i> Support de TD
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+
+\
+
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+
+\
+
+:::
+
+
+
+
+::: {#block}
+
+## <i class="bi bi-clipboard-data"></i> Données
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+
+\
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+
+\
+
+:::
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::
+

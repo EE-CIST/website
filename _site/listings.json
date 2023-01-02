@@ -2,25 +2,57 @@
   {
     "listing": "/equipe.html",
     "items": [
-      "/formateurs/sanni.html",
+      "/formateurs/abdou-yonlihinza.html",
+      "/formateurs/bamba.html",
       "/formateurs/bonnet.html",
+      "/formateurs/bringe.html",
+      "/formateurs/chatel.html",
+      "/formateurs/coulibaly.html",
+      "/formateurs/damenou.html",
+      "/formateurs/dansou.html",
+      "/formateurs/djossou.html",
+      "/formateurs/garnier.html",
       "/formateurs/gentilhomme.html",
+      "/formateurs/gluski.html",
+      "/formateurs/golaz.html",
       "/formateurs/grasland.html",
       "/formateurs/guerin.html",
-      "/formateurs/pecout.html",
-      "/formateurs/dansou.html",
+      "/formateurs/guerois.html",
+      "/formateurs/houedakor.html",
+      "/formateurs/hounton.html",
+      "/formateurs/koumoi.html",
+      "/formateurs/lambert.html",
       "/formateurs/larcher.html",
+      "/formateurs/madelin.html",
+      "/formateurs/moussa.html",
+      "/formateurs/moutore.html",
+      "/formateurs/ouedraogo.html",
+      "/formateurs/pecout.html",
+      "/formateurs/pistre.html",
       "/formateurs/rey-coyrehourcq.html",
-      "/formateurs/toure.html"
+      "/formateurs/sanni.html",
+      "/formateurs/tanoh.html",
+      "/formateurs/toure.html",
+      "/formateurs/traore.html",
+      "/formateurs/yagninim.html",
+      "/formateurs/zanin.html"
     ]
   },
   {
     "listing": "/modules.html",
     "items": [
-      "/modules/stat_uni.html",
-      "/modules/stat_biv.html",
-      "/modules/cartographie_1.html",
-      "/modules/analyse_spatiale.html"
+      "/modules/A_data_type.html",
+      "/modules/B_data_type.html",
+      "/modules/C_data_type.html",
+      "/modules/F_stat_uni.html",
+      "/modules/G_cartographie.html",
+      "/modules/H_stat_biv.html",
+      "/modules/I_semi_point.html",
+      "/modules/J_distance_acces.html",
+      "/modules/K_stat_multi.html",
+      "/modules/L_Modelisation.html",
+      "/modules/D_QGIS.html",
+      "/modules/E_R.html"
     ]
   }
 ]

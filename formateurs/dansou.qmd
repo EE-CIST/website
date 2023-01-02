@@ -1,5 +1,6 @@
 ---
-author: "Justin Dansou"
+title: "Justin Dansou"
+name: "Dansou Justin"
 image : img/dansou-j.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -9,7 +10,7 @@ categories:
 about:
   template: marquee
   image:  img/dansou-j.png
-  image-width: 15em
+  image-width: 18em
   image-shape: rounded
   links:
     - icon: twitter
@@ -19,36 +20,42 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: Université de Parakou
-laboratoire: ENSPD 
-statut: Enseignant-Chercheur
-discipline: Statistique
+affiliation: ENSPD, Université de Parakou
+statut: Enseignant-Chercheur en Démographie
 pays: Bénin
+
+format:
+  html: 
+    css: styles_bis.css
 ---
 
-::: {#id-name}
-{{< meta author >}}
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
 :::
 
-Statut : {{< meta statut >}}\
-Discipline : {{< meta discipline >}}\
-Laboratoire : {{< meta laboratoire >}}\
-Etablissement de rattachement : {{< meta affiliation >}}\
-Pays : {{< meta pays >}}
+::: {#affiliation}
+{{< meta affiliation >}}
+:::
+
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
+
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
+
+::: {#liste}
+-   Theme 1
+-   Theme 2
+-   Theme 3
+-   Theme 4
+-   Theme 5
+:::
+
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
-
-</div>
-
-##### Thème de recherche
-
-Blabla bla
-
-<div>
-
-</div>
-
-##### Enseignements dispensés
 
 -   Enseignement 1
 -   Enseignement 2
@@ -56,7 +63,9 @@ Blabla bla
 -   Enseignement 4
 -   Enseignement 5
 
-##### Données mobilisées
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   data 1
 -   data 2
@@ -64,7 +73,7 @@ Blabla bla
 -   data 4
 -   data 5
 
-##### Publications
+## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
 :::

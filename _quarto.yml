@@ -19,7 +19,7 @@ website:
       - href: programme.qmd
         text: Programme
       - href: equipe.qmd
-        text: Formateur·rices
+        text: Équipe
       - href: modules.qmd
         text: Modules
       - href: apropos.qmd
@@ -38,16 +38,34 @@ website:
         text: <b>École d'été</b>
       - programme.qmd
       - href: equipe.qmd
-        text: <b>Formateur·rices</b>      
+        text: <b>Équipe</b>      
       - modules.qmd
-      - href: modules/stat_uni.qmd
+      - href: modules/A_data_type.qmd
+        text: L'info. géographique
+      - href: modules/B_data_type.qmd
+        text: Données d'enquête      
+      - href: modules/C_data_type.qmd
+        text: Données recensement    
+      - href: modules/F_stat_uni.qmd
         text: Statistique univariée
-      - href: modules/stat_biv.qmd 
-        text: Statistique bivariée
-      - href: modules/cartographie_1.qmd
-        text: Cartographie
-      - href: modules/analyse_spatiale.qmd
-        text: Analyse spatiale
+      - href: modules/H_stat_biv.qmd
+        text: Statistique bivariée     
+      - href: modules/K_stat_multi.qmd
+        text: Statistique multivariée  
+      - href: modules/G_cartographie.qmd
+        text: Cartographie          
+      - href: modules/I_semi_point.qmd
+        text: Semis de points  
+      - href: modules/J_distance_acces.qmd
+        text: Accessibilité    
+      - href: modules/L_Modelisation.qmd 
+        text: Modélisation
+      - href: modules/D_QGIS.qmd
+        text: Initiation à QGIS
+      - href: modules/E_R.qmd
+        text: Inititation à R 
+        
+
   page-footer: ET CIST·2023 - [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - INED · IRD · LaReSPD
   margin-header: |
     ![](img/cist.png)

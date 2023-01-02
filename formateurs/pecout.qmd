@@ -1,5 +1,6 @@
 ---
-author: "Hugues Pecout"
+title: Hugues Pecout
+name: "Pecout Hugues"
 image : img/pecout.png
 bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -19,27 +20,42 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: CNRS
-laboratoire: UMR Géographie-Cités 
-statut: Ingénieur d'études 
-discipline: Géomatique
+affiliation: UMR Géographie-Cités, CNRS
+statut: "Ingénieur d'études en science de l'information géographique"
 pays: France
+
+format:
+  html: 
+    css: styles_bis.css
 ---
 
-::: {#id-name}
-{{< meta author >}}
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
 :::
 
-Statut : {{< meta statut >}} Discipline : {{< meta discipline >}}\
-Laboratoire : {{< meta laboratoire >}}\
-Etablissement de rattachement : {{< meta affiliation >}}\
-Pays : {{< meta pays >}}
+::: {#affiliation}
+{{< meta affiliation >}}
+:::
 
-##### Thème de recherche
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
 
-Blabla bla
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
-##### Enseignements dispensés
+::: {#liste}
+-   Theme 1
+-   Theme 2
+-   Theme 3
+-   Theme 4
+-   Theme 5
+:::
+
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
+
+<div>
 
 -   Enseignement 1
 -   Enseignement 2
@@ -47,7 +63,9 @@ Blabla bla
 -   Enseignement 4
 -   Enseignement 5
 
-##### Données mobilisées
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   data 1
 -   data 2
@@ -55,7 +73,7 @@ Blabla bla
 -   data 4
 -   data 5
 
-##### Publications
+## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
 :::

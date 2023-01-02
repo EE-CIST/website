@@ -3,7 +3,16 @@ title: "**Programme**"
 ---
 
 
+<iframe src="//localendar.com/public/hpecout?style=W0" height=600 width=700 marginheight=0 marginwidth=0 scrolling=no frameborder=0 border=0></iframe>
 
+<!-- <iframe width="700" height="700" src="https://framagenda.org/apps/calendar/embed/XC9KFcejmsfYBwG9"></iframe> -->
+
+
+<!-- ```{=html} -->
+<!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script> -->
+<!-- ``` -->
+<!-- ::: elfsight-app-987446c7-d136-42b5-9db7-4d54a3cedee3 -->
+<!-- ::: -->
 
 ### Du 27 février au 5 mars
 
@@ -14,12 +23,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **mardi**
 
@@ -27,12 +36,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/cartographie_1.qmd)
+    -   Matériaux : [page du module](modules/G_cartographie.qmd)
 -   **14h-17h - Cartographie II**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/cartographie_1.qmd)
+    -   Matériaux : [page du module](modules/G_cartographie.qmd)
 
 #### **mercredi**
 
@@ -40,12 +49,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/analyse_spatiale.qmd)
+    -   Matériaux : [page du module](modules/I_semi_point.qmd)
 -   **14h-17h - Analyse spatiale II**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/analyse_spatiale.qmd)
+    -   Matériaux : [page du module](modules/J_distance_acces.qmd)
 
 #### **jeudi**
 
@@ -53,12 +62,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **vendredi**
 
@@ -66,12 +75,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **samedi**
 
@@ -95,38 +104,38 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **mardi**
 
--   **9h-12h - Cartographie I**
+-   **9h-12h - Statistiques descriptives univariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/cartographie_1.qmd)
--   **14h-17h - Cartographie II**
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
+-   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/cartographie_1.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **mercredi**
 
--   **9h-12h - Analyse spatiale I**
+-   **9h-12h - Statistiques descriptives univariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/analyse_spatiale.qmd)
--   **14h-17h - Analyse spatiale II**
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
+-   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/analyse_spatiale.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **jeudi**
 
@@ -134,12 +143,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **vendredi**
 
@@ -147,12 +156,12 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_uni.qmd)
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
 -   **14h-17h - Statistiques descriptives bivariée**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/stat_biv.qmd)
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
 
 #### **samedi**
 

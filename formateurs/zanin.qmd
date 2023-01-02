@@ -1,0 +1,79 @@
+---
+title: "Christine Zanin"
+name: "Zanin Christine"
+image : img/zanin-c.png
+# bibliography: biblio/pecout.bib
+nocite: '@*'
+csl: geo.csl
+categories: 
+- Enseignant·es
+about:
+  template: marquee
+  image:  img/zanin-c.png
+  image-width: 18em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+      
+affiliation: UMR Géographie-cités, Université Paris-Cité
+statut: Maître de conférences en géographie
+pays: France
+
+format:
+  html: 
+    css: styles_bis.css
+---
+
+::: {#profil}
+::: {#statut}
+{{< meta statut >}}
+:::
+
+::: {#affiliation}
+{{< meta affiliation >}}
+:::
+
+::: {#pays}
+<i class="bi bi-globe2"></i> {{< meta pays >}}\
+:::
+:::
+
+## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
+
+::: {#liste}
+-   Cartographie\
+-   Représentations\
+-   Visualisation\
+-   Sémiologie graphique\
+-   Représentation des aménagements et gestions territoriales
+:::
+
+## <i class="bi bi-person-video3"></i> Enseignements dispensés
+
+<div>
+
+-   Enseignement 1
+-   Enseignement 2
+-   Enseignement 3
+-   Enseignement 4
+-   Enseignement 5
+
+</div>
+
+## <i class="bi bi-clipboard-data"></i> Données mobilisées
+
+-   data 1
+-   data 2
+-   data 3
+-   data 4
+-   data 5
+
+## <i class="bi bi-file-earmark-text"></i> Publications
+
+::: {#refs}
+:::
