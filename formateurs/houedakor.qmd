@@ -23,6 +23,7 @@ about:
 affiliation: Université de Lomé
 statut: Enseignante-chercheuse en géographie
 pays: Togo
+title-block-categories: false
 
 format:
   html: 

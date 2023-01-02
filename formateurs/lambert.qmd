@@ -23,6 +23,7 @@ about:
 affiliation: UAR RIATE, CNRS
 statut: Ingénieur de recherche en science de l'information géographique
 pays: France
+title-block-categories: false
 
 format:
   html: 

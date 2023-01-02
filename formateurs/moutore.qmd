@@ -23,6 +23,7 @@ about:
 affiliation: Université de Kara
 statut: Enseignant-chercheur en Sociologie
 pays: Togo
+title-block-categories: false
 
 format:
   html: 

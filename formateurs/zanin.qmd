@@ -23,6 +23,7 @@ about:
 affiliation: UMR Géographie-cités, Université Paris-Cité
 statut: Maître de conférences en géographie
 pays: France
+title-block-categories: false
 
 format:
   html: 

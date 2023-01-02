@@ -23,6 +23,7 @@ about:
 affiliation: Service méthodes statistiques, INED
 statut: Ingénieure d'études en statistique
 pays: France
+title-block-categories: false
 
 format:
   html: 

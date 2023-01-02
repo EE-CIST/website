@@ -23,6 +23,7 @@ about:
 affiliation: FR CIST, Université Paris-Cité 
 statut: Ingénieur d'études en gestion administrative et financière
 pays: France
+title-block-categories: false
 
 format:
   html: 

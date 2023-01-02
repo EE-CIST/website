@@ -23,6 +23,7 @@ about:
 affiliation: ENSPD, Université de Parakou
 statut: Enseignant-Chercheur en Démographie
 pays: Bénin
+title-block-categories: false
 
 format:
   html: 

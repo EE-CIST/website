@@ -24,6 +24,7 @@ about:
 affiliation: UR12 Mobilités, parcours, territoires - INED
 statut: "Directrice de recherche en Géographie"
 pays: France
+title-block-categories: false
 
 format:
   html: 

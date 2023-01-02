@@ -23,6 +23,7 @@ about:
 affiliation: UMR IDEES, Université Rouen-Normandie
 statut: "Ingénieur de recherche en Géographie et Informatique"
 pays: France
+title-block-categories: false
 
 format:
   html: 

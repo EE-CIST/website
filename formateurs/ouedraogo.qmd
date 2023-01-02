@@ -23,6 +23,7 @@ about:
 affiliation: Université Joseph Ki-Zerbo de Ouagadougou
 statut: Enseignant-chercheur en Géographie
 pays: Burkina Fasso
+title-block-categories: false
 
 format:
   html: 

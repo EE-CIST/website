@@ -23,6 +23,7 @@ about:
 affiliation: UMR LPED, INED
 statut: Chercheuse en démographie
 pays: France
+title-block-categories: false
 
 format:
   html: 

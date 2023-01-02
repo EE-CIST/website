@@ -23,6 +23,7 @@ about:
 affiliation: Institut de géographie tropicale, Université Félix Houphouet Boigny Cocody-Abidjan
 statut: Enseignant-chercheur en géographie
 pays: Côte d'Ivoire
+title-block-categories: false
 
 format:
   html: 

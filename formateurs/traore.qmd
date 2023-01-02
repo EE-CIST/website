@@ -23,6 +23,7 @@ about:
 affiliation: Université des sciences sociales et de gestion de Bamako
 statut: Enseignant-chercheur en Géographie
 pays: Mali
+title-block-categories: false
 
 format:
   html: 

@@ -23,6 +23,7 @@ about:
 affiliation: Université Abdou Moumouni de Niamey
 statut: Chercheur en géographie
 pays: Niger
+title-block-categories: false
 
 format:
   html: 

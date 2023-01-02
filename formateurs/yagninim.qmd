@@ -23,6 +23,7 @@ about:
 affiliation: LaRSEG - LaRELIPS, Université de Kara
 statut: Enseignante-chercheuse en économie
 pays: Togo
+title-block-categories: false
 
 format:
   html: 

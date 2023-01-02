@@ -23,6 +23,7 @@ about:
 affiliation: Université Alassane Ouattara à Bouaké
 statut: Chercheur en Géographie humaine
 pays: Côte d'Ivoire
+title-block-categories: false
 
 format:
   html: 

@@ -23,6 +23,7 @@ about:
 affiliation: INED
 statut: Ingénieur de recherche en statistiques
 pays: France
+title-block-categories: false
 
 format:
   html: 

@@ -24,6 +24,7 @@ about:
 affiliation: UMR PRODIG, IRD
 statut: "Directeur de recherche en Géographie"
 pays: France
+title-block-categories: false
 
 format:
   html: 

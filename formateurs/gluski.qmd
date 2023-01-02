@@ -23,6 +23,7 @@ about:
 affiliation: UMR PRODIG, IRD
 statut: Ingénieure de recherche en science de l'information géographique
 pays: France
+title-block-categories: false
 
 format:
   html: 

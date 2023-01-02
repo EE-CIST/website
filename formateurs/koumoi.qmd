@@ -23,6 +23,7 @@ about:
 affiliation: PREDES, Université de Kara
 statut: Enseignant-chercheur en Géographie
 pays: Togo
+title-block-categories: false
 
 format:
   html: 

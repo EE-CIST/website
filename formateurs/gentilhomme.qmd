@@ -23,6 +23,7 @@ about:
 affiliation: FR CIST, Université Paris 1 Panthéon-Sorbonne
 statut: Ingénieur d'études en communication
 pays: France
+title-block-categories: false
 
 format:
   html: 

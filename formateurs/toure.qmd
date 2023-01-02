@@ -23,6 +23,7 @@ about:
 affiliation: Université du Sine Saloum El-Hâdj Ibrahima Niass
 statut: Enseignant-Chercheur en Géomatique
 pays: Sénégal
+title-block-categories: false
 
 format:
   html: 

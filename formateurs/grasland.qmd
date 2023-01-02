@@ -24,6 +24,7 @@ about:
 affiliation: FR CIST / UMR Géographie-cités, Université Paris-Cité 
 statut: "Professeur des universités en Géographie"
 pays: France
+title-block-categories: false
 
 format:
   html: 

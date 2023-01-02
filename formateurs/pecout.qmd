@@ -23,6 +23,7 @@ about:
 affiliation: UMR Géographie-Cités, CNRS
 statut: "Ingénieur d'études en science de l'information géographique"
 pays: France
+title-block-categories: false
 
 format:
   html: 

@@ -23,6 +23,7 @@ about:
 affiliation: CRECI, Université de Parakou
 statut: Enseignante-chercheuse en sciences de gestion
 pays: Bénin
+title-block-categories: false
 
 format:
   html: 
