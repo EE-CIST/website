@@ -4,14 +4,15 @@ subtitle: "Introduction à QGIS"
 image: img/qgis.png
 date: 02/27/2023
 categories: 
-- outil
+- Outils
 - Géomatique
 - Analyse spatiale
 - Cartographie
 ordre: "20" 
 author: 
-- Mr xx
-- Mme xx
+- Mr Zakariyao KOUMOI
+- Mme Cathy CHATEL
+- Mme Elina MARVEAUX
 author-title: Auteurs
 bibliography: biblio/session1.bib
 nocite: '@*'
@@ -40,23 +41,78 @@ Hugues Pecout, ...
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 :::
 
-::: {#block}
+<div>
+
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-bookmark"></i> Résumé
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+
+</div>
+
+<div>
+
+## <i class="bi bi-calendar-week"></i> Programme
+
+*Les cours d'initation à QGIS ont lieu tous les jours du Lundi au Vendredi de 14h à 16h.*
+
+### 
+
+::: panel-tabset
+#### **Présentation de Qgis** 
+
+-   Présentation de l'environnement de travail et des types de données
+-   Modes d'acquisition des données
+-   Introduction aux données GPS
+-   Manipulation de données vectorielles : table attributaire,
+
+#### Introduction au géoréférencement et à la digitalisation
+
+-   Géoréférencer une image
+-   Digitalisation
+-   Saisie et enrichissement de la table attributaire
+
+#### Introduction aux données vectorielles
+
+-   Selection, création de points, calculs
+-   Jointure spatiale
+-   Cartographie
+-   *Bonus : Jointure attributaire*
+
+#### Analyse spatiale et Raster
+
+-   Découverte des données rater et des manipulations
+-   Modèle Numérique de Terrain (MNT) : visualisation et calculs de pentes
+-   Images Satellites LandSat : classification de l'occupation du sol
+-   Interpolation (grid), symbologie des raster
+
+#### Analyse spatiale et Vecteur
+
+-   Compter des points dans les polygones
+
+-   Cartes par interpolation
+
+#### **samedi**
+
+#### **dimanche**
 :::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
+
+</div>
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -70,7 +126,8 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 </object>
 
-::: {#block}
+<div>
+
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
@@ -80,19 +137,22 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
 \
-:::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+OSM (Geofabrik) du Togo. Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
 
 \
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-:::
+
+</div>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

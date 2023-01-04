@@ -1,6 +1,6 @@
 ---
-title: Fatoumata Coulibaly
-name: "Coulibaly Fatoumata"
+title: Cathy Chatel
+name: "Chatel Cathy"
 image : img/chatel-c.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -10,7 +10,7 @@ categories:
 about:
   template: marquee
   image: img/chatel-c.png
-  image-width: 15em
+  image-width: 18em
   image-shape: rounded
   links:
     - icon: twitter

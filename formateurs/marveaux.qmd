@@ -1,7 +1,7 @@
 ---
-title: Vakaramoko Bamba
-name: "Bamba Vakaramoko"
-image : img/bamba-v.png
+title: Elina Marveaux
+name: "Marveaux Elina"
+image : img/wip.jpg
 # bibliography: biblio/pecout.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/bamba-v.png
+  image: img/wip.jpg
   image-width: 18em
   image-shape: rounded
   links:
@@ -20,9 +20,9 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: Institut de géographie tropicale, Université Félix Houphouet Boigny Cocody-Abidjan
-statut: Enseignant-chercheur en géographie
-pays: Côte d'Ivoire
+affiliation: FR 2007 CIST - CNRS
+statut: Ingénieure d'études en science de l'information géographique
+pays: France
 title-block-categories: false
 
 format:
@@ -40,7 +40,7 @@ format:
 :::
 
 ::: {#pays}
-<i class="bi bi-globe2"></i> {{< meta pays >}}\
+<i class="bi bi-globe2"></i> {{< meta pays >}}
 :::
 :::
 

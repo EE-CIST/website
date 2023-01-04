@@ -2,16 +2,20 @@
 title: "**Programme**"
 ---
 
+<iframe src="//localendar.com/public/hpecout?style=W0" height="600" width="700" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" border="0">
 
-<iframe src="//localendar.com/public/hpecout?style=W0" height=600 width=700 marginheight=0 marginwidth=0 scrolling=no frameborder=0 border=0></iframe>
+</iframe>
 
 <!-- <iframe width="700" height="700" src="https://framagenda.org/apps/calendar/embed/XC9KFcejmsfYBwG9"></iframe> -->
 
-
 <!-- ```{=html} -->
+
 <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script> -->
+
 <!-- ``` -->
+
 <!-- ::: elfsight-app-987446c7-d136-42b5-9db7-4d54a3cedee3 -->
+
 <!-- ::: -->
 
 ### Du 27 février au 5 mars
@@ -19,68 +23,123 @@ title: "**Programme**"
 ::: panel-tabset
 #### **lundi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-13h - TYP 1 2 3**
     -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Prérequis : 
+    -   Matériaux :
+        -   [Module QGIS](modules/D_QGIS.qmd)
+        -   [Module R](modules/E_R.qmd)
+-   **16h-18h - TYP Application**
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **mardi**
 
--   **9h-12h - Cartographie I**
+-   **8h30-10h30 - Statistiques I univariées**
+    -   Description :
+    -   Lieu :
+    -   Prérequis :
+    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
+-   **11h-13h - Cartographie I & II**
     -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/G_cartographie.qmd)
--   **14h-17h - Cartographie II**
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis :
-    -   Matériaux : [page du module](modules/G_cartographie.qmd)
+    -   Prérequis : 
+    -   Matériaux :
+        -   [Module QGIS](modules/D_QGIS.qmd)
+        -   [Module R](modules/E_R.qmd)
+-   **16h-18h - Cartographie I & II *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **mercredi**
 
--   **9h-12h - Analyse spatiale I**
+-   **8h30-13h - Statistiques II Bivariées**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/I_semi_point.qmd)
--   **14h-17h - Analyse spatiale II**
+    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis :
-    -   Matériaux : [page du module](modules/J_distance_acces.qmd)
+    -   Prérequis : 
+    -   Matériaux :
+        -   [Module QGIS](modules/D_QGIS.qmd)
+        -   [Module R](modules/E_R.qmd)
+-   **16h-18h - Statistiques I & II *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **jeudi**
 
--   **9h-12h - Statistiques descriptives univariée**
-    -   Description :
+-   **8h30-10h30 - Analyse spatiale I Semis de points**
+    -   Description : 
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
-    -   Description :
+    -   Matériaux : [page du module](moduI_semi_point.qmd)
+-   **11h-13h - Analyse spatiale II Distance et accès**
+    -   Description : 
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/J_distance_acces.qmd)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Outils : R ou QGIS**
+    -   Description :
+    -   Lieu :
+    -   Prérequis : 
+    -   Matériaux :
+        -   [Module QGIS](modules/D_QGIS.qmd)
+        -   [Module R](modules/E_R.qmd)
+-   **16h-18h - Analyse spatiale I & II *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **vendredi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-10h30 - Statistiques III multivariées**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
-    -   Description :
+    -   Matériaux : [page du module](modules/K_stat_multi.qmd)
+-   **11h-13h - Modélisation**
+    -   Description : Introduction à la modélisation
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/L_Modelisation.qmd)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Outils : R ou QGIS**
+    -   Description :
+    -   Lieu :
+    -   Prérequis : 
+    -   Matériaux :
+        -   [Module QGIS](modules/D_QGIS.qmd)
+        -   [Module R](modules/E_R.qmd)
+-   **16h-18h - Statistiques III *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **samedi**
 
@@ -100,68 +159,103 @@ title: "**Programme**"
 ::: panel-tabset
 #### **lundi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-13h - Ateliers de terrain ou Outils (R - QGIS)**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
+    -   Matériaux : [page du module](modules/)
+-   *13h - 14h : Déjeuner*
+-   **14h-18h - Ateliers de terrain ou Outils (R - QGIS)**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/)
 
 #### **mardi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-13h - Ateliers de terrain ou Outils (R - QGIS)**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
+    -   Matériaux : [page du module](modules/)
+-   *13h - 14h : Déjeuner*
+-   **14h-18h - Ateliers de terrain ou Outils (R - QGIS)**
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/)
 
 #### **mercredi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-10h30 - Modélisation I - *Quantitatif* **
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
-    -   Description :
+    -   Matériaux : [page du module](modules/)
+-   **11h-13h - Cartographie III - *Cartographie Dynamique* **
+    -   Description : 
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Modélisation I *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis : 
+    -   Matériaux :
+-   **16h-18h - Cartographie III *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **jeudi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-10h30 - Modélisation II - *Qualitatif* **
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
-    -   Description :
+    -   Matériaux : [page du module](modules/)
+-   **11h-13h - Analyse spatiale III - *Autocorrélation spatiale* **
+    -   Description : 
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Modélisation II *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis : 
+    -   Matériaux :
+-   **16h-18h - Analyse spatiale III *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **vendredi**
 
--   **9h-12h - Statistiques descriptives univariée**
+-   **8h30-10h30 - Modélisation III - *Multiniveau* **
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
--   **14h-17h - Statistiques descriptives bivariée**
-    -   Description :
+    -   Matériaux : [page du module](modules/)
+-   **11h-13h - Analyse spatiale IV - *Interraction spatiale* **
+    -   Description : 
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/H_stat_biv.qmd)
+    -   Matériaux : [page du module](modules/)
+-   *13h - 14h : Déjeuner*
+-   **14h-16h - Modélisation III *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis : 
+    -   Matériaux :
+-   **16h-18h - Analyse spatiale IV *Application* **
+    -   Description :
+    -   Lieu :
+    -   Prérequis:
+    -   Matériaux :
 
 #### **samedi**
 

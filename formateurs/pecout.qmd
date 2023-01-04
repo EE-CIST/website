@@ -10,7 +10,7 @@ categories:
 about:
   template: marquee
   image: img/pecout.png
-  image-width: 15em
+  image-width: 18em
   image-shape: rounded
   links:
     - icon: twitter
