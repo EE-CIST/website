@@ -1,8 +1,8 @@
 ---
-title: Issa Abdou Yonlihinza
-name: "Abdou Yonlihinza Issa"
+title: Issa ABDOU YONLIHINZA
+name: "ABDOU YONLIHINZA Issa"
 image : img/abdou-yonlihinza_i.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/abdou-yonlihinza.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,23 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Transport et mobilité dans la problématique du fonctionnement des territoires dans un contexte sahélien
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Cartographie automatique
+-   Dessin cartographique
+-   Mobilité et développement territoriale
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données qualitatives issues de séries d'entretiens (interviews ciblés) enregistrés et transcrits
+-   Données quantitatives issues d'enquêtes par questionnaires traitées à l'aide de logiciels
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

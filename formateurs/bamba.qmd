@@ -1,8 +1,8 @@
 ---
-title: Vakaramoko Bamba
-name: "Bamba Vakaramoko"
+title: Vakaramoko BAMBA
+name: "BAMBA Vakaramoko"
 image : img/bamba-v.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/bamba.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,26 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Transport et approvisionnement des marchés urbains ivoiriens en produits vivriers
+-   Mobilité dans les villes secondaires ivoiriennes (Jacqueville et Bouaké)
+-   TICS dans le transport et la mobilité en Côte d'Ivoire
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   La carte, outil du géographe : généralités, lecture de la carte thématique et interprétations des documents géographiques
+-   Objet et finalités de la géographie : moyens d'évaluations, recherche documentaire en géographie, présentation et commentaire des documents géographiques
+-   Questionnaire, guide d'observation et guide d'entretien : différence entre outils de collecte de données selon l'approche, élaboration des outils qualitatifs et quantitatifs, échantillonnage et extrapolation des résultats
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données de recensement
+-   Enquêtes par questionnaire
+-   guides d'observation et guides d'entretien
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

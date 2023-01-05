@@ -1,6 +1,6 @@
 ---
-title: Fatoumata Coulibaly
-name: "Coulibaly Fatoumata"
+title: Fatoumata COULIBALY
+name: "COULIBALY Fatoumata"
 image : img/coulibaly-f.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -20,7 +20,7 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: Université des sciences sociales et de gestion de Bamako
+affiliation: Université des sciences sociales et de gestion de Bamako (USSGB)
 statut: Enseignante-chercheuse en géographie
 pays: Mali
 title-block-categories: false
@@ -47,32 +47,25 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Femmes, pouvoirs et religion
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Religion et espace public
+-   Géographie des élections, femmes et pouvoirs
+-   Géographie urbaine
+-   Géographie de la population
+-   Démographie
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Enquêtes de terrain
+-   Bases de données – données brutes (statistiques)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

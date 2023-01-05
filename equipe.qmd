@@ -13,7 +13,7 @@ listing:
   table-hover: true
   field-links: ["name"]
   image-placeholder: img/wip.jpg
-  page-size: 30
+  page-size: 50
   field-display-names:
     name: "Nom"
     pays: "Pays"
@@ -24,8 +24,6 @@ about:
   image-width: 40em
   image-shape: rounded
 ---
-
-
 
 ::: {#formateurs}
 :::

@@ -1,8 +1,8 @@
 ---
-title: Arnaud Bringe
-name: "Bringe Arnaud"
+title: Arnaud BRINGÉ
+name: "BRINGÉ Arnaud"
 image : img/bringe_a.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/bringe.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,27 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   traitements R
+-   Analyse statistique
+-   Analyse de réseaux
+-   Eléments de data science
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Analyse des données rétrospective d'enquête
+-   R, analyse biographique, régressions logistiques, analyses multiniveaux
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données de santé
+-   Données administratives
+-   Données de réseaux
+-   Données d'enquêtes
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

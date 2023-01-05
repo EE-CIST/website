@@ -1,6 +1,6 @@
 ---
-title: "Marion Gentilhomme"
-name : "Gentilhomme Marion"
+title: "Marion GENTILHOMME"
+name : "GENTILHOMME Marion"
 image : img/wip.jpg
 # bibliography: biblio/pecout.bib
 nocite: '@*'

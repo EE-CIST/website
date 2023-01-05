@@ -1,6 +1,6 @@
 ---
-title: Gbètoton Nadège Djossou
-name: "Djossou Gbètoton Nadège"
+title: Gbètoton Nadège DJOSSOU
+name: "DJOSSOU Gbètoton Nadège"
 image : img/djossou-n.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -20,7 +20,7 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: ENSPD, Université de Parakou
+affiliation: Ecole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou
 statut: Enseignante-chercheuse en économie
 pays: Bénin
 title-block-categories: false
@@ -47,32 +47,26 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   The effect of an unconditional cash transfer on gendered time allocation in Ghana
+-   Digitalisation des services publics au Bénin : challenges et opportunités
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Séries chronologiques
+-   Introduction à l’économétrie
+-   Analyse de la variance
+-   Économétrie des séries temporelles
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données primaires : enquêtes quantitatives spécifiques au sein des ménages
+-   Données secondaires : EDS, enquêtes spécifiques entreprises – Banque mondiale
+
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

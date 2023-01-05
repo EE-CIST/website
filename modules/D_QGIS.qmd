@@ -66,7 +66,7 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 ### 
 
 ::: panel-tabset
-#### **Présentation de Qgis** 
+#### **Présentation de Qgis**
 
 -   Présentation de l'environnement de travail et des types de données
 -   Modes d'acquisition des données

@@ -1,12 +1,12 @@
 ---
-title: "Claude Grasland"
-name: "Grasland Claude"
+title: "Claude GRASLAND"
+name: "GRASLAND Claude"
 image: img/grasland-c.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/pecout.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
-- Direction
+- Coordination
 - Enseignant·es
 about:
   template: marquee
@@ -48,32 +48,28 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Modélisation des flux de presse à l'échelle mondiale
+-   Analyse des représentations des territoires à l'aide d'enquêtes
+-   Géopolitique de l'Europe dans le Monde
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Statistique univariée et bivariée
+-   Analyse spatiale des phénomènes sociaux
+-   Modélisation statistique et analyse multivariée
+-   Statistique, cartographie et analyse spatiale avec R
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Recensements au niveau agrégé ou individuel
+-   Enquêtes individuelles
+-   Données web (flux RSS, twitter...)
+-   Données internationales ou mondiales (e.g. Eurostat, Banque Mondiale)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

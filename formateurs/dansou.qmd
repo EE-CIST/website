@@ -1,6 +1,6 @@
 ---
-title: "Justin Dansou"
-name: "Dansou Justin"
+title: "Justin DANSOU"
+name: "DANSOU Justin"
 image : img/dansou-j.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -20,7 +20,7 @@ about:
       text: Github
       href: https://github.com
       
-affiliation: ENSPD, Université de Parakou
+affiliation: Ecole nationale de statistique, de planification et de  démographie (ENSPD), Université de Parakou
 statut: Enseignant-Chercheur en Démographie
 pays: Bénin
 title-block-categories: false
@@ -47,32 +47,27 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Facteurs associés à la pratique contraceptive parmi les femmes proches de la ménopause en Afrique sub- saharienne
+-   Before Pills and Injectables : Drivers of Traditional Contraceptive Practice in Sub-Saharan-Africa
+-   Variations in Antenatal Care Initiation Among Reproductive Age Women in Sub-Saharan-Africa : Event History Analysis Approach
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Logiciel d’analyse prospective de développement ; Analyse et planification de la scolarisation
+-   Analyse et planification de la main-d’œuvre et de l’emploi ; Analyse et planification de la santé
+-   Statistique descriptive (application en R) ; Introduction à la démographie
+-   Analyse longitudinale, analyse transversale ; Initiation à l’outil informatique
+
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données des enquêtes démographique et de santé (EDS)
+-   Données de recensement général de la population et de l’habitation (RGPH)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

@@ -1,6 +1,6 @@
 ---
-title: Bénédicte Garnier
-name: "Garnier Bénédicte"
+title: Bénédicte GARNIER
+name: "GARNIER Bénédicte"
 image : img/garnier_b.jpg
 # bibliography: biblio/pecout.bib
 nocite: '@*'
@@ -58,21 +58,19 @@ format:
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Analyse exploratoire
+-   Statistique textuelle
+-   Cartographie
+-   R
+-   Analyse de données relationnelles
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données d’enquêtes (quantitatives ou qualitatives)
+-   Données localisées
+-   Données relationnelles
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

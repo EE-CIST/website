@@ -11,7 +11,7 @@ listing:
   filter-ui: true
   type: default
   categories: true
-  image-height: 150px
+  image-height: 160px
   table-hover: true
   page-size: 30
   field-display-names:
