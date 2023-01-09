@@ -2,7 +2,7 @@
 title: Valérie GOLAZ
 name: "GOLAZ Valérie"
 image : img/golaz-v.png
-bibliography: biblio/pecout.bib
+bibliography: biblio/golaz.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Famille et environnement en Afrique de l’Est et à Madagascar (notamment liens entre transformations environnementales et dynamiques démographiques)
+-   Famille et environnement en Afrique de l'Est et à Madagascar (notamment liens entre transformations environnementales et dynamiques démographiques)
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -55,6 +55,7 @@ format:
 <div>
 
 -   Démographie : sources et analyse des données
+
 -   Modèles multiniveaux
 
 </div>
@@ -62,9 +63,10 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données démographiques : recensements et enquêtes (EDS en particulier), lorsque possible avec un certain degré de spatialisation
--   Données environnementales : bases de données internationales, données satellitaires
--   Enquêtes qualitatives, presse, archives
 
+-   Données environnementales : bases de données internationales, données satellitaires
+
+-   Enquêtes qualitatives, presse, archives
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

@@ -2,7 +2,7 @@
 title: Bénédicte GARNIER
 name: "GARNIER Bénédicte"
 image : img/garnier_b.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/garnier.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -59,17 +59,23 @@ format:
 <div>
 
 -   Analyse exploratoire
+
 -   Statistique textuelle
+
 -   Cartographie
+
 -   R
+
 -   Analyse de données relationnelles
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   Données d’enquêtes (quantitatives ou qualitatives)
+-   Données d'enquêtes (quantitatives ou qualitatives)
+
 -   Données localisées
+
 -   Données relationnelles
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

@@ -1,6 +1,6 @@
 ---
-title: Côomlan Charles Hounton
-name: "Hounton Côomlan Charles"
+title: Côomlan Charles HOUNTON
+name: "HOUNTON Charles Côomlan"
 image : img/hounton-c.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'

@@ -2,7 +2,7 @@
 title: "France GUÉRIN-PACE"
 name: "GUÉRIN-PACE France"
 image : img/guerin_pace-f.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/guerin.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -49,7 +49,9 @@ format:
 
 ::: {#liste}
 -   Enquête sur la société tunisienne post-révolutionnaire
+
 -   Parcours de mobilité au Mexique
+
 -   Parcours géographiques individuels
 :::
 
@@ -57,15 +59,18 @@ format:
 
 <div>
 
--   Méthodes d’enquête : échantillon, questionnaire, analyse des données (statistiques bivariées, analyse multivariée, régressions), catégories d’observation, catégories d’analyse
+-   Méthodes d'enquête : échantillon, questionnaire, analyse des données (statistiques bivariées, analyse multivariée, régressions), catégories d'observation, catégories d'analyse
+
 -   Formation aux méthodes de statistique textuelle
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   Données d’enquêtes (Ined, Insee, EDER-Mexique)
+-   Données d'enquêtes (Ined, Insee, EDER-Mexique)
+
 -   Données de recensement
+
 -   Questions ouvertes dans les enquêtes
 
 # <i class="bi bi-file-earmark-text"></i> Publications

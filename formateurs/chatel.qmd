@@ -48,6 +48,7 @@ format:
 
 ::: {#liste}
 -   Indicateurs de discontinuités spatiales à partir de données socioéconomiques dans le cadre d'un programme sur la fragmentation sociospatiale
+
 -   Création buffer, enveloppe concave à partir d'une couche de points ou de polygones, dans le cadre du programme Geopolis
 :::
 
@@ -56,6 +57,7 @@ format:
 <div>
 
 -   Cartographie thématique
+
 -   Calcul de l'indice Moran avec Geoda
 
 </div>
@@ -63,9 +65,13 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Recensement de la population de divers pays, de différentes dates, à des niveaux d'agrégation allant du secteur censitaire ou encore du ward, à l'Etat.
+
 -   Données de population affectées à des entités urbaines (agglomérations Geopolis...) ou métropolitaines.
+
 -   Autres données de recensements : données économiques, sociales...
+
 -   Données SIG accompagnant données de recensement et données urbaines.
+
 -   Images Google Earth, cartes historiques
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

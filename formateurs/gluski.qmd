@@ -2,7 +2,7 @@
 title: Pauline GLUSKI
 name: "GLUSKI Pauline"
 image : img/gluski-p.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/gluski.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -48,6 +48,7 @@ format:
 
 ::: {#liste}
 -   theme 1
+
 -   theme 2
 :::
 
@@ -55,7 +56,8 @@ format:
 
 <div>
 
--   Statistiques et cartographie 
+-   Statistiques et cartographie
+
 -   SIG et cartographie appliquée aux problématiques des programmes de recherche
 
 </div>
@@ -63,8 +65,11 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Fond de carte et données SIG
+
 -   Données cadastrales
+
 -   Données issues de recensement
+
 -   Données GPS
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

@@ -47,9 +47,12 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   traitements R
+-   Traitements R
+
 -   Analyse statistique
+
 -   Analyse de réseaux
+
 -   Eléments de data science
 :::
 
@@ -58,6 +61,7 @@ format:
 <div>
 
 -   Analyse des données rétrospective d'enquête
+
 -   R, analyse biographique, régressions logistiques, analyses multiniveaux
 
 </div>
@@ -65,8 +69,11 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données de santé
+
 -   Données administratives
+
 -   Données de réseaux
+
 -   Données d'enquêtes
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

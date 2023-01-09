@@ -13,13 +13,13 @@ about:
   image-width: 18em
   image-shape: rounded
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-      
+    - icon: blockquote-right
+      text: The Conversation
+      href: https://theconversation.com/profiles/issa-abdou-yonlihinza-348657/articles
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+
 affiliation: Université Abdou Moumouni de Niamey
 statut: Enseignant-chercheur en géographie
 pays: Niger
@@ -55,7 +55,9 @@ format:
 <div>
 
 -   Cartographie automatique
+
 -   Dessin cartographique
+
 -   Mobilité et développement territoriale
 
 </div>
@@ -63,6 +65,7 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données qualitatives issues de séries d'entretiens (interviews ciblés) enregistrés et transcrits
+
 -   Données quantitatives issues d'enquêtes par questionnaires traitées à l'aide de logiciels
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
