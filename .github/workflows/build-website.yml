@@ -15,10 +15,16 @@ jobs:
      steps:
 
        - name: copy
-         run: cp -R /project/* ${{github.workspace}}/
+         run: (mkdir -p ${{github.workspace}}/project &&  cp -R /project/* ${{github.workspace}}/project)
+
+       - name: print project filess
+         run: (ls -la)
+         working-directory: /project
+
 
        - name: print sessioninfo
          run: (Rscript -e "print (sessionInfo())")
+         working-directory: /project
 
        - name: check renvlock
          run: (cat renv.lock)
