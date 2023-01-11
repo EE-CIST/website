@@ -14,7 +14,7 @@ jobs:
           -v "${{github.workspace}}":"${{github.workspace}}"
      steps:
        - name: info
-         run: (ls -la /)
+         run: (ls -la /root)
 
        - name: copy
          run: cp -R /root/project ${{github.workspace}}/
