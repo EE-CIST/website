@@ -1,0 +1,13 @@
+name : build-site
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  container:
+     runs-on: ubuntu-latest
+     image: sreycoyrehourcq/cist-ee:main
+  steps:
+    - name: check quarto
+      run: (quarto check)
