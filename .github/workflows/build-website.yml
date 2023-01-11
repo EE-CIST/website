@@ -13,16 +13,13 @@ jobs:
           --user root
           -v "${{github.workspace}}":"${{github.workspace}}"
      steps:
-       - name: info
-         run: (ls -la /root)
 
        - name: copy
-         run: cp -R /root/project ${{github.workspace}}/
+         run: cp -R /project/* ${{github.workspace}}/
 
        - name: check quarto
          run: (quarto check)
-         working-directory: /root/project
 
        - name: check renvlock
          run: (cat renv.lock)
-         working-directory: /root/project
+         working-directory: /project
