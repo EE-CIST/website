@@ -17,10 +17,13 @@ jobs:
        - name: copy
          run: (mkdir -p ${{github.workspace}}/project &&  cp -R /project/* ${{github.workspace}}/project)
 
-       - name: print project filess
+       - name: print project files
          run: (ls -la)
          working-directory: /project
-
+         
+       - name: print project files 2
+         run: (ls -la ${{github.workspace}})
+         
        - name: quarto check
          run: (quarto check)
          working-directory: /project
