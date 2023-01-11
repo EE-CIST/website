@@ -7,6 +7,10 @@ on:
 jobs:
   container-quarto:
      runs-on: ubuntu-latest
+     steps:
+       - name: Checkout
+         uses: actions/checkout@v3
+
      container:
         image: sreycoyrehourcq/cist-ee:main
         options:
