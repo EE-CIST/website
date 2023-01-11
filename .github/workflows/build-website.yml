@@ -9,9 +9,15 @@ jobs:
      runs-on: ubuntu-latest
      container:
         image: sreycoyrehourcq/cist-ee:main
+        options:
+          --user 1001:1001
+          -v "${{github.workspace}}":"${{github.workspace}}"
      steps:
        - name: info
-         run: (pwd)
+         run: (ls -la /)
+
+       - name: copy
+         run: cp -R /root/project ${{github.workspace}}/
 
        - name: check quarto
          run: (quarto check)
