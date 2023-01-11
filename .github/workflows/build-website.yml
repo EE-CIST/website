@@ -11,27 +11,21 @@ jobs:
         image: sreycoyrehourcq/cist-ee:main
         options:
           --user root
-          -v "${{github.workspace}}":"${{github.workspace}}"
+          -v "${{github.workspace}}":/project/website
      steps:
 
-       - name: copy
-         run: (mkdir -p ${{github.workspace}}/project &&  cp -R /project/* ${{github.workspace}}/project)
-
-       - name: print project files
+       - name: print project volume files
          run: (ls -la)
-         working-directory: /project
-         
-       - name: print project files 2
-         run: (ls -la ${{github.workspace}})
-         
+         working-directory: /project/website
+
        - name: quarto check
          run: (quarto check)
          working-directory: /project
-         
+
        - name: print sessioninfo
          run: (Rscript -e "print (sessionInfo())")
          working-directory: /project
 
        - name: quarto render
-         run: (quarto render ..)
+         run: (quarto render ./website)
          working-directory: /project
