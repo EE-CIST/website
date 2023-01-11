@@ -5,9 +5,10 @@ on:
     branches: [ main ]
 
 jobs:
-  container:
+  container-quarto:
      runs-on: ubuntu-latest
-     image: sreycoyrehourcq/cist-ee:main
-  steps:
-    - name: check quarto
-      run: (quarto check)
+     container:
+        image: sreycoyrehourcq/cist-ee:main
+     steps:
+       - name: check quarto
+         run: (quarto check)
