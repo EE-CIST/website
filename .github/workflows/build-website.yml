@@ -17,8 +17,8 @@ jobs:
        - name: copy
          run: cp -R /project/* ${{github.workspace}}/
 
-       - name: check quarto
-         run: (quarto check)
+       - name: print sessioninfo
+         run: (Rscript -e "print (sessionInfo())")
 
        - name: check renvlock
          run: (cat renv.lock)
