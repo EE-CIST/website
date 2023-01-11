@@ -10,7 +10,7 @@ jobs:
      container:
         image: sreycoyrehourcq/cist-ee:main
         options:
-          --user 1001:1001
+          --user root
           -v "${{github.workspace}}":"${{github.workspace}}"
      steps:
        - name: info
