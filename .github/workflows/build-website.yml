@@ -17,5 +17,5 @@ jobs:
            image: sreycoyrehourcq/cist-ee:main
            options:
              --user root
-             -v "${{github.workspace}}":/project/website
+             -v /home/runner/work/website/website:/project/website
            run: quarto render /project/website
