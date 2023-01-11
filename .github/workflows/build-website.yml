@@ -11,25 +11,11 @@ jobs:
        - name: Checkout
          uses: actions/checkout@v3
 
-     container:
-        image: sreycoyrehourcq/cist-ee:main
-        options:
-          --user root
-          -v "${{github.workspace}}":/project/website
-     steps:
-
-       - name: print project volume files
-         run: (ls -la)
-         working-directory: /project/website
-
-       - name: quarto check
-         run: (quarto check)
-         working-directory: /project
-
-       - name: print sessioninfo
-         run: (Rscript -e "print (sessionInfo())")
-         working-directory: /project
-
-       - name: quarto render
-         run: (quarto render ./website)
-         working-directory: /project
+       - name: Render quarto
+         uses: addnab/docker-run-action@v3
+         with:
+           images: sreycoyrehourcq/cist-ee:main
+           options:
+             --user root
+             -v "${{github.workspace}}":/project/website
+           run: quarto render /project/website
