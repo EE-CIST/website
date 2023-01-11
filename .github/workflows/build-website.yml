@@ -10,10 +10,13 @@ jobs:
      container:
         image: sreycoyrehourcq/cist-ee:main
      steps:
+       - name: info
+         run: (pwd)
+
        - name: check quarto
          run: (quarto check)
-         working-directory: project
+         working-directory: /root/project
 
        - name: check renvlock
          run: (cat renv.lock)
-         working-directory: project
+         working-directory: /root/project
