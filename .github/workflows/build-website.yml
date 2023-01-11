@@ -12,3 +12,5 @@ jobs:
      steps:
        - name: check quarto
          run: (quarto check)
+       - name: check renvlock
+         run: (cat renv.lock)
