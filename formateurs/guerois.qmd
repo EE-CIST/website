@@ -2,7 +2,7 @@
 title: Marianne Guérois
 name: "Guérois Marianne"
 image : img/guerois_m.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/gerois.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,25 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Diffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne [ANR Wisdhom]
+-   Accessibilité aux services à la population à partir de base de données contributives (OSM)
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Analyse spatiale et applications dans R
+-   Systèmes d’information géographique,  essentiellement sous QGIS
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données de recensement
+-   Comparaisons internationales de nomenclatures urbaines
+-   Données « émergentes » (données de plateformes web de services, données contributives)
+
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

@@ -47,9 +47,9 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   theme 1
-
--   theme 2
+-   Chaîne de l’information géographique (des enquêtes de terrain à la restitution des résultats sous forme cartographique, en passant par différents traitements et analyses à partir d’outils SIG et carto) sur les Suds et dans 2 thématiques : 
+  -   la gestion de crise
+  -   le risque sanitaire lié à l’environnement
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés

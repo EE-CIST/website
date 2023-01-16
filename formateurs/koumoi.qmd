@@ -2,7 +2,7 @@
 title: Zakariyao KOUMOI
 name: "KOUMOI Zakariyao"
 image : img/koumoi-z.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/koumoi.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,38 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Apport des systèmes d'information géographiques et la cartographie dans la gestion des territoires
+
+-   Usage de la télédétection dans l'étude des paysages naturels
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Cartographie thématique
+
+-   Système d'information géographique (ARCGIS, QGIS)
+
+-   Statistiques
+
+-   Télédétection
+
+-   Aménagement du territoire
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Enquêtes de terrain
+
+-   GPS
+
+-   Recensement général de la population et de l'habitat
+
+-   Données géospatiales
+
+-   Données issues de traitement des images satellitaires Landsat
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

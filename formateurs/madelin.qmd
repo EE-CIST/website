@@ -2,7 +2,7 @@
 title: Malika Madelin
 name: "Madelin Malika"
 image : img/madelin_m.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/madelin.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,40 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Climatologie locale
--   Relations climat-viticulture
--   Changement climatique aux échelles régionales
--   Géomatique (SIG et télédétection)
--   Analyse spatiale
+-   Sciences participatives en environnement (pollution de l'air et plateforme de visualisation \[AirCitizen\])
+
+-   Variabilité spatio-temporelledes températures, à partir de données crowdsourcées, de données satellitaires et de mesures de terrain \[ANR H2C\]
+
+-   Effets du changement urbain sur lesexpositions environnementales, les comportements liés à la santé et la santé autodéclarée \[ANR FabHealth\]
+
+-   Diffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne \[ANR Wisdhom\]
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Géomatique et systèmes d'information géographique, sous QGIS et R
+
+-   Wepmapping avec plusieurs solutions/logiciels/librairies
+
+-   Analyse spatiale : atelier pratique et approfondissement sur l'interpolation. des données, R
+
+-   Statistiques : applications en environnement, R
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données spatiotemporelles
+
+-   Données « de référence » et « émergentes » (données de plates-formes web de services, données contributives)
+
+-   Données raster (satellitaires et de modèle)
+
+-   Données vectorielles
+
+-   Données GPS
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
