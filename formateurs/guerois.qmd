@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Diffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne [ANR Wisdhom]
+-   Diffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne \[ANR Wisdhom\]
 -   Accessibilité aux services à la population à partir de base de données contributives (OSM)
 :::
 
@@ -56,7 +56,7 @@ format:
 <div>
 
 -   Analyse spatiale et applications dans R
--   Systèmes d’information géographique,  essentiellement sous QGIS
+-   Systèmes d'information géographique, essentiellement sous QGIS
 
 </div>
 
@@ -65,7 +65,6 @@ format:
 -   Données de recensement
 -   Comparaisons internationales de nomenclatures urbaines
 -   Données « émergentes » (données de plateformes web de services, données contributives)
-
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
