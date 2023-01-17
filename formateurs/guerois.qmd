@@ -2,7 +2,7 @@
 title: Marianne Guérois
 name: "Guérois Marianne"
 image : img/guerois_m.jpg
-bibliography: biblio/gerois.bib
+bibliography: biblio/guerois.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
