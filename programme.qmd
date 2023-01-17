@@ -32,7 +32,7 @@ title: "**Programme**"
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
         -   [Module QGIS](modules/D_QGIS.qmd)
         -   [Module R](modules/E_R.qmd)
@@ -58,11 +58,11 @@ title: "**Programme**"
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
         -   [Module QGIS](modules/D_QGIS.qmd)
         -   [Module R](modules/E_R.qmd)
--   **16h-18h - Cartographie I & II *Application* **
+-   **16h-18h - Cartographie I & II *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -79,11 +79,11 @@ title: "**Programme**"
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
         -   [Module QGIS](modules/D_QGIS.qmd)
         -   [Module R](modules/E_R.qmd)
--   **16h-18h - Statistiques I & II *Application* **
+-   **16h-18h - Statistiques I & II *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -92,12 +92,12 @@ title: "**Programme**"
 #### **jeudi**
 
 -   **8h30-10h30 - Analyse spatiale I Semis de points**
-    -   Description : 
+    -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](moduI_semi_point.qmd)
+    -   Matériaux : [page du module](I_semi_point.qmd)
 -   **11h-13h - Analyse spatiale II Distance et accès**
-    -   Description : 
+    -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/J_distance_acces.qmd)
@@ -105,11 +105,11 @@ title: "**Programme**"
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
         -   [Module QGIS](modules/D_QGIS.qmd)
         -   [Module R](modules/E_R.qmd)
--   **16h-18h - Analyse spatiale I & II *Application* **
+-   **16h-18h - Analyse spatiale I & II *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -131,11 +131,11 @@ title: "**Programme**"
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
         -   [Module QGIS](modules/D_QGIS.qmd)
         -   [Module R](modules/E_R.qmd)
--   **16h-18h - Statistiques III *Application* **
+-   **16h-18h - Statistiques III *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -187,23 +187,23 @@ title: "**Programme**"
 
 #### **mercredi**
 
--   **8h30-10h30 - Modélisation I - *Quantitatif* **
+-   **8h30-10h30 - Modélisation I - *Quantitatif***
     -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
--   **11h-13h - Cartographie III - *Cartographie Dynamique* **
-    -   Description : 
+-   **11h-13h - Cartographie III - *Cartographie Dynamique***
+    -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
 -   *13h - 14h : Déjeuner*
--   **14h-16h - Modélisation I *Application* **
+-   **14h-16h - Modélisation I *Application***
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
--   **16h-18h - Cartographie III *Application* **
+-   **16h-18h - Cartographie III *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -211,23 +211,23 @@ title: "**Programme**"
 
 #### **jeudi**
 
--   **8h30-10h30 - Modélisation II - *Qualitatif* **
+-   **8h30-10h30 - Modélisation II - *Qualitatif***
     -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
--   **11h-13h - Analyse spatiale III - *Autocorrélation spatiale* **
-    -   Description : 
+-   **11h-13h - Analyse spatiale III - *Autocorrélation spatiale***
+    -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
 -   *13h - 14h : Déjeuner*
--   **14h-16h - Modélisation II *Application* **
+-   **14h-16h - Modélisation II *Application***
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
--   **16h-18h - Analyse spatiale III *Application* **
+-   **16h-18h - Analyse spatiale III *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
@@ -235,23 +235,23 @@ title: "**Programme**"
 
 #### **vendredi**
 
--   **8h30-10h30 - Modélisation III - *Multiniveau* **
+-   **8h30-10h30 - Modélisation III - *Multiniveau***
     -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
--   **11h-13h - Analyse spatiale IV - *Interraction spatiale* **
-    -   Description : 
+-   **11h-13h - Analyse spatiale IV - *Interraction spatiale***
+    -   Description :
     -   Lieu :
     -   Prérequis :
     -   Matériaux : [page du module](modules/)
 -   *13h - 14h : Déjeuner*
--   **14h-16h - Modélisation III *Application* **
+-   **14h-16h - Modélisation III *Application***
     -   Description :
     -   Lieu :
-    -   Prérequis : 
+    -   Prérequis :
     -   Matériaux :
--   **16h-18h - Analyse spatiale IV *Application* **
+-   **16h-18h - Analyse spatiale IV *Application***
     -   Description :
     -   Lieu :
     -   Prérequis:
