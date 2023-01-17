@@ -1,6 +1,6 @@
 ---
-title: "Hélèna Larcher"
-name: "Larcher Héléna"
+title: "Hélèna LARCHER"
+name: "LARCHER Héléna"
 image : img/wip.jpg
 # bibliography: biblio/pecout.bib
 nocite: '@*'

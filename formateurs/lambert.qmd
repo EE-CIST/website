@@ -1,6 +1,6 @@
 ---
-title: "Nicolas Lambert"
-name: "Lambert Nicolas"
+title: "Nicolas LAMBERT"
+name: "LAMBERT Nicolas"
 image : img/lambert_n.jpg
 bibliography: biblio/lambert.bib
 nocite: '@*'

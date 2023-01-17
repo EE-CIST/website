@@ -1,6 +1,6 @@
 ---
-title: Malika Madelin
-name: "Madelin Malika"
+title: Malika MADELIN
+name: "MADELIN Malika"
 image : img/madelin_m.jpg
 bibliography: biblio/madelin.bib
 nocite: '@*'
