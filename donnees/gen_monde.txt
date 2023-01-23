@@ -1,0 +1,45 @@
+#---------------------------------------------------------------------------#
+#                                                                           #
+#                   METADONNEES - NOM DES DONNEES                           #
+#                                                                           #
+#---------------------------------------------------------------------------#
+
+- Nom:
+- Nature: Recensement, enquête, fond de carte, relevé de capteur, etc...
+- Description: Description détaillée 
+
+- Producteur: Entité qui a collecté ou généré les données
+- Fournisseur/URL d'accès: Nom du fournisseur ou URL de récupération des données
+
+- Date: 
+- Etendue spatiale: Territoire concerné
+- Echelle: nationnal, infra-nationnal, ville.. ?
+
+- Nombre d'observations:
+- Nombre de variables:
+- Description des variables: 
+
+	- 'ID' : Identifiant (string)
+	- 'NOM' : Nom des communes (string)
+	- 'POP' : Nombre d'habitants en 2020 (numeric)
+	- ...
+	- ...
+
+
+- Méthodologie:
+
+- Transformation: Données ayant subit une transformation/modification ? OUI/NON
+- Commentaire:
+
+- Licence:
+- Citation: 
+
+
+
+#----------------------------------------------------------------------------#
+- Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école
+- Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données 
+- TAGS: mots-clé
+
+
+
