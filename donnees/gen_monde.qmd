@@ -1,8 +1,34 @@
-#---------------------------------------------------------------------------#
-#                                                                           #
-#                   METADONNEES - NOM DES DONNEES                           #
-#                                                                           #
-#---------------------------------------------------------------------------#
+---
+title: "GEN_MONDE"
+name: "gen_monde"
+# image : img/traore-s.png
+# bibliography: biblio/traore.bib
+nocite: '@*'
+csl: geo.csl
+categories: 
+- Monde
+about:
+  template: marquee
+  # image:  img/traore-s.png
+  # image-width: 18em
+  # image-shape: rounded
+  links:
+    - icon: twitter
+      text: Données
+      href: https://twitter.com
+    - icon: github
+      text: Producteur des donées
+      href: https://github.com
+      
+# affiliation: Université des sciences sociales et de gestion de Bamako
+# statut: Enseignant-chercheur en Géographie
+# pays: Mali
+# title-block-categories: false
+
+format:
+  html: 
+    css: styles_bis.css
+---
 
 - Nom:
 - Nature: Recensement, enquête, fond de carte, relevé de capteur, etc...

@@ -7,6 +7,34 @@
     "text": "Précision, crédits, conditions d’utilisation, ect…"
   },
   {
+    "objectID": "donnees/enq_tunis_2016.html",
+    "href": "donnees/enq_tunis_2016.html",
+    "title": "<b>EE·2023</b>",
+    "section": "",
+    "text": "Nom:\nNature: Recensement, enquête, fond de carte, relevé de capteur, etc…\nDescription: Description détaillée\nProducteur: Entité qui a collecté ou généré les données\nFournisseur/URL d’accès: Nom du fournisseur ou URL de récupération des données\nDate:\nEtendue spatiale: Territoire concerné\nEchelle: nationnal, infra-nationnal, ville.. ?\nNombre d’observations:\nNombre de variables:\nDescription des variables:\n\n‘ID’ : Identifiant (string)\n‘NOM’ : Nom des communes (string)\n‘POP’ : Nombre d’habitants en 2020 (numeric)\n…\n…\n\nMéthodologie:\nTransformation: Données ayant subit une transformation/modification ? OUI/NON\nCommentaire:\nLicence:\nCitation:\n\n#—————————————————————————-# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l’école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé"
+  },
+  {
+    "objectID": "donnees/gen_monde.html",
+    "href": "donnees/gen_monde.html",
+    "title": "GEN_MONDE",
+    "section": "",
+    "text": "Nom:\nNature: Recensement, enquête, fond de carte, relevé de capteur, etc…\nDescription: Description détaillée\nProducteur: Entité qui a collecté ou généré les données\nFournisseur/URL d’accès: Nom du fournisseur ou URL de récupération des données\nDate:\nEtendue spatiale: Territoire concerné\nEchelle: nationnal, infra-nationnal, ville.. ?\nNombre d’observations:\nNombre de variables:\nDescription des variables:\n\n‘ID’ : Identifiant (string)\n‘NOM’ : Nom des communes (string)\n‘POP’ : Nombre d’habitants en 2020 (numeric)\n…\n…\n\nMéthodologie:\nTransformation: Données ayant subit une transformation/modification ? OUI/NON\nCommentaire:\nLicence:\nCitation:\n\n#—————————————————————————-# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l’école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé"
+  },
+  {
+    "objectID": "donnees/vil_afric_2015.html",
+    "href": "donnees/vil_afric_2015.html",
+    "title": "<b>EE·2023</b>",
+    "section": "",
+    "text": "Nom:\nNature: Recensement, enquête, fond de carte, relevé de capteur, etc…\nDescription: Description détaillée\nProducteur: Entité qui a collecté ou généré les données\nFournisseur/URL d’accès: Nom du fournisseur ou URL de récupération des données\nDate:\nEtendue spatiale: Territoire concerné\nEchelle: nationnal, infra-nationnal, ville.. ?\nNombre d’observations:\nNombre de variables:\nDescription des variables:\n\n‘ID’ : Identifiant (string)\n‘NOM’ : Nom des communes (string)\n‘POP’ : Nombre d’habitants en 2020 (numeric)\n…\n…\n\nMéthodologie:\nTransformation: Données ayant subit une transformation/modification ? OUI/NON\nCommentaire:\nLicence:\nCitation:\n\n#—————————————————————————-# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l’école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé"
+  },
+  {
+    "objectID": "donnees.html",
+    "href": "donnees.html",
+    "title": "Données Mobilisées",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n         \n          Affiliation(s)\n        \n         \n          Pays\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNom\n\n\nAffiliation(s)\n\n\nPays\n\n\n\n\n\n\ngen_monde\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
     "objectID": "ecole_thematique.html",
     "href": "ecole_thematique.html",
     "title": "École d’été internationale du CIST",

@@ -55,9 +55,7 @@ format:
 <div>
 
 -   Cartographie automatique
-
 -   Dessin cartographique
-
 -   Mobilité et développement territoriale
 
 </div>
@@ -65,7 +63,6 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données qualitatives issues de séries d'entretiens (interviews ciblés) enregistrés et transcrits
-
 -   Données quantitatives issues d'enquêtes par questionnaires traitées à l'aide de logiciels
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

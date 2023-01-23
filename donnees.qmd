@@ -1,0 +1,29 @@
+---
+title: "**Données Mobilisées**"
+listing:
+  id: donnees
+  fields: [name, affiliation, pays]
+  # fields: [image, name, affiliation, pays]
+  filter-ui: true
+  contents: donnees
+  sort: "name"
+  sort-ui: [name, affiliation, pays]
+  type: table
+  categories: true
+  # image-height: 100px
+  table-hover: true
+  field-links: ["name"]
+  # image-placeholder: img/wip.jpg
+  page-size: 50
+  field-display-names:
+    name: "Nom"
+    pays: "Pays"
+    affiliation: "Affiliation(s)"
+about:
+  template: marquee
+  # image : img/formateurs.jpeg
+  # image-width: 40em
+  # image-shape: rounded
+---
+
+

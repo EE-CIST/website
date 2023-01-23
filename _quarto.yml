@@ -22,6 +22,8 @@ website:
         text: Équipe
       - href: modules.qmd
         text: Modules
+      - href: donnees.qmd
+        text: Données
       - href: apropos.qmd
         text: À propos
     right:
@@ -39,6 +41,8 @@ website:
       - programme.qmd
       - href: equipe.qmd
         text: <b>Équipe</b>      
+      - href: donnees.qmd
+        text: <b>Données</b>
       - modules.qmd
       - href: modules/A_data_type.qmd
         text: L'info. géographique

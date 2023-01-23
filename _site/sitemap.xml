@@ -2,218 +2,234 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cist2023.netlify.app/apropos.html</loc>
-    <lastmod>2023-01-23T11:29:52.131Z</lastmod>
+    <lastmod>2023-01-23T11:43:47.235Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/contact.html</loc>
-    <lastmod>2023-01-23T11:29:52.707Z</lastmod>
+    <lastmod>2023-01-23T11:43:47.852Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cist2023.netlify.app/donnees/enq_tunis_2016.html</loc>
+    <lastmod>2023-01-23T11:43:48.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cist2023.netlify.app/donnees/gen_monde.html</loc>
+    <lastmod>2023-01-23T11:44:50.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cist2023.netlify.app/donnees/vil_afric_2015.html</loc>
+    <lastmod>2023-01-23T11:43:49.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cist2023.netlify.app/donnees.html</loc>
+    <lastmod>2023-01-23T11:44:41.537Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/ecole_thematique.html</loc>
-    <lastmod>2023-01-23T11:29:53.332Z</lastmod>
+    <lastmod>2023-01-23T11:43:50.675Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/equipe.html</loc>
-    <lastmod>2023-01-23T11:29:54.612Z</lastmod>
+    <lastmod>2023-01-23T11:43:51.965Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/abdou-yonlihinza.html</loc>
-    <lastmod>2023-01-23T11:29:55.145Z</lastmod>
+    <lastmod>2023-01-23T11:43:52.666Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/bamba.html</loc>
-    <lastmod>2023-01-23T11:29:55.775Z</lastmod>
+    <lastmod>2023-01-23T11:43:53.380Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/bonnet.html</loc>
-    <lastmod>2023-01-23T11:29:56.499Z</lastmod>
+    <lastmod>2023-01-23T11:43:54.146Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/bringe.html</loc>
-    <lastmod>2023-01-23T11:29:57.094Z</lastmod>
+    <lastmod>2023-01-23T11:43:54.808Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/chatel.html</loc>
-    <lastmod>2023-01-23T11:29:57.745Z</lastmod>
+    <lastmod>2023-01-23T11:43:55.428Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/coulibaly.html</loc>
-    <lastmod>2023-01-23T11:29:58.392Z</lastmod>
+    <lastmod>2023-01-23T11:43:56.034Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/damenou.html</loc>
-    <lastmod>2023-01-23T11:29:59.023Z</lastmod>
+    <lastmod>2023-01-23T11:43:56.677Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/dansou.html</loc>
-    <lastmod>2023-01-23T11:29:59.703Z</lastmod>
+    <lastmod>2023-01-23T11:43:57.359Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/djossou.html</loc>
-    <lastmod>2023-01-23T11:30:00.343Z</lastmod>
+    <lastmod>2023-01-23T11:43:58.017Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/garnier.html</loc>
-    <lastmod>2023-01-23T11:30:01.064Z</lastmod>
+    <lastmod>2023-01-23T11:43:58.861Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/gentilhomme.html</loc>
-    <lastmod>2023-01-23T11:30:01.635Z</lastmod>
+    <lastmod>2023-01-23T11:43:59.472Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/gluski.html</loc>
-    <lastmod>2023-01-23T11:30:02.306Z</lastmod>
+    <lastmod>2023-01-23T11:44:00.173Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/golaz.html</loc>
-    <lastmod>2023-01-23T11:30:02.993Z</lastmod>
+    <lastmod>2023-01-23T11:44:00.888Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/grasland.html</loc>
-    <lastmod>2023-01-23T11:30:03.772Z</lastmod>
+    <lastmod>2023-01-23T11:44:01.518Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/guerin.html</loc>
-    <lastmod>2023-01-23T11:30:04.468Z</lastmod>
+    <lastmod>2023-01-23T11:44:02.221Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/guerois.html</loc>
-    <lastmod>2023-01-23T11:30:05.222Z</lastmod>
+    <lastmod>2023-01-23T11:44:02.910Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/houedakor.html</loc>
-    <lastmod>2023-01-23T11:30:05.846Z</lastmod>
+    <lastmod>2023-01-23T11:44:03.492Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/hounton.html</loc>
-    <lastmod>2023-01-23T11:30:06.470Z</lastmod>
+    <lastmod>2023-01-23T11:44:04.081Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/koumoi.html</loc>
-    <lastmod>2023-01-23T11:30:07.111Z</lastmod>
+    <lastmod>2023-01-23T11:44:04.775Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/lambert.html</loc>
-    <lastmod>2023-01-23T11:30:07.748Z</lastmod>
+    <lastmod>2023-01-23T11:44:05.464Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/larcher.html</loc>
-    <lastmod>2023-01-23T11:30:08.537Z</lastmod>
+    <lastmod>2023-01-23T11:44:06.243Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/madelin.html</loc>
-    <lastmod>2023-01-23T11:30:09.234Z</lastmod>
+    <lastmod>2023-01-23T11:44:07.480Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/marveaux.html</loc>
-    <lastmod>2023-01-23T11:30:09.780Z</lastmod>
+    <lastmod>2023-01-23T11:44:08.234Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/moussa.html</loc>
-    <lastmod>2023-01-23T11:30:10.421Z</lastmod>
+    <lastmod>2023-01-23T11:44:08.868Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/moutore.html</loc>
-    <lastmod>2023-01-23T11:30:11.001Z</lastmod>
+    <lastmod>2023-01-23T11:44:09.495Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/ouedraogo.html</loc>
-    <lastmod>2023-01-23T11:30:11.670Z</lastmod>
+    <lastmod>2023-01-23T11:44:10.165Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/pecout.html</loc>
-    <lastmod>2023-01-23T11:30:12.257Z</lastmod>
+    <lastmod>2023-01-23T11:44:10.849Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/pistre.html</loc>
-    <lastmod>2023-01-23T11:30:12.968Z</lastmod>
+    <lastmod>2023-01-23T11:44:11.616Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/rey-coyrehourcq.html</loc>
-    <lastmod>2023-01-23T11:30:13.668Z</lastmod>
+    <lastmod>2023-01-23T11:44:12.636Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/sanni.html</loc>
-    <lastmod>2023-01-23T11:30:14.281Z</lastmod>
+    <lastmod>2023-01-23T11:44:13.599Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/tanoh.html</loc>
-    <lastmod>2023-01-23T11:30:14.966Z</lastmod>
+    <lastmod>2023-01-23T11:44:14.423Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/toure.html</loc>
-    <lastmod>2023-01-23T11:30:15.648Z</lastmod>
+    <lastmod>2023-01-23T11:44:15.124Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/traore.html</loc>
-    <lastmod>2023-01-23T11:30:16.284Z</lastmod>
+    <lastmod>2023-01-23T11:44:15.752Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/yagninim.html</loc>
-    <lastmod>2023-01-23T11:30:17.084Z</lastmod>
+    <lastmod>2023-01-23T11:44:16.401Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/formateurs/zanin.html</loc>
-    <lastmod>2023-01-23T11:30:17.722Z</lastmod>
+    <lastmod>2023-01-23T11:44:17.021Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/index.html</loc>
-    <lastmod>2023-01-23T11:30:21.714Z</lastmod>
+    <lastmod>2023-01-23T11:44:20.454Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/A_data_type.html</loc>
-    <lastmod>2023-01-23T11:30:22.482Z</lastmod>
+    <lastmod>2023-01-23T11:44:21.130Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/B_data_type.html</loc>
-    <lastmod>2023-01-23T11:30:23.067Z</lastmod>
+    <lastmod>2023-01-23T11:44:21.802Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/C_data_type.html</loc>
-    <lastmod>2023-01-23T11:30:23.683Z</lastmod>
+    <lastmod>2023-01-23T11:44:22.461Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/D_QGIS.html</loc>
-    <lastmod>2023-01-23T11:30:24.314Z</lastmod>
+    <lastmod>2023-01-23T11:44:23.111Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/E_R.html</loc>
-    <lastmod>2023-01-23T11:30:24.932Z</lastmod>
+    <lastmod>2023-01-23T11:44:23.802Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/F_stat_uni.html</loc>
-    <lastmod>2023-01-23T11:30:25.577Z</lastmod>
+    <lastmod>2023-01-23T11:44:24.481Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/G_cartographie.html</loc>
-    <lastmod>2023-01-23T11:30:26.325Z</lastmod>
+    <lastmod>2023-01-23T11:44:25.169Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/H_stat_biv.html</loc>
-    <lastmod>2023-01-23T11:30:27.042Z</lastmod>
+    <lastmod>2023-01-23T11:44:26.686Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/I_semi_point.html</loc>
-    <lastmod>2023-01-23T11:30:28.050Z</lastmod>
+    <lastmod>2023-01-23T11:44:27.718Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/J_distance_acces.html</loc>
-    <lastmod>2023-01-23T11:30:28.753Z</lastmod>
+    <lastmod>2023-01-23T11:44:28.478Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/K_stat_multi.html</loc>
-    <lastmod>2023-01-23T11:30:29.488Z</lastmod>
+    <lastmod>2023-01-23T11:44:29.168Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules/L_Modelisation.html</loc>
-    <lastmod>2023-01-23T11:30:30.140Z</lastmod>
+    <lastmod>2023-01-23T11:44:29.880Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/modules.html</loc>
-    <lastmod>2023-01-23T11:30:31.038Z</lastmod>
+    <lastmod>2023-01-23T11:44:45.993Z</lastmod>
   </url>
   <url>
     <loc>https://cist2023.netlify.app/programme.html</loc>
-    <lastmod>2023-01-23T11:30:31.800Z</lastmod>
+    <lastmod>2023-01-23T11:44:31.569Z</lastmod>
   </url>
 </urlset>
