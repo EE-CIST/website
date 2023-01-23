@@ -1,6 +1,6 @@
 ---
-title: "Labaly TOURE"
-name: "TOURE Labaly"
+title: "Labaly TOURÉ"
+name: "TOURÉ Labaly"
 image : img/toure-l.png
 bibliography: biblio/toure.bib
 nocite: '@*'
@@ -72,7 +72,7 @@ format:
 -   Données GPS
 -   Images satellites
 -   Enquêtes
-    
+
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

@@ -47,9 +47,9 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Chaîne de l’information géographique (des enquêtes de terrain à la restitution des résultats sous forme cartographique, en passant par différents traitements et analyses à partir d’outils SIG et carto) sur les Suds et dans 2 thématiques : 
-  -   la gestion de crise
-  -   le risque sanitaire lié à l’environnement
+-   Chaîne de l'information géographique (des enquêtes de terrain à la restitution des résultats sous forme cartographique, en passant par différents traitements et analyses à partir d'outils SIG et carto) sur les Suds et dans 2 thématiques :
+-   La gestion de crise
+-   Le risque sanitaire lié à l'environnement
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -57,7 +57,6 @@ format:
 <div>
 
 -   Statistiques et cartographie
-
 -   SIG et cartographie appliquée aux problématiques des programmes de recherche
 
 </div>
@@ -65,11 +64,8 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Fond de carte et données SIG
-
 -   Données cadastrales
-
 -   Données issues de recensement
-
 -   Données GPS
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

@@ -55,13 +55,9 @@ format:
 <div>
 
 -   Religion et espace public
-
 -   Géographie des élections, femmes et pouvoirs
-
 -   Géographie urbaine
-
 -   Géographie de la population
-
 -   Démographie
 
 </div>
@@ -69,7 +65,6 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Enquêtes de terrain
-
 -   Bases de données -- données brutes (statistiques)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

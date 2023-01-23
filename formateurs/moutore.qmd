@@ -48,22 +48,22 @@ format:
 
 ::: {#liste}
 -   Dynamique spatiale de la prostitution à Kara (Togo)
--   Des inondations à la désorganisation urbaine. Analyse d’une relégation spatiale tolérée à Lomé (Togo)
+-   Des inondations à la désorganisation urbaine. Analyse d'une relégation spatiale tolérée à Lomé (Togo)
 -   Conurbation de la ville de Lomé par la fragmentation du salariat
 -   Ghettoïsation (Wiyaodè, Kara ; Lomé)
 -   Influence des pratiques sécessionnistes ethniques sur le retard économique de Mango et de Dapaong (Togo)
--   Promiscuité riches-pauvres au péril de l’entre-soi dans les espaces relégués du Togo : cas de Tokoin Elavagnon (Lomé)
+-   Promiscuité riches-pauvres au péril de l'entre-soi dans les espaces relégués du Togo : cas de Tokoin Elavagnon (Lomé)
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Environnement des méthodes  et méthodologie de recherche en sciences sociales
--   Sociologie de l’espace, des territoires ; Sociologie des milieux spécifiques ; Sociologie des inégalités et stratification sociales ; Sociologie urbaine et villes durables 
+-   Environnement des méthodes et méthodologie de recherche en sciences sociales
+-   Sociologie de l'espace, des territoires ; Sociologie des milieux spécifiques ; Sociologie des inégalités et stratification sociales ; Sociologie urbaine et villes durables
 -   Histoire et sciences sociales
 -   Stratification et mobilité sociales
--   Enseigner et évaluer avec les technologies de l’information et de la communication
+-   Enseigner et évaluer avec les technologies de l'information et de la communication
 
 </div>
 
@@ -74,7 +74,7 @@ format:
 -   Inventaire territorial
 -   Enquêtes quantitatives et qualitatives
 -   Données GPS, données documentaires
-    
+
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

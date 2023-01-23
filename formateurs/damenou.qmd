@@ -48,9 +48,7 @@ format:
 
 ::: {#liste}
 -   Influence des labels et de la réputation des écoles dans le choix des étudiants (pays sous-développé)
-
 -   Démarche qualité et offre de formation dans l'enseignement supérieur au Bénin : état, disparités géospatiales et géosectorielles, déterminants
-
 -   Certifications des produits de beauté en ligne et compétitivité des petites entreprises : effet de la configuration géospatiale de la zone de résidence des consommateurs
 :::
 
@@ -59,7 +57,6 @@ format:
 <div>
 
 -   Initiation à la méthodologie de recherche
-
 -   Traitement des données à l'aide de SPSS
 
 </div>

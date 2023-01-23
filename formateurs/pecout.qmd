@@ -1,6 +1,6 @@
 ---
-title: Hugues Pecout
-name: "Pecout Hugues"
+title: Hugues PECOUT
+name: "PECOUT Hugues"
 image : img/pecout.png
 bibliography: biblio/pecout.bib
 nocite: '@*'

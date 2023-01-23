@@ -48,11 +48,8 @@ format:
 
 ::: {#liste}
 -   Sciences participatives en environnement (pollution de l'air et plateforme de visualisation \[AirCitizen\])
-
 -   Variabilité spatio-temporelledes températures, à partir de données crowdsourcées, de données satellitaires et de mesures de terrain \[ANR H2C\]
-
 -   Effets du changement urbain sur lesexpositions environnementales, les comportements liés à la santé et la santé autodéclarée \[ANR FabHealth\]
-
 -   Diffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne \[ANR Wisdhom\]
 :::
 
@@ -61,11 +58,8 @@ format:
 <div>
 
 -   Géomatique et systèmes d'information géographique, sous QGIS et R
-
 -   Wepmapping avec plusieurs solutions/logiciels/librairies
-
 -   Analyse spatiale : atelier pratique et approfondissement sur l'interpolation. des données, R
-
 -   Statistiques : applications en environnement, R
 
 </div>
@@ -73,13 +67,9 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données spatiotemporelles
-
 -   Données « de référence » et « émergentes » (données de plates-formes web de services, données contributives)
-
 -   Données raster (satellitaires et de modèle)
-
 -   Données vectorielles
-
 -   Données GPS
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

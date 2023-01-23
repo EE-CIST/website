@@ -18,7 +18,7 @@
     "href": "donnees/gen_monde.html",
     "title": "GEN_MONDE",
     "section": "",
-    "text": "Nom:\nNature: Recensement, enquête, fond de carte, relevé de capteur, etc…\nDescription: Description détaillée\nProducteur: Entité qui a collecté ou généré les données\nFournisseur/URL d’accès: Nom du fournisseur ou URL de récupération des données\nDate:\nEtendue spatiale: Territoire concerné\nEchelle: nationnal, infra-nationnal, ville.. ?\nNombre d’observations:\nNombre de variables:\nDescription des variables:\n\n‘ID’ : Identifiant (string)\n‘NOM’ : Nom des communes (string)\n‘POP’ : Nombre d’habitants en 2020 (numeric)\n…\n…\n\nMéthodologie:\nTransformation: Données ayant subit une transformation/modification ? OUI/NON\nCommentaire:\nLicence:\nCitation:\n\n#—————————————————————————-# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l’école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé"
+    "text": "#—————————————————————————-# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l’école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé"
   },
   {
     "objectID": "donnees/vil_afric_2015.html",
@@ -46,7 +46,7 @@
     "href": "equipe.html",
     "title": "Équipe de formation",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n         \n          Affiliation(s)\n        \n         \n          Pays\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nNom\n\n\nAffiliation(s)\n\n\nPays\n\n\n\n\n\n\n\n\n\nABDOU YONLIHINZA Issa\n\n\nUniversité Abdou Moumouni de Niamey\n\n\nNiger\n\n\n\n\n\n\n\nAMADOU SANNI Mouftaou\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou, LaReSPD\n\n\nBénin\n\n\n\n\n\n\n\nBAMBA Vakaramoko\n\n\nInstitut de géographie tropicale, Université Félix Houphouet Boigny Cocody-Abidjan\n\n\nCôte d’Ivoire\n\n\n\n\n\n\n\nBONNET Emmanuel\n\n\nUMR Pôle de recherche pour l’organisation et la diffusion de l’information géographique (PRODIG), IRD\n\n\nFrance\n\n\n\n\n\n\n\nBRINGÉ Arnaud\n\n\nINED\n\n\nFrance\n\n\n\n\n\n\n\nCHATEL Cathy\n\n\nUMR CESSMA & Géotéca, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nCOULIBALY Fatoumata\n\n\nUniversité des sciences sociales et de gestion de Bamako (USSGB)\n\n\nMali\n\n\n\n\n\n\n\nDAMENOU Sèïvè Ermine Armande\n\n\nCentre de recherche en entrepreneuriat, croissance et innovation (CRECI), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nDANSOU Justin\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nDJOSSOU Gbètoton Nadège\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nGARNIER Bénédicte\n\n\nService méthodes statistiques, INED\n\n\nFrance\n\n\n\n\n\n\n\nGENTILHOMME Marion\n\n\nFR CIST, Université Paris 1 Panthéon-Sorbonne\n\n\nFrance\n\n\n\n\n\n\n\nGLUSKI Pauline\n\n\nUMR PRODIG, IRD\n\n\nFrance\n\n\n\n\n\n\n\nGOLAZ Valérie\n\n\nUMR LPED, INED\n\n\nFrance\n\n\n\n\n\n\n\nGRASLAND Claude\n\n\nFR CIST / UMR Géographie-cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nGUÉRIN-PACE France\n\n\nUR12 Mobilités, parcours, territoires - INED\n\n\nFrance\n\n\n\n\n\n\n\nGuérois Marianne\n\n\nUMR Géographie-Cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nHOUNTON Charles Côomlan\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nHouedakor Koko Zébéto\n\n\nUniversité de Lomé\n\n\nTogo\n\n\n\n\n\n\n\nKOUMOI Zakariyao\n\n\nPREDES, Université de Kara\n\n\nTogo\n\n\n\n\n\n\n\nLAMBERT Nicolas\n\n\nUAR RIATE, CNRS\n\n\nFrance\n\n\n\n\n\n\n\nLARCHER Héléna\n\n\nFR CIST, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nMADELIN Malika\n\n\nUMR PRODIG, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nMOUSSA Yayé\n\n\nUniversité Abdou Moumouni de Niamey\n\n\nNiger\n\n\n\n\n\n\n\nMOUTORE Yentougle\n\n\nUniversité de Kara\n\n\nTogo\n\n\n\n\n\n\n\nMarveaux Elina\n\n\nFR 2007 CIST - CNRS\n\n\nFrance\n\n\n\n\n\n\n\nOUEDRAOGO Manhamady\n\n\nUniversité Joseph Ki-Zerbo de Ouagadougou\n\n\nBurkina Fasso\n\n\n\n\n\n\n\nPISTRE Pierre\n\n\nUMR Géographie-Cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nPecout Hugues\n\n\nUMR Géographie-Cités, CNRS\n\n\nFrance\n\n\n\n\n\n\n\nREY-COYREHOURCQ Sébastien\n\n\nUMR IDEES, Université Rouen-Normandie\n\n\nFrance\n\n\n\n\n\n\n\nTANOH Ané Landry\n\n\nUniversité Alassane Ouattara à Bouaké\n\n\nCôte d’Ivoire\n\n\n\n\n\n\n\nTOURE Labaly\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\nSénégal\n\n\n\n\n\n\n\nTRAORE Souleymane Sidi\n\n\nUniversité des sciences sociales et de gestion de Bamako\n\n\nMali\n\n\n\n\n\n\n\nYagninim Malb Ama N’Danida\n\n\nLaRSEG - LaRELIPS, Université de Kara\n\n\nTogo\n\n\n\n\n\n\n\nZanin Christine\n\n\nUMR Géographie-cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\nAucun article correspondant"
+    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n         \n          Affiliation(s)\n        \n         \n          Pays\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nNom\n\n\nAffiliation(s)\n\n\nPays\n\n\n\n\n\n\n\n\n\nABDOU YONLIHINZA Issa\n\n\nUniversité Abdou Moumouni de Niamey\n\n\nNiger\n\n\n\n\n\n\n\nAMADOU SANNI Mouftaou\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou, LaReSPD\n\n\nBénin\n\n\n\n\n\n\n\nBAMBA Vakaramoko\n\n\nInstitut de géographie tropicale, Université Félix Houphouet Boigny Cocody-Abidjan\n\n\nCôte d’Ivoire\n\n\n\n\n\n\n\nBONNET Emmanuel\n\n\nUMR Pôle de recherche pour l’organisation et la diffusion de l’information géographique (PRODIG), IRD\n\n\nFrance\n\n\n\n\n\n\n\nBRINGÉ Arnaud\n\n\nINED\n\n\nFrance\n\n\n\n\n\n\n\nCHATEL Cathy\n\n\nUMR CESSMA & Géotéca, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nCOULIBALY Fatoumata\n\n\nUniversité des sciences sociales et de gestion de Bamako (USSGB)\n\n\nMali\n\n\n\n\n\n\n\nDAMENOU Sèïvè Ermine Armande\n\n\nCentre de recherche en entrepreneuriat, croissance et innovation (CRECI), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nDANSOU Justin\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nDJOSSOU Gbètoton Nadège\n\n\nEcole nationale de statistique, de planification et de démographie (ENSPD), Université de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nGARNIER Bénédicte\n\n\nService méthodes statistiques, INED\n\n\nFrance\n\n\n\n\n\n\n\nGENTILHOMME Marion\n\n\nFR CIST, Université Paris 1 Panthéon-Sorbonne\n\n\nFrance\n\n\n\n\n\n\n\nGLUSKI Pauline\n\n\nUMR PRODIG, IRD\n\n\nFrance\n\n\n\n\n\n\n\nGOLAZ Valérie\n\n\nUMR LPED, INED\n\n\nFrance\n\n\n\n\n\n\n\nGRASLAND Claude\n\n\nFR CIST / UMR Géographie-cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nGUÉRIN-PACE France\n\n\nUR12 Mobilités, parcours, territoires - INED\n\n\nFrance\n\n\n\n\n\n\n\nGUÉROIS Marianne\n\n\nUMR Géographie-Cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nHOUNTON Charles Côomlan\n\n\nUniversité de Parakou\n\n\nBénin\n\n\n\n\n\n\n\nHouedakor Koko Zébéto\n\n\nUniversité de Lomé\n\n\nTogo\n\n\n\n\n\n\n\nKOUMOI Zakariyao\n\n\nPREDES, Université de Kara\n\n\nTogo\n\n\n\n\n\n\n\nLAMBERT Nicolas\n\n\nUAR RIATE, CNRS\n\n\nFrance\n\n\n\n\n\n\n\nLARCHER Héléna\n\n\nFR CIST, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nMADELIN Malika\n\n\nUMR PRODIG, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nMOUSSA Yayé\n\n\nUniversité Abdou Moumouni de Niamey\n\n\nNiger\n\n\n\n\n\n\n\nMOUTORE Yentougle\n\n\nUniversité de Kara\n\n\nTogo\n\n\n\n\n\n\n\nMarveaux Elina\n\n\nFR 2007 CIST - CNRS\n\n\nFrance\n\n\n\n\n\n\n\nOUEDRAOGO Manhamady\n\n\nUniversité Joseph Ki-Zerbo de Ouagadougou\n\n\nBurkina Fasso\n\n\n\n\n\n\n\nPECOUT Hugues\n\n\nUMR Géographie-Cités, CNRS\n\n\nFrance\n\n\n\n\n\n\n\nPISTRE Pierre\n\n\nUMR Géographie-Cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\n\n\nREY-COYREHOURCQ Sébastien\n\n\nUMR IDEES, Université Rouen-Normandie\n\n\nFrance\n\n\n\n\n\n\n\nTANOH Ané Landry\n\n\nUniversité Alassane Ouattara à Bouaké\n\n\nCôte d’Ivoire\n\n\n\n\n\n\n\nTOURÉ Labaly\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\nSénégal\n\n\n\n\n\n\n\nTRAORE Souleymane Sidi\n\n\nUniversité des sciences sociales et de gestion de Bamako\n\n\nMali\n\n\n\n\n\n\n\nYagninim Malb Ama N’Danida\n\n\nLaRSEG - LaRELIPS, Université de Kara\n\n\nTogo\n\n\n\n\n\n\n\nZanin Christine\n\n\nUMR Géographie-cités, Université Paris-Cité\n\n\nFrance\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "formateurs/abdou-yonlihinza.html",
@@ -308,13 +308,6 @@
     "text": "Ingénieure d’études en statistique\n\n\nService méthodes statistiques, INED\n\n\n France"
   },
   {
-    "objectID": "formateurs/garnier.html#thème-de-recherche",
-    "href": "formateurs/garnier.html#thème-de-recherche",
-    "title": "Bénédicte GARNIER",
-    "section": " Thème de recherche",
-    "text": "Thème de recherche\n\n\nTheme 1\nTheme 2\nTheme 3\nTheme 4\nTheme 5"
-  },
-  {
     "objectID": "formateurs/garnier.html#enseignements-dispensés",
     "href": "formateurs/garnier.html#enseignements-dispensés",
     "title": "Bénédicte GARNIER",
@@ -368,7 +361,7 @@
     "href": "formateurs/gluski.html#thème-de-recherche",
     "title": "Pauline GLUSKI",
     "section": " Thème de recherche",
-    "text": "Thème de recherche\n\n\nChaîne de l’information géographique (des enquêtes de terrain à la restitution des résultats sous forme cartographique, en passant par différents traitements et analyses à partir d’outils SIG et carto) sur les Suds et dans 2 thématiques :\nla gestion de crise\nle risque sanitaire lié à l’environnement"
+    "text": "Thème de recherche\n\n\nChaîne de l’information géographique (des enquêtes de terrain à la restitution des résultats sous forme cartographique, en passant par différents traitements et analyses à partir d’outils SIG et carto) sur les Suds et dans 2 thématiques :\nLa gestion de crise\nLe risque sanitaire lié à l’environnement"
   },
   {
     "objectID": "formateurs/gluski.html#enseignements-dispensés",
@@ -478,28 +471,28 @@
   {
     "objectID": "formateurs/guerois.html",
     "href": "formateurs/guerois.html",
-    "title": "Marianne Guérois",
+    "title": "Marianne GUÉROIS",
     "section": "",
     "text": "Maîtresse de conférences en Géographie\n\n\nUMR Géographie-Cités, Université Paris-Cité\n\n\n France"
   },
   {
     "objectID": "formateurs/guerois.html#thème-de-recherche",
     "href": "formateurs/guerois.html#thème-de-recherche",
-    "title": "Marianne Guérois",
+    "title": "Marianne GUÉROIS",
     "section": " Thème de recherche",
     "text": "Thème de recherche\n\n\nDiffusion spatio-temporelle des locations saisonnières touristiques en banlieue parisienne [ANR Wisdhom]\nAccessibilité aux services à la population à partir de base de données contributives (OSM)"
   },
   {
     "objectID": "formateurs/guerois.html#enseignements-dispensés",
     "href": "formateurs/guerois.html#enseignements-dispensés",
-    "title": "Marianne Guérois",
+    "title": "Marianne GUÉROIS",
     "section": " Enseignements dispensés",
     "text": "Enseignements dispensés\n\n\nAnalyse spatiale et applications dans R\nSystèmes d’information géographique, essentiellement sous QGIS"
   },
   {
     "objectID": "formateurs/guerois.html#données-mobilisées",
     "href": "formateurs/guerois.html#données-mobilisées",
-    "title": "Marianne Guérois",
+    "title": "Marianne GUÉROIS",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées de recensement\nComparaisons internationales de nomenclatures urbaines\nDonnées « émergentes » (données de plateformes web de services, données contributives)"
   },
@@ -786,28 +779,28 @@
   {
     "objectID": "formateurs/pecout.html",
     "href": "formateurs/pecout.html",
-    "title": "Hugues Pecout",
+    "title": "Hugues PECOUT",
     "section": "",
     "text": "Ingénieur d’études en science de l’information géographique\n\n\nUMR Géographie-Cités, CNRS\n\n\n France"
   },
   {
     "objectID": "formateurs/pecout.html#thème-de-recherche",
     "href": "formateurs/pecout.html#thème-de-recherche",
-    "title": "Hugues Pecout",
+    "title": "Hugues PECOUT",
     "section": " Thème de recherche",
     "text": "Thème de recherche\n\n\nTheme 1\nTheme 2\nTheme 3\nTheme 4\nTheme 5"
   },
   {
     "objectID": "formateurs/pecout.html#enseignements-dispensés",
     "href": "formateurs/pecout.html#enseignements-dispensés",
-    "title": "Hugues Pecout",
+    "title": "Hugues PECOUT",
     "section": " Enseignements dispensés",
     "text": "Enseignements dispensés\n\n\nEnseignement 1\nEnseignement 2\nEnseignement 3\nEnseignement 4\nEnseignement 5"
   },
   {
     "objectID": "formateurs/pecout.html#données-mobilisées",
     "href": "formateurs/pecout.html#données-mobilisées",
-    "title": "Hugues Pecout",
+    "title": "Hugues PECOUT",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5"
   },
@@ -933,28 +926,28 @@
   {
     "objectID": "formateurs/toure.html",
     "href": "formateurs/toure.html",
-    "title": "Labaly TOURE",
+    "title": "Labaly TOURÉ",
     "section": "",
     "text": "Enseignant-Chercheur en Géomatique\n\n\nUniversité du Sine Saloum El-Hâdj Ibrahima Niass\n\n\n Sénégal"
   },
   {
     "objectID": "formateurs/toure.html#thème-de-recherche",
     "href": "formateurs/toure.html#thème-de-recherche",
-    "title": "Labaly TOURE",
+    "title": "Labaly TOURÉ",
     "section": " Thème de recherche",
     "text": "Thème de recherche\n\n\nDynamique spatiotemporelle des ressources naturelles en moyenne Casamance\nOutils de gestion foncière\nCartographie des structures de santé au Sénégal\nDynamiques territoriale"
   },
   {
     "objectID": "formateurs/toure.html#enseignements-dispensés",
     "href": "formateurs/toure.html#enseignements-dispensés",
-    "title": "Labaly TOURE",
+    "title": "Labaly TOURÉ",
     "section": " Enseignements dispensés",
     "text": "Enseignements dispensés\n\n\nSIG, y compris sur QGIS\nAnalyse spatiale\nCartographie thématique\nWebmapping\nOutils de collecte de données\nTraitement des données satellitaires\nSémiologie graphique"
   },
   {
     "objectID": "formateurs/toure.html#données-mobilisées",
     "href": "formateurs/toure.html#données-mobilisées",
-    "title": "Labaly TOURE",
+    "title": "Labaly TOURÉ",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées GPS\nImages satellites\nEnquêtes"
   },

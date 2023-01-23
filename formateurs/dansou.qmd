@@ -48,9 +48,7 @@ format:
 
 ::: {#liste}
 -   Facteurs associés à la pratique contraceptive parmi les femmes proches de la ménopause en Afrique sub- saharienne
-
 -   Before Pills and Injectables : Drivers of Traditional Contraceptive Practice in Sub-Saharan-Africa
-
 -   Variations in Antenatal Care Initiation Among Reproductive Age Women in Sub-Saharan-Africa : Event History Analysis Approach
 :::
 
@@ -59,11 +57,8 @@ format:
 <div>
 
 -   Logiciel d'analyse prospective de développement ; Analyse et planification de la scolarisation
-
 -   Analyse et planification de la main-d'œuvre et de l'emploi ; Analyse et planification de la santé
-
 -   Statistique descriptive (application en R) ; Introduction à la démographie
-
 -   Analyse longitudinale, analyse transversale ; Initiation à l'outil informatique
 
 </div>
@@ -71,7 +66,6 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données des enquêtes démographique et de santé (EDS)
-
 -   Données de recensement général de la population et de l'habitation (RGPH)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

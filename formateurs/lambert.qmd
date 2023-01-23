@@ -55,9 +55,7 @@ format:
 <div>
 
 -   Cartographie
-
 -   Des cartes : pourquoi ? comment ?
-
 -   Utilisation de R : cartes de flux, anamorphoses, package Xarigan
 
 </div>

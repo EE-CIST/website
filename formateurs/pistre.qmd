@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Étude des dynamiques sociodémographiques dans les campagnes françaises (structures de population, migrations, mobilités…) à partir de données du recensement de la population
+-   Étude des dynamiques sociodémographiques dans les campagnes françaises (structures de population, migrations, mobilités...) à partir de données du recensement de la population
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -56,14 +56,13 @@ format:
 
 -   Initiation aux statistiques et à la cartographie
 -   Analyse de données avec R
-    
+
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   Enquêtes nationales françaises (Logement, Transport et déplacement, Histoire de vie…)
--   Bases de données individuelles (RPLS/logements sociaux, SIRENE/Activités économiques…)
-## <i class="bi bi-file-earmark-text"></i> Publications
+-   Enquêtes nationales françaises (Logement, Transport et déplacement, Histoire de vie...)
+-   Bases de données individuelles (RPLS/logements sociaux, SIRENE/Activités économiques...) \## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
 :::

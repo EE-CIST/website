@@ -48,7 +48,6 @@ format:
 
 ::: {#liste}
 -   Apport des systèmes d'information géographiques et la cartographie dans la gestion des territoires
-
 -   Usage de la télédétection dans l'étude des paysages naturels
 :::
 
@@ -57,13 +56,9 @@ format:
 <div>
 
 -   Cartographie thématique
-
 -   Système d'information géographique (ARCGIS, QGIS)
-
 -   Statistiques
-
 -   Télédétection
-
 -   Aménagement du territoire
 
 </div>
@@ -71,13 +66,9 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Enquêtes de terrain
-
 -   GPS
-
 -   Recensement général de la population et de l'habitat
-
 -   Données géospatiales
-
 -   Données issues de traitement des images satellitaires Landsat
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

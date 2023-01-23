@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Politique éducative en Côte d’Ivoire
+-   Politique éducative en Côte d'Ivoire
 -   Planification familiale et scolarisation des enfants
 -   Problématique du genre
 :::
@@ -58,15 +58,15 @@ format:
 
 -   Introduction à la démographie
 -   Initiation aux techniques de collectes des données
--   Migration en Côte d’Ivoire
+-   Migration en Côte d'Ivoire
 -   Politique de planification familiale en Afrique
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   Données d’enquêtes : enquête de démographie de santé (EDS), Enquête Niveau de Vie en Côte d’Ivoire (ENV), enquête à indicateurs multiples (MICS) et Rapport sur le système éducatif national (RESEN)
--   Recensement : recensement général de la population et de l’habitat (RGPH)
+-   Données d'enquêtes : enquête de démographie de santé (EDS), Enquête Niveau de Vie en Côte d'Ivoire (ENV), enquête à indicateurs multiples (MICS) et Rapport sur le système éducatif national (RESEN)
+-   Recensement : recensement général de la population et de l'habitat (RGPH)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

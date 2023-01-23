@@ -48,7 +48,6 @@ format:
 
 ::: {#liste}
 -   The effect of an unconditional cash transfer on gendered time allocation in Ghana
-
 -   Digitalisation des services publics au Bénin : challenges et opportunités
 :::
 
@@ -57,11 +56,8 @@ format:
 <div>
 
 -   Séries chronologiques
-
 -   Introduction à l'économétrie
-
 -   Analyse de la variance
-
 -   Économétrie des séries temporelles
 
 </div>
@@ -69,7 +65,6 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données primaires : enquêtes quantitatives spécifiques au sein des ménages
-
 -   Données secondaires : EDS, enquêtes spécifiques entreprises -- Banque mondiale
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

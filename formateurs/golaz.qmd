@@ -55,7 +55,6 @@ format:
 <div>
 
 -   Démographie : sources et analyse des données
-
 -   Modèles multiniveaux
 
 </div>
@@ -63,9 +62,7 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données démographiques : recensements et enquêtes (EDS en particulier), lorsque possible avec un certain degré de spatialisation
-
 -   Données environnementales : bases de données internationales, données satellitaires
-
 -   Enquêtes qualitatives, presse, archives
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

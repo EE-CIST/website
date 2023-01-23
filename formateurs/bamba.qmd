@@ -48,9 +48,7 @@ format:
 
 ::: {#liste}
 -   Transport et approvisionnement des marchés urbains ivoiriens en produits vivriers
-
 -   Mobilité dans les villes secondaires ivoiriennes (Jacqueville et Bouaké)
-
 -   TICS dans le transport et la mobilité en Côte d'Ivoire
 :::
 
@@ -59,9 +57,7 @@ format:
 <div>
 
 -   La carte, outil du géographe : généralités, lecture de la carte thématique et interprétations des documents géographiques
-
 -   Objet et finalités de la géographie : moyens d'évaluations, recherche documentaire en géographie, présentation et commentaire des documents géographiques
-
 -   Questionnaire, guide d'observation et guide d'entretien : différence entre outils de collecte de données selon l'approche, élaboration des outils qualitatifs et quantitatifs, échantillonnage et extrapolation des résultats
 
 </div>
@@ -69,9 +65,7 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données de recensement
-
 -   Enquêtes par questionnaire
-
 -   guides d'observation et guides d'entretien
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

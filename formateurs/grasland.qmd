@@ -49,9 +49,7 @@ format:
 
 ::: {#liste}
 -   Modélisation des flux de presse à l'échelle mondiale
-
 -   Analyse des représentations des territoires à l'aide d'enquêtes
-
 -   Géopolitique de l'Europe dans le Monde
 :::
 
@@ -60,11 +58,8 @@ format:
 <div>
 
 -   Statistique univariée et bivariée
-
 -   Analyse spatiale des phénomènes sociaux
-
 -   Modélisation statistique et analyse multivariée
-
 -   Statistique, cartographie et analyse spatiale avec R
 
 </div>
@@ -72,11 +67,8 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Recensements au niveau agrégé ou individuel
-
 -   Enquêtes individuelles
-
 -   Données web (flux RSS, twitter...)
-
 -   Données internationales ou mondiales (e.g. Eurostat, Banque Mondiale)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
