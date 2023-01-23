@@ -1,8 +1,8 @@
 ---
-title: "Labaly Toure"
-name: "Toure Labaly"
+title: "Labaly TOURE"
+name: "TOURE Labaly"
 image : img/toure-l.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/toure.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,33 +47,32 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Dynamique spatiotemporelle des ressources naturelles en moyenne Casamance
+-   Outils de gestion foncière
+-   Cartographie des structures de santé au Sénégal
+-   Dynamiques territoriale
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   SIG, y compris sur QGIS
+-   Analyse spatiale
+-   Cartographie thématique
+-   Webmapping
+-   Outils de collecte de données
+-   Traitement des données satellitaires
+-   Sémiologie graphique
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
-
+-   Données GPS
+-   Images satellites
+-   Enquêtes
+    
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

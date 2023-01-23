@@ -1,8 +1,8 @@
 ---
-title: Manhamady Ouedraogo
-name: "Ouedraogo Manhamady"
+title: Manhamady OUEDRAOGO
+name: "OUEDRAOGO Manhamady"
 image : img/ouedraogo_m.jpg
-# bibliography: biblio/pecout.bib
+bibliography: biblio/ouedraogo.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,24 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Accidents de la route et prise en charge des victimes \[GDRi Trauma\]
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Cartographie analytique
+-   Acquisition de données géographique
+-   Théorie des SIG
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données d'enquêtes via Kobo ou ODK
+-   Données GPS
+-   Données Raster (images satellites)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

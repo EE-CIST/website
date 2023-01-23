@@ -1,8 +1,8 @@
 ---
-title: "Sébastien Rey-Coyrehourcq"
-name: "Rey-Coyrehourcq Sébastien"
+title: "Sébastien REY-COYREHOURCQ"
+name: "REY-COYREHOURCQ Sébastien"
 image : img/rey_coyrehourcq-s.png
-<!-- bibliography: biblio/pecout.bib -->
+bibliography: biblio/rey.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,29 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   High Performance Computing en géomatique
+-   Réflexion interdisciplinaire sur les notebooks
+-   Modélisation et simulation (Conception de système d'aide à la décision pour la gestion des risques, simulation d'évacuation des villes \[ANR Escape\]
+-   Simulation de maladies à transmission vectorielles en intra-urbain \[ANR MO3\]
+-   Reconstitution climatique et modélisation de la vulnérabilité sociale sur le dernier millénaire à Chypre \[HIGH PASM\])
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Algorithmique et programmation en python
+-   Construction et exploration de modèle de simulation en Netlogo
+-   Workshops R/Python et Webscraping
+-   Workshops sur les Notebooks en R/Python
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données en sortie de modèles de simulation
+-   Données en SBGD spatialisés (Postgresql/Postgis) ou Web Semantique (RDF)
+-   Données issues du web (API, Webscraping)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

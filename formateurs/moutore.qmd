@@ -1,8 +1,8 @@
 ---
-title: Yentougle Moutore
-name: "Moutore Yentougle"
+title: Yentougle MOUTORE  
+name: "MOUTORE Yentougle"
 image : img/moutore-y.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/moutore.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,33 +47,34 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Dynamique spatiale de la prostitution à Kara (Togo)
+-   Des inondations à la désorganisation urbaine. Analyse d’une relégation spatiale tolérée à Lomé (Togo)
+-   Conurbation de la ville de Lomé par la fragmentation du salariat
+-   Ghettoïsation (Wiyaodè, Kara ; Lomé)
+-   Influence des pratiques sécessionnistes ethniques sur le retard économique de Mango et de Dapaong (Togo)
+-   Promiscuité riches-pauvres au péril de l’entre-soi dans les espaces relégués du Togo : cas de Tokoin Elavagnon (Lomé)
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Environnement des méthodes  et méthodologie de recherche en sciences sociales
+-   Sociologie de l’espace, des territoires ; Sociologie des milieux spécifiques ; Sociologie des inégalités et stratification sociales ; Sociologie urbaine et villes durables 
+-   Histoire et sciences sociales
+-   Stratification et mobilité sociales
+-   Enseigner et évaluer avec les technologies de l’information et de la communication
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
-
+-   SIG
+-   Indices de dissimilarité et de localisation
+-   Inventaire territorial
+-   Enquêtes quantitatives et qualitatives
+-   Données GPS, données documentaires
+    
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

@@ -1,8 +1,8 @@
 ---
-title: Yayé Moussa
-name: "Moussa Yayé"
+title: Yayé MOUSSA
+name: "MOUSSA Yayé"
 image : img/moussa-y.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/moussa.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,24 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Résilience territoriale à la précarité hydrique dans le Liptako nigérien
+-   Réponses sociales des communautés (solidarité hydraulique, mutualisation des points d'eau, mini-réseaux de voisins dans les quartiers périphériques de Niamey) à la précarité hydrique
+-   Territoires hydrauliques
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Systèmes d'Informations Géographiques
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données secondaires (recensement, statistiques des services administratifs)
+-   Données primaires collectées sur le terrain (enquêtes et entretiens)
+-   Données GPS
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

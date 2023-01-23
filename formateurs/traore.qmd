@@ -1,8 +1,8 @@
 ---
-title: "Souleymane Sidi Traore"
-name: "Traore Souleymane Sidi"
+title: "Souleymane Sidi TRAORE"
+name: "TRAORE Souleymane Sidi"
 image : img/traore-s.png
-# bibliography: biblio/pecout.bib
+# bibliography: biblio/traore.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,33 +47,29 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Exploitation durable des espaces et des ressources [projet AGR-ECO : Amélioration des pratiques agricoles pour soutenir l’intensification agroécologique dans la zone cotonnière du Mali]
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Analyse spatiale et SIG
+-   Infrastructure de données spatiale
+-   Télédétection, notamment des milieux naturels
+-   Méthodes d’analyse quantitative en géographie physiques
+-   Modélisation socio-écologique avec les agents : concept de base et applications
+-   Cartographie
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
-
+-   Images satellites (Landsat, Spot, World View, Pléiades) pour la caractérisation des espaces (Arc2, TRMM, TAMSAT) pour les informations climatiques
+-   Données de références GPS
+-   Données d’enquêtes de terrains, de focus groups et de diagnostic
+-   Données d’inventaires floristiques et données statistiques
+    
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}
