@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-name','listing-affiliation','listing-pays',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-name-sort'] }],
+      valueNames: ['listing-name','listing-module','listing-pays',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-name-sort'] }],
       
       searchColumns: ["listing-title","listing-author"],
     };
@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./contact.html">Contact</a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/EE-CIST/website"><i class="bi bi-github" role="img">
 </i> 
  </a>
   </li>  
@@ -261,7 +261,7 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="img/cist.png" class="img-fluid"></p>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Monde">Monde <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Monde">Monde <span class="quarto-category-count">(1)</span></div><div class="category" data-category="afrique">afrique <span class="quarto-category-count">(1)</span></div><div class="category" data-category="agglomération">agglomération <span class="quarto-category-count">(1)</span></div><div class="category" data-category="démographie">démographie <span class="quarto-category-count">(2)</span></div><div class="category" data-category="emploi">emploi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="environnement">environnement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="grille biographique">grille biographique <span class="quarto-category-count">(1)</span></div><div class="category" data-category="géographie">géographie <span class="quarto-category-count">(2)</span></div><div class="category" data-category="langue">langue <span class="quarto-category-count">(1)</span></div><div class="category" data-category="migrations">migrations <span class="quarto-category-count">(1)</span></div><div class="category" data-category="urbanisation">urbanisation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="économie">économie <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <div class="quarto-about-marquee column-body">
   <div class="about-image-container">
@@ -286,8 +286,8 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-name-sort" data-direction="asc">
           Nom
         </option>
-         <option value="listing-affiliation" data-direction="asc">
-          Affiliation(s)
+         <option value="listing-module" data-direction="asc">
+          Module(s)
         </option>
          <option value="listing-pays" data-direction="asc">
           Pays
@@ -306,7 +306,7 @@ ul.task-list li input[type="checkbox"] {
 <a class="sort" data-sort="listing-name-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Nom</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-affiliation" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Affiliation(s)</a>
+<a class="sort" data-sort="listing-module" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Module(s)</a>
 </th>
 <th>
 <a class="sort" data-sort="listing-pays" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Pays</a>
@@ -314,30 +314,35 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Monde" data-listing-file-modified-sort="1674474395923" data-listing-reading-time-sort="0.6" data-listing-name-sort="gen_monde" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-categories="grille biographique,migrations,emploi,langue" data-listing-file-modified-sort="1674825416177" data-listing-reading-time-sort="0.73" data-listing-name-sort="enq_tunis_2016" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td class="listing-name">
+<a href="./donnees/enq_tunis_2016.html" class="name">enq_tunis_2016</a>
+</td>
+<td class="listing-module">
+TYP1,EXP3
+</td>
+<td class="listing-pays">
+</td>
+</tr>
+<tr data-index="1" data-categories="Monde,démographie,économie,géographie,environnement" data-listing-file-modified-sort="1674825306014" data-listing-reading-time-sort="27.46" data-listing-name-sort="gen_monde" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-name">
 <a href="./donnees/gen_monde.html" class="name">gen_monde</a>
 </td>
-<td class="listing-affiliation">
+<td class="listing-module">
+CART1-2,CART3
 </td>
 <td class="listing-pays">
 </td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1674472773388" data-listing-reading-time-sort="1.6" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="2" data-categories="agglomération,afrique,urbanisation,géographie,démographie" data-listing-file-modified-sort="1674825281958" data-listing-reading-time-sort="0.73" data-listing-name-sort="vil_afric_2015" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-name">
+<a href="./donnees/vil_afric_2015.html" class="name">vil_afric_2015</a>
 </td>
-<td class="listing-affiliation">
-</td>
-<td class="listing-pays">
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1674472773388" data-listing-reading-time-sort="1.6" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td class="listing-name">
-</td>
-<td class="listing-affiliation">
+<td class="listing-module">
+TYP2,SPA1,SPA3,OUT2
 </td>
 <td class="listing-pays">
 </td>

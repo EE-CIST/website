@@ -1,45 +1,76 @@
-#---------------------------------------------------------------------------#
-#                                                                           #
-#                   METADONNEES - NOM DES DONNEES                           #
-#                                                                           #
-#---------------------------------------------------------------------------#
+---
+title: "Enquête sur les transformations de la société tunisienne"
+name: "enq_tunis_2016"
+# image : img/traore-s.png
+# bibliography: biblio/traore.bib
+nocite: '@*'
+csl: geo.csl
+categories: 
+- grille biographique
+- migrations
+- emploi
+- langue
+about:
+  template: marquee
+  # image:  img/traore-s.png
+  # image-width: 18em
+  # image-shape: rounded
+  links:
+    - icon: twitter
+      text: Données
+      href: https://twitter.com
+    - icon: github
+      text: Producteur des donées
+      href: https://github.com
+      
+module: 
+- TYP1
+- EXP3
+# statut: Enseignant-chercheur en Géographie
+# pays: Mali
+title-block-categories: true
 
-- Nom:
-- Nature: Recensement, enquête, fond de carte, relevé de capteur, etc...
-- Description: Description détaillée 
+format:
+  html: 
+    css: styles_bis.css
+---
 
-- Producteur: Entité qui a collecté ou généré les données
-- Fournisseur/URL d'accès: Nom du fournisseur ou URL de récupération des données
+-   Nom:
 
-- Date: 
-- Etendue spatiale: Territoire concerné
-- Echelle: nationnal, infra-nationnal, ville.. ?
+-   Nature: Recensement, enquête, fond de carte, relevé de capteur, etc...
 
-- Nombre d'observations:
-- Nombre de variables:
-- Description des variables: 
+-   Description: Description détaillée
 
-	- 'ID' : Identifiant (string)
-	- 'NOM' : Nom des communes (string)
-	- 'POP' : Nombre d'habitants en 2020 (numeric)
-	- ...
-	- ...
+-   Producteur: Entité qui a collecté ou généré les données
 
+-   Fournisseur/URL d'accès: Nom du fournisseur ou URL de récupération des données
 
-- Méthodologie:
+-   Date:
 
-- Transformation: Données ayant subit une transformation/modification ? OUI/NON
-- Commentaire:
+-   Etendue spatiale: Territoire concerné
 
-- Licence:
-- Citation: 
+-   Echelle: nationnal, infra-nationnal, ville.. ?
 
+-   Nombre d'observations:
 
+-   Nombre de variables:
 
-#----------------------------------------------------------------------------#
-- Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école
-- Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données 
-- TAGS: mots-clé
+-   Description des variables:
 
+    -   'ID' : Identifiant (string)
+    -   'NOM' : Nom des communes (string)
+    -   'POP' : Nombre d'habitants en 2020 (numeric)
+    -   ...
+    -   ...
 
+-   Méthodologie:
 
+-   Transformation: Données ayant subit une transformation/modification ? OUI/NON
+
+-   Commentaire:
+
+-   Licence:
+
+-   Citation:
+
+#----------------------------------------------------------------------------# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé
