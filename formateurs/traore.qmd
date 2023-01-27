@@ -2,7 +2,7 @@
 title: "Souleymane Sidi TRAORE"
 name: "TRAORE Souleymane Sidi"
 image : img/traore-s.png
-# bibliography: biblio/traore.bib
+bibliography: biblio/traore.bib
 nocite: '@*'
 csl: geo.csl
 categories: 

@@ -1,8 +1,8 @@
 ---
-title: "Malb Ama N’Danida Yagninim"
-name: "Yagninim Malb Ama N’Danida"
+title: "Malb Ama N’Danida YAGNINIM"
+name: "YAGNINIM Malb Ama N’Danida"
 image : img/yagninim-m.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/yagninim.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,32 +47,24 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Changement climatique et bien-être social des populations vivants dans les bidonvilles au Togo, cas de la ville de Lomé commune
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Démographie générale
+-   Macroéconomie modèle de base
+-   Principes microéconomie
+-   Économie de développement
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données d’enquêtes : Global Youth Tobacco Survey (GYTS), Global Adult Tobacco Survey (GATS)
+-   Enquêtes du questionnaire unifié des indicateurs de base de bien-être (QUIBB)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

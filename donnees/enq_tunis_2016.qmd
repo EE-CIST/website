@@ -15,13 +15,13 @@ about:
   # image:  img/traore-s.png
   # image-width: 18em
   # image-shape: rounded
-  links:
-    - icon: twitter
-      text: Données
-      href: https://twitter.com
-    - icon: github
-      text: Producteur des donées
-      href: https://github.com
+  # links:
+  #   - icon: twitter
+  #     text: Données
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Producteur des donées
+  #     href: https://github.com
       
 module: 
 - TYP1
@@ -35,42 +35,47 @@ format:
     css: styles_bis.css
 ---
 
--   Nom:
+-   **Nom** : Enquête sur les transformations de la société tunisienne
 
--   Nature: Recensement, enquête, fond de carte, relevé de capteur, etc...
+-   **Nature** : Données d'enquête socio démographique avec une grille biographique
 
--   Description: Description détaillée
+-   **Description** :
 
--   Producteur: Entité qui a collecté ou généré les données
+-   **Producteur** : INED-CERP
 
--   Fournisseur/URL d'accès: Nom du fournisseur ou URL de récupération des données
+-   **Fournisseur/URL d'accès** : non publiées
 
--   Date:
+-   **Date** : 2016
 
--   Etendue spatiale: Territoire concerné
+-   **Etendue spatiale** : Tunisie
 
--   Echelle: nationnal, infra-nationnal, ville.. ?
+-   **Echelle** : échantillon de districts représentatifs de la population tunisienne à l'échelle des gouvernorats
 
--   Nombre d'observations:
+-   **Nombre d'observations** : 3463 personnes
 
--   Nombre de variables:
+-   **Nombre de variables** : 1047
 
--   Description des variables:
+-   **Description des variables** :
 
-    -   'ID' : Identifiant (string)
-    -   'NOM' : Nom des communes (string)
-    -   'POP' : Nombre d'habitants en 2020 (numeric)
-    -   ...
-    -   ...
+    | Nom | Description | Sources | Type |
+    |-----|-------------|---------|------|
+    |     |             |         |      |
+    |     |             |         |      |
 
--   Méthodologie:
+-   **Méthodologie** :
 
--   Transformation: Données ayant subit une transformation/modification ? OUI/NON
+-   **Transformation** : Données ayant subit une transformation/modification ? OUI/NON
 
--   Commentaire:
+-   **Commentaire** :
+
+--------------------------------------------------------------------------------
 
 -   Licence:
 
 -   Citation:
 
-#----------------------------------------------------------------------------# - Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école - Module(s) de formation concerné(s): liste de modules qui utilisent ce jeu de données - TAGS: mots-clé
+-   Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école
+
+-   Module(s) de formation concerné(s):
+
+-   TAGS: mots-clé

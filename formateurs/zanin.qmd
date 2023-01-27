@@ -1,8 +1,8 @@
 ---
-title: "Christine Zanin"
-name: "Zanin Christine"
+title: "Christine ZANIN"
+name: "ZANIN Christine"
 image : img/zanin-c.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/zanin.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Cartographie\
+-   Cartographie
 -   Représentations\
 -   Visualisation\
 -   Sémiologie graphique\
@@ -58,21 +58,19 @@ format:
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Cartographie, sémiologie graphique
+-   Statistiques et cartographie
+-   Analyse de données
+-   Projet de cartographie éditoriale
+-   Projet géomatique
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Recensement
+-   Cartes
+-   Données statistiques variées
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
