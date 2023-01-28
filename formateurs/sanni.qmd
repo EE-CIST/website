@@ -2,7 +2,7 @@
 title: "Mouftaou AMADOU SANNI"
 name: "AMADOU SANNI Mouftaou"
 image: img/amadou_sanni-m-2.png
-# bibliography: biblio/pecout.bib
+bibliography: biblio/sanni.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
