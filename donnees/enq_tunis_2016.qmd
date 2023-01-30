@@ -1,8 +1,6 @@
 ---
 title: "Enquête sur les transformations de la société tunisienne"
-name: "enq_tunis_2016"
-# image : img/traore-s.png
-# bibliography: biblio/traore.bib
+name: "Enquête Tunisie"
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -12,22 +10,14 @@ categories:
 - langue
 about:
   template: marquee
-  # image:  img/traore-s.png
-  # image-width: 18em
-  # image-shape: rounded
   # links:
-  #   - icon: twitter
-  #     text: Données
-  #     href: https://twitter.com
   #   - icon: github
   #     text: Producteur des donées
   #     href: https://github.com
-      
 module: 
-- TYP1
+- Type de données 1
 - EXP3
-# statut: Enseignant-chercheur en Géographie
-# pays: Mali
+nature: enquête
 title-block-categories: true
 
 format:

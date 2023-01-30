@@ -2,28 +2,20 @@
 title: "**Données Mobilisées**"
 listing:
   id: donnees
-  fields: [name, module, pays]
-  # fields: [image, name, module, pays]
+  fields: [name, module, nature]
   filter-ui: true
   contents: donnees
   sort: "name"
-  sort-ui: [name, module, pays]
+  sort-ui: [name, module, nature]
   type: table
   categories: true
-  # image-height: 100px
   table-hover: true
   field-links: ["name"]
-  # image-placeholder: img/wip.jpg
   page-size: 50
   field-display-names:
     name: "Nom"
-    pays: "Pays"
+    nature: "Nature"
     module: "Module(s)"
 about:
   template: marquee
-  # image : img/formateurs.jpeg
-  # image-width: 40em
-  # image-shape: rounded
 ---
-
-

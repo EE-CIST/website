@@ -11,28 +11,28 @@
     "href": "donnees/enq_tunis_2016.html",
     "title": "Enquête sur les transformations de la société tunisienne",
     "section": "",
-    "text": "Licence:\nCitation:\nLien de téléchargement: A remplir une fois que les données seront sur le site de l’école\nModule(s) de formation concerné(s):\nTAGS: mots-clé"
+    "text": "Nom : Enquête sur les transformations de la société tunisienne\nNature : Données d’enquête socio démographique avec une grille biographique\nDescription :\nProducteur : INED-CERP\nFournisseur/URL d’accès : non publiées\nDate : 2016\nEtendue spatiale : Tunisie\nEchelle : échantillon de districts représentatifs de la population tunisienne à l’échelle des gouvernorats\nNombre d’observations : 3463 personnes\nNombre de variables : 1047\nDescription des variables :\n\n\n\nNom\nDescription\nSources\nType\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMéthodologie :\nTransformation : Données ayant subit une transformation/modification ? OUI/NON\nCommentaire :\n\n\n\nLicence:\nCitation:\nLien de téléchargement: A remplir une fois que les données seront sur le site de l’école\nModule(s) de formation concerné(s):\nTAGS: mots-clé"
   },
   {
     "objectID": "donnees/gen_monde.html",
     "href": "donnees/gen_monde.html",
     "title": "Tableau général des pays du Monde",
     "section": "",
-    "text": "Nom\nDescription\nSources\nType\n\n\n\n\nSurface area (sq. km)\nSurface area is a country’s total area, including areas under inland bodies of water and some coastal waterways.\nFood and Agriculture Organization, electronic files and web site.\nnumeric\n\n\nArable land (hectares)\nArable land (in hectares) includes land defined by the FAO as land under temporary crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.\nFood and Agriculture Organization, electronic files and web site.\nnumeric\n\n\nPopulation, total\nTotal population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.\n(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.\nnumeric\n\n\nUrban population\nUrban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects. Aggregation of urban and rural population may not add up to total population because of different country coverages.\nWorld Bank staff estimates based on the United Nations Population Division’s World Urbanization Prospects: 2018 Revision.\nnumeric\n\n\nGDP (current US$)\nGDP at purchaser’s prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.\nWorld Bank national accounts data, and OECD National Accounts data files.\nnumeric\n\n\nCO2 emissions (kt)\nCarbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.\nCarbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.\nnumeric\n\n\n\n\nMéthodologie :\nTransformation : Estimation des valeurs manquantes\nCommentaire :\n\n\n\nLicence :\nCitation :\nLien de téléchargement :\nModule(s) de formation concerné(s):\n\nCartographie 1-2-3\n\nTAGS :"
+    "text": "Nature : Statistiques internationales\nDescription :\nProducteur : Banque mondiale & estimation (sources)\nFournisseur/URL d’accès : Banque mondiale via son API\nDate: 1990-2019\nEtendue spatiale : Monde\nEchelle : National\nNombre d’observations : 220\nNombre de variables : 6 variables de stock\nDescription des variables :\n\n\n\n\n\n\n\n\n\n\nNom\nDescription\nSources\nType\n\n\n\n\nSurface area (sq. km)\nSurface area is a country’s total area, including areas under inland bodies of water and some coastal waterways.\nFood and Agriculture Organization, electronic files and web site.\nnumeric\n\n\nArable land (hectares)\nArable land (in hectares) includes land defined by the FAO as land under temporary crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.\nFood and Agriculture Organization, electronic files and web site.\nnumeric\n\n\nPopulation, total\nTotal population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.\n(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.\nnumeric\n\n\nUrban population\nUrban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects. Aggregation of urban and rural population may not add up to total population because of different country coverages.\nWorld Bank staff estimates based on the United Nations Population Division’s World Urbanization Prospects: 2018 Revision.\nnumeric\n\n\nGDP (current US$)\nGDP at purchaser’s prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.\nWorld Bank national accounts data, and OECD National Accounts data files.\nnumeric\n\n\nCO2 emissions (kt)\nCarbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.\nCarbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.\nnumeric\n\n\n\n\nMéthodologie :\nTransformation : Estimation des valeurs manquantes\nCommentaire :\n\n\n\nLicence :\nCitation :\nLien de téléchargement :\nModule(s) de formation concerné(s):\n\nCartographie 1-2-3\n\nTAGS :"
   },
   {
     "objectID": "donnees/vil_afric_2015.html",
     "href": "donnees/vil_afric_2015.html",
     "title": "Africapolis",
     "section": "",
-    "text": "Licence:\nCitation:\nLien de téléchargement : A remplir une fois que les données seront sur le site de l’école\nModule(s) de formation concerné(s):\n\nTYP2 - Data\nSPA1 - Analyse Spatiale I\nSPA3 - Analyse Spatiale III\nOUT2 - Outils QGIS\n\nTAGS: mots-clé"
+    "text": "Nom : AFRICAPOLIS\nNature : Données statistiques et fonds de carte SIG\nDescription : Base de donnée sur les agglomérations morphologiques de plus de 10 000 habitants de 54 pays africains\nProducteur : OECD/SWAC (2020), Africapolis (database), www.africapolis.org (accessed 2022-11-17).\nFournisseur/URL d’accès : africapolis\nDate : 1950- 1960 - 1970 - 1980 - 1990 - 2000 - 2010 - 2015\nEtendue spatiale : Ensemble de l’Afrique (54 pays)\nEchelle : Infra-national, Agglomération de + de 10 000 habitants selon le critère de continuité du bâti\nNombre d’observations : 9180\nNombre de variables : 18\nDescription des variables :\n\n\n\nNom\nDescription\nSources\nType\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMéthodologie :\nTransformation : population des villes obtenues en combinant les données de recensement et l’imagerie satellitaire\nCommentaire :\n\n\n\nLicence:\nCitation:\nLien de téléchargement : A remplir une fois que les données seront sur le site de l’école\nModule(s) de formation concerné(s):\n\nTYP2 - Data\nSPA1 - Analyse Spatiale I\nSPA3 - Analyse Spatiale III\nOUT2 - Outils QGIS\n\nTAGS: mots-clé"
   },
   {
     "objectID": "donnees.html",
     "href": "donnees.html",
     "title": "Données Mobilisées",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n         \n          Module(s)\n        \n         \n          Pays\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNom\n\n\nModule(s)\n\n\nPays\n\n\n\n\n\n\nenq_tunis_2016\n\n\nTYP1,EXP3\n\n\n\n\n\n\ngen_monde\n\n\nCART1-2,CART3\n\n\n\n\n\n\nvil_afric_2015\n\n\nTYP2,SPA1,SPA3,OUT2\n\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Trier par\n       Ordre par défaut\n         \n          Nom\n        \n         \n          Module(s)\n        \n         \n          Nature\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNom\n\n\nModule(s)\n\n\nNature\n\n\n\n\n\n\nEnquête Tunisie\n\n\nType de données 1,EXP3\n\n\nenquête\n\n\n\n\ngen_monde\n\n\nCART1-2,CART3\n\n\n\n\n\n\nvil_afric_2015\n\n\nTYP2,SPA1,SPA3,OUT2\n\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "ecole_thematique.html",
@@ -77,6 +77,13 @@
     "text": "Données mobilisées\n\nDonnées qualitatives issues de séries d’entretiens (interviews ciblés) enregistrés et transcrits\nDonnées quantitatives issues d’enquêtes par questionnaires traitées à l’aide de logiciels"
   },
   {
+    "objectID": "formateurs/abdou-yonlihinza.html#publications",
+    "href": "formateurs/abdou-yonlihinza.html#publications",
+    "title": "Issa ABDOU YONLIHINZA",
+    "section": " Publications",
+    "text": "Publications\n\n\nAbdou Yonlihinza I. 2012. Le transport en milieu rural sahélien: L’exemple du département de Téra au Niger. Editions Universitaires Europeennes.\n\n\nAbdou Yonlihinza I. 2014. Les indépendances et la difficile insertion d’un Etat enclavé comme le Niger. In Niger : 50 ans d’indépendance, quel bilan ?Universite De Niamey; 115‑132.\n\n\nAbdou Yonlihinza I. 2015. Le développement local à l’épreuve de la mobilité en milieu sahélien à travers la région de Téra au Niger. In Quelle contribution des universités au développement en Afrique ?l’Harmattan: Paris; 189‑206.\n\n\nAbdou Yonlihinza I. 2020. Migration et exploitations agricoles familiales dans la commune de Loga au Niger. Geovision 1: 170‑179\n\n\nAbdou Yonlihinza I, Yaye Saidou H, Boubacar Akali H, Motcho KH. 2020. Niamey à l’heure du Covid 19. Le quotidien à l’épreuve. Geovision 1: 9‑21 Disponible sur: https://univ-ao.edu.ci/revues-scientifiques/laboraddys/geovision-n003decembre-2020/"
+  },
+  {
     "objectID": "formateurs/bamba.html",
     "href": "formateurs/bamba.html",
     "title": "Vakaramoko BAMBA",
@@ -103,6 +110,13 @@
     "title": "Vakaramoko BAMBA",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées de recensement\nEnquêtes par questionnaire\nguides d’observation et guides d’entretien"
+  },
+  {
+    "objectID": "formateurs/bamba.html#publications",
+    "href": "formateurs/bamba.html#publications",
+    "title": "Vakaramoko BAMBA",
+    "section": " Publications",
+    "text": "Publications\n\n\nBamba V, Koffié-Bikpo CY. 2018. Les contraintes liées au transport des produits vivriers au marché de gros de Bouaké (Côte d’Ivoire). 2: 132‑143\n\n\nBamba V, Koffié-Bikpo CY. 2019a. Les acteurs du transport des produits vivriers au marché de gros de Bouaké (Côte d’Ivoire). European Scientific Journal ESJ 15: 169‑183 DOI: 10.19044/esj.2019.v15n2p169\n\n\nBamba V, Koffié-Bikpo CY. 2019b. La redistribution des produits vivriers du marché de gros de Bouaké (Côte d’Ivoire): 3‑17 Disponible sur: https://rsspasres.net/la-redistribution-des-produits-vivriers-du-marche-de-gros-de-bouake-cote-divoire-the-circulation-of-agricultural-produce-at-bouake-wholesale-market-cote-divoire/ [Consulté le 5 janvier 2023]\n\n\nDoherty J, Bamba V, Kassi-Djodjo I. 2021. Multiple Marginality and the Emergence of Popular Transport: « Saloni » Taxi-Tricycles in Abidjan, Ivory Coast. Cybergeo DOI: 10.4000/cybergeo.36017\n\n\nKassi-Djodjo I, Kabran GEG, Bamba V. 2019. Intégration des TIC dans les pratiques, services et dispositifs de gestion de la mobilité à Abidjan: 111‑124"
   },
   {
     "objectID": "formateurs/bonnet.html",
@@ -133,6 +147,13 @@
     "text": "Données mobilisées\n\nDonnées GPS\nRecensement\nEnquête"
   },
   {
+    "objectID": "formateurs/bonnet.html#publications",
+    "href": "formateurs/bonnet.html#publications",
+    "title": "Emmanuel BONNET",
+    "section": " Publications",
+    "text": "Publications\n\n\nBeaugé Y, Ridde V, Bonnet E, Souleymane S, Kuunibe N, De Allegri M. 2020. Factors related to excessive out-of-pocket expenditures among the ultra-poor after discontinuity of PBF: a cross-sectional study in Burkina Faso. Health Economics Review 10: 36 DOI: 10.1186/s13561-020-00293-w\n\n\nBonnet E, Bodson O, Le Marcis F, Faye A, Sambieni NE, Fournet F, Boyer F, Coulibaly A, Kadio K, Diongue FB, et al. 2021. The COVID-19 pandemic in francophone West Africa: from the first cases to responses in seven countries. BMC Public Health 21: 1490 DOI: 10.1186/s12889-021-11529-7\n\n\nBonnet E, Fournet F, Benmarhnia T, Ouedraogo S, Dabiré R, Ridde V. 2020. Impact of a community-based intervention on Aedes aegypti and its spatial distribution in Ouagadougou, Burkina Faso. Infectious Diseases of Poverty 9: 61 DOI: 10.1186/s40249-020-00675-6\n\n\nLim JK, Carabali M, Edwards T, Barro A, Lee J-S, Dahourou D, Lee KS, Nikiema T, Shin MY, Bonnet E, et al. 2021. Estimating the Force of Infection for Dengue Virus Using Repeated Serosurveys, Ouagadougou, Burkina Faso. Emerging Infectious Diseases 27: 130‑139 DOI: 10.3201/eid2701.191650\n\n\nRidde V, Ba MF, Gaye I, Diallo AI, Bonnet E, Faye A. 2021. Participating in a vaccine trial for COVID-19 in Senegal: trust and information. Human Vaccines & Immunotherapeutics 17: 3907‑3912 DOI: 10.1080/21645515.2021.1951097"
+  },
+  {
     "objectID": "formateurs/bringe.html",
     "href": "formateurs/bringe.html",
     "title": "Arnaud BRINGÉ",
@@ -159,6 +180,13 @@
     "title": "Arnaud BRINGÉ",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées de santé\nDonnées administratives\nDonnées de réseaux\nDonnées d’enquêtes"
+  },
+  {
+    "objectID": "formateurs/bringe.html#publications",
+    "href": "formateurs/bringe.html#publications",
+    "title": "Arnaud BRINGÉ",
+    "section": " Publications",
+    "text": "Publications\n\n\nBonvalet C, Bringé A. 2016. L’impact des trajectoires familiales sur les parcours résidentiel et géographique des franciliens nés entre 1930 et 1950. Revue européenne des sciences sociales. European Journal of Social Sciences: 75‑102 DOI: 10.4000/ress.3452\n\n\nBringé A, Golaz V. 2017. Manuel pratique d’analyse multiniveau. Ined Éditions. DOI: 10.4000/books.ined.12777\n\n\nLe Roux G, Imbert C, Bringé A, Bonvalet C. 2020. Transformations sociales de l’agglomération parisienne au cours du XXe siècle : une approche longitudinale et générationnelle des inégalités d’accès à la ville. Population 75: 71‑100 DOI: 10.3917/popu.2001.0071\n\n\nNowik L, Bringé A. 2016. Déménager après 55 ans : mobilité de retraite et mobilité d’ajustement - Le cas de quatre territoires locaux. In Cahiers de démographie locale 2013-2014, Sanderson J-P, Bourguignon M, Eggerickx T (éd.).Néothèque; 51‑85. Disponible sur: https://hal.archives-ouvertes.fr/hal-01426169 [Consulté le 5 janvier 2023]"
   },
   {
     "objectID": "formateurs/chatel.html",
@@ -189,6 +217,13 @@
     "text": "Données mobilisées\n\nRecensement de la population de divers pays, de différentes dates, à des niveaux d’agrégation allant du secteur censitaire ou encore du ward, à l’Etat.\nDonnées de population affectées à des entités urbaines (agglomérations Geopolis…) ou métropolitaines.\nAutres données de recensements : données économiques, sociales…\nDonnées SIG accompagnant données de recensement et données urbaines.\nImages Google Earth, cartes historiques"
   },
   {
+    "objectID": "formateurs/chatel.html#publications",
+    "href": "formateurs/chatel.html#publications",
+    "title": "Cathy CHATEL",
+    "section": " Publications",
+    "text": "Publications\n\n\nCasanova Enault L, Chatel C. 2017. Une grille chorématique des dynamiques spatiales pour expliquer l’évolution des territoires. Mappemonde. Revue trimestrielle sur l’image géographique et les formes du territoire DOI: 10.4000/mappemonde.2189\n\n\nChatel C. 2011. Une mesure du déclin démographique des villes allemandes de 1820 à 2010. Géocarrefour 86: 81‑90 DOI: 10.4000/geocarrefour.8295\n\n\nChatel C. 2020. De la maille au lieu, les catégories territoriales des recensements brésiliens de 1872 à 2010 à l’aune de la géographie de la population. L’Espace Politique DOI: 10.4000/espacepolitique.7426\n\n\nChatel C, Moriconi-Ebrard F, Sposito MEB. 2017a. La croissance urbaine au Brésil : concentration dans les métropoles ou rééquilibrage du système urbain ? EchoGéo DOI: 10.4000/echogeo.15001\n\n\nChatel C, Morillas-Torné M, Esteve A, Martí-Henneberg J. 2017b. Patterns of Population and Urban Growth in Southwest Europe: 1920-2010. Journal of Urban History 43: 1021‑1040 DOI: 10.1177/0096144217726974"
+  },
+  {
     "objectID": "formateurs/coulibaly.html",
     "href": "formateurs/coulibaly.html",
     "title": "Fatoumata COULIBALY",
@@ -215,6 +250,13 @@
     "title": "Fatoumata COULIBALY",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nEnquêtes de terrain\nBases de données – données brutes (statistiques)"
+  },
+  {
+    "objectID": "formateurs/coulibaly.html#publications",
+    "href": "formateurs/coulibaly.html#publications",
+    "title": "Fatoumata COULIBALY",
+    "section": " Publications",
+    "text": "Publications\n\n\nCoulibaly F. 2019a. Analyse du comportement électoral dans les territoires d’élection à Bamako. Le Caïlcédrat: 283‑307\n\n\nCoulibaly F. 2019b. Femme, pouvoir et économie. In Histoire contemporaine du Mali: contribution à la redécouverte de la dynamique de construction de l’état-nationFriedrich-Ebert-Stiftung.\n\n\nCoulibaly F, Keita N. Les consignes de vote et les comportements électoraux au Mali à l’aune des résultats de l’élection présidentielle de 2018 à Nioro du Sahel. Geotrope. Revue de géographie tropicale et d’environnement: 141‑150 Disponible sur: http://revue-geotrope.com/update/root_revue/20190601/11- Article-Ky-ita-Coulibaly.pdf\n\n\nCoulibaly F, Ouallet A. 2016. Femmes et citoyenneté : des modes de constructions sociales. Journée scientifique Mali-Genre. ESO Travaux et Documents: 35 Disponible sur: https://shs.hal.science/halshs-01466257 [Consulté le 9 janvier 2023]\n\n\nCoulibaly F, Holder G, Vidal L. Covid-19, le retour de l’État en Afrique ? The Conversation Disponible sur: http://theconversation.com/covid-19-le-retour-de-letat-en-afrique-139627 [Consulté le 5 janvier 2023]"
   },
   {
     "objectID": "formateurs/damenou.html",
@@ -245,6 +287,13 @@
     "text": "Données mobilisées\n\nDonnées primaires : enquêtes qualitatives (entretiens) et quantitatives"
   },
   {
+    "objectID": "formateurs/damenou.html#publications",
+    "href": "formateurs/damenou.html#publications",
+    "title": "Sèïvè Ermine Armande DAMENOU",
+    "section": " Publications",
+    "text": "Publications\n\n\nAmidjogbe STI, Damenou SEA. 2018. Marketing social et délinquance numérique : rôle de l’attachement par expériences des vendeurs en ligne. Revue internationale de gestion et d’économie (RIGE) 4: 166‑192\n\n\nDamenou SEA. 2020. Influence des labels et de la réputation des écoles dans le choix des étudiants dans un contexte de pays sous-développés (U de Lomé, éd.). Annales de l’Université de Lomé. Série sciences économiques et de gestion XV: 23‑34\n\n\nDamenou SEA, Amidjogbe STI. 2017. Contexte organisationnel et développement de la communauté de pratique dans les établissements privés d’enseignement supérieur : étude exploratoire en déploiement de démarche qualité (U de Lomé, éd.). Annales de l’Université de Lomé. Série sciences économiques et de gestion II: 25‑36\n\n\nDamenou SEA, Amidjogbe STI. 2019. Ethique, un facteur de compétitivité des petites entreprises par le marketing digital ? (U de Lomé, éd.). Annales de l’Université de Lomé. Série sciences économiques et de gestion XIV: 124‑136\n\n\nDamenou SEA, Sogbossi Bocco B. 2017. Influence du contexte organisationnel sur la gestion des paradoxes dans les établissements privés d’enseignement supérieur en démarche qualité"
+  },
+  {
     "objectID": "formateurs/dansou.html",
     "href": "formateurs/dansou.html",
     "title": "Justin DANSOU",
@@ -271,6 +320,13 @@
     "title": "Justin DANSOU",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées des enquêtes démographique et de santé (EDS)\nDonnées de recensement général de la population et de l’habitation (RGPH)"
+  },
+  {
+    "objectID": "formateurs/dansou.html#publications",
+    "href": "formateurs/dansou.html#publications",
+    "title": "Justin DANSOU",
+    "section": " Publications",
+    "text": "Publications\n\n\nDansou J. 2017. Variations de l’espérance de vie scolaire et déterminants de la fréquentation scolaire des 6-24 ans au Bénin : une analyse à partir des données du recensement de 2002. DOI: 10.13140/RG.2.2.31592.98568\n\n\nDansou J. 2019. The benefits of family planning (FP) use in Benin: an application of the Demographic Dividend Model (DemDiv). 3:1110. Gates Open Research. DOI: 10.12688/gatesopenres.12906.1\n\n\nDansou J, Adekunle AO, Arowojolu AO. 2018. Factors behind Institutional Delivery Preference in the Republic of Benin: An Analysis of 2011-2012 Benin Demographic and Health Survey (BDHS) data. Journal of Population and Social Studies [JPSS] 26: 128‑148 Disponible sur: https://so03.tci-thaijo.org/index.php/jpss/article/view/117175 [Consulté le 9 janvier 2023]\n\n\nGayawan E, Dake F, Dansou J, Ewemooje OS. 2022. Spatial Variations in Fertility Desire in West Africa. Spatial Demography 10: 359‑385 DOI: 10.1007/s40980-021-00088-5\n\n\nNtoimo L, Odimegwu C, Dansou J, Ola T. 2016. Consensual Union in West Africa. African Population Studies Vol 30: 2416‑2430 DOI: 10.11564/30-2-849"
   },
   {
     "objectID": "formateurs/djossou.html",
@@ -301,6 +357,13 @@
     "text": "Données mobilisées\n\nDonnées primaires : enquêtes quantitatives spécifiques au sein des ménages\nDonnées secondaires : EDS, enquêtes spécifiques entreprises – Banque mondiale"
   },
   {
+    "objectID": "formateurs/djossou.html#publications",
+    "href": "formateurs/djossou.html#publications",
+    "title": "Gbètoton Nadège DJOSSOU",
+    "section": " Publications",
+    "text": "Publications\n\n\nDjossou GN, Kane GQ, Novignon J. 2017. Is Growth Pro-Poor in Benin? Evidence Using a Multidimensional Measure of Poverty. Poverty & Public Policy 9: 426‑443 DOI: 10.1002/pop4.199\n\n\nGadom GD, Djossou GN, Kane GQ, Mboutchouang Kountchou A. 2019. Multidimensional Poverty Dynamic in Chad, Analysis of. In Global Encyclopedia of Public Administration, Public Policy, and Governance, Farazmand A (éd.).Springer International Publishing: Cham; 1‑10. DOI: 10.1007/978-3-319-31816-5_646-1\n\n\nNadege Djossou G, Novignon J, Bénédicte AT, Araar A. 2020. The Role of Formal, Informal, and Family Credit in the Business Performance of Young Entrepreneurs in Benin DOI: 10.2139/ssrn.3673533\n\n\nNovignon J, Atakorah Y, Djossou GN. 2018. How Does the Health Sector Benefit from Trade Openness? Evidence from Sub‐Saharan Africa. African Development Review 30 DOI: 10.1111/1467-8268.12319\n\n\nNovignon J, Djossou NG, Enemark U. 2019. Childhood mortality, intra-household bargaining power and fertility preferences among women in Ghana. Reproductive Health 16: 139 DOI: 10.1186/s12978-019-0798-2"
+  },
+  {
     "objectID": "formateurs/garnier.html",
     "href": "formateurs/garnier.html",
     "title": "Bénédicte GARNIER",
@@ -320,6 +383,13 @@
     "title": "Bénédicte GARNIER",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées d’enquêtes (quantitatives ou qualitatives)\nDonnées localisées\nDonnées relationnelles"
+  },
+  {
+    "objectID": "formateurs/garnier.html#publications",
+    "href": "formateurs/garnier.html#publications",
+    "title": "Bénédicte GARNIER",
+    "section": " Publications",
+    "text": "Publications\n\n\nDiawara AK, Garnier B, Richard L. 2017. Cartographier des indicateurs. recherche. Université Laval.\n\n\nGarnier B. 2017a. L’essor d’une formation en statistique textuelle\n\n\nGarnier B. 2017b. \"Mes débuts avec R\" Disponible sur: https://www.ined.fr/fr/actualites/rencontres-scientifiques/seminaires-colloques-ined/russ-7-12-17/ [Consulté le 9 janvier 2023]\n\n\nGarnier B. 2019. R.temis dans RStudio. R.TeMiS Disponible sur: https://rtemis.hypotheses.org/r-temis-dans-rstudio [Consulté le 9 janvier 2023]\n\n\nGarnier B, Morand. 2015. Une formation pour apprendre à présenter des données chiffrées : pour qui et pourquoi ? Disponible sur: http://quanti.hypotheses.org"
   },
   {
     "objectID": "formateurs/gentilhomme.html",
@@ -350,6 +420,13 @@
     "text": "Données mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5"
   },
   {
+    "objectID": "formateurs/gentilhomme.html#publications",
+    "href": "formateurs/gentilhomme.html#publications",
+    "title": "Marion GENTILHOMME",
+    "section": " Publications",
+    "text": "Publications"
+  },
+  {
     "objectID": "formateurs/gluski.html",
     "href": "formateurs/gluski.html",
     "title": "Pauline GLUSKI",
@@ -378,6 +455,13 @@
     "text": "Données mobilisées\n\nFond de carte et données SIG\nDonnées cadastrales\nDonnées issues de recensement\nDonnées GPS"
   },
   {
+    "objectID": "formateurs/gluski.html#publications",
+    "href": "formateurs/gluski.html#publications",
+    "title": "Pauline GLUSKI",
+    "section": " Publications",
+    "text": "Publications\n\n\nConfins. 2016. Atlas problématique d’une métropole vulnérable, Lima. Confins. Revue franco-brésilienne de géographie / Revista franco-brasilera de geografia Disponible sur: https://journals.openedition.org/confins/10988 [Consulté le 9 janvier 2023]\n\n\nHandschumacher P, Lombard J, Duplantier J-M, Gluski P, Valton C, Diallo M. 2021. Atlas des relations homme-rat noir-zoonoses au Sénégal : contribution interdisciplinaire à l’approche One Health. PRODIG. Disponible sur: https://hal.archives-ouvertes.fr/hal-03338926 [Consulté le 9 janvier 2023]\n\n\nSierra A, Gluski P. 2021. Cartographier les scénarios de crise : quels savoirs urbains pour quelles représentations des catastrophes futures en ville ? Cartes & géomatique 245-246: 25‑40 Disponible sur: https://hal.archives-ouvertes.fr/hal-03870713 [Consulté le 9 janvier 2023]"
+  },
+  {
     "objectID": "formateurs/golaz.html",
     "href": "formateurs/golaz.html",
     "title": "Valérie GOLAZ",
@@ -404,6 +488,13 @@
     "title": "Valérie GOLAZ",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées démographiques : recensements et enquêtes (EDS en particulier), lorsque possible avec un certain degré de spatialisation\nDonnées environnementales : bases de données internationales, données satellitaires\nEnquêtes qualitatives, presse, archives"
+  },
+  {
+    "objectID": "formateurs/golaz.html#publications",
+    "href": "formateurs/golaz.html#publications",
+    "title": "Valérie GOLAZ",
+    "section": " Publications",
+    "text": "Publications\n\n\nBringé A, Golaz V. 2017. Manuel pratique d’analyse multiniveau. INED éditions: Paris.\n\n\nChalin V, Golaz V, Médard C. 2015. Land titling in Uganda crowds out local farmers. Journal of Eastern African Studies 9: 559‑573 DOI: 10.1080/17531055.2015.1106743\n\n\nGastineau B, Golaz V, Dos Santos S. 2018. Modes d’adaptation des sociétés rurales à la croissance démographique : les cas de Madagascar et du Kenya. Espace populations sociétés DOI: 10.4000/eps.8210\n\n\nGolaz V, Boly S, Barry AO, Boly D, Kakuba C, Rakotomanana F, Coulibaly A, Ravelo A, Delaunay V, Marcoux R. 2021. Les enfants n’ayant jamais été scolarisés : Des indicateurs nationaux aux disparités régionales dans cinq pays d’Afrique subsaharienne (Burkina Faso, Madagascar, Mali, Ouganda, Sénégal). Ined Working Papers\n\n\nGolaz V, Kisekka-Ntale F, Médard C, MPRAM. 2015. Lake Albert Region (Uganda) at a Demographic Turning Point ? A Spatial and Historical Approach of Migration and Settlement before and in the Course of Oil Exploration"
   },
   {
     "objectID": "formateurs/grasland.html",
@@ -438,7 +529,7 @@
     "href": "formateurs/grasland.html#publications",
     "title": "Claude GRASLAND",
     "section": " Publications",
-    "text": "Publications"
+    "text": "Publications\n\n\nBennasr A, Baron M, Ruffray S de, Grasland C, Guérin-Pace F. 2015. Dilemmes de la réforme régionale tunisienne. Analyse spatiale et territoriale des propositions de réorganisation du maillage administratif. Revue d’Économie Régionale & Urbaine Décembre: 853‑882 DOI: 10.3917/reru.155.0853\n\n\nBopda A, Grasland C, Poulain M. 2000. Évaluation comparative de l’influence des limites linguistiques sur les comportements migratoires : Applications au cas de la Belgique, du Cameroun et de Tchecoslovaquie. In Actes du colloque international de La Rochelle, 22-26 novembre 1998 « Régimes démographiques et territoires : les frontières en question »107‑124.\n\n\nDidelon C, Grasland C, Richard Y. 2008. Atlas de l’Europe dans le monde. Reclus CNRS GDRE S4 La Documentation française: Montpellier Paris.\n\n\nGrasland C, Hamez G. 2005. Vers la construction d’un indicateur de cohésion territoriale européen ? L’Espace géographique 34: 97‑116 DOI: 10.3917/eg.342.0097\n\n\nLangar A, Baron M, Grasland C. 2018. Les territoires du football en Tunisie (1906-2015). EchoGéo DOI: 10.4000/echogeo.16209"
   },
   {
     "objectID": "formateurs/guerin.html",
@@ -497,6 +588,13 @@
     "text": "Données mobilisées\n\nDonnées de recensement\nComparaisons internationales de nomenclatures urbaines\nDonnées « émergentes » (données de plateformes web de services, données contributives)"
   },
   {
+    "objectID": "formateurs/guerois.html#publications",
+    "href": "formateurs/guerois.html#publications",
+    "title": "Marianne GUÉROIS",
+    "section": " Publications",
+    "text": "Publications\n\n\nAntunez K, Baccaïni B, Guérois M, Ysebaert R. 2018. Disparities and territorial discontinuities in France with its new regions: A multiscalar and multidimensional interpretation. Economie et Statistique / Economics and Statistics: 19‑41 DOI: 10.24187/ecostat.2017.497d.1928\n\n\nBerroir S, Cattan N, Dobruszkes F, Guerois M, Paulus F, Vacchiani-Marcuzzo C. 2017. Les systèmes urbains français : une approche relationnelle. Cybergeo DOI: 10.4000/cybergeo.27945\n\n\nGuérois M, Le Goix R. 2009. La dynamique spatio-temporelle des prix immobiliers à différentes échelles : le cas des appartements anciens à Paris (1990-2003). Cybergeo DOI: 10.4000/cybergeo.22644\n\n\nGuérois M, Bretagnolle A, Pavard A, Gourdon P, Zdanowska N. 2019. Following the population of European urban areas in the last half century (1961-2011): the TRADEVE database. Cybergeo DOI: 10.4000/cybergeo.32034\n\n\nGuérois M, Ysebaert R, Giraud T, Maranget B, Hamez G, Boquet M, Dorkel N. 2020. Apports et limites des données OpenStreetMap pour l’analyse des centralités commerciales dans les espaces transfrontaliers. Research {Report}. RIATE. Disponible sur: https://hal.archives-ouvertes.fr/hal-03587399"
+  },
+  {
     "objectID": "formateurs/houedakor.html",
     "href": "formateurs/houedakor.html",
     "title": "Koko Zébéto HOUEDAKOR",
@@ -523,6 +621,13 @@
     "title": "Koko Zébéto HOUEDAKOR",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées de recensement de population\nDonnées météorologiques : température, précipitation, humidité relative, etc.\nDonnées de terrain en lien avec les recherches en cours\nDonnées de qualité de l’eau"
+  },
+  {
+    "objectID": "formateurs/houedakor.html#publications",
+    "href": "formateurs/houedakor.html#publications",
+    "title": "Koko Zébéto HOUEDAKOR",
+    "section": " Publications",
+    "text": "Publications\n\n\nHouedakor KZ. 2015. Etat de la nappe phréatique du bassin sédimentaire sableux de la ville de Lomé, novembre 2013. Ahoho, Revue de géographie du LARDYMES 15: 176‑186\n\n\nHouedakor KZ. 2016. Dynamique hydrologique de la nappe des cordons sableux de Lomé. Revue de géographie du laboratoire Leïdi: 201‑222\n\n\nHouedakor KZ, Adjalo DK. 2020. Nangbéto, un barrage hydroélectrique aux impacts mitigés. Mu Kara Sani, Revue de l’institut de recherche en sciences humaines (IRSH) 12: 77‑91\n\n\nHouedakor KZ, Bawa D, Adjalo DK, Afo B. 2020a. Inondations et gestion des eaux pluviales dans la zone littorale Est de Lomé. Etudes togolaises, Revue togolaise des sciences 14: 244‑255\n\n\nHouedakor KZ, Wilson-Bahun KK, Gatogo E. 2020b. Les débordements du lac Togo, un processus d’envasement progressif. Annales de l’Université de Lomé: 244‑255"
   },
   {
     "objectID": "formateurs/hounton.html",
@@ -553,6 +658,13 @@
     "text": "Données mobilisées\n\nRecensement\nEnquêtes\nStatistiques agricoles\nDonnées collectées par le GPS\nImages satellitaires"
   },
   {
+    "objectID": "formateurs/hounton.html#publications",
+    "href": "formateurs/hounton.html#publications",
+    "title": "Côomlan Charles HOUNTON",
+    "section": " Publications",
+    "text": "Publications\n\n\nHounton CC. Apport du SIG et de l’analyse multicritère dans la cartographie des eaux souterraines en milieu de fracture : cas du département de la Donga (nord-ouest du Bénin)\n\n\nHounton CC, Igue AM, Codjia C, Agbahungba G. Analysis of the Effects of Climate and Anthropogenic Pressures on Land Cover / Land Use in the Lower Valley of Ouémé. International Journal of Scientific & Engineering Research 8: 2017\n\n\nHounton CC, Igue AM, Codjia C, Agbahungba G. 2015. Dynamique de l’occupation du sol dans la basse vallée de l’ouémé : cas des communes de Bonou, Adjouhoun et de Zè au Sud-Est du Bénin. Revue du Laboratoire de Recherche biogéographique et d’Etudes. Environnementales\n\n\nWedjangnon AA, Hounton CC, Ouinsavi CAIN. Dynamique spatio-temporelle de l’habitat d’une espèce (MANSORA ALTISSIMA A. Chev.) en danger critique d’extinction au Bénin"
+  },
+  {
     "objectID": "formateurs/koumoi.html",
     "href": "formateurs/koumoi.html",
     "title": "Zakariyao KOUMOI",
@@ -579,6 +691,13 @@
     "title": "Zakariyao KOUMOI",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nEnquêtes de terrain\nGPS\nRecensement général de la population et de l’habitat\nDonnées géospatiales\nDonnées issues de traitement des images satellitaires Landsat"
+  },
+  {
+    "objectID": "formateurs/koumoi.html#publications",
+    "href": "formateurs/koumoi.html#publications",
+    "title": "Zakariyao KOUMOI",
+    "section": " Publications",
+    "text": "Publications\n\n\nAleme A, Koumoi Z, Soussou T. 2020. Pratiques paysannes des communautés riveraines de la forêt classée de la Kéran au nord-Togo et impact sur la dynamique de l’occupation du sol. GéoVision, Revue du Laboratoire africain de démographie et des dynamiques spatiales 2: 316‑332\n\n\nKoumoi Z. 2019b. Utilité des systèmes d’information géographiques dans la gestion et l’exploitation du réseau d’alimentation en eau potable de la ville de Lomé : cas de l’agence de Vakpossito. Journal de la Recherche Scientifique de l’Université de Lomé 21: 51‑66 Disponible sur: https://www.ajol.info/index.php/jrsul/article/view/196635 [Consulté le 16 janvier 2023]\n\n\nKoumoi Z. 2019a. Suivi des feux de végétation dans le parc national Fazao Malfakassa et ses terroirs riverains par imagerie satellitaire Modis et Landsat. Sciences de l’Environnement Volume 1: 125‑142 Disponible sur: https://hal.science/hal-02973742 [Consulté le 16 janvier 2023]\n\n\nKoumoi Z, Orekan VOA. 2018a. Apport des SIG dans l’analyse prospective de la disponibilité des terres pour une gestion participative des territoires ruraux dans le Centre-Togo.Université d’Abomey-Calavi; 303‑315. Disponible sur: https://hal.science/hal-02973820 [Consulté le 16 janvier 2023]\n\n\nKoumoi Z, Orekan VOA. 2018b. Diagnostic territorial participatif: vers la réalisation des « cartes a dires d’acteurs » pour l’aide à la décision dans le Centre-Togo. Annales de l’Université de Parakou, Série Science Naturelle et Agronomie 1: 34‑44 Disponible sur: https://hal.science/hal-02973775 [Consulté le 16 janvier 2023]"
   },
   {
     "objectID": "formateurs/lambert.html",
@@ -609,6 +728,13 @@
     "text": "Données mobilisées\n\nEssentiellement des données publiques, open source (e.g. OpenStreetMap)"
   },
   {
+    "objectID": "formateurs/lambert.html#publications",
+    "href": "formateurs/lambert.html#publications",
+    "title": "Nicolas LAMBERT",
+    "section": " Publications",
+    "text": "Publications\n\n\nBahoken F, Lambert N. 2020. Méfiez-vous des cartes, pas des migrants ! antiAtlas Journal Disponible sur: https://shs.hal.science/halshs-02937095 [Consulté le 16 janvier 2023]\n\n\nBahoken F, Jégou L, Lagarde D, Lambert N. 2020. La séduction des cartes du geoweb. Le cas des flux de migrants internationaux. Cybergeo: European Journal of Geography DOI: 10.4000/cybergeo.33792\n\n\nGiraud T, Lambert N. 2019. Reproducible Workflow for Cartography - Migrants Deaths in the Mediterranean. Proceedings of the ICA 2: NA Disponible sur: https://link.gale.com/apps/doc/A616974458/AONE?u=anon~df1b8fb9&sid=googleScholar&xid=352bef90 [Consulté le 16 janvier 2023]\n\n\nLambert N, Zanin C. 2016. Manuel de cartographie: principes, méthodes, applications. Armand Colin: Paris.\n\n\nLambert N, Zanin C. 2019. Mad maps: l’atlas qui va changer votre vision du monde. Armand Colin: Malakoff."
+  },
+  {
     "objectID": "formateurs/larcher.html",
     "href": "formateurs/larcher.html",
     "title": "Hélèna LARCHER",
@@ -635,6 +761,13 @@
     "title": "Hélèna LARCHER",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5"
+  },
+  {
+    "objectID": "formateurs/larcher.html#publications",
+    "href": "formateurs/larcher.html#publications",
+    "title": "Hélèna LARCHER",
+    "section": " Publications",
+    "text": "Publications"
   },
   {
     "objectID": "formateurs/madelin.html",
@@ -665,6 +798,13 @@
     "text": "Données mobilisées\n\nDonnées spatiotemporelles\nDonnées « de référence » et « émergentes » (données de plates-formes web de services, données contributives)\nDonnées raster (satellitaires et de modèle)\nDonnées vectorielles\nDonnées GPS"
   },
   {
+    "objectID": "formateurs/madelin.html#publications",
+    "href": "formateurs/madelin.html#publications",
+    "title": "Malika MADELIN",
+    "section": " Publications",
+    "text": "Publications\n\n\nBigot S, Duché S, Madelin M, Rome S. 2017. Étude Du Climat Urbain : Pour Une Mise À Disposition De Nouveaux Services Climatiques. Bulletin de la Société Géographique de Liège 68: 13‑36\n\n\nDahech S, Charfi S, Madelin M. 2020. Représentativité des températures mesurées dans la station météorologique Paris-Montsouris. Climatologie 17: 5 DOI: 10.1051/climat/202017005\n\n\nMadelin M, Dupuis V. 2020. Intensité et spatialisation de l’îlot de chaleur urbain parisien à partir de données participatives. Climatologie 17: 9 DOI: 10.1051/climat/202017009\n\n\nPecout H, Grasland C, Guérois M, Goix RL, Madelin M, Nussbaum F, Valette J-F. 2019. Informations territoriales locales et analyse comparative des dynamiques métropolitaines. Le projet Grandes métropoles., Cailly L, Lafarge R, Ruas A, Saez G (éd.).Karthala; 363. Disponible sur: https://hal.science/hal-01353618 [Consulté le 16 janvier 2023]\n\n\nRenan LR, Rességuier L, Corpetti T, Jégou N, Madelin M, Leeuwen C van, Quénol H. 2017. Comparison of two fine scale spatial models for mapping temperatures inside winegrowing areas. Agricultural and Forest Meteorology 247: 159‑169 DOI: 10.1016/j.agrformet.2017.07.020"
+  },
+  {
     "objectID": "formateurs/marveaux.html",
     "href": "formateurs/marveaux.html",
     "title": "Elina Marveaux",
@@ -691,6 +831,13 @@
     "title": "Elina Marveaux",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5"
+  },
+  {
+    "objectID": "formateurs/marveaux.html#publications",
+    "href": "formateurs/marveaux.html#publications",
+    "title": "Elina Marveaux",
+    "section": " Publications",
+    "text": "Publications"
   },
   {
     "objectID": "formateurs/moussa.html",
@@ -721,6 +868,13 @@
     "text": "Données mobilisées\n\nDonnées secondaires (recensement, statistiques des services administratifs)\nDonnées primaires collectées sur le terrain (enquêtes et entretiens)\nDonnées GPS"
   },
   {
+    "objectID": "formateurs/moussa.html#publications",
+    "href": "formateurs/moussa.html#publications",
+    "title": "Yayé MOUSSA",
+    "section": " Publications",
+    "text": "Publications\n\n\nMoussa Y. Regard historique sur la question de l’eau dans la ville de Téra. ENCRES 12: 27\n\n\nMoussa Y, Bonnassieux A. 2021. Solidarité hydraulique et territoires hydrauliques dans la commune urbaine de Téra, Niger. Afrique SCIENCE 19: 28‑43 Disponible sur: http://www.afriquescience.net/numero2_vol_19.php#\n\n\nMoussa Y, Laffly D. 2021. Résilience des communautés rurales à la précarité hydrique dans la commune urbaine de Téra, Niger. Afrique SCIENCE 18: 143‑155 Disponible sur: http://www.afriquescience.net/numero4_vol_18.php [Consulté le 23 janvier 2023]\n\n\nMoussa Y, Laffly D, Bontianti A. 2018. « Téra (Niger) : une ville sans eau », poster présenté à la journée d’échanges « Informations territoriales et durabilité de l’eau urbaine » (SPATIEAU)"
+  },
+  {
     "objectID": "formateurs/moutore.html",
     "href": "formateurs/moutore.html",
     "title": "Yentougle MOUTORE",
@@ -747,6 +901,13 @@
     "title": "Yentougle MOUTORE",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nSIG\nIndices de dissimilarité et de localisation\nInventaire territorial\nEnquêtes quantitatives et qualitatives\nDonnées GPS, données documentaires"
+  },
+  {
+    "objectID": "formateurs/moutore.html#publications",
+    "href": "formateurs/moutore.html#publications",
+    "title": "Yentougle MOUTORE",
+    "section": " Publications",
+    "text": "Publications\n\n\nMoutore Y. Guide d’utilisateur de la plateforme Moodle pour l’Enseignant\n\n\nMoutore Y. Guide d’utilsateur de la plateforme Moodle pour l’étudiant\n\n\nMoutore Y. Manuel de procédures des cours hybrides à l’Université de Kara"
   },
   {
     "objectID": "formateurs/ouedraogo.html",
@@ -777,6 +938,13 @@
     "text": "Données mobilisées\n\nDonnées d’enquêtes via Kobo ou ODK\nDonnées GPS\nDonnées Raster (images satellites)"
   },
   {
+    "objectID": "formateurs/ouedraogo.html#publications",
+    "href": "formateurs/ouedraogo.html#publications",
+    "title": "Manhamady OUEDRAOGO",
+    "section": " Publications",
+    "text": "Publications\n\n\nAccidents de la route et enfants de moins de 15 ans : Une nécessaire éducation des enfants ou une prise de conscience des parents ? - leFaso.net. Disponible sur: https://lefaso.net/spip.php?page=web-tv-video&id_article=95093&rubrique4 [Consulté le 23 janvier 2023]\n\n\nBonnet E, Fillol A, Nikiema A, Ouedraogo M, Lechat L, Ridde V. Se protéger en circulation réduit la gravité des blessures\n\n\nBonnet E, Fillol A, Nikiema A, Sidebega S, Ouedraogo M, Lechat L, Ridde V. 2015. Comment réduire les accidents de la route et les traumatismes à Ouagadougou ?\n\n\nOuedraogo M, Bonnet E. 2019. Les enfants de moins de 15 ans face au risque d’accident de la route à Ouagadougou (Burkina Faso). Revue francophone sur la santé et les territoires DOI: 10.4000/rfst.367\n\n\nOuedraogo M, Bonnet E, Bandré E, Ridde V. 2021. Les enfants accidentés de la route à Ouagadougou : étude prospective au centre hospitalier universitaire pédiatrique Charles de Gaulle. CODATU"
+  },
+  {
     "objectID": "formateurs/pecout.html",
     "href": "formateurs/pecout.html",
     "title": "Hugues PECOUT",
@@ -805,6 +973,13 @@
     "text": "Données mobilisées\n\ndata 1\ndata 2\ndata 3\ndata 4\ndata 5"
   },
   {
+    "objectID": "formateurs/pecout.html#publications",
+    "href": "formateurs/pecout.html#publications",
+    "title": "Hugues PECOUT",
+    "section": " Publications",
+    "text": "Publications\n\n\nGiraud T, Pecout H. 2022b. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nGiraud T, Pecout H. 2022a. Cartograohie avec R Disponible sur: https://rcarto.github.io/cartographie_avec_r/"
+  },
+  {
     "objectID": "formateurs/pistre.html",
     "href": "formateurs/pistre.html",
     "title": "Pierre PISTRE",
@@ -830,7 +1005,7 @@
     "href": "formateurs/pistre.html#données-mobilisées",
     "title": "Pierre PISTRE",
     "section": " Données mobilisées",
-    "text": "Données mobilisées\n\nEnquêtes nationales françaises (Logement, Transport et déplacement, Histoire de vie…)\nBases de données individuelles (RPLS/logements sociaux, SIRENE/Activités économiques…) ##  Publications"
+    "text": "Données mobilisées\n\nEnquêtes nationales françaises (Logement, Transport et déplacement, Histoire de vie…)\nBases de données individuelles (RPLS/logements sociaux, SIRENE/Activités économiques…) ##  Publications\n\n\n\nCommenges H, Pistre P, Cura R. 2014. SLIDER: Software for LongItudinal Data Exploration with R. Cybergeo: European Journal of Geography DOI: 10.4000/cybergeo.26530\n\n\nCottineau C, Chapron P, Texier ML, Rey-Coyrehourcq S. Chapter 4: Incremental Territorial Modelling. In Pumain D., 2020, Geographical Modeling, ISTE.\n\n\nFromentin J, Pistre P. 2021. L’immigration dans les campagnes françaises : des effectifs limités mais des origines qui ne cessent de se diversifier. Population Societes 591: 1‑4 Disponible sur: https://www.cairn.info/revue-population-et-societes-2021-7-page-1.htm [Consulté le 23 janvier 2023]\n\n\nPistre P. 2016. Recensements de la population pour l’étude des reprises démographiques et des migrations résidentielles dans l’espace peu dense (1975‑2011). Economie et Statistique 483: 151‑178 DOI: 10.3406/estat.2016.10677\n\n\nPistre P. 2021. Rester à la campagne, en partir ou y revenir. Métropolitiques Disponible sur: https://metropolitiques.eu/Rester-a-la-campagne-en-partir-ou-y-revenir.html [Consulté le 23 janvier 2023]\n\n\nPistre P, Richard F. 2018. Seulement 5 ou 15 % de ruraux en France métropolitaine ? Les malentendus du zonage en aires urbaines. Géoconfluences Disponible sur: https://shs.hal.science/halshs-01858695 [Consulté le 23 janvier 2023]"
   },
   {
     "objectID": "formateurs/rey-coyrehourcq.html",
@@ -859,6 +1034,13 @@
     "title": "Sébastien REY-COYREHOURCQ",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées en sortie de modèles de simulation\nDonnées en SBGD spatialisés (Postgresql/Postgis) ou Web Semantique (RDF)\nDonnées issues du web (API, Webscraping)"
+  },
+  {
+    "objectID": "formateurs/rey-coyrehourcq.html#publications",
+    "href": "formateurs/rey-coyrehourcq.html#publications",
+    "title": "Sébastien REY-COYREHOURCQ",
+    "section": " Publications",
+    "text": "Publications\n\n\nCaillou P, Rey Coyrehourcq S, Marilleau N, Banos A. 2017. Agent-based spatial simulation with NetLogo : volume 2 : advanced concepts\n\n\nCebeillac A, Rey-Coyrehourcq S. Webscraping : enjeux techniques et éthiques\n\n\nCommenges H. 2014. R et espace: traitement de l’information géographique. Framasoft: Lyon.\n\n\nCottineau C, Chapron P, Texier ML, Rey-Coyrehourcq S. Chapter 4: Incremental Territorial Modelling. In Pumain D., 2020, Geographical Modeling, ISTE.\n\n\nRzine. Rzine Disponible sur: http://rzine.fr/ [Consulté le 23 janvier 2023]"
   },
   {
     "objectID": "formateurs/sanni.html",
@@ -893,7 +1075,7 @@
     "href": "formateurs/sanni.html#publications",
     "title": "Mouftaou AMADOU SANNI",
     "section": " Publications",
-    "text": "Publications"
+    "text": "Publications\n\n\nAmadou Sanni M. 2012b. Vulnérabilité aux IST/VIH/SIDA au Sud-Bénin: Etat des lieux et défis. Editions Universitaires Europeennes.\n\n\nAmadou Sanni M. 2012a. Scolarisation et dynamique de l’alphabétisation en français au Bénin : une analyse exploratoire démo-linguistique des recensements de la population et de l’habitation (1992 et 2002). Fash/UAC: 95‑106\n\n\nAmadou Sanni M. 2017. Langues parlées au sein du ménage et assimilation linguistique au Bénin. Cahiers québécois de démographie : revue internationale d’étude des populations 46: 219‑239 DOI: 10.7202/1054053ar\n\n\nAmadou Sanni M. 2018. Les formes familiales au sein des ménages au Bénin, au Burkina Faso et au Togo. Annales des Lettres et Sciences Sociales de l’Université de Parakou 1: 49‑57 DOI: 10.5281/zenodo.1160687\n\n\nAmadou Sanni M, Alladatin J, Agbo M. 2017. Tchaourou, une commune béninoisebéninoise : enquêtes sur la population, les activités économiques, la scolarisation et la santé de la reproduction. Editions science et bien commun: Québec. Disponible sur: https://scienceetbiencommun.pressbooks.pub/tchaourou/ [Consulté le 5 janvier 2023]"
   },
   {
     "objectID": "formateurs/tanoh.html",
@@ -924,6 +1106,13 @@
     "text": "Données mobilisées\n\nDonnées d’enquêtes : enquête de démographie de santé (EDS), Enquête Niveau de Vie en Côte d’Ivoire (ENV), enquête à indicateurs multiples (MICS) et Rapport sur le système éducatif national (RESEN)\nRecensement : recensement général de la population et de l’habitat (RGPH)"
   },
   {
+    "objectID": "formateurs/tanoh.html#publications",
+    "href": "formateurs/tanoh.html#publications",
+    "title": "Ané Landry TANOH",
+    "section": " Publications",
+    "text": "Publications\n\n\nDiarrassouba B, Fofana B, Tanoh AL. 2017. Exploitation artisanale des carrières de graviers à Bouaké : étude sociodémographique et environnementale d’une activité en expansion. Vol. 4\n\n\nTanoh AL, Kafando B. 2020. Inégalités sexuelles de scolarisation dans le nord-ouest de la Côte d’Ivoire. GéoVision, Revue du Laboratoire africain de démographie et des dynamiques spatiales 2: 35‑46\n\n\nTanoh AL, Zah Bi T. 2018. Inégalités scolaires entre les filles et les garçons dans le sud-ouest de la Côte d’Ivoire. In Problématique du développement dans l’ouest de la Côte d’Ivoire : éléments de diagnostic et de réflexionsAbidjan.\n\n\nTanoh AL, Zah Bi T. 2020. Planification familiale et scolarisation des enfants dans le nord de la Côte d’Ivoire. In Actes de la 2e conférence internationale sur la francophonie économiqueUniversité Mohamed V de rabbat; 19‑33."
+  },
+  {
     "objectID": "formateurs/toure.html",
     "href": "formateurs/toure.html",
     "title": "Labaly TOURÉ",
@@ -950,6 +1139,13 @@
     "title": "Labaly TOURÉ",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nDonnées GPS\nImages satellites\nEnquêtes"
+  },
+  {
+    "objectID": "formateurs/toure.html#publications",
+    "href": "formateurs/toure.html#publications",
+    "title": "Labaly TOURÉ",
+    "section": " Publications",
+    "text": "Publications\n\n\nBégué A, Leroux L, Soumaré M, Faure J-F, Diouf AA, Augusseau X, Touré L, Tonneau J-P. 2020. Remote Sensing Products and Services in Support of Agricultural Public Policies in Africa: Overview and Challenges. Frontiers in Sustainable Food Systems 4 Disponible sur: https://www.frontiersin.org/articles/10.3389/fsufs.2020.00058 [Consulté le 23 janvier 2023]\n\n\nBourgoin J, Corniaux C, Touré L, Cesaro J-D. 2019. Atlas des dynamiques observées dans le bassin de collecte de la Laiterie du Berger.\n\n\nCormier-Salem M-C, Touré L, Fabre M, Bouaita Y, Ba Mamadou El Abass B, Habert É. 2016. SIRENA, une plateforme participative au service de la gouvernance du delta transfrontalier du fleuve Sénégal. Revue d’ethnoécologie DOI: 10.4000/ethnoecologie.2653\n\n\nTouré L, Sy BA, Cormier M-C. Degradation of Forest and Agricultural Resources and Adaptation Strategies in Middle Casamance\n\n\nTouré L, Sy BA, Wade S. 2015. Étude par télédétection de la dégradation des ressources naturelles et stratégies de gestion dans la région de Sédhiou, Moyenne Casamance au Sénégal"
   },
   {
     "objectID": "formateurs/traore.html",
@@ -980,6 +1176,13 @@
     "text": "Données mobilisées\n\nImages satellites (Landsat, Spot, World View, Pléiades) pour la caractérisation des espaces (Arc2, TRMM, TAMSAT) pour les informations climatiques\nDonnées de références GPS\nDonnées d’enquêtes de terrains, de focus groups et de diagnostic\nDonnées d’inventaires floristiques et données statistiques"
   },
   {
+    "objectID": "formateurs/traore.html#publications",
+    "href": "formateurs/traore.html#publications",
+    "title": "Souleymane Sidi TRAORE",
+    "section": " Publications",
+    "text": "Publications\n\n\nCoulibaly B, Traoré SS, Diakité CH, Ballo A, Traoré A, Diawara M, Dembélé S. 2016. Dynamiques Sociales Et Gestion Fonciere En Zone Cotonniere Du Mali. European Scientific Journal, ESJ 12: 350 DOI: 10.19044/esj.2016.v12n11p350\n\n\nTraore SS, Soumare M, Dembele S, Ojeh VN, Guindo S, Diakite CH. 2021. Assessing Smallholder Farmers’ Perception on Climate Variability in Relation to Climatological Evidence: A Case Study of Benguene in the Sudanian Zone of Mali. East African Journal of Agriculture and Biotechnology 3: 24‑34 DOI: 10.37284/eajab.3.1.380\n\n\nTraore SS, Soumaré M, Müller JP, Diakité CH, Diawara M. 2017. Implémentation d’un système d’accompagnement et de modélisation multi-agent pour une gestion durable des ressources au niveau local\n\n\nTraoré S, Le Bars M. 2018. L’apport de la cartographie participative pour représenter les terroirs agricoles au Mali. Cartes & géomatique 235"
+  },
+  {
     "objectID": "formateurs/yagninim.html",
     "href": "formateurs/yagninim.html",
     "title": "Malb Ama N’Danida YAGNINIM",
@@ -1008,6 +1211,13 @@
     "text": "Données mobilisées\n\nDonnées d’enquêtes : Global Youth Tobacco Survey (GYTS), Global Adult Tobacco Survey (GATS)\nEnquêtes du questionnaire unifié des indicateurs de base de bien-être (QUIBB)"
   },
   {
+    "objectID": "formateurs/yagninim.html#publications",
+    "href": "formateurs/yagninim.html#publications",
+    "title": "Malb Ama N’Danida YAGNINIM",
+    "section": " Publications",
+    "text": "Publications\n\n\nSanoussi Y, Wonyra K, Yagninim MAN. 2021a. Inégalités des opportunités et dépenses de santé des ménages au Togo\n\n\nSanoussi Y, Yagninim MAN, Oudjim W. 2021b. Transferts monétaires, potentiels effets du COVID-19 et inégalités de revenus au Togo\n\n\nYagninim MAN. 2021a. Cigarette Smoking Experimentation of Adolescents Attending School and Factors Associated in Economic Community of West African States\n\n\nYagninim MAN. 2021b. Inégalités socio-économiques et l’arrêt de la consommation de cigarette des adultes dans l’espace CEDEAO : cas du Nigéria et du Sénégal\n\n\nYagninim MAN, Kpégli Y. 2021. Smoking Participation and Cigarette Consumption Intensity of Adolescents Attending School in Economic Community of West African States"
+  },
+  {
     "objectID": "formateurs/zanin.html",
     "href": "formateurs/zanin.html",
     "title": "Christine ZANIN",
@@ -1034,6 +1244,13 @@
     "title": "Christine ZANIN",
     "section": " Données mobilisées",
     "text": "Données mobilisées\n\nRecensement\nCartes\nDonnées statistiques variées"
+  },
+  {
+    "objectID": "formateurs/zanin.html#publications",
+    "href": "formateurs/zanin.html#publications",
+    "title": "Christine ZANIN",
+    "section": " Publications",
+    "text": "Publications\n\n\nLambert N, Zanin C. 2016. Manuel de cartographie: principes, méthodes, applications. Armand Colin: Paris.\n\n\nLambert N, Zanin C. 2019. Mad maps: l’atlas qui va changer votre vision du monde. Armand Colin: Malakoff.\n\n\nZanin C. 2014. Regards croisés sur l’enseignement de la sémiologie. Cartes et géomatique. Revue du Comité français de cartographie\n\n\nZanin C. 2021. Chapitre 3. Pratiques cartographiques normatives et politiques européennes d’aménagement: 83 Disponible sur: https://shs.hal.science/halshs-03849799 [Consulté le 27 janvier 2023]\n\n\nZanin C, Ysebaert R. 2017. Map templates in European research program: A harmonization challenge, without compromising cartographic innovation. Cartes & géomatique: 33 Disponible sur: https://hal.science/hal-01974004 [Consulté le 27 janvier 2023]"
   },
   {
     "objectID": "index.html",
@@ -1092,6 +1309,13 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/A_data_type.html#références",
+    "href": "modules/A_data_type.html#références",
+    "title": "L’information Géographique",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/B_data_type.html",
     "href": "modules/B_data_type.html",
     "title": "Données d’enquête",
@@ -1141,6 +1365,13 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/B_data_type.html#références",
+    "href": "modules/B_data_type.html#références",
+    "title": "Données d’enquête",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/C_data_type.html",
     "href": "modules/C_data_type.html",
     "title": "Données de recensement",
@@ -1188,6 +1419,13 @@
     "title": "Données de recensement",
     "section": " Données",
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
+  },
+  {
+    "objectID": "modules/C_data_type.html#références",
+    "href": "modules/C_data_type.html#références",
+    "title": "Données de recensement",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
   },
   {
     "objectID": "modules/D_QGIS.html",
@@ -1246,6 +1484,13 @@
     "text": "Données\nOSM (Geofabrik) du Togo. Fonds découpages administratifs (GADM ou sur le serveur de l’EE) : Préfectures du Togo avec leurs noms, ID Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA ->VIL) en format tableur Données GPS\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/D_QGIS.html#références",
+    "href": "modules/D_QGIS.html#références",
+    "title": "Initiation à QGIS",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/E_R.html",
     "href": "modules/E_R.html",
     "title": "Initiation à R",
@@ -1293,6 +1538,13 @@
     "title": "Initiation à R",
     "section": " Données",
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
+  },
+  {
+    "objectID": "modules/E_R.html#références",
+    "href": "modules/E_R.html#références",
+    "title": "Initiation à R",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
   },
   {
     "objectID": "modules/F_stat_uni.html",
@@ -1344,6 +1596,13 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/F_stat_uni.html#références",
+    "href": "modules/F_stat_uni.html#références",
+    "title": "Statistique univariée",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/G_cartographie.html",
     "href": "modules/G_cartographie.html",
     "title": "Cartographie Thématique",
@@ -1391,6 +1650,13 @@
     "title": "Cartographie Thématique",
     "section": " Données",
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
+  },
+  {
+    "objectID": "modules/G_cartographie.html#références",
+    "href": "modules/G_cartographie.html#références",
+    "title": "Cartographie Thématique",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
   },
   {
     "objectID": "modules/H_stat_biv.html",
@@ -1442,6 +1708,13 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/H_stat_biv.html#références",
+    "href": "modules/H_stat_biv.html#références",
+    "title": "Statistique bivariée",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/I_semi_point.html",
     "href": "modules/I_semi_point.html",
     "title": "Semis de Points",
@@ -1489,6 +1762,13 @@
     "title": "Semis de Points",
     "section": " Données",
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
+  },
+  {
+    "objectID": "modules/I_semi_point.html#références",
+    "href": "modules/I_semi_point.html#références",
+    "title": "Semis de Points",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
   },
   {
     "objectID": "modules/J_distance_acces.html",
@@ -1540,6 +1820,13 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/J_distance_acces.html#références",
+    "href": "modules/J_distance_acces.html#références",
+    "title": "Distance et accessibilité",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules/K_stat_multi.html",
     "href": "modules/K_stat_multi.html",
     "title": "Statistique multivariée",
@@ -1587,6 +1874,13 @@
     "title": "Statistique multivariée",
     "section": " Données",
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
+  },
+  {
+    "objectID": "modules/K_stat_multi.html#références",
+    "href": "modules/K_stat_multi.html#références",
+    "title": "Statistique multivariée",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
   },
   {
     "objectID": "modules/L_Modelisation.html",
@@ -1638,11 +1932,18 @@
     "text": "Données\nQuam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.\n\n\n\n Data.zip"
   },
   {
+    "objectID": "modules/L_Modelisation.html#références",
+    "href": "modules/L_Modelisation.html#références",
+    "title": "Modélisation",
+    "section": " Références",
+    "text": "Références\n\n\nElementR. 2014. R et espace. Traitement de l’information géographique. Framabook. Disponible sur: https://archives.framabook.org/r-et-espace/\n\n\nGiraud T, Pecout H. 2022. Géomatique avec R Disponible sur: https://rcarto.github.io/geomatique_avec_r/\n\n\nLovelace R, Nowosad J, Muenchow J. 2019. Geocomputation with R. DOI: 10.1201/9780203730058\n\n\nSmith D. 2017. An Updated History of R Disponible sur: https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html"
+  },
+  {
     "objectID": "modules.html",
     "href": "modules.html",
     "title": "Modules",
     "section": "",
-    "text": "Accédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Thématique\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nL’information Géographique\n\n\nIntroduction à l’information Géographique\n\n\n\n\nDonnées\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDonnées d’enquête\n\n\nIntroduction aux données d’enquête\n\n\n\n\nDonnées\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDonnées de recensement\n\n\nIntroduction aux données de recensement\n\n\n\n\nDonnées\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique univariée\n\n\nIntroduction à la statistique descritpive univariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nCartographie Thématique\n\n\nIntroduction à la sémiologie grahique et à la cartographie\n\n\n\n\nCartographie\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique bivariée\n\n\nIntroduction à la statistique descritpive bivariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nSemis de Points\n\n\nIntroduction à l’analyse de Semis de Points\n\n\n\n\nAnalyse spatiale\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDistance et accessibilité\n\n\nIntroduction à l’analyse de distance\n\n\n\n\nAnalyse spatiale\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique multivariée\n\n\nIntroduction à la statistique descritpive multivariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nModélisation\n\n\nIntroduction à la modélisation\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nInitiation à QGIS\n\n\nIntroduction à QGIS\n\n\n\n\nOutils\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\n \n\n\n\n\nMr Zakariyao KOUMOI, Mme Cathy CHATEL, Mme Elina MARVEAUX\n\n\n\n\n\n\n  \n\n\n\n\nInitiation à R\n\n\nIntroduction à R pour le traitement de l’information géographique\n\n\n\n\noutil\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\nStatistique\n\n\n \n\n\n\n\nJustin Dansou, Hugues Pecout\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Condition d’utilisation\n\n\n\nA préciser\n\n\nAccédez à l’ensemble des supports de cours ou d’exercice, ainsi qu’aux données utilisées en cliquant sur le module ciblé.\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Thématique\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nL’information Géographique\n\n\nIntroduction à l’information Géographique\n\n\n\n\nDonnées\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDonnées d’enquête\n\n\nIntroduction aux données d’enquête\n\n\n\n\nDonnées\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDonnées de recensement\n\n\nIntroduction aux données de recensement\n\n\n\n\nDonnées\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique univariée\n\n\nIntroduction à la statistique descritpive univariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nCartographie Thématique\n\n\nIntroduction à la sémiologie grahique et à la cartographie\n\n\n\n\nCartographie\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique bivariée\n\n\nIntroduction à la statistique descritpive bivariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nSemis de Points\n\n\nIntroduction à l’analyse de Semis de Points\n\n\n\n\nAnalyse spatiale\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nDistance et accessibilité\n\n\nIntroduction à l’analyse de distance\n\n\n\n\nAnalyse spatiale\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nStatistique multivariée\n\n\nIntroduction à la statistique descritpive multivariée\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nModélisation\n\n\nIntroduction à la modélisation\n\n\n\n\nStatistique\n\n\n \n\n\n\n\nMr xx, Mme xx\n\n\n\n\n\n\n  \n\n\n\n\nInitiation à QGIS\n\n\nIntroduction à QGIS\n\n\n\n\nOutils\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\n \n\n\n\n\nMr Zakariyao KOUMOI, Mme Cathy CHATEL, Mme Elina MARVEAUX\n\n\n\n\n\n\n  \n\n\n\n\nInitiation à R\n\n\nIntroduction à R pour le traitement de l’information géographique\n\n\n\n\noutil\n\n\nGéomatique\n\n\nAnalyse spatiale\n\n\nCartographie\n\n\nStatistique\n\n\n \n\n\n\n\nJustin Dansou, Hugues Pecout\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "programme.html",
