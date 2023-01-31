@@ -31,9 +31,10 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: website-quarto
+          path: /github/workspace/website
       - uses: jsmrcaga/action-netlify-deploy@v1.1.0
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_SECRET }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_DEPLOY_TO_PROD: true
-          build_directory: 'website/website'
+          build_directory: '/github/workspace/website'
