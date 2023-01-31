@@ -19,3 +19,13 @@ jobs:
              --user root
              -v /home/runner/work/website/website:/project/website
            run: quarto render /project/website
+  deploy:
+    needs: [container-quarto]
+    name: 'Deploy to Netlify'
+    steps:
+      - uses: jsmrcaga/action-netlify-deploy@v1.1.0
+        with:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_SECRET }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY_TO_PROD: true
+          build_directory: '_site'
