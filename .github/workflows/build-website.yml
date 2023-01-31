@@ -19,11 +19,21 @@ jobs:
              --user root
              -v /home/runner/work/website/website:/project/website
            run: quarto render /project/website
+        - name: Build and upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: website-quarto
+          path: |
+            _site/
+
   deploy:
     runs-on: ubuntu-latest 
     needs: container-quarto
     name: 'Deploy to Netlify'
     steps:
+      - uses: actions/download-artifact@v3
+        with:
+          name: website-quarto
       - uses: jsmrcaga/action-netlify-deploy@v1.1.0
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_SECRET }}
