@@ -1,8 +1,6 @@
 ---
 title: "Africapolis"
-name: "vil_afric_2015"
-# image : img/traore-s.png
-# bibliography: biblio/traore.bib
+name: "Africapolis"
 nocite: '@*'
 csl: geo.csl
 categories: 
@@ -13,24 +11,16 @@ categories:
 - démographie
 about:
   template: marquee
-  # image:  img/traore-s.png
-  # image-width: 18em
-  # image-shape: rounded
   # links:
-    # - icon: twitter
-    #   text: Données
-    #   href: https://twitter.com
     # - icon: github
     #   text: Producteur des donées
     #   href: https://github.com
-      
 module: 
-- TYP2
-- SPA1
-- SPA3
-- OUT2
-# statut: Enseignant-chercheur en Géographie
-# pays: Mali
+- Type de données II
+- Analyse Spatiale I
+- Analyse Spatiale III
+- Outils - QGIS
+nature: statistiques
 title-block-categories: true
 
 format:
@@ -81,9 +71,9 @@ format:
 
 -   Module(s) de formation concerné(s):
 
-    -   [TYP2 - Data](../modules/B_data_type.qmd)
-    -   [SPA1 - Analyse Spatiale I](../modules/I_semi_point.qmd)
-    -   SPA3 - Analyse Spatiale III
-    -   [OUT2 - Outils QGIS](../modules/D_QGIS.qmd)
+    -   [**Type de données II** - Recensement](../modules/B_data_type.qmd)
+    -   [**Analyse Spatiale I** : Semis de points](../modules/I_semi_point.qmd)
+    -   [**Analyse Spatiale III** : Distance et accessibilité](../modules/J_distance_acces.qmd)
+    -   [**Outils 2** : QGIS](../modules/D_QGIS.qmd)
 
 -   TAGS: mots-clé

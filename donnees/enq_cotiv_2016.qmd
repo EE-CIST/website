@@ -1,0 +1,74 @@
+---
+title: "Scolarisation NO Côte d'Ivoire"
+name: "Scolarisation Côte d'Ivoire"
+nocite: '@*'
+csl: geo.csl
+categories: 
+- scolarisation
+- afrique
+- politique éducative 
+about:
+  template: marquee
+  # links:
+    # - icon: github
+    #   text: Producteur des donées
+    #   href: https://github.com
+module: 
+- Type de données I
+- Statistiques III
+nature: enquete
+title-block-categories: true
+
+format:
+  html: 
+    css: styles_bis.css
+---
+
+<!-- Nom : The Demographic and Health Surveys (DHS) *(Enquête Démographie et Santé)* -->
+
+**Nature** : Données d'enquête
+
+**Description** : Données d'enquête sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire.
+
+**Producteur** : ?
+
+**Fournisseur/URL d'accès** : *Nakala ?*
+
+**Date** : 2016-2018
+
+**Etendue spatiale** : Quatre régions administratives dans la partie septentrionale de la Côte d'Ivoire (Bagoué, Folon, Kabadougou et Poro)
+
+**Echelle** : Individus (échantillon non représentatif des chefs de ménage de quatre régions administratives du nord-ouest)
+
+**Nombre d'observations** : 635 chefs de ménages
+
+**Nombre de variables** : 75
+
+**Description des variables** :
+
+| **Nom**          | **Description**                                        | **Type** |
+|--------------|---------------------------------------------|--------------|
+| **'i1'**         | Code région                                            | string   |
+| **'i2'**         | Code département                                       | string   |
+| **'sprefect'**   | Code Sous-préfecture                                   | string   |
+| **'numme'**      | Numéro ménage                                          | string   |
+| **'i3'**         | Milieu de résidence                                    | string   |
+| **'id_ménagee'** | Identifiant du ménage (i1 = i2 + sprefect + numme + i3 | string   |
+
+**Méthodologie** :
+
+**Transformation** :
+
+**Commentaire** :
+
+------------------------------------------------------------------------
+
+-   **Licence** :
+
+-   **Lien de téléchargement** :
+
+-   **Module(s) de formation concerné(s)** :
+
+    -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
+
+    -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)

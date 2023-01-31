@@ -1,0 +1,72 @@
+---
+title: "Analyse des précipitations en Californie en 1965"
+name: "Précipitations en Californie"
+nocite: '@*'
+csl: geo.csl
+categories: 
+- environnement
+- californie
+about:
+  template: marquee
+  # links:
+    # - icon: github
+    #   text: Producteur des donées
+    #   href: https://github.com
+module: 
+- Modélisation I
+nature: données météorologiques
+title-block-categories: true
+
+format:
+  html: 
+    css: styles_bis.css
+---
+
+<!-- Nom : The Demographic and Health Surveys (DHS) *(Enquête Démographie et Santé)* -->
+
+**Nature** : Données de stations météorologiques
+
+**Description** : Données géolocalisées sur les précipitations dans 30 stations météorologiques de Californie & une liste de variables explicatives.
+
+**Producteur** : Felton,Taylor et Madelin, Grasland pour la reconstitution
+
+**Fournisseur/URL d'accès** : *Nakala ?*
+
+**Date** : 1965
+
+**Etendue spatiale** : Californie
+
+**Echelle** : Individus (stations météorologiques)
+
+**Nombre d'observations** : 30 stations météorologiques
+
+**Nombre de variables** : 6
+
+**Description des variables** :
+
+| **Nom**    | **Description**                                       | **Type** |
+|------------|-------------------------------------------------------|----------|
+| **'CODE'** | Identifiant unique des stations                       | string   |
+| **'NOM'**  | Nom de la sation météorologique                       | string   |
+| **'PRE'**  | Moyenne des cumuls annuels des précipitations en mm ? | entier   |
+| **'ALT'**  | Altitude de la station en métres ?                    | entier   |
+| **'DIS'**  | Distance à la côte en kilomètre ?                     | entier   |
+| **'ABR'**  | A l'abri des vents dominants ?                        | bouléen  |
+| **'LAT'**  | Latitude                                              | double   |
+| **'LNG'**  | Longitude                                             | double   |
+
+**Méthodologie** :
+
+**Transformation** :
+
+**Commentaire** :
+
+------------------------------------------------------------------------
+
+-   **Licence** : 
+
+-   **Lien de téléchargement** :
+
+-   **Module(s) de formation concerné(s)** :
+
+    -   [**Modélisation I** - Enquêtes](../modules/L_Modelisation.qmd)

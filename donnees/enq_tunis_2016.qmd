@@ -15,11 +15,10 @@ about:
   #     text: Producteur des donées
   #     href: https://github.com
 module: 
-- Type de données 1
-- EXP3
-nature: enquête
+- Type de données I
+- Statistiques III
+nature: enquete
 title-block-categories: true
-
 format:
   html: 
     css: styles_bis.css
@@ -68,4 +67,6 @@ format:
 
 -   Module(s) de formation concerné(s):
 
--   TAGS: mots-clé
+    -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
+
+    -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
