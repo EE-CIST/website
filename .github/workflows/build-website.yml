@@ -20,7 +20,7 @@ jobs:
              -v /home/runner/work/website/website:/project/website
            run: quarto render /project/website
   deploy:
-    needs: [container-quarto]
+    needs: container-quarto
     name: 'Deploy to Netlify'
     steps:
       - uses: jsmrcaga/action-netlify-deploy@v1.1.0
