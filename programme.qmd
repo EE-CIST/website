@@ -338,17 +338,6 @@ title: "**Programme**"
     -   Prérequis:
     -   Matériaux :
 
-#### **samedi**
-
--   **9h-12h**
-
--   **14h-17h**
-
-#### **dimanche**
-
--   **9h-12h**
-
--   **14h-17h**
 :::
 
 ### Du 6 au 12 mars
@@ -453,16 +442,4 @@ title: "**Programme**"
     -   Lieu :
     -   Prérequis:
     -   Matériaux :
-
-#### **samedi**
-
--   **9h-12h**
-
--   **14h-17h**
-
-#### **dimanche**
-
--   **9h-12h**
-
--   **14h-17h**
 :::
