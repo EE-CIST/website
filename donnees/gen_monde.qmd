@@ -4,19 +4,11 @@ name: "Pays du Monde"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- démographie
-- économie
-- géographie
-- environnement
-about:
-  template: marquee
-  # links:
-  #   - icon: github
-  #     text: Producteur des donées
-  #     href: https://github.com
-module: 
 - Cartographie I & II
 - Cartographie III
+about:
+  template: marquee
+producteur: Banque Mondiale 
 nature: statistiques
 title-block-categories: true
 format:
@@ -24,28 +16,30 @@ format:
     css: styles_bis.css
 ---
 
--   **Nature** : Statistiques internationales
+**Nature** : Statistiques internationales
 
--   **Description** :
+**Mots-clés** : démographie - économie - géographie - environnement
 
--   **Producteur** : Banque mondiale & estimation (sources)
+**Description** :
 
--   **Fournisseur/URL d'accès** : Banque mondiale via son API
+**Producteur** : Banque mondiale & estimation (sources)
 
--   **Date**: 1990-2019
+**Fournisseur/URL d'accès** : Banque mondiale via son API
 
--   **Etendue spatiale** : Monde
+**Date**: 1990-2019
 
--   **Echelle** : National
+**Etendue spatiale** : Monde
 
--   **Nombre d'observations** : 220
+**Echelle** : National
 
--   **Nombre de variables** : 6 variables de stock
+**Nombre d'observations** : 220
 
--   **Description des variables** :
+**Nombre de variables** : 6 variables de stock
+
+**Description des variables** :
 
 | Nom                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Sources                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Type    |
-|----------|--------------------------------|--------------------|----------|
+|-----------------|--------------------|-----------------|-----------------|
 | Surface area (sq. km)  | Surface area is a country's total area, including areas under inland bodies of water and some coastal waterways.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Food and Agriculture Organization, electronic files and web site.                                                                                                                                                                                                                                                                                                                                                                                       | numeric |
 | Arable land (hectares) | Arable land (in hectares) includes land defined by the FAO as land under temporary crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.                                                                                                                                                                                                                                                                                                                                                     | Food and Agriculture Organization, electronic files and web site.                                                                                                                                                                                                                                                                                                                                                                                       | numeric |
 | Population, total      | Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | \(1\) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme. | numeric |
@@ -53,21 +47,17 @@ format:
 | GDP (current US\$)     | GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used. | World Bank national accounts data, and OECD National Accounts data files.                                                                                                                                                                                                                                                                                                                                                                               | numeric |
 | CO2 emissions (kt)     | Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.                                                                                                                                                                                                                                                                                                                   | numeric |
 
--   **Méthodologie** :
+**Méthodologie** :
 
--   **Transformation** : Estimation des valeurs manquantes
+**Transformation** : Estimation des valeurs manquantes
 
--   **Commentaire** :
+**Commentaire** :
 
 ------------------------------------------------------------------------
 
--   Licence :
+**Licence** :
 
--   Citation :
-
--   Lien de téléchargement :
-
--   Module(s) de formation concerné(s):
-
+-   **Module(s) de formation concerné(s)** :
     -   [Cartographie 1-2-3](../modules/G_cartographie.qmd)
 
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

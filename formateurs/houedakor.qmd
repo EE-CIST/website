@@ -50,7 +50,7 @@ format:
 -   Variabilité climatique et impacts dans les bassins versants
 -   Variabilité pluviométrique et productions agricoles
 -   Vulnérabilité et adaptation aux changements climatiques
--   Métabolisme urbain et qualité de l’eau
+-   Métabolisme urbain et qualité de l'eau
 -   Dynamique spatio-temporelle des espaces côtiers
 :::
 
@@ -60,12 +60,12 @@ format:
 
 -   Photo-interprétation
 -   Télédétection et SIG
--   Géomorphologie : 
-  -   Géodynamique interne et formation des reliefs terrestres
-  -   Paysages de socle
-  -   Dynamique de surface et formation des modelés
-  -   Géomorphologie dynamique : domaine littoral et formations maritimes
-  
+-   Géomorphologie :
+-   Géodynamique interne et formation des reliefs terrestres
+-   Paysages de socle
+-   Dynamique de surface et formation des modelés
+-   Géomorphologie dynamique : domaine littoral et formations maritimes
+
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
@@ -73,7 +73,7 @@ format:
 -   Données de recensement de population
 -   Données météorologiques : température, précipitation, humidité relative, etc.
 -   Données de terrain en lien avec les recherches en cours
--   Données de qualité de l’eau
+-   Données de qualité de l'eau
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

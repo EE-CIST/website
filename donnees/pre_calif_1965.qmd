@@ -4,19 +4,12 @@ name: "Précipitations en Californie"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- environnement
-- californie
+- Modélisation I
 about:
   template: marquee
-  # links:
-    # - icon: github
-    #   text: Producteur des donées
-    #   href: https://github.com
-module: 
-- Modélisation I
+producteur: indéfini 
 nature: données météorologiques
 title-block-categories: true
-
 format:
   html: 
     css: styles_bis.css
@@ -26,9 +19,11 @@ format:
 
 **Nature** : Données de stations météorologiques
 
+**Mots-clés** : environnement - californie
+
 **Description** : Données géolocalisées sur les précipitations dans 30 stations météorologiques de Californie & une liste de variables explicatives.
 
-**Producteur** : Felton,Taylor et Madelin, Grasland pour la reconstitution
+**Producteur** : Felton, Taylor et Madelin, Grasland pour la reconstitution
 
 **Fournisseur/URL d'accès** : *Nakala ?*
 
@@ -45,7 +40,7 @@ format:
 **Description des variables** :
 
 | **Nom**    | **Description**                                       | **Type** |
-|------------|-------------------------------------------------------|----------|
+|--------------|---------------------------------------------|--------------|
 | **'CODE'** | Identifiant unique des stations                       | string   |
 | **'NOM'**  | Nom de la sation météorologique                       | string   |
 | **'PRE'**  | Moyenne des cumuls annuels des précipitations en mm ? | entier   |
@@ -63,10 +58,10 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Licence** : 
-
--   **Lien de téléchargement** :
+**Licence** :
 
 -   **Module(s) de formation concerné(s)** :
 
     -   [**Modélisation I** - Enquêtes](../modules/L_Modelisation.qmd)
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

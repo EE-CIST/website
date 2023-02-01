@@ -2,20 +2,21 @@
 title: "**Données Mobilisées**"
 listing:
   id: donnees
-  fields: [name, module, nature]
-  filter-ui: true
+  fields: [name, nature, producteur]
+  filter-ui: [name, nature, producteur]
   contents: donnees
   sort: "name"
-  sort-ui: [name, module, nature]
+  sort-ui: [name, nature, producteur]
   type: table
   categories: true
   table-hover: true
   field-links: ["name"]
   page-size: 50
   field-display-names:
+    categories: "Module(s)"
     name: "Nom"
     nature: "Nature"
-    module: "Module(s)"
+    producteur: "Producteur(s)"
 about:
   template: marquee
 ---

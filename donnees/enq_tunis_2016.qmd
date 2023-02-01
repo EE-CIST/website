@@ -4,19 +4,13 @@ name: "Enquête Tunisie"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- grille biographique
-- migrations
-- emploi
-- langue
+  - Type de données I
+  - Statistiques III
 about:
   template: marquee
-  # links:
-  #   - icon: github
-  #     text: Producteur des donées
-  #     href: https://github.com
-module: 
-- Type de données I
-- Statistiques III
+producteur:
+  - INED
+  - CERP
 nature: enquete
 title-block-categories: true
 format:
@@ -24,49 +18,49 @@ format:
     css: styles_bis.css
 ---
 
--   **Nom** : Enquête sur les transformations de la société tunisienne
+**Nom** : Enquête sur les transformations de la société tunisienne
 
--   **Nature** : Données d'enquête socio démographique avec une grille biographique
+**Mots-clés** : grille biographique - migrations - emploi - langue
 
--   **Description** :
+**Nature** : Données d'enquête socio démographique avec une grille biographique
 
--   **Producteur** : INED-CERP
+**Description** :
 
--   **Fournisseur/URL d'accès** : non publiées
+**Producteur** : INED-CERP
 
--   **Date** : 2016
+**Fournisseur/URL d'accès** : non publiées
 
--   **Etendue spatiale** : Tunisie
+**Date** : 2016
 
--   **Echelle** : échantillon de districts représentatifs de la population tunisienne à l'échelle des gouvernorats
+**Etendue spatiale** : Tunisie
 
--   **Nombre d'observations** : 3463 personnes
+**Echelle** : échantillon de districts représentatifs de la population tunisienne à l'échelle des gouvernorats
 
--   **Nombre de variables** : 1047
+**Nombre d'observations** : 3463 personnes
 
--   **Description des variables** :
+**Nombre de variables** : 1047
+
+**Description des variables** :
 
     | Nom | Description | Sources | Type |
     |-----|-------------|---------|------|
     |     |             |         |      |
     |     |             |         |      |
 
--   **Méthodologie** :
+**Méthodologie** :
 
--   **Transformation** : Données ayant subit une transformation/modification ? OUI/NON
+**Transformation** : Données ayant subit une transformation/modification ? OUI/NON
 
--   **Commentaire** :
+**Commentaire** :
 
 ------------------------------------------------------------------------
 
--   Licence:
+**Licence** :
 
--   Citation:
-
--   Lien de téléchargement: A remplir une fois que les données seront sur le site de l'école
-
--   Module(s) de formation concerné(s):
+-   **Module(s) de formation concerné(s)** :
 
     -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
 
     -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
+    
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

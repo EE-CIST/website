@@ -4,21 +4,13 @@ name: "Scolarisation Côte d'Ivoire"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- scolarisation
-- afrique
-- politique éducative 
+  - Type de données I
+  - Statistiques III
 about:
   template: marquee
-  # links:
-    # - icon: github
-    #   text: Producteur des donées
-    #   href: https://github.com
-module: 
-- Type de données I
-- Statistiques III
+producteur: indéfini
 nature: enquete
 title-block-categories: true
-
 format:
   html: 
     css: styles_bis.css
@@ -27,6 +19,8 @@ format:
 <!-- Nom : The Demographic and Health Surveys (DHS) *(Enquête Démographie et Santé)* -->
 
 **Nature** : Données d'enquête
+
+**Mots-clés** : scolarisation - Afrique - politique éducative
 
 **Description** : Données d'enquête sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire.
 
@@ -46,14 +40,14 @@ format:
 
 **Description des variables** :
 
-| **Nom**          | **Description**                                        | **Type** |
-|--------------|---------------------------------------------|--------------|
-| **'i1'**         | Code région                                            | string   |
-| **'i2'**         | Code département                                       | string   |
-| **'sprefect'**   | Code Sous-préfecture                                   | string   |
-| **'numme'**      | Numéro ménage                                          | string   |
-| **'i3'**         | Milieu de résidence                                    | string   |
-| **'id_ménagee'** | Identifiant du ménage (i1 = i2 + sprefect + numme + i3 | string   |
+| **Nom**         | **Description**                                         | **Type** |
+|------------------|-------------------------------------|------------------|
+| **'i1'**        | Code région                                             | string   |
+| **'i2'**        | Code département                                        | string   |
+| **'sprefect'**  | Code Sous-préfecture                                    | string   |
+| **'numme'**     | Numéro ménage                                           | string   |
+| **'i3'**        | Milieu de résidence                                     | string   |
+| **'id_ménage'** | Identifiant du ménage (i1 = i2 + sprefect + numme + i3) | string   |
 
 **Méthodologie** :
 
@@ -63,12 +57,12 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Licence** :
-
--   **Lien de téléchargement** :
+**Licence** :
 
 -   **Module(s) de formation concerné(s)** :
 
     -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
 
     -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

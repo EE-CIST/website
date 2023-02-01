@@ -4,29 +4,22 @@ name: "EDS/DHS Afrique"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- afrique
-- santé
-- démographie
-- alimentation
-about:
-  template: marquee
-  # links:
-    # - icon: github
-    #   text: Producteur des donées
-    #   href: https://github.com
-module: 
 - Type de données I
 - Statistiques I 
-- Statistiques II
+- Statistiques III
+about:
+  template: marquee
+producteur: DHS
 nature: enquete
 title-block-categories: true
-
 format:
   html: 
     css: styles_bis.css
 ---
 
 **Nom** : The Demographic and Health Surveys (DHS) *(Enquête Démographie et Santé)*
+
+**Mots-clés** : afrique - santé - démographie - alimentation
 
 **Nature** : Données d'enquêtes
 
@@ -46,10 +39,10 @@ format:
 
 **Description des variables** :
 
-  | Nom | Description | Sources | Type |
-  |-----|-------------|---------|------|
-  |     |             |         |      |
-  |     |             |         |      |
+| Nom | Description | Sources | Type |
+|-----|-------------|---------|------|
+|     |             |         |      |
+|     |             |         |      |
 
 **Méthodologie** :
 
@@ -59,9 +52,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Licence** : [Se reporter aux consignes disponibles sur le site DHS :](https://dhsprogram.com/publications/Recommended)
-
--   **Lien de téléchargement** :
+**Licence** : [Se reporter aux consignes disponibles sur le site DHS :](https://dhsprogram.com/publications/Recommended)
 
 -   **Module(s) de formation concerné(s)**:
 
@@ -70,3 +61,5 @@ format:
     -   [**Statistiques I** - Univariées](../modules/F_stat_uni.qmd)
 
     -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

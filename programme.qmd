@@ -215,8 +215,6 @@ title: "**Programme**"
 </tbody>
 </table>
 ```
-
-
 ### Du 27 février au 5 mars
 
 ::: panel-tabset
