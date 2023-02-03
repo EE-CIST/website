@@ -292,7 +292,7 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](I_semi_point.qmd)
+    -   Matériaux : [page du module](modules/I_semi_point.qmd)
 -   **11h-13h - Analyse spatiale II Distance et accès**
     -   Description :
     -   Lieu :
@@ -337,7 +337,6 @@ title: "**Programme**"
     -   Lieu :
     -   Prérequis:
     -   Matériaux :
-
 :::
 
 ### Du 6 au 12 mars

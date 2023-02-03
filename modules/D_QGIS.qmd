@@ -139,7 +139,7 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 <!-- </div> -->
 
-<!-- <div> -->
+<div>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
