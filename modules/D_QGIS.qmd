@@ -14,7 +14,7 @@ author:
 - Mr Zakariyao KOUMOI
 - Mme Elina MARVEAUX
 author-title: Auteurs
-bibliography: biblio/out2_qgis.bib
+bibliography: biblio/OUT2_qgis.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -69,9 +69,6 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 *Les cours d'initation à QGIS ont lieu tous les jours du Lundi au Vendredi de 14h à 16h.*
 
-### 
-
-::: panel-tabset
 #### **Présentation de Qgis**
 
 -   Présentation de l'environnement de travail et des types de données
@@ -102,9 +99,7 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 #### Analyse spatiale et Vecteur
 
 -   Compter des points dans les polygones
-
 -   Cartes par interpolation
-:::
 
 </div>
 
@@ -116,15 +111,19 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 </div>
 
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
 <!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
 <!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
+<!-- ::: -->
 
 <!-- </object> -->
 
@@ -136,8 +135,6 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 <!-- \ -->
 
-<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
-
 <!-- \ -->
 
 <!-- </div> -->
@@ -146,11 +143,9 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-OSM (Geofabrik) du Togo. 
-
-Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID 
-
-Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
+-   OSM (Geofabrik) du Togo.
+-   Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID
+-   Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
 
 \
 
