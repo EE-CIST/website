@@ -14,7 +14,7 @@ author:
 - Mr Zakariyao KOUMOI
 - Mme Elina MARVEAUX
 author-title: Auteurs
-bibliography: biblio/OUT2_qgis.bib
+bibliography: modules/biblio/qgis.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -40,7 +40,7 @@ format:
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc à une public de tout niveau.
+Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc à un public de tout niveau sensible à l'information spatiale.
 
 L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
 
