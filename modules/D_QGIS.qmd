@@ -14,7 +14,7 @@ author:
 - Mr Zakariyao KOUMOI
 - Mme Elina MARVEAUX
 author-title: Auteurs
-bibliography: modules/biblio/qgis.bib
+bibliography: ../modules/biblio/qgis.bib
 nocite: '@*'
 csl: geo.csl
 about:
