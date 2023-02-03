@@ -1,7 +1,7 @@
 ---
 title: "Marion GENTILHOMME"
 name : "GENTILHOMME Marion"
-image : img/wip.jpg
+image : img/gentilhomme.png
 # bibliography: biblio/pecout.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Organisation
 about:
   template: marquee
-  image: img/wip.jpg
+  image: img/gentilhomme.png
   image-width: 18em
   image-shape: rounded
   links:

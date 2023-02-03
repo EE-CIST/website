@@ -1,7 +1,7 @@
 ---
 title: Malika MADELIN
 name: "MADELIN Malika"
-image : img/madelin_m.jpg
+image : img/madelin.png
 bibliography: biblio/madelin.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/madelin_m.jpg
+  image: img/madelin.png
   image-width: 18em
   image-shape: rounded
   links:

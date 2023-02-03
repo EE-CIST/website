@@ -1,7 +1,7 @@
 ---
 title: Côomlan Charles HOUNTON
 name: "HOUNTON Charles Côomlan"
-image : img/hounton-c.png
+image : img/hounton.png
 bibliography: biblio/hounton.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/hounton-c.png
+  image: img/hounton.png
   image-width: 18em
   image-shape: rounded
   links:
@@ -47,8 +47,8 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Evolution spatio-temporelle et conséquences socio-environnementales du barrage de l’Okpara à Tchaourou au Bénin
--   Utilisation des images satellitaires pour l’identification et la caractérisation des bas-fonds de la commune de Glazoué au centre du Bénin
+-   Evolution spatio-temporelle et conséquences socio-environnementales du barrage de l'Okpara à Tchaourou au Bénin
+-   Utilisation des images satellitaires pour l'identification et la caractérisation des bas-fonds de la commune de Glazoué au centre du Bénin
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -57,9 +57,9 @@ format:
 
 -   Techniques et outils de collecte de données
 -   Cartographie générale
--   Méthodes d’analyse spatiale
+-   Méthodes d'analyse spatiale
 -   SIG
--   Télédétection et traitement d’images satellitaires…
+-   Télédétection et traitement d'images satellitaires...
 
 </div>
 
@@ -70,7 +70,7 @@ format:
 -   Statistiques agricoles
 -   Données collectées par le GPS
 -   Images satellitaires
-    
+
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

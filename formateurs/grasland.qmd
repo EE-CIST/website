@@ -1,7 +1,7 @@
 ---
 title: "Claude GRASLAND"
 name: "GRASLAND Claude"
-image: img/grasland-c.png
+image: img/grasland.png
 bibliography: biblio/grasland.bib
 nocite: '@*'
 csl: geo.csl
@@ -10,7 +10,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/grasland-c.png
+  image: img/grasland.png
   image-width: 18em
   image-shape: rounded
   links:

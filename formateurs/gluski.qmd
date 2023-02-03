@@ -1,7 +1,7 @@
 ---
 title: Pauline GLUSKI
 name: "GLUSKI Pauline"
-image : img/gluski-p.png
+image : img/gluski.png
 bibliography: biblio/gluski.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/gluski-p.png
+  image: img/gluski.png
   image-width: 18em
   image-shape: rounded
   links:

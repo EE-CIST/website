@@ -1,7 +1,7 @@
 ---
 title: Pierre PISTRE
 name: "PISTRE Pierre"
-image : img/pistre-p.png
+image : img/pistre.png
 bibliography: biblio/pistre.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/pistre-p.png
+  image: img/pistre.png
   image-width: 18em
   image-shape: rounded
   links:

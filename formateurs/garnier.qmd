@@ -1,7 +1,7 @@
 ---
 title: Bénédicte GARNIER
 name: "GARNIER Bénédicte"
-image : img/garnier_b.jpg
+image : img/garnier.png
 bibliography: biblio/garnier.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/garnier_b.jpg
+  image: img/garnier.png
   image-width: 18em
   image-shape: rounded
   links:

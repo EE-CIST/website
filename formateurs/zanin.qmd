@@ -1,7 +1,7 @@
 ---
 title: "Christine ZANIN"
 name: "ZANIN Christine"
-image : img/zanin-c.png
+image : img/zanin.png
 bibliography: biblio/zanin.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/zanin-c.png
+  image:  img/zanin.png
   image-width: 18em
   image-shape: rounded
   links:
@@ -48,9 +48,9 @@ format:
 
 ::: {#liste}
 -   Cartographie
--   Représentations\
--   Visualisation\
--   Sémiologie graphique\
+-   Représentations
+-   Visualisation
+-   Sémiologie graphique
 -   Représentation des aménagements et gestions territoriales
 :::
 

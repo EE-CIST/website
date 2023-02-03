@@ -1,7 +1,7 @@
 ---
 title: Cathy CHATEL
 name: "CHATEL Cathy"
-image : img/chatel-c.png
+image : img/chatel.png
 bibliography: biblio/chatel.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/chatel-c.png
+  image: img/chatel.png
   image-width: 18em
   image-shape: rounded
   links:

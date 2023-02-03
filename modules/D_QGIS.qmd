@@ -10,11 +10,11 @@ categories:
 - Cartographie
 ordre: "20" 
 author: 
-- Mr Zakariyao KOUMOI
 - Mme Cathy CHATEL
+- Mr Zakariyao KOUMOI
 - Mme Elina MARVEAUX
 author-title: Auteurs
-bibliography: biblio/session1.bib
+bibliography: biblio/out2_qgis.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -29,23 +29,29 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
 
-Hugues Pecout, ...
-:::
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc à une public de tout niveau.
+
+L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
+
+Il est necessaire d'avoir un ordinateur avec **QGis 3.22** et un logiciel de traitement de texte pour suivre les exercices.
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Pas de prérequis necessaire pour suivre le module
 
 </div>
 
@@ -98,10 +104,6 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 -   Compter des points dans les polygones
 
 -   Cartes par interpolation
-
-#### **samedi**
-
-#### **dimanche**
 :::
 
 </div>
@@ -110,41 +112,45 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+L'intégralité des supports de cours est disponible ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données propres permettant de reprendre ces exercices (y compris des projets qgis prets à l'emploi)
 
 </div>
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
 ::: {#url}
 <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
 :::
 
-</object>
+<!-- </object> -->
 
-<div>
+<!-- <div> -->
 
-## <i class="bi bi-person-video3"></i> Support de TD
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-\
+<!-- \ -->
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
-\
+<!-- \ -->
 
-</div>
+<!-- </div> -->
 
-<div>
+<!-- <div> -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-OSM (Geofabrik) du Togo. Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
+OSM (Geofabrik) du Togo. 
+
+Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID 
+
+Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
 
 \
 

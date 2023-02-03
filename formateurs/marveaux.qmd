@@ -1,15 +1,15 @@
 ---
-title: Elina Marveaux
-name: "Marveaux Elina"
-image : img/wip.jpg
-# bibliography: biblio/pecout.bib
+title: Elina MARVEAUX
+name: "MARVEAUX Elina"
+image : img/marveaux.png
+bibliography: biblio/marveaux.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
 - Enseignant·es
 about:
   template: marquee
-  image: img/wip.jpg
+  image: img/marveaux.png
   image-width: 18em
   image-shape: rounded
   links:
@@ -47,32 +47,25 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Cartographie
+-   Géovisualisation
+-   Gestion de bases de données
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Statistiques et cartographie
+-   Système d'information géographique (QGIS)
+-   Initation aux outils de Publication Assistée par Ordinateur (Illustrator / Inkscape)
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données statistiques variées (publiques, open-source essentiellement)
+-   Données d'enquêtes
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 

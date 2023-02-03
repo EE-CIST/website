@@ -1,7 +1,7 @@
 ---
 title: "Nicolas LAMBERT"
 name: "LAMBERT Nicolas"
-image : img/lambert_n.jpg
+image : img/lambert.png
 bibliography: biblio/lambert.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/lambert_n.jpg
+  image:  img/lambert.png
   image-width: 18em
   image-shape: rounded
   links:

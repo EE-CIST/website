@@ -1,7 +1,7 @@
 ---
 title: Vakaramoko BAMBA
 name: "BAMBA Vakaramoko"
-image : img/bamba-v.png
+image : img/bamba.png
 bibliography: biblio/bamba.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/bamba-v.png
+  image: img/bamba.png
   image-width: 18em
   image-shape: rounded
   links:

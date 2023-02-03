@@ -1,7 +1,7 @@
 ---
 title: Sèïvè Ermine Armande DAMENOU
 name: "DAMENOU Sèïvè Ermine Armande"
-image : img/damenou-e.png
+image : img/damenou.png
 bibliography: biblio/damenou.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/damenou-e.png
+  image: img/damenou.png
   image-width: 18em
   image-shape: rounded
   links:

@@ -1,7 +1,7 @@
 ---
 title: Marianne GUÉROIS
 name: "GUÉROIS Marianne"
-image : img/guerois_m.jpg
+image : img/guerois.png
 bibliography: biblio/guerois.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/guerois_m.jpg
+  image: img/guerois.png
   image-width: 18em
   image-shape: rounded
   links:

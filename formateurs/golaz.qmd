@@ -1,7 +1,7 @@
 ---
 title: Valérie GOLAZ
 name: "GOLAZ Valérie"
-image : img/golaz-v.png
+image : img/golaz.png
 bibliography: biblio/golaz.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/golaz-v.png
+  image: img/golaz.png
   image-width: 18em
   image-shape: rounded
   links:

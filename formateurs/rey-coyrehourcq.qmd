@@ -1,15 +1,15 @@
 ---
 title: "Sébastien REY-COYREHOURCQ"
 name: "REY-COYREHOURCQ Sébastien"
-image : img/rey_coyrehourcq-s.png
-bibliography: biblio/rey.bib
+image : img/rey-coyrehourcq.png
+bibliography: biblio/rey-coyrehourcq.bib
 nocite: '@*'
 csl: geo.csl
 categories: 
 - Enseignant·es
 about:
   template: marquee
-  image: img/rey_coyrehourcq-s.png
+  image: img/rey-coyrehourcq.png
   image-width: 18em
   image-shape: rounded
   links:

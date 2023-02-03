@@ -1,7 +1,7 @@
 ---
 title: Koko Zébéto HOUEDAKOR 
 name: "HOUEDAKOR Koko Zébéto"
-image : img/houedakor-k.png
+image : img/houedakor.png
 bibliography: biblio/houedakor.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/houedakor-k.png
+  image: img/houedakor.png
   image-width: 18em
   image-shape: rounded
   links:

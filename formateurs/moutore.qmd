@@ -1,7 +1,7 @@
 ---
 title: Yentougle MOUTORE  
 name: "MOUTORE Yentougle"
-image : img/moutore-y.png
+image : img/moutore.png
 bibliography: biblio/moutore.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/moutore-y.png
+  image: img/moutore.png
   image-width: 18em
   image-shape: rounded
   links:

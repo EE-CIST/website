@@ -1,7 +1,7 @@
 ---
 title: Zakariyao KOUMOI
 name: "KOUMOI Zakariyao"
-image : img/koumoi-z.png
+image : img/koumoi.png
 bibliography: biblio/koumoi.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image: img/koumoi-z.png
+  image: img/koumoi.png
   image-width: 18em
   image-shape: rounded
   links:

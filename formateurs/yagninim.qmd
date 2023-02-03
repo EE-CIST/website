@@ -1,7 +1,7 @@
 ---
 title: "Malb Ama N’Danida YAGNINIM"
 name: "YAGNINIM Malb Ama N’Danida"
-image : img/yagninim-m.png
+image : img/yagninim.png
 bibliography: biblio/yagninim.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/yagninim-m.png
+  image:  img/yagninim.png
   image-width: 18em
   image-shape: rounded
   links:
@@ -63,7 +63,7 @@ format:
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   Données d’enquêtes : Global Youth Tobacco Survey (GYTS), Global Adult Tobacco Survey (GATS)
+-   Données d'enquêtes : Global Youth Tobacco Survey (GYTS), Global Adult Tobacco Survey (GATS)
 -   Enquêtes du questionnaire unifié des indicateurs de base de bien-être (QUIBB)
 
 ## <i class="bi bi-file-earmark-text"></i> Publications

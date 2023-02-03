@@ -1,3 +1,20 @@
 ---
 title: "Contact"
 ---
+
+Pour toute question relative au site web et la mise en place technique de l'école d'été : 
+
+-   contact 1  
+-   contact 2
+-   contact 3
+-   contact 4
+
+Pour toute question relative à l'organisation 
+
+-   contact 1  
+-   contact 2
+-   contact 3
+-   contact 4
+
+Pour toute question relative aux modules présentés contacter directement les formateurs. 
+

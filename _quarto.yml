@@ -24,9 +24,9 @@ website:
         text: Modules
       - href: donnees.qmd
         text: Données
+    right:
       - href: apropos.qmd
         text: À propos
-    right:
       - href: contact.qmd
         text: Contact
     tools:

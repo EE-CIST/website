@@ -1,7 +1,7 @@
 ---
 title: "Labaly TOURÉ"
 name: "TOURÉ Labaly"
-image : img/toure-l.png
+image : img/toure.png
 bibliography: biblio/toure.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/toure-l.png
+  image:  img/toure.png
   image-width: 18em
   image-shape: rounded
   links:

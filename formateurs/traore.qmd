@@ -1,7 +1,7 @@
 ---
 title: "Souleymane Sidi TRAORE"
 name: "TRAORE Souleymane Sidi"
-image : img/traore-s.png
+image : img/traore.png
 bibliography: biblio/traore.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/traore-s.png
+  image:  img/traore.png
   image-width: 18em
   image-shape: rounded
   links:
@@ -47,7 +47,7 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Exploitation durable des espaces et des ressources [projet AGR-ECO : Amélioration des pratiques agricoles pour soutenir l’intensification agroécologique dans la zone cotonnière du Mali]
+-   Exploitation durable des espaces et des ressources \[projet AGR-ECO : Amélioration des pratiques agricoles pour soutenir l'intensification agroécologique dans la zone cotonnière du Mali\]
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -57,7 +57,7 @@ format:
 -   Analyse spatiale et SIG
 -   Infrastructure de données spatiale
 -   Télédétection, notamment des milieux naturels
--   Méthodes d’analyse quantitative en géographie physiques
+-   Méthodes d'analyse quantitative en géographie physiques
 -   Modélisation socio-écologique avec les agents : concept de base et applications
 -   Cartographie
 
@@ -67,9 +67,9 @@ format:
 
 -   Images satellites (Landsat, Spot, World View, Pléiades) pour la caractérisation des espaces (Arc2, TRMM, TAMSAT) pour les informations climatiques
 -   Données de références GPS
--   Données d’enquêtes de terrains, de focus groups et de diagnostic
--   Données d’inventaires floristiques et données statistiques
-    
+-   Données d'enquêtes de terrains, de focus groups et de diagnostic
+-   Données d'inventaires floristiques et données statistiques
+
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
 ::: {#refs}

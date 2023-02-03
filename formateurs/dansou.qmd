@@ -1,7 +1,7 @@
 ---
 title: "Justin DANSOU"
 name: "DANSOU Justin"
-image : img/dansou-j.png
+image : img/dansou.png
 bibliography: biblio/dansou.bib
 nocite: '@*'
 csl: geo.csl
@@ -9,7 +9,7 @@ categories:
 - Enseignant·es
 about:
   template: marquee
-  image:  img/dansou-j.png
+  image:  img/dansou.png
   image-width: 18em
   image-shape: rounded
   links:
