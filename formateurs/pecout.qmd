@@ -47,32 +47,30 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
+-   Analyse spatiale
+-   Géomatique
+-   langage R
+-   Programmation lettrée
+-   Notebook (article exécutable)
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
 
 <div>
 
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
+-   Info. géo. : initiation aux SIG et à la cartographie thématique
+-   Introduction à R et à la statistique descriptive
+-   Géomatique et cartographie avec R
+-   La cartographie, recherche et applications 
 
 </div>
 
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+-   Données conventionnelles (statistique publique)
+-   Données volumineuses issues du web
+-   Données d'enquêtes
+
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
