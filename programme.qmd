@@ -381,7 +381,7 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/)
+    -   Matériaux : [page du module](modules/M_cart3_dynamique.qmd)
 -   *13h - 14h : Déjeuner*
 -   **14h-16h - Modélisation I *Application***
     -   Description :
