@@ -7,10 +7,10 @@ categories:
 - Cartographie
 ordre: "07" 
 author: 
-- Mr xx
-- Mme xx
+- Mme Christine ZANIN
+- Mr Charles HOUTON
 author-title: Auteurs
-bibliography: biblio/session1.bib
+bibliography: biblio/cart1.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,23 +25,28 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
+<!-- ### Contributeur·rice·s -->
 
-Hugues Pecout, ...
-:::
+<!-- Hugues Pecout, ... -->
+<!-- ::: -->
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Public : étudiants, formateurs premier niveaux
+Cours et TD (inclus des exercices)
+Outils de base : crayons et papiers ET/OU logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) et logiciel de dessin ILLUSTRATOR ou INKSCAPE (gratuit)
+
+Ce module est construit autour de 3 heures de cours et environ 6 heures d’exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
+
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Un niveau débutant en statistique (univarié) est requis a minima.
 
 </div>
 
@@ -49,7 +54,16 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+L’objectif général de ce cours est d’apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d’apprendre ou de réviser les règles physiologiques et règles culturelles pour représenter graphiquement des données spatiales et être capable d’optimiser la visualisation (la cartographie) des données géographiques. 
+
+Les compétences visées sont simples : 
+
+-   savoir utiliser les variables visuelles (mode de représentation)
+-   savoir lier types de données et variables visuelles
+-   savoir discrétiser des données (mettre en classes)
+-   savoir habiller l’image cartographique
+-   savoir mettre en scène selon l’objectif visé de la carte et le public
+
 
 </div>
 
@@ -57,41 +71,32 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Un powerpoint ainsi qu'un fichier d'exercices sont disponibles ci-dessous.
 
 </div>
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<center><a href="	https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <div> -->
 
-</iframe>
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-</object>
 
-<div>
+<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
-## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-
-\
-
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
-\
-
-</div>
+<!-- </div> -->
 
 <div>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+Deux fichiers de données sont téléchargeables : 
+
+-   Pays Africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
+-   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
 
 \
 
