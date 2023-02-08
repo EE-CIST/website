@@ -34,9 +34,11 @@ format:
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Public : étudiants, formateurs premier niveaux
+Ce module s'adresse à des étudiants, formateurs de premier niveau
+
 Cours et TD (inclus des exercices)
-Outils de base : crayons et papiers ET/OU logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) et logiciel de dessin ILLUSTRATOR ou INKSCAPE (gratuit)
+
+Outils de base : crayons et papiers ET/OU un ordinateur avec un logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) ou un logiciel de dessin type Adobe Illustrator ou Inkscape (libre et gratuit)
 
 Ce module est construit autour de 3 heures de cours et environ 6 heures d’exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
 

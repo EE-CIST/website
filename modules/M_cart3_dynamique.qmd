@@ -1,16 +1,16 @@
 ---
 title: "Cartographie Dynamique"
-# subtitle: "Introduction à la sémiologie grahique et à la cartographie"
+subtitle: "Cartographie dynamique avec Observable JavaScript et Quarto"
 date: 02/28/2023
 image: img/carto.jpg
 categories: 
 - Cartographie
 ordre: "07" 
 author: 
-- Mme Christine ZANIN
-- Mr Charles HOUTON
+- Mr Manhamady OUEDRAOGO
+- Mr Nicolas LAMBERT
 author-title: Auteurs
-bibliography: biblio/cart1.bib
+bibliography: biblio/cart3.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,20 +25,20 @@ format:
     css: styles_ter.css
 ---
 
-<!-- ::: {#contrib} -->
-<!-- ### Contributeur·rice·s -->
+::: {#contrib}
+### Contributeur·rice·s
 
-<!-- Hugues Pecout, ... -->
-<!-- ::: -->
+Claude GRASLAND *(France)* – Souleymane Sidi TRAORE *(Mali)* – Malika MADELIN *(France)* – Sébastien REY-COYREHOURCQ *(France)* – Vakaramoko BAMBA *(Côte d'Ivoire)* – Hugues PECOUT *(France)* – Yentougle MOUTORE *(Togo)* – Bénédicte GARNIER *(France)* – Côomlan Charles HOUNTON *(Bénin)* – Pauline GLUSKI *(France)*
+:::
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Public : étudiants, formateurs premier niveaux
-Cours et TD (inclus des exercices)
-Outils de base : crayons et papiers ET/OU logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) et logiciel de dessin ILLUSTRATOR ou INKSCAPE (gratuit)
+Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou des étudiants en informatique (géomatique) ou en école d'ingénieur.
 
-Ce module est construit autour de 3 heures de cours et environ 6 heures d’exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
+Il est composé  d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécéssite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet. 
+
+Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
 
 :::
 
@@ -46,7 +46,9 @@ Ce module est construit autour de 3 heures de cours et environ 6 heures d’exer
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Un niveau débutant en statistique (univarié) est requis a minima.
+Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf module de [cartographie thématique](G_cartographie.qmd) ) ainsi qu'une bonne culture informatique. 
+
+La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécéssaires.
 
 </div>
 
@@ -54,16 +56,13 @@ Un niveau débutant en statistique (univarié) est requis a minima.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L’objectif général de ce cours est d’apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d’apprendre ou de réviser les règles physiologiques et règles culturelles pour représenter graphiquement des données spatiales et être capable d’optimiser la visualisation (la cartographie) des données géographiques. 
+Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript bertin. 
 
-Les compétences visées sont simples : 
+La séquence s’organise en 3 étapes : 
 
--   savoir utiliser les variables visuelles (mode de représentation)
--   savoir lier types de données et variables visuelles
--   savoir discrétiser des données (mettre en classes)
--   savoir habiller l’image cartographique
--   savoir mettre en scène selon l’objectif visé de la carte et le public
-
+-   une présentation générale sur la visualisation de données sur le web et les concepts de l’Observable JavaScript et des notebooks computationnels
+-   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l’échelle des pays africains
+-   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l’échelle mondiale. 
 
 </div>
 
@@ -71,11 +70,11 @@ Les compétences visées sont simples :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un powerpoint ainsi qu'un fichier d'exercices sont disponibles ci-dessous.
+- Un diaporama de présentation  (*.qmd, *.html)- Un notebook guide pour le TP1  (*.qmd, *.html)- Un notebook guide pour le TP2 (*.qmd, *.html) et sa solution (*.qmd, *.html) Ces supports sont presque terminés. Ils sont accessibles ici : https://github.com/EE-CIST/CART3_cartodyn.
 
 </div>
 
-<center><a href="	https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="   https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
 <!-- <div> -->
 
@@ -83,9 +82,7 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles ci-dessous.
 
 <!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-
 <!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
-
 
 <!-- </div> -->
 
@@ -93,10 +90,10 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles ci-dessous.
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Deux fichiers de données sont téléchargeables : 
+Deux fichiers de données au niveau des pays à 2 échelles géographiques sont téléchargeables :
 
 -   Pays Africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
--   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
+-   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
 \
 
@@ -110,4 +107,3 @@ Deux fichiers de données sont téléchargeables :
 
 ::: {#refs}
 :::
-
