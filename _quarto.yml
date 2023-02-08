@@ -57,7 +57,9 @@ website:
       - href: modules/K_stat_multi.qmd
         text: Statistique multivariée  
       - href: modules/G_cartographie.qmd
-        text: Cartographie          
+        text: Cartographie Thématique         
+      - href: modules/M_cart3_dynamique.qmd
+        text: Cartographie Dynamique         
       - href: modules/I_semi_point.qmd
         text: Semis de points  
       - href: modules/J_distance_acces.qmd
