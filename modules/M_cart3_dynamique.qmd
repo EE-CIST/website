@@ -17,8 +17,8 @@ about:
   template: marquee
   links:
     - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+      text: GitHub
+      href: https://github.com/EE-CIST/CART3_cartodyn
 published-title: Date de publication 
 format:
   html: 
@@ -70,11 +70,22 @@ La séquence s’organise en 3 étapes :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-- Un diaporama de présentation  (*.qmd, *.html)- Un notebook guide pour le TP1  (*.qmd, *.html)- Un notebook guide pour le TP2 (*.qmd, *.html) et sa solution (*.qmd, *.html) Ces supports sont presque terminés. Ils sont accessibles ici : https://github.com/EE-CIST/CART3_cartodyn.
+-   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
+-   Un notebook guide pour le [TP1](https://ee-cist.github.io/CART3_cartodyn/TP1/docs/index.html)
+-   Un notebook guide pour le [TP2](https://ee-cist.github.io/CART3_cartodyn/TP2/docs/index.html) et sa solution
+
+Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_cartodyn) du module.
 
 </div>
 
-<center><a href="   https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+
+<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+
+<iframe class="slide" src="https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide">
+
+</iframe>
+
 
 <!-- <div> -->
 
