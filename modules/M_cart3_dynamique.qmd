@@ -86,6 +86,7 @@ Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_c
 
 </iframe>
 
+</object>
 
 <!-- <div> -->
 

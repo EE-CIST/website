@@ -79,6 +79,17 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 <center><a href="	https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
+
+<object class="slide" data="support/cart1_cours.pdf" type="application/pdf">
+
+<!-- <iframe class="slide" src="../modules/support/cart1_cours.pdf"> -->
+
+<!-- </iframe> -->
+
+</object>
+
+
+
 <!-- <div> -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
