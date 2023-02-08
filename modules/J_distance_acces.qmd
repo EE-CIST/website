@@ -7,10 +7,10 @@ categories:
 - Analyse spatiale
 ordre: "10" 
 author: 
-- Mr xx
-- Mme xx
+- Mr Vakaramoko BAMBA
+- Mme Claude GRASLAND
 author-title: Auteurs
-bibliography: biblio/session1.bib
+bibliography: biblio/spa3.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,23 +25,38 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
 
-Hugues Pecout, ...
-:::
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Ce cours d'analyse spatiale propose une introduction aux concepts de distance et d'accessibilité en associant théorie et pratique.
+
+Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se limite à la présentation des fondements conceptuels et à leur mise en pratique sur des cas concrets en utilisant le logiciel R et l'API Osrm.
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+**Cours :**
+
+-   [Statistiques univariées](F_stat_uni.qmd)
+-   [Semis de points](I_semi_point.qmd)
+-   [Cartographie thématique](G_cartographie.qmd)
+-   [Données géospatiales](C_data_type.qmd)
+
+**TD : Voir module [Outils - R](E_R.qmd)**
+
+-   Utilisation de R-base
+-   Utilisation de dplyr
+-   Utilisation de sf et mapsf (+ si possible leaflet)
 
 </div>
 
@@ -49,7 +64,28 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+L'objectif de ce cours est de familiariser les étudiants avec deux notions centrales en géographie et en analyse spatiale :
+
+-   **La distance** : C'est l'intervalle entre deux points. La distance est une relation entre les lieux dans l'espace géométrique donné. Définir une distance est un acte profondément géographique, qui revient à définir la nature de la relation entre les lieux, l'espace de référence et donc le nombre de ses dimensions (Brunet et al, 1994).\
+    *Exemple : la distance métrique, topologique, social, perçue*
+
+-   **L'accessibilité** : C'est la capacité à être atteint par une clientèle, un message, un service. Elle dépend de l'état des moyens de transport et représente un coût. C'est l'ensemble de possibilités effectives pour relier deux lieux par un déplacement ou pour accéder à un service. \
+    *Exemple : accessibilité à internet, la téléphonie mobile... L'accessibilité est une composante de la mobilité. Elle représente l'offre de mobilité*
+
+------------------------------------------------------------------------
+
+Le cours se déroule comme suis :
+
+1.   **Cours** (2 heures)
+
+    a.  Approche empirique de la distance (exemple du marché de Bouaké)
+    b.  Approches théoriques de la distance (métriques mathématiques)
+    c.  Analyse d'une matrice de distance et mesures d'accessibilité (exemple des districts de Côte d'Ivoire)
+
+2.  **Travaux dirigés** (2 heures)
+
+    a.  Analyse statistique et cartographique du marché de gros de Bouaké
+    b.  Apprentissage du package osrm (application aux 8 pays de l'EE)
 
 </div>
 
@@ -57,33 +93,34 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+-   **Cours** : Document Word : SPA3-Distance-Accessibilité-Cours.docx
+-   **TD1** : Document markdown : SPA3-Appli1.Rmd
+-   **TD2** : Document markdown : SPA3-Appli2.Rmd
 
-</div>
+<!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
+<!-- </div> -->
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
-</object>
+<!-- </object> -->
 
-<div>
+<!-- <div> -->
 
-## <i class="bi bi-person-video3"></i> Support de TD
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-\
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-\
 
 </div>
 
@@ -91,9 +128,18 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+**TD1 : [Données sur le marché de Bouaké](../donnees/mar_bouake_2013.qmd)**
 
-\
+-   Tableau de données d’enquête sur les entrées de camion 
+-   Fonds de carte associé aux localisations des lieux d’origine et destination
+
+
+**TD2 : [Données sur les découpages administratifs de niveau 1 et 2](../donnees/geo_admin_2023)**
+
+-   Géométrie des contours d’unités administratives (en EPSG 4326)
+-   Localisation (latitude-longitude) et nom des chefs-lieux 
+-   Population estimée des unités administratives
+
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
