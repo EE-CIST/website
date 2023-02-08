@@ -69,14 +69,14 @@ L'objectif de ce cours est de familiariser les étudiants avec deux notions cent
 -   **La distance** : C'est l'intervalle entre deux points. La distance est une relation entre les lieux dans l'espace géométrique donné. Définir une distance est un acte profondément géographique, qui revient à définir la nature de la relation entre les lieux, l'espace de référence et donc le nombre de ses dimensions (Brunet et al, 1994).\
     *Exemple : la distance métrique, topologique, social, perçue*
 
--   **L'accessibilité** : C'est la capacité à être atteint par une clientèle, un message, un service. Elle dépend de l'état des moyens de transport et représente un coût. C'est l'ensemble de possibilités effectives pour relier deux lieux par un déplacement ou pour accéder à un service. \
+-   **L'accessibilité** : C'est la capacité à être atteint par une clientèle, un message, un service. Elle dépend de l'état des moyens de transport et représente un coût. C'est l'ensemble de possibilités effectives pour relier deux lieux par un déplacement ou pour accéder à un service.\
     *Exemple : accessibilité à internet, la téléphonie mobile... L'accessibilité est une composante de la mobilité. Elle représente l'offre de mobilité*
 
 ------------------------------------------------------------------------
 
 Le cours se déroule comme suis :
 
-1.   **Cours** (2 heures)
+1.  **Cours** (2 heures)
 
     a.  Approche empirique de la distance (exemple du marché de Bouaké)
     b.  Approches théoriques de la distance (métriques mathématiques)
@@ -98,6 +98,7 @@ Le cours se déroule comme suis :
 -   **TD2** : Document markdown : SPA3-Appli2.Rmd
 
 <!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
+
 <!-- </div> -->
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
@@ -107,7 +108,9 @@ Le cours se déroule comme suis :
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
@@ -118,9 +121,7 @@ Le cours se déroule comme suis :
 
 <!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-
 <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
 
 </div>
 
@@ -130,16 +131,14 @@ Le cours se déroule comme suis :
 
 **TD1 : [Données sur le marché de Bouaké](../donnees/mar_bouake_2013.qmd)**
 
--   Tableau de données d’enquête sur les entrées de camion 
--   Fonds de carte associé aux localisations des lieux d’origine et destination
-
+-   Tableau de données d'enquête sur les entrées de camion
+-   Fonds de carte associé aux localisations des lieux d'origine et destination
 
 **TD2 : [Données sur les découpages administratifs de niveau 1 et 2](../donnees/geo_admin_2023)**
 
--   Géométrie des contours d’unités administratives (en EPSG 4326)
--   Localisation (latitude-longitude) et nom des chefs-lieux 
+-   Géométrie des contours d'unités administratives (en EPSG 4326)
+-   Localisation (latitude-longitude) et nom des chefs-lieux
 -   Population estimée des unités administratives
-
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
