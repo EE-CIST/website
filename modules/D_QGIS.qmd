@@ -1,6 +1,6 @@
 ---
 title: "Initiation à QGIS"
-subtitle: "Introduction à QGIS"
+subtitle: "Introduction aux systèmes d'information géographique et à l'outil QGIS"
 image: img/qgis.png
 date: 02/27/2023
 categories: 
@@ -44,14 +44,14 @@ Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc 
 
 L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
 
-Il est necessaire d'avoir un ordinateur avec **QGis 3.22** et un logiciel de traitement de texte pour suivre les exercices.
+Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin [**SCP *(Semi-Automatic Classification Plugin)***](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) et un logiciel de traitement de texte pour suivre les exercices.
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Pas de prérequis necessaire pour suivre le module
+Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'outil informatique (ordinateur, traitement de texte, internet...)
 
 </div>
 
@@ -59,47 +59,51 @@ Pas de prérequis necessaire pour suivre le module
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-
 </div>
 
 <div>
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
-*Les cours d'initation à QGIS ont lieu tous les jours du Lundi au Vendredi de 14h à 16h.*
+*Les cours d'initiation à QGIS ont lieu tous les jours du Lundi au Vendredi de 14h à 16h.*
 
-#### **Présentation de Qgis**
+1.  **Introduction**
 
--   Présentation de l'environnement de travail et des types de données
--   Modes d'acquisition des données
--   Introduction aux données GPS
--   Manipulation de données vectorielles : table attributaire,
+    -   Présentation de l'environnement de travail et des types de données
+    -   Modes d'acquisition des données
+    -   Premières manipulations de données vectorielles :
+        -   Géoréférencer une image
+        -   Digitalisation
+        -   (Saisie et enrichissement de la table attributaire)
 
-#### Introduction au géoréférencement et à la digitalisation
+2.  **Introduction aux données vectorielles**
 
--   Géoréférencer une image
--   Digitalisation
--   Saisie et enrichissement de la table attributaire
+    -   Selections
+    -   Calculs champs + résumés stat
+    -   Jointure attributaires
+    -   Jointure Spatiale
 
-#### Introduction aux données vectorielles
+3.  **Analyse spatiale - *Vecteur* **
 
--   Selection, création de points, calculs
--   Jointure spatiale
--   Cartographie
--   *Bonus : Jointure attributaire*
+    a.  Géotraitements
+    b.  Compter les points + interpolation
+    c.  Voronoï
+    d.  Calculs de distances
 
-#### Analyse spatiale et Raster
+4.  **Analyse spatiale - *Raster* **
 
--   Découverte des données rater et des manipulations
--   Modèle Numérique de Terrain (MNT) : visualisation et calculs de pentes
--   Images Satellites LandSat : classification de l'occupation du sol
--   Interpolation (grid), symbologie des raster
+    -   Découverte des données rater et des manipulations
+    -   Modèle Numérique de Terrain (MNT) : visualisation et calculs de pentes
+    -   Images Satellites LandSat : classification de l'occupation du sol
+    -   Interpolation (grid), symbologie des raster
 
-#### Analyse spatiale et Vecteur
+5.  **Cartographie**
 
--   Compter des points dans les polygones
--   Cartes par interpolation
+    -   Appliquer les règles de sémiologie graphique
+    -   Générer une symbologie
+    -   Générer une mise en page
+
+
 
 </div>
 
@@ -108,6 +112,8 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 L'intégralité des supports de cours est disponible ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données propres permettant de reprendre ces exercices (y compris des projets qgis prets à l'emploi)
+
+Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 Novembre 2022)*
 
 </div>
 
@@ -143,11 +149,12 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   OSM (Geofabrik) du Togo.
--   Fonds découpages administratifs (GADM ou sur le serveur de l'EE) : Préfectures du Togo avec leurs noms, ID
--   Tableur avec préfectures du Togo : nom, ID, population Africapolis (EECIST2022_DATA -\>VIL) en format tableur Données GPS
-
-\
+-   OSM (Geofabrik) du Togo
+-   Fonds découpages administratifs : Préfectures du Togo avec leurs noms, ID
+-   Tableur avec préfectures du Togo : nom, ID, population - extraction RGP Afrique
+-   [Africapolis](../donnees/vil_afric_2015.qmd) - sous corpus
+-   MNT
+-   Landsat
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
