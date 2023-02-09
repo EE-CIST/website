@@ -8,7 +8,7 @@ categories:
 ordre: "10" 
 author: 
 - Mr Vakaramoko BAMBA
-- Mme Claude GRASLAND
+- Mr Claude GRASLAND
 author-title: Auteurs
 bibliography: biblio/spa3.bib
 nocite: '@*'

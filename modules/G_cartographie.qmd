@@ -8,7 +8,7 @@ categories:
 ordre: "07" 
 author: 
 - Mme Christine ZANIN
-- Mr Charles HOUTON
+- Mr Charles HOUNTON
 author-title: Auteurs
 bibliography: biblio/cart1.bib
 nocite: '@*'
