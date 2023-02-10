@@ -28,7 +28,7 @@ format:
 ::: {#contrib}
 ### Contributeur·rice·s
 
-Claude GRASLAND *(France)* – Souleymane Sidi TRAORE *(Mali)* – Malika MADELIN *(France)* – Sébastien REY-COYREHOURCQ *(France)* – Vakaramoko BAMBA *(Côte d'Ivoire)* – Hugues PECOUT *(France)* – Yentougle MOUTORE *(Togo)* – Bénédicte GARNIER *(France)* – Côomlan Charles HOUNTON *(Bénin)* – Pauline GLUSKI *(France)*
+Claude GRASLAND *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Malika MADELIN *(France)* -- Sébastien REY-COYREHOURCQ *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Hugues PECOUT *(France)* -- Yentougle MOUTORE *(Togo)* -- Bénédicte GARNIER *(France)* -- Côomlan Charles HOUNTON *(Bénin)* -- Pauline GLUSKI *(France)*
 :::
 
 ::: {#block}
@@ -36,17 +36,16 @@ Claude GRASLAND *(France)* – Souleymane Sidi TRAORE *(Mali)* – Malika MADELI
 
 Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou des étudiants en informatique (géomatique) ou en école d'ingénieur.
 
-Il est composé  d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécéssite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet. 
+Il est composé d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécéssite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet.
 
 Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
-
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf module de [cartographie thématique](G_cartographie.qmd) ) ainsi qu'une bonne culture informatique. 
+Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
 
 La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécéssaires.
 
@@ -56,13 +55,13 @@ La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin 
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript bertin. 
+Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript bertin.
 
-La séquence s’organise en 3 étapes : 
+La séquence s'organise en 3 étapes :
 
--   une présentation générale sur la visualisation de données sur le web et les concepts de l’Observable JavaScript et des notebooks computationnels
--   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l’échelle des pays africains
--   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l’échelle mondiale. 
+-   une présentation générale sur la visualisation de données sur le web et les concepts de l'Observable JavaScript et des notebooks computationnels
+-   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l'échelle des pays africains
+-   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l'échelle mondiale.
 
 </div>
 
