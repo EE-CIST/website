@@ -10,15 +10,15 @@ author:
 - Mr Vakaramoko BAMBA
 - Mr Claude GRASLAND
 author-title: Auteurs
-bibliography: biblio/spa3.bib
+bibliography: biblio/spa2.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
   links:
     - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+      text: GitHub
+      href: https://github.com/EE-CIST/Distance
 published-title: Date de publication 
 format:
   html: 

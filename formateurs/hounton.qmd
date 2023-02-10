@@ -1,6 +1,6 @@
 ---
 title: Côomlan Charles HOUNTON
-name: "HOUNTON Charles Côomlan"
+name: "HOUNTON Côomlan Charles"
 image : img/hounton.png
 bibliography: biblio/hounton.bib
 nocite: '@*'
