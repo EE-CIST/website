@@ -3,7 +3,7 @@ title: "**Modules**"
 subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
 listing:
   id: modules
-  fields: [author,image, title, subtitle, categories]
+  fields: [author, image, title, subtitle, categories]
   field-links: ["title"]
   contents: modules
   sort-ui:  [categories]
