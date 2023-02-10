@@ -47,12 +47,12 @@ Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se li
 
 **Cours :**
 
--   [Statistiques univariées](F_stat_uni.qmd)
--   [Semis de points](I_semi_point.qmd)
--   [Cartographie thématique](G_cartographie.qmd)
--   [Données géospatiales](C_data_type.qmd)
+-   [Statistiques univariées](exp1_uni.qmd)
+-   [Semis de points](spa1_sem.qmd)
+-   [Cartographie thématique](cart1-2_the.qmd)
+-   [Données géospatiales](typ3_ig.qmd)
 
-**TD : Voir module [Outils - R](E_R.qmd)**
+**TD : Voir module [Outils - R](out1_r.qmd)**
 
 -   Utilisation de R-base
 -   Utilisation de dplyr
