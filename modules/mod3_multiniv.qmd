@@ -1,6 +1,6 @@
 ---
 title: "Modélisation"
-subtitle: "Introduction à la modélisation : Y quantitative"
+subtitle: "Introduction à la modélisation : Multiniveau"
 date: 03/03/2023
 image: img/model.png
 categories: 
@@ -27,7 +27,7 @@ format:
 
 Contributeur·rice·s
 
-Hugues Pecout, …
+Hugues Pecout, ...
 
 <i class="bi bi-info-circle"></i> Informations pratiques
 
@@ -68,5 +68,3 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, s
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 <i class="bi bi-file-earmark-text"></i> Références
-
-

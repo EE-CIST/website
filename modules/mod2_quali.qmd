@@ -1,6 +1,6 @@
 ---
 title: "Modélisation"
-subtitle: "Introduction à la modélisation : Y quantitative"
+subtitle: "Introduction à la modélisation : Y qualitative"
 date: 03/03/2023
 image: img/model.png
 categories: 
