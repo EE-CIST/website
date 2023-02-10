@@ -74,11 +74,9 @@ website:
         text: Modélisation - Y qualitative
       - href: modules/mod3_multiniv.qmd 
         text: Modélisation - Multiniveau
-      - href: modules/mod3_multiniv.qmd 
-        text: Modélisation - Multiniveau
-      - href: modules/D_QGIS.qmd
+      - href: modules/out2_qgis.qmd
         text: Initiation à QGIS
-      - href: modules/E_R.qmd
+      - href: modules/out1_r.qmd
         text: Inititation à R 
         
 
