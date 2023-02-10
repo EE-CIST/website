@@ -41,7 +41,7 @@ format:
 **Description des variables** :
 
 | **Nom**         | **Description**                                         | **Type** |
-|------------------|-------------------------------------|------------------|
+|--------------|--------------------------------------------|--------------|
 | **'i1'**        | Code région                                             | string   |
 | **'i2'**        | Code département                                        | string   |
 | **'sprefect'**  | Code Sous-préfecture                                    | string   |
@@ -61,8 +61,8 @@ format:
 
 -   **Module(s) de formation concerné(s)** :
 
-    -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
+    -   [**Type de données I** - Enquêtes](../modules/typ1_enq.qmd)
 
-    -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
+    -   [**Statistiques III** - Multivariées](../modules/exp3_mul.qmd)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

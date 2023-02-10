@@ -66,6 +66,8 @@ website:
         text: Distance et accessibilité    
       - href: modules/spa3_int.qmd
         text: Interaction spatiale et flux   
+      - href: modules/spa4_aut.qmd
+        text: Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
         text: Modélisation - Y quantitative
       - href: modules/mod2_quali.qmd 

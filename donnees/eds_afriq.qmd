@@ -56,10 +56,10 @@ format:
 
 -   **Module(s) de formation concerné(s)**:
 
-    -   [**Type de données I** - Enquêtes](../modules/A_data_type.qmd)
+    -   [**Type de données I** - Enquêtes](../modules/typ1_enq.qmd)
 
-    -   [**Statistiques I** - Univariées](../modules/F_stat_uni.qmd)
+    -   [**Statistiques I** - Univariées](../modules/exp1_uni.qmd)
 
-    -   [**Statistiques III** - Multivariées](../modules/K_stat_multi.qmd)
+    -   [**Statistiques III** - Multivariées](../modules/exp3_mul.qmd)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>

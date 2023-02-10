@@ -1,16 +1,16 @@
 ---
-title: "Interaction Spatiale et Flux"
-# subtitle: "Introduction à l'analyse de distance"
-date: 03/02/2023
-image: img/distance.png
+title: "Modélisation"
+subtitle: "Introduction à la modélisation : Y quantitative"
+date: 03/03/2023
+image: img/model.png
 categories: 
-- Analyse spatiale
-ordre: "10" 
+- Statistique
+ordre: "12" 
 author: 
-- Mr Vakaramoko BAMBA
-- Mr Claude GRASLAND
+- Mme 
+- Mr 
 author-title: Auteurs
-# bibliography: biblio/spa3.bib
+bibliography: biblio/session1.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,41 +25,25 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+Contributeur·rice·s
 
 Hugues Pecout, ...
-:::
 
-::: {#block}
-## <i class="bi bi-info-circle"></i> Informations pratiques
-
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
-
-<div>
-
-## <i class="bi bi-ui-checks-grid"></i> Prérequis
+<i class="bi bi-info-circle"></i> Informations pratiques
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
-</div>
-
-<div>
-
-## <i class="bi bi-bookmark"></i> Résumé
+<i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
-</div>
-
-<div>
-
-## <i class="bi bi-person-video3"></i> Support de cours
+<i class="bi bi-bookmark"></i> Résumé
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
-</div>
+<i class="bi bi-person-video3"></i> Support de cours
+
+Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -67,41 +51,21 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 </iframe>
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i>
 
 </object>
 
-<div>
-
-## <i class="bi bi-person-video3"></i> Support de TD
+<i class="bi bi-person-video3"></i> Support de TD
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
-\
-
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-\
-
-</div>
-
-<div>
-
-## <i class="bi bi-clipboard-data"></i> Données
+<i class="bi bi-clipboard-data"></i> Données
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
 
-\
-
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
-\
+<i class="bi bi-file-earmark-text"></i> Références
 
-</div>
-
-## <i class="bi bi-file-earmark-text"></i> Références
-
-::: {#refs}
-:::

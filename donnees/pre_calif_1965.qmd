@@ -40,7 +40,7 @@ format:
 **Description des variables** :
 
 | **Nom**    | **Description**                                       | **Type** |
-|------------|-------------------------------------------------------|----------|
+|--------------|---------------------------------------------|--------------|
 | **'CODE'** | Identifiant unique des stations                       | string   |
 | **'NOM'**  | Nom de la sation météorologique                       | string   |
 | **'PRE'**  | Moyenne des cumuls annuels des précipitations en mm ? | entier   |
@@ -62,6 +62,6 @@ format:
 
 -   **Module(s) de formation concerné(s)** :
 
-    -   [**Modélisation I** - Enquêtes](../modules/L_Modelisation.qmd)
+    -   [**Modélisation I** - Enquêtes](../modules/mod1_quanti.qmd)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
