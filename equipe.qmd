@@ -3,7 +3,7 @@ title: "**Équipe de formation**"
 listing:
   id: formateurs
   fields: [image, name, affiliation, pays]
-  filter-ui: true
+  filter-ui: [name, affiliation, pays]
   contents: formateurs
   sort: "name"
   sort-ui: [name, affiliation, pays]

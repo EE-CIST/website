@@ -224,7 +224,7 @@ title: "**Programme**"
     -   Description :
     -   Lieu :
     -   Prérequis :
-    -   Matériaux : [page du module](modules/F_stat_uni.qmd)
+    -   Matériaux : [page du module](modules/typ3_IG.qmd)
 -   *13h - 14h : Déjeuner*
 -   **14h-16h - Outils : R ou QGIS**
     -   Description :

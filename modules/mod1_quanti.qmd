@@ -1,17 +1,14 @@
 ---
-title: "L'information Géographique"
-subtitle: "Introduction à l'information Géographique"
-image: img/sig.jpg
-date: 02/27/2023
+title: "Modélisation"
+subtitle: "Introduction à la modélisation : Y quantitative"
+date: 03/03/2023
+image: img/model.png
 categories: 
-- Données
-- Géomatique
-- Analyse spatiale
-- Cartographie
-ordre: "01" 
+- Statistique
+ordre: "12" 
 author: 
-- Mr xx
-- Mme xx
+- Mr Claude GRASLAND
+- Mme Gbètoton Nadège DJOSSOU
 author-title: Auteurs
 bibliography: biblio/session1.bib
 nocite: '@*'
