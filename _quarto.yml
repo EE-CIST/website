@@ -44,7 +44,7 @@ website:
       - href: donnees.qmd
         text: <b>Données</b>
       - modules.qmd
-      - href: modules/ty1_enq.qmd
+      - href: modules/typ1_enq.qmd
         text: Données d'enquête      
       - href: modules/typ2_rec.qmd
         text: Données recensement    
