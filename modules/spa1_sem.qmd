@@ -33,7 +33,7 @@ format:
 
 <!-- ::: -->
 
-::: {#block}
+::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module propose de suivre un cours et des travaux dirigés durant 2 heures chacun, bien adaptés à une initiation à l'analyse spatiale.
@@ -44,8 +44,6 @@ Les travaux dirigés se font en deux parties :
 -   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous (R ou QGIS)
 :::
 
-
-
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 **Méthodologiques** : initiation aux [statistiques univariées](exp1_uni.qmd) (et ponctuellement, [bivariées](exp2_biv.qmd) -- [corrélation](mod1_quanti.qmd)) et notions sur la dimension spatiale de [l'information géographique](typ3_ig.qmd) (systèmes de coordonnées)
@@ -53,10 +51,6 @@ Les travaux dirigés se font en deux parties :
 **Techniques** : maîtrise de l'outil informatique, sous R, manipulations et résumés élémentaires de données au format dataframe, manipulations élémentaires de données au format sf, cartographie.
 
 Les notions abordées dans ce modules sont utiles pour les niveaux suivants : [autocorrélation spatiale](spa4_aut.qmd), et [accessibilité et distance](spa2_dis.qmd).
-
-
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -81,10 +75,6 @@ Le TD est construit autour de deux parties :
     1)  l'exercice s'appuie sur la base Africapolis pour suivre l'évolution du semis urbain (1950-2015) dans plusieurs pays : le Bénin est l'exemple suivi en TD, chaque participant.e choisit un autre pays (Burkina-Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo) pour reproduire les analyses et comparer l'évolution de son pays avec celle du Bénin, en suivant plusieurs étapes (depuis le résumé de la diffusion du semis urbain jusqu'à la réflexion sur la localisation optimale d'un équipement à implanter).
 
 -   2)application d'une méthode d'analyse de forme de semis de points à la répartition des forages d'eau au Togo.
-
-
-
-
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
@@ -118,10 +108,6 @@ Un PowerPoint ainsi que des exercices au format Word sont disponibles à la cons
 
 \
 
-
-
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   Partie 1 : Base [Africapolis](../donnees/vil_afric_2015.qmd) et GADM
@@ -132,8 +118,6 @@ Un PowerPoint ainsi que des exercices au format Word sont disponibles à la cons
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

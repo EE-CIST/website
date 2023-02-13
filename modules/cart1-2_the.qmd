@@ -33,27 +33,21 @@ format:
 
 <!-- ::: -->
 
-::: {#block}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse à des étudiants, formateurs de premier niveau
-
-Cours et TD (inclus des exercices)
+Ce module s'adresse à des étudiants, formateurs de premier niveau et comprend un cours margistral et des exercices en travaux dirigés.
 
 Outils de base : crayons et papiers ET/OU un ordinateur avec un logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) ou un logiciel de dessin type Adobe Illustrator ou InkScape (libre et gratuit)
 
 Ce module est construit autour de 3 heures de cours et environ 6 heures d'exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
-:::
 
-
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Un niveau débutant en statistique (univarié) est requis a minima.
-
-
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -67,15 +61,9 @@ Les compétences visées sont simples :
 -   savoir habiller l'image cartographique
 -   savoir mettre en scène selon l'objectif visé de la carte et le public
 
-
-
-
-
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargement ci-dessous.
-
-
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -97,8 +85,6 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 <!--  -->
 
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Deux fichiers de données sont téléchargeables :
@@ -111,8 +97,6 @@ Deux fichiers de données sont téléchargeables :
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

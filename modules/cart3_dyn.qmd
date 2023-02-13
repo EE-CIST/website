@@ -31,7 +31,7 @@ format:
 Claude GRASLAND *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Malika MADELIN *(France)* -- Sébastien REY-COYREHOURCQ *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Hugues PECOUT *(France)* -- Yentougle MOUTORE *(Togo)* -- Bénédicte GARNIER *(France)* -- Côomlan Charles HOUNTON *(Bénin)* -- Pauline GLUSKI *(France)*
 :::
 
-::: {#block}
+::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou des étudiants en informatique (géomatique) ou en école d'ingénieur.
@@ -41,17 +41,11 @@ Il est composé d'un cours magistral et de deux travaux pratiques en salle infor
 Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
 :::
 
-
-
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
 
 La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécéssaires.
-
-
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -63,10 +57,6 @@ La séquence s'organise en 3 étapes :
 -   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l'échelle des pays africains
 -   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l'échelle mondiale.
 
-
-
-
-
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 -   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
@@ -74,8 +64,6 @@ La séquence s'organise en 3 étapes :
 -   Un notebook guide pour le [TP2](https://ee-cist.github.io/CART3_cartodyn/TP2/docs/index.html) et sa solution
 
 Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_cartodyn) du module.
-
-
 
 <center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -97,8 +85,6 @@ Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_c
 
 <!--  -->
 
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Deux fichiers de données au niveau des pays à 2 échelles géographiques sont téléchargeables :
@@ -111,8 +97,6 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

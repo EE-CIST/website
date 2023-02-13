@@ -37,7 +37,7 @@ format:
 
 <!-- ::: -->
 
-::: {#block}
+::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc à un public de tout niveau sensible à l'information spatiale.
@@ -47,21 +47,11 @@ L'initiation est construite sous forme de travaux dirigés (exercices en petits 
 Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin [**SCP *(Semi-Automatic Classification Plugin)***](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) et un logiciel de traitement de texte pour suivre les exercices.
 :::
 
-
-
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'outil informatique (ordinateur, traitement de texte, internet...)
 
-
-
-
-
 ## <i class="bi bi-bookmark"></i> Résumé
-
-
-
-
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
@@ -103,17 +93,11 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
     -   Générer une symbologie
     -   Générer une mise en page
 
-
-
-
-
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 L'intégralité des supports de cours est disponible ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données propres permettant de reprendre ces exercices (y compris des projets qgis prets à l'emploi)
 
 Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 Novembre 2022)*
-
-
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -143,8 +127,6 @@ Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeab
 
 <!--  -->
 
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   OSM (Geofabrik) du Togo
@@ -157,8 +139,6 @@ Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeab
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

@@ -31,7 +31,7 @@ format:
 Hugues Pecout, ...
 :::
 
-::: {#block}
+::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.

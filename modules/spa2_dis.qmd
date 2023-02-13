@@ -33,7 +33,7 @@ format:
 
 <!-- ::: -->
 
-::: {#block}
+::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce cours d'analyse spatiale propose une introduction aux concepts de distance et d'accessibilité en associant théorie et pratique.
