@@ -41,7 +41,6 @@ Ce module s'adresse à toute personne intéressée par la connaissance et l'util
 Il so'rganise autour d'un cours magistral d'une durée approximative d'une heure et un TD de deux heures permettant la prise en main des données via des exercices.
 
 Pour le TD il est necessaire d'avoir des ordinateurs individuels équipés de **R et R Studio** ainsi que d'un logiciel tableur (Excel ou LibreOffice).
-
 :::
 
 <div>
@@ -58,14 +57,13 @@ Maîtrise de l'outil informatique et une initiation minimale à [R et RStudio](o
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Partie prenante du cycle de formation sur les données utiles pour l'analyse des territoires, ce module se concentre sur les recensements (de population) avec un double objectif : 
+Partie prenante du cycle de formation sur les données utiles pour l'analyse des territoires, ce module se concentre sur les recensements (de population) avec un double objectif :
 
 -   (cours) présenter les principales connaissances nécessaires pour comprendre les intérêts et limites de cette source (définitions, méthodes, variables disponibles...), notamment dans une perspective d'utilisation internationale;
 
--   (TD) à partir des données archivées par IPUMS international, prendre en main des données individuelles de recensement (chargement, recodage, agrégation...) et les utiliser pour de premières analyses simples. 
+-   (TD) à partir des données archivées par IPUMS international, prendre en main des données individuelles de recensement (chargement, recodage, agrégation...) et les utiliser pour de premières analyses simples.
 
 Différents exemples sont utilisés pour rendre plus concrète la formation : notamment la comparaison des recensements béninois et français pour la partie cours, et les données du recensement béninois 2013 pour la partie TD.
-
 
 </div>
 
@@ -73,7 +71,7 @@ Différents exemples sont utilisés pour rendre plus concrète la formation : n
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-dessous 
+Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-dessous
 
 </div>
 
@@ -93,12 +91,9 @@ Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-desso
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Le TD contenant les exercices est disponible ci-dessous : 
-
+Le TD contenant les exercices est disponible ci-dessous :
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
-
 
 </div>
 

@@ -10,7 +10,7 @@ author:
 - Mr Arnaud BRINGÉ
 - Mr Mouftaou AMADOU SANNI
 author-title: Auteurs
-bibliography: biblio/session1.bib
+# bibliography: biblio/session1.bib
 nocite: '@*'
 csl: geo.csl
 about:
