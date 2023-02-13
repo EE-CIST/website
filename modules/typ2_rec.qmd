@@ -7,41 +7,50 @@ categories:
 - Données
 ordre: "03" 
 author: 
-- Mr xx
-- Mme xx
+- Mr Mouftaou AMADOU SANNI
+- Mr Pierre PISTRE
 author-title: Auteurs
-bibliography: biblio/session1.bib
+bibliography: biblio/typ2.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
 published-title: Date de publication 
 format:
   html: 
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
 
-Hugues Pecout, ...
-:::
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+-   public ciblé : personnes intéressées par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
+-   cours magistral ou TD : un cours magistral d'une durée approximative d'une heure et un TD de deux heures, de prise en main des données via des exercices
+-   
+-   outils mobilisés (ordinateur ? Logiciel ?) : Pour le cours magistral, simplement un ordinateur et projecteur pour diffuser le support des diapositives (pdf). Pour le TD : ordinateurs individuels équipés de R et R Studio (+ un logiciel tableur : Excel ou LibreOffice).
+-   nombre d'heures (min-max)CM : 1h-1h30TD : environ 2h •
+-   RAS (sauf pour la partie TD/application, utilisation de données IPUMS : exercice en direct seulement avec le RP 2013 du Bénin (sur une clef usb) + utilisations de deux tableaux agrégées préparés en amont -- mais qui pourront en principe être déposés sur le site internet après l'EE...)
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Aucun prérequis pour la partie cours.
+
+Maîtrise de l'outil informatique et une initiation minimale à [R et RStudio](out1_r.qmd) pour la partie TD.
 
 </div>
 
@@ -49,7 +58,14 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Partie prenante du cycle de formation sur les données utiles pour l'analyse des territoires, ce module se concentre sur les recensements (de population) avec un double objectif : 
+
+-   (cours) présenter les principales connaissances nécessaires pour comprendre les intérêts et limites de cette source (définitions, méthodes, variables disponibles...), notamment dans une perspective d'utilisation internationale;
+
+-   (TD) à partir des données archivées par IPUMS international, prendre en main des données individuelles de recensement (chargement, recodage, agrégation...) et les utiliser pour de premières analyses simples. 
+
+Différents exemples sont utilisés pour rendre plus concrète la formation : notamment la comparaison des recensements béninois et français pour la partie cours, et les données du recensement béninois 2013 pour la partie TD.
+
 
 </div>
 
@@ -57,33 +73,33 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Pour suivre le cours un diaporama et un module d'exercices sont consultables ci-dessous 
 
-</div>
+<!-- </div> -->
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
-</object>
+<!-- </object> -->
 
-<div>
+<!-- <div> -->
 
-## <i class="bi bi-person-video3"></i> Support de TD
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-\
+
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-\
+
 
 </div>
 
@@ -91,13 +107,8 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
-
-\
-
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
-\
+-   [IPUMS](../donnees/ipums)
+-   données agrégées sur les populations urbaines et rurales du projet [Géopolis](http://e-geopolis.org/)
 
 </div>
 
