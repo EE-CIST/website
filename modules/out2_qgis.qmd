@@ -83,14 +83,14 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
     -   Jointure attributaires
     -   Jointure Spatiale
 
-3.  **Analyse spatiale - *Vecteur* **
+3.  **Analyse spatiale - *Vecteur***
 
     a.  Géotraitements
     b.  Compter les points + interpolation
     c.  Voronoï
     d.  Calculs de distances
 
-4.  **Analyse spatiale - *Raster* **
+4.  **Analyse spatiale - *Raster***
 
     -   Découverte des données rater et des manipulations
     -   Modèle Numérique de Terrain (MNT) : visualisation et calculs de pentes
@@ -102,8 +102,6 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
     -   Appliquer les règles de sémiologie graphique
     -   Générer une symbologie
     -   Générer une mise en page
-
-
 
 </div>
 

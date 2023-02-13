@@ -1,5 +1,5 @@
 ---
-title: "Modélisation"
+title: "Modélisation I"
 subtitle: "Introduction à la modélisation : Y quantitative"
 date: 03/03/2023
 image: img/model.png
@@ -7,41 +7,51 @@ categories:
 - Statistique
 ordre: "12" 
 author: 
-- Mr Claude GRASLAND
 - Mme Gbètoton Nadège DJOSSOU
+- Mr Claude GRASLAND
 author-title: Auteurs
-bibliography: biblio/session1.bib
+bibliography: biblio/mod1.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
   links:
     - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+      text: GitHub
+      href: https://github.com/EE-CIST/MOD1_Yquanti
 published-title: Date de publication 
 format:
   html: 
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
 
-Hugues Pecout, ...
-:::
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
 
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Cet enseignement est plutôt destiné à des étudiants de fin de licence (L3), de master ou de doctorat car il suppose une maîtrise déjà approfondie de la statistique bivariée.
+
+Dans le format retenu pour l'EE CIST 2023 (2h de cours & 2h de TD) l'enseignement proposé constitue avant tout une **introduction** à la modélisation d'une variable quantitative faisant appel à la régression simple, la régression multiple et l'analyse de variance. Mais une maîtrise avancée de chacun de ces outils supposerait un minimum de 30h (pour des étudiants connaissant déjà la régression simple et l'analyse de variance) voire 60h s'il faut rappeler les bases de statistiques bivariée.
 :::
 
 <div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+La maîtrise de l'outil informatique est requise pour suivre ce module, ainsi qu'une connaissance de l'outil [R et Rstudio](out1_r.qmd).
+
+D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ces deux modules :
+
+-   [Statistiques descriptives univariées](exp1_uni.qmd)
+
+-   [Statistiques discriptiques bivariées](exp2_biv.qmd)
 
 </div>
 
@@ -49,7 +59,35 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+L'objectif de ce module est d'apprendre à construire des modèles statistiques de la forme $Y = a_0 + a_1X_1 + a_2X_2 + … a_nXn + \varepsilon_i$ où $Y$ est une variable quantitative et $X_1 ...X_n$ des variables qualitatives ou quantitatives.
+
+Il fait appel aux outils statistiques suivants : régression linéaire simple ou multiple, analyse de variance à un ou plusieurs facteurs, analyse de covariance. Dans la perspective d'une initiation, on insistera sur deux types d'applications :
+
+-   **L'analyse de l'hétérogénéité spatiale** à travers la modélisation d'indicateurs décrivant des localisations géographiques (taux de mortalité infantile par pays, quantité de précipitations par station) en fonction de variables qualitatives ou quantitatives caractérisant ces mêmes lieux.
+
+-   **L'analyse des comportements économiques** au travers de modèles décrivant des relations entre des variables économiques : consommation, épargne, revenu, salaire, production, prix, emploi, investissement, taux d'intérêt, etc.
+
+Le module associe un cours théorique avec des applications dans R.
+
+</div>
+
+<div>
+
+## <i class="bi bi-calendar-week"></i> Programme
+
+A.  **Cours**
+
+    1\. Introduction non technique à la régression multiple : Les précipitations en Californie (*Licence CC-BY-NC-SA)*
+
+    2\. Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
+
+```{=html}
+<!-- -->
+```
+B.  **Applications sur R**
+
+    1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*
+    2.  Modélisation des revenus des ménages du Bénin *(Licence CC-BY-NC-SA)*
 
 </div>
 
@@ -57,7 +95,7 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+A venir
 
 </div>
 
@@ -77,13 +115,9 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-
-\
+A venir
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
-\
 
 </div>
 
@@ -91,13 +125,9 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
-
-\
-
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
-\
+-   [Précipitations en Californie](../donnees/pre_calif_1965.qmd)
+-   [Développement des pays africains](../donnees/dev_afric_2018.qmd)
+-   [Enquête consommation Bénin](../donnees/fin_benin_2018.qmd)
 
 </div>
 
