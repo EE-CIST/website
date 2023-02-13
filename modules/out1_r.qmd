@@ -37,15 +37,17 @@ Elina Marveaux, Timothée Giraud, Sébastien Rey-Coyrehourcq
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
+:::{#block}
 **Ce module de formation à R pour le traitement de l'information géographique est complémentaire aux différents modules thématiques de l'école utilisant le language R pour le traitement, l'analyse ou la représentation de données.**
 
 Il s'agit d'un module de formation technique pour l'apprentissage des différentes opérations d'import, de manipulation, d'analyse et de représentation de données avec R. Son objectif est de former à l'utilisation de R sur l'ensemble de la chaîne de traitement des données géographiques pour que les participants de l'école d'été soient le mieux préparer à l'utilisation de R dans le cadre des modules thématiques.
 
 Ce module "outil" se déroule sur 5 jours, à un rythme de 2h par jours (10h au total). Il est organisé en leçons de différentes durées et indépendantes les unes des autres. 
-
+:::
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
+:::{#block}
 Même si ce module peut être suivi par les moins initiés à R, il est tout de même nécessaire de connaître les principes et fonctionnement de bases du langage R. 
 
 Ce module à été construit sur les versions suivantes de R et Rstudio :   
@@ -55,7 +57,7 @@ Ce module à été construit sur les versions suivantes de R et Rstudio :
 Il est important d'**utiliser des versions similaires ou plus récentes pour s'assurer de la reproductibilité des exercices proposés**.
 
 L'installation d'un certain nombre de packages est nécessaire pour ce module. Une connexion internet est donc indispensable. Cependant, il est possible de pré-télécharger l'ensemble des sources des packages utilisés, afin de s'affranchir d'une connexion internet. Les packages nécessaires pourront être installés depuis un "miniCRAN" local, que vous pouvez télécharger ci-dessous.
-
+:::
 
 <center><a href="https://bit.ly/3X1L4lk" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger le miniCRAN (500MB) </a></center>
 
@@ -63,6 +65,7 @@ L'installation d'un certain nombre de packages est nécessaire pour ce module. U
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
+:::{#block}
 Les différentes leçons sont classées en sept blocs thématiques qui segmentent l'ensemble de la chaîne de traitement des données géographiques :
 
 
@@ -75,10 +78,11 @@ Les différentes leçons sont classées en sept blocs thématiques qui segmenten
 - **Reproductibilité** (Bonnes pratiques pour la recherche reproductible)
 
 Les leçons des différents blocs thématiques peuvent être abordées dans n'importe quel ordre. Durant l'école, l'enchaînement des leçons sera déterminée en fonction des besoins et des connaissances nécessaires pour le bon déroulement des modules thématiques basés sur R. **Le programme présenté ci-dessous est donc amené à évoluer**.
-
+:::
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
+:::{#block}
 *Ce module de formation à R a lieu tous les jours, du Lundi au Vendredi de 14h à 16h.*
 
 Jour 1.  **Import de données et manipulation de données**
@@ -111,23 +115,32 @@ Jour 5.  **Statistique multivariée (données raster)**
 
 - Statistique multivariée
 - Géomatique avec R - raster
-
+:::
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
+:::{#block}
+
 Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié ([https://tigr.netlify.app/](https://tigr.netlify.app/)).
+
+:::
 
 <center><a href="https://tigr.netlify.app/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter le site du module TIG'R</a></center>
 
 \
 
+
+:::{#block}
 Il est possible de récupérer les différentes leçons et exercices associés en sur sa machine.
+:::
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> R_lessons_pdf.zip</a></center>
 
 
 
 ## <i class="bi bi-clipboard-data"></i> Données
+
+:::{#block}
 
 Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste : 
 
@@ -141,6 +154,7 @@ Ce module de formation utilisent des données déjà préalablement utilisés da
 
 
 Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : [https://tigr.netlify.app/data.html](https://tigr.netlify.app/data.html).
+:::
 
 \
 
