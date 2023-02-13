@@ -10,7 +10,7 @@ author:
 - Mr xx
 - Mme xx
 author-title: Auteurs
-bibliography: biblio/session1.bib
+# bibliography: biblio/session1.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -37,23 +37,29 @@ Hugues Pecout, ...
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 :::
 
-::: {#block}
+<div>
+
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-bookmark"></i> Résumé
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
+
+</div>
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -67,7 +73,8 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 </object>
 
-::: {#block}
+<div>
+
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
@@ -77,9 +84,11 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
 \
-:::
 
-::: {#block}
+</div>
+
+<div>
+
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
@@ -89,7 +98,8 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, s
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-:::
+
+</div>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

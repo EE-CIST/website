@@ -81,9 +81,8 @@ A.  **Cours**
 
     2\. Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
 
-```{=html}
 <!-- -->
-```
+
 B.  **Applications sur R**
 
     1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*
