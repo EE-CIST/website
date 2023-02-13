@@ -36,12 +36,12 @@ format:
 ::: {#block}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
--   public ciblé : personnes intéressées par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
--   cours magistral ou TD : un cours magistral d'une durée approximative d'une heure et un TD de deux heures, de prise en main des données via des exercices
--   
--   outils mobilisés (ordinateur ? Logiciel ?) : Pour le cours magistral, simplement un ordinateur et projecteur pour diffuser le support des diapositives (pdf). Pour le TD : ordinateurs individuels équipés de R et R Studio (+ un logiciel tableur : Excel ou LibreOffice).
--   nombre d'heures (min-max)CM : 1h-1h30TD : environ 2h •
--   RAS (sauf pour la partie TD/application, utilisation de données IPUMS : exercice en direct seulement avec le RP 2013 du Bénin (sur une clef usb) + utilisations de deux tableaux agrégées préparés en amont -- mais qui pourront en principe être déposés sur le site internet après l'EE...)
+Ce module s'adresse à toute personne intéressée par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
+
+Il so'rganise autour d'un cours magistral d'une durée approximative d'une heure et un TD de deux heures permettant la prise en main des données via des exercices.
+
+Pour le TD il est necessaire d'avoir des ordinateurs individuels équipés de **R et R Studio** ainsi que d'un logiciel tableur (Excel ou LibreOffice).
+
 :::
 
 <div>
