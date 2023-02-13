@@ -49,7 +49,7 @@ website:
       - href: modules/typ2_rec.qmd
         text: Données recensement    
       - href: modules/typ3_ig.qmd
-        text: L'info. géographique
+        text: L'information géographique
       - href: modules/exp1_uni.qmd
         text: Statistique univariée
       - href: modules/exp2_biv.qmd
@@ -61,19 +61,19 @@ website:
       - href: modules/cart3_dyn.qmd
         text: Cartographie dynamique         
       - href: modules/spa1_sem.qmd
-        text: Semis de points  
+        text: Analayse Spatiale - Semis de points  
       - href: modules/spa2_dis.qmd
-        text: Distance et accessibilité    
+        text: Analayse Spatiale II - Distance et accessibilité    
       - href: modules/spa3_int.qmd
-        text: Interaction spatiale et flux   
+        text: Analayse Spatiale III - Interaction spatiale et flux   
       - href: modules/spa4_aut.qmd
-        text: Autocorrélation spatiale   
+        text: Analayse Spatiale IV - Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
-        text: Modélisation - Y quantitative
+        text: Modélisation I - Y quantitative
       - href: modules/mod2_quali.qmd 
-        text: Modélisation - Y qualitative
+        text: Modélisation II - Y qualitative
       - href: modules/mod3_multiniv.qmd 
-        text: Modélisation - Multiniveau
+        text: Modélisation III - Multiniveau
       - href: modules/out2_qgis.qmd
         text: Initiation à QGIS
       - href: modules/out1_r.qmd
