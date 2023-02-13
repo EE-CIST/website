@@ -47,7 +47,11 @@ Dans le format retenu pour l'EE CIST 2023 (2h de cours & 2h de TD) l'enseignemen
 
 La maîtrise de l'outil informatique est requise pour suivre ce module, ainsi qu'une connaissance de l'outil [R et Rstudio](out1_r.qmd).
 
-D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ces deux modules : - [Statistiques descriptives univariées](exp1_uni.qmd) - [Statistiques discriptiques bivariées](exp2_biv.qmd)
+D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ces deux modules :
+
+-   [Statistiques descriptives univariées](exp1_uni.qmd)
+
+-   [Statistiques discriptiques bivariées](exp2_biv.qmd)
 
 </div>
 
@@ -71,11 +75,15 @@ Le module associe un cours théorique avec des applications dans R.
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
-A.   **Cours**
+A.  **Cours**
 
-    1.  Introduction non technique à la régression multiple : Les précipitations en Californie *(Licence CC-BY-NC-SA)*
-    2.  Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
+    1\. Introduction non technique à la régression multiple : Les précipitations en Californie (*Licence CC-BY-NC-SA)*
 
+    2\. Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
+
+```{=html}
+<!-- -->
+```
 B.  **Applications sur R**
 
     1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*
@@ -106,11 +114,10 @@ A venir
 <div>
 
 ## <i class="bi bi-person-video3"></i> Support de TD
- 
+
 A venir
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
 
 </div>
 
@@ -121,7 +128,6 @@ A venir
 -   [Précipitations en Californie](../donnees/pre_calif_1965.qmd)
 -   [Développement des pays africains](../donnees/dev_afric_2018.qmd)
 -   [Enquête consommation Bénin](../donnees/fin_benin_2018.qmd)
-
 
 </div>
 
