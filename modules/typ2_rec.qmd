@@ -73,28 +73,27 @@ Différents exemples sont utilisés pour rendre plus concrète la formation : n
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Pour suivre le cours un diaporama et un module d'exercices sont consultables ci-dessous 
+Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-dessous 
 
-<!-- </div> -->
+</div>
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
 
-<!-- </iframe> -->
+</iframe>
 
-<!-- ::: {#url} -->
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-<!-- ::: -->
+::: {#url}
+<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
+:::
 
-<!-- </object> -->
+</object>
 
-<!-- <div> -->
+<div>
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+## <i class="bi bi-person-video3"></i> Support de TD
 
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
-
+Le TD contenant les exercices est disponible ci-dessous : 
 
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
