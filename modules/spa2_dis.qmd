@@ -1,5 +1,5 @@
 ---
-title: "Distance et accessibilité"
+title: "Analayse spatiale II : Distance et accessibilité"
 subtitle: "Introduction à l'analyse de distance"
 date: 03/02/2023
 image: img/distance.png

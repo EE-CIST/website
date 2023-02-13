@@ -26,9 +26,11 @@ format:
 ---
 
 <!-- ::: {#contrib} -->
+
 <!-- ### Contributeur·rice·s -->
 
 <!-- Hugues Pecout, ... -->
+
 <!-- ::: -->
 
 ::: {#block}
@@ -40,8 +42,7 @@ Cours et TD (inclus des exercices)
 
 Outils de base : crayons et papiers ET/OU un ordinateur avec un logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) ou un logiciel de dessin type Adobe Illustrator ou Inkscape (libre et gratuit)
 
-Ce module est construit autour de 3 heures de cours et environ 6 heures d’exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
-
+Ce module est construit autour de 3 heures de cours et environ 6 heures d'exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
 :::
 
 <div>
@@ -56,16 +57,15 @@ Un niveau débutant en statistique (univarié) est requis a minima.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L’objectif général de ce cours est d’apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d’apprendre ou de réviser les règles physiologiques et règles culturelles pour représenter graphiquement des données spatiales et être capable d’optimiser la visualisation (la cartographie) des données géographiques. 
+L'objectif général de ce cours est d'apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d'apprendre ou de réviser les règles physiologiques et règles culturelles pour représenter graphiquement des données spatiales et être capable d'optimiser la visualisation (la cartographie) des données géographiques.
 
-Les compétences visées sont simples : 
+Les compétences visées sont simples :
 
 -   savoir utiliser les variables visuelles (mode de représentation)
 -   savoir lier types de données et variables visuelles
 -   savoir discrétiser des données (mettre en classes)
--   savoir habiller l’image cartographique
--   savoir mettre en scène selon l’objectif visé de la carte et le public
-
+-   savoir habiller l'image cartographique
+-   savoir mettre en scène selon l'objectif visé de la carte et le public
 
 </div>
 
@@ -79,7 +79,6 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-
 <object class="slide" data="support/cart1_cours.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/cart1_cours.pdf">
@@ -88,17 +87,13 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 </object>
 
-
-
 <!-- <div> -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
 <!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-
 <!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
-
 
 <!-- </div> -->
 
@@ -106,7 +101,7 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Deux fichiers de données sont téléchargeables : 
+Deux fichiers de données sont téléchargeables :
 
 -   Pays Africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
