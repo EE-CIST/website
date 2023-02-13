@@ -4,7 +4,7 @@ subtitle: "Formation à R pour le traitement de l'information géographique"
 image: img/R.png
 date: 02/27/2023
 categories: 
-- programmation
+- Programmation
 - Statistique
 - Graphique
 - Géomatique
@@ -32,6 +32,7 @@ format:
 
 ::: {#contrib}
 ### Contributeur·rice·s
+
 Elina Marveaux, Timothée Giraud, Sébastien Rey-Coyrehourcq
 :::
 
@@ -41,81 +42,71 @@ Elina Marveaux, Timothée Giraud, Sébastien Rey-Coyrehourcq
 
 Il s'agit d'un module de formation technique pour l'apprentissage des différentes opérations d'import, de manipulation, d'analyse et de représentation de données avec R. Son objectif est de former à l'utilisation de R sur l'ensemble de la chaîne de traitement des données géographiques pour que les participants de l'école d'été soient le mieux préparer à l'utilisation de R dans le cadre des modules thématiques.
 
-Ce module "outil" se déroule sur 5 jours, à un rythme de 2h par jours (10h au total). Il est organisé en leçons de différentes durées et indépendantes les unes des autres. 
-
+Ce module "outil" se déroule sur 5 jours, à un rythme de 2h par jours (10h au total). Il est organisé en leçons de différentes durées et indépendantes les unes des autres.
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Même si ce module peut être suivi par les moins initiés à R, il est tout de même nécessaire de connaître les principes et fonctionnement de bases du langage R. 
+Même si ce module peut être suivi par les moins initiés à R, il est tout de même nécessaire de connaître les principes et fonctionnement de bases du langage R.
 
-Ce module à été construit sur les versions suivantes de R et Rstudio :   
-- R **4.2.2** - [Téléchargement](https://cran.r-project.org/)     
-- RStudio Desktop **2022.12.0** - [Téléchargement](https://posit.co/download/rstudio-desktop/) 
+Ce module à été construit sur les versions suivantes de R et Rstudio :\
+- R **4.2.2** - [Téléchargement](https://cran.r-project.org/)\
+- RStudio Desktop **2022.12.0** - [Téléchargement](https://posit.co/download/rstudio-desktop/)
 
 Il est important d'**utiliser des versions similaires ou plus récentes pour s'assurer de la reproductibilité des exercices proposés**.
 
 L'installation d'un certain nombre de packages est nécessaire pour ce module. Une connexion internet est donc indispensable. Cependant, il est possible de pré-télécharger l'ensemble des sources des packages utilisés, afin de s'affranchir d'une connexion internet. Les packages nécessaires pourront être installés depuis un "miniCRAN" local, que vous pouvez télécharger ci-dessous.
 
-
 <center><a href="https://bit.ly/3X1L4lk" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger le miniCRAN (500MB) </a></center>
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
 Les différentes leçons sont classées en sept blocs thématiques qui segmentent l'ensemble de la chaîne de traitement des données géographiques :
 
-
-- **Données** (Import, collecte , connexion BD… et export de données)
-- **Manipulation de données** (gestion & traitement de données)
-- **Statistique descriptives** (uni, bi et multivariée)
-- **Représentation graphique** (R-base & ggplot2)
-- **Géomatique** (traitement des données vectorielles et raster)
-- **Cartographie thématique** (statique et interactive)
-- **Reproductibilité** (Bonnes pratiques pour la recherche reproductible)
+-   **Données** (Import, collecte , connexion BD... et export de données)
+-   **Manipulation de données** (gestion & traitement de données)
+-   **Statistique descriptives** (uni, bi et multivariée)
+-   **Représentation graphique** (R-base & ggplot2)
+-   **Géomatique** (traitement des données vectorielles et raster)
+-   **Cartographie thématique** (statique et interactive)
+-   **Reproductibilité** (Bonnes pratiques pour la recherche reproductible)
 
 Les leçons des différents blocs thématiques peuvent être abordées dans n'importe quel ordre. Durant l'école, l'enchaînement des leçons sera déterminée en fonction des besoins et des connaissances nécessaires pour le bon déroulement des modules thématiques basés sur R. **Le programme présenté ci-dessous est donc amené à évoluer**.
-
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
 *Ce module de formation à R a lieu tous les jours, du Lundi au Vendredi de 14h à 16h.*
 
-Jour 1.  **Import de données et manipulation de données**
+Jour 1. **Import de données et manipulation de données**
 
-- Import et export de données
-- Manipualtion de données (R-base)
-- Manipualtion de données (Tidyverse)
+-   Import et export de données
+-   Manipualtion de données (R-base)
+-   Manipualtion de données (Tidyverse)
 
-Jour 2.  **Statistique univariée et cartographie thématique**
+Jour 2. **Statistique univariée et cartographie thématique**
 
-- Statistique univariée
-- Cartographie avec mapsf
+-   Statistique univariée
+-   Cartographie avec mapsf
 
+Jour 3. **Représentation graphique et statistique bivariée**
 
-Jour 3.  **Représentation graphique et statistique bivariée**
+-   Graphique R-base
+-   Statistique bivariée
+-   Graphique avec ggplot2
 
-- Graphique R-base
-- Statistique bivariée
-- Graphique avec ggplot2
+Jour 4. **Géomatique et analyse spatiale (données vectorielles)**
 
+-   Géomatique avec R - vecteur
+-   Calcul d'une matrice de distance
+-   utilisation d'OpenStreet map
 
-Jour 4.  **Géomatique et analyse spatiale (données vectorielles)**
+Jour 5. **Statistique multivariée (données raster)**
 
-- Géomatique avec R - vecteur
-- Calcul d'une matrice de distance
-- utilisation d'OpenStreet map
-
-
-Jour 5.  **Statistique multivariée (données raster)**
-
-- Statistique multivariée
-- Géomatique avec R - raster
-
+-   Statistique multivariée
+-   Géomatique avec R - raster
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié ([https://tigr.netlify.app/](https://tigr.netlify.app/)).
+Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié (<https://tigr.netlify.app/>).
 
 <center><a href="https://tigr.netlify.app/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter le site du module TIG'R</a></center>
 
@@ -125,30 +116,22 @@ Il est possible de récupérer les différentes leçons et exercices associés e
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> R_lessons_pdf.zip</a></center>
 
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste : 
+Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste :
 
+|             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
+|:-------------:|:-------------:|:----------------------------------------:|
+| Données pays africains (UN-CEPII) |    Tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
+| Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
+|   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
+|        Élévation au Bénin         | image raster (TIF) | <a href="https://bit.ly/3XqLAKR" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 
-|             Intitulé              |           Type             |         Téléchargement     |
-|:---------------------------------------:|:-----------------------:|:------------------------:|
-| Données pays africains (UN-CEPII) |  Tableau csv | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-| Fond de carte Afrique (GADM 2020) |  ESRI Shapefile | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-| Africapolis 2020 (Extraction) |  ESRI Shapefile | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-| Élévation au Bénin | image raster (TIF) | <a href="https://bit.ly/3XqLAKR" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-
-
-Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : [https://tigr.netlify.app/data.html](https://tigr.netlify.app/data.html).
+Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : <https://tigr.netlify.app/data.html>.
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
 ::: {#refs}
 :::
-
-

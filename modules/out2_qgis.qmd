@@ -47,21 +47,21 @@ L'initiation est construite sous forme de travaux dirigés (exercices en petits 
 Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin [**SCP *(Semi-Automatic Classification Plugin)***](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) et un logiciel de traitement de texte pour suivre les exercices.
 :::
 
-<div>
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'outil informatique (ordinateur, traitement de texte, internet...)
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
@@ -103,9 +103,9 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
     -   Générer une symbologie
     -   Générer une mise en page
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
@@ -113,7 +113,7 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 Novembre 2022)*
 
-</div>
+
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -131,7 +131,7 @@ Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeab
 
 <!-- </object> -->
 
-<!-- <div> -->
+<!--  -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
@@ -141,9 +141,9 @@ Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeab
 
 <!-- \ -->
 
-<!-- </div> -->
+<!--  -->
 
-<div>
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -158,7 +158,7 @@ Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeab
 
 \
 
-</div>
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

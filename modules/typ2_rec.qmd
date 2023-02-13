@@ -38,22 +38,16 @@ format:
 
 Ce module s'adresse à toute personne intéressée par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
 
-Il so'rganise autour d'un cours magistral d'une durée approximative d'une heure et un TD de deux heures permettant la prise en main des données via des exercices.
+Il s'organise autour d'un cours magistral d'une durée approximative d'une heure et un TD de deux heures permettant la prise en main des données via des exercices.
 
-Pour le TD il est necessaire d'avoir des ordinateurs individuels équipés de **R et R Studio** ainsi que d'un logiciel tableur (Excel ou LibreOffice).
+Pour le TD il est nécessaire d'avoir des ordinateurs individuels équipés de **R et R Studio** ainsi que d'un logiciel tableur (Excel ou LibreOffice).
 :::
-
-<div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Aucun prérequis pour la partie cours.
 
 Maîtrise de l'outil informatique et une initiation minimale à [R et RStudio](out1_r.qmd) pour la partie TD.
-
-</div>
-
-<div>
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -65,15 +59,9 @@ Partie prenante du cycle de formation sur les données utiles pour l'analyse des
 
 Différents exemples sont utilisés pour rendre plus concrète la formation : notamment la comparaison des recensements béninois et français pour la partie cours, et les données du recensement béninois 2013 pour la partie TD.
 
-</div>
-
-<div>
-
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-dessous
-
-</div>
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -87,24 +75,16 @@ Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-desso
 
 </object>
 
-<div>
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Le TD contenant les exercices est disponible ci-dessous :
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-</div>
-
-<div>
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [IPUMS](../donnees/ipums)
 -   données agrégées sur les populations urbaines et rurales du projet [Géopolis](http://e-geopolis.org/)
-
-</div>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

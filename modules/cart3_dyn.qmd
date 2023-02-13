@@ -41,7 +41,7 @@ Il est composé d'un cours magistral et de deux travaux pratiques en salle infor
 Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
 :::
 
-<div>
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -49,9 +49,9 @@ Le module est technique. Il nécessite des connaissances préalables en cartogra
 
 La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécéssaires.
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -63,9 +63,9 @@ La séquence s'organise en 3 étapes :
 -   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l'échelle des pays africains
 -   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l'échelle mondiale.
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
@@ -75,7 +75,7 @@ La séquence s'organise en 3 étapes :
 
 Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_cartodyn) du module.
 
-</div>
+
 
 <center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -87,7 +87,7 @@ Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_c
 
 </object>
 
-<!-- <div> -->
+<!--  -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
@@ -95,9 +95,9 @@ Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_c
 
 <!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
-<!-- </div> -->
+<!--  -->
 
-<div>
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -112,7 +112,7 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 
 \
 
-</div>
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

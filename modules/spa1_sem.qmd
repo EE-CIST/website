@@ -44,7 +44,7 @@ Les travaux dirigés se font en deux parties :
 -   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous (R ou QGIS)
 :::
 
-<div>
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -54,9 +54,9 @@ Les travaux dirigés se font en deux parties :
 
 Les notions abordées dans ce modules sont utiles pour les niveaux suivants : [autocorrélation spatiale](spa4_aut.qmd), et [accessibilité et distance](spa2_dis.qmd).
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -82,15 +82,15 @@ Le TD est construit autour de deux parties :
 
 -   2)application d'une méthode d'analyse de forme de semis de points à la répartition des forages d'eau au Togo.
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Un PowerPoint ainsi que des exercices au format Word sont disponibles à la consultation et au téléchargement.
 
-<!-- </div> -->
+<!--  -->
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -106,7 +106,7 @@ Un PowerPoint ainsi que des exercices au format Word sont disponibles à la cons
 
 <!-- </object> -->
 
-<!-- <div> -->
+<!--  -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
@@ -118,9 +118,9 @@ Un PowerPoint ainsi que des exercices au format Word sont disponibles à la cons
 
 \
 
-</div>
 
-<div>
+
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -133,7 +133,7 @@ Un PowerPoint ainsi que des exercices au format Word sont disponibles à la cons
 
 \
 
-</div>
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
