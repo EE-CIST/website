@@ -47,11 +47,11 @@ format:
 ## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
 
 ::: {#liste}
--   Analyse spatiale
 -   Géomatique
--   langage R
--   Programmation lettrée
+-   Analyse spatiale et quantitative
+-   langage de programmation R
 -   Notebook (article exécutable)
+-   Reproductibilité
 :::
 
 ## <i class="bi bi-person-video3"></i> Enseignements dispensés
@@ -68,7 +68,7 @@ format:
 ## <i class="bi bi-clipboard-data"></i> Données mobilisées
 
 -   Données conventionnelles (statistique publique)
--   Données volumineuses issues du web
+-   Données issues du web
 -   Données d'enquêtes
 
 
