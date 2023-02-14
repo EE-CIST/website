@@ -78,7 +78,7 @@ Exercices pratiques : précipitations en Afrique de l'Ouest (données climatique
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Marché de Bouaké](../donnees/mar_bouake_2018.qmd)
--   GHCN et/ou données de Moutoré (fiche(s) à faire)
+-   [GHCN](../donnees/pre_calif_1965.qmd) et/ou données de Moutoré (fiche(s) à faire)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
