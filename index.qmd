@@ -1,8 +1,8 @@
 ---
-title: "**École d'été CIST·2023**"
+title: "**École d'été du CIST · EE2023**"
 ---
 
-## Méthodes et outils des sciences des territoires, une perspective Nord-Sud
+## Méthodes et outils des sciences des territoires, une perspective Nord-Sud, Sud-Nord, Sud-sud
 
 ::: {#map}
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}

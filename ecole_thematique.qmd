@@ -1,5 +1,5 @@
 ---
-title: "Méthodes et outils des sciences des territoires : une perspective Nord-Sud, Sud-Nord et Sud-Sud"
+title: "École d'été du CIST · EE2023"
 about:
   template: marquee
   image : img/header.png
