@@ -49,9 +49,9 @@ La maîtrise de l'outil informatique est requise pour suivre ce module, ainsi qu
 
 D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ces deux modules :
 
--   [Statistiques descriptives univariées](exp1_uni.qmd)
+-   [Statistique descriptive univariée](exp1_uni.qmd)
 
--   [Statistiques discriptiques bivariées](exp2_biv.qmd)
+-   [Statistique descriptique bivariée](exp2_biv.qmd)
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -73,8 +73,9 @@ A.  **Cours**
 
     2\. Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
 
+```{=html}
 <!-- -->
-
+```
 B.  **Applications sur R**
 
     1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*

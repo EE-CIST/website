@@ -2,9 +2,9 @@
 title: "**École d'été du CIST · EE2023**"
 ---
 
-## Méthodes et outils des sciences des territoires, une perspective Nord-Sud, Sud-Nord, Sud-sud
+## Méthodes et outils des sciences des territoires, une perspective Nord-Sud, Sud-Nord, Sud-Sud
 
-> Première action de formation d\'envergure du CIST coordonnée par Mouftaou Amadou Sanni *(LARESPD / Université de Parakou, Bénin)*, Emmanuel Bonnet *(IRD)*, Claude Grasland *(UPC-CIST)* et France Guérin-Pace *(Ined-CIST)*
+> Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI *(LARESPD / Université de Parakou, Bénin)*, Emmanuel BONNET *(IRD)*, Claude GRASLAND *(UPC-CIST)* et France GUERIN-PACE *(INED-CIST)*
 
 ::: {#map}
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -44,10 +44,7 @@ mamap
 :::
 
 ::: {#maptext}
-
-Cette école d\'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d\'une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l\'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l\'emploi d\'outils informatiques d\'accès libre.
-
-</br></br>
+Cette école d'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d'une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l'emploi d'outils informatiques d'accès libre.
 
 <img src="img/logo.png" width="90%;"/>
 :::
