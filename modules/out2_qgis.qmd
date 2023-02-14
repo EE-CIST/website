@@ -79,10 +79,10 @@ Le module a pour objectif d'initier les participants à l'utilisation de l'outil
 
 3.  **Analyse spatiale - *Vecteur***
 
-    a.  Géotraitements
-    b.  Compter les points + interpolation
-    c.  Voronoï
-    d.  Calculs de distances
+    -   Géotraitements
+    -   Compter les points + interpolation
+    -   Voronoï
+    -   Calculs de distances
 
 4.  **Analyse spatiale - *Raster***
 
@@ -101,7 +101,7 @@ Le module a pour objectif d'initier les participants à l'utilisation de l'outil
 
 L'intégralité des supports de cours est disponible ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données propres permettant de reprendre ces exercices (y compris des projets qgis prets à l'emploi)
 
-Le \`.zip\` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 Novembre 2022)*
+Le `.zip` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 Novembre 2022)*
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
