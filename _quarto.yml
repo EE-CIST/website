@@ -45,39 +45,39 @@ website:
         text: <b>Données</b>
       - modules.qmd
       - href: modules/typ1_enq.qmd
-        text: Données d'enquête      
+        text: TYP1 - Données d'enquête      
       - href: modules/typ2_rec.qmd
-        text: Données recensement    
+        text: TYP2 - Données recensement    
       - href: modules/typ3_ig.qmd
-        text: L'information géographique
+        text: TYP3 - L'information géographique
       - href: modules/exp1_uni.qmd
-        text: Statistique I - univariée
+        text: EXP1 - Statistique univariée
       - href: modules/exp2_biv.qmd
-        text: Statistique II - bivariée     
+        text: EXP2 - Statistique bivariée     
       - href: modules/exp3_mul.qmd
-        text: Statistique III - multivariée  
+        text: EXP3 - Statistique multivariée  
       - href: modules/cart1-2_the.qmd
-        text: Cartographie I - thématique         
+        text: CART1 - Cartographie thématique         
       - href: modules/cart3_dyn.qmd
-        text: Cartographie II - dynamique         
+        text: CART2 - Cartographie dynamique         
       - href: modules/spa1_sem.qmd
-        text: Analayse Spatiale - Semis de points  
+        text: SPA1 - Semis de points  
       - href: modules/spa2_dis.qmd
-        text: Analayse Spatiale II - Distance et accessibilité    
+        text: SPA2 - Distance et accessibilité    
       - href: modules/spa3_int.qmd
-        text: Analayse Spatiale III - Interaction spatiale et flux   
+        text: SPA3 - Interaction spatiale et flux   
       - href: modules/spa4_aut.qmd
-        text: Analayse Spatiale IV - Autocorrélation spatiale   
+        text: SPA4 - Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
-        text: Modélisation I
+        text: MOD1 - Modélisation I
       - href: modules/mod2_quali.qmd 
-        text: Modélisation II
+        text: MOD2 - Modélisation II
       - href: modules/mod3_multiniv.qmd 
-        text: Modélisation III
-      - href: modules/out2_qgis.qmd
-        text: Initiation à QGIS
+        text: MOD3 - Modélisation III
       - href: modules/out1_r.qmd
-        text: Inititation à R 
+        text: OUT1 - Inititation à R 
+      - href: modules/out2_qgis.qmd
+        text: OUT2 - Initiation à QGIS
         
 
   page-footer: ET CIST·2023 - [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
