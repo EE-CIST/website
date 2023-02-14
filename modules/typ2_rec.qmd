@@ -5,7 +5,7 @@ image: img/recensement.jpg
 date: 02/27/2023
 categories: 
 - Données
-ordre: "03" 
+ordre: "02" 
 author: 
 - Mr Mouftaou AMADOU SANNI
 - Mr Pierre PISTRE

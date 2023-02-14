@@ -5,12 +5,12 @@ image: img/enquete.jpg
 date: 02/27/2023
 categories: 
 - Données
-ordre: "02" 
+ordre: "01" 
 author: 
-- Mr xx
-- Mme xx
+- Mme Fatoumata COULIBALY
+- Mme France GUERIN-PACE
 author-title: Auteurs
-# bibliography: biblio/session1.bib
+bibliography: biblio/typ1.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,31 +25,37 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
+<!-- ### Contributeur·rice·s -->
 
-Hugues Pecout, ...
-:::
+<!-- Hugues Pecout, ... -->
+<!-- ::: -->
 
-<div>
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Le public ciblé est très large en Sciences humaines et sociales. Il s’agit d’un cours magistral qui peut s’accompagner d’exercices de manipulations de bases de données. 
 
-</div>
+Environ deux heures pour présenter ce cours sont nécessaires. 
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Aucun prérequis si ce n'est l'usage de l'outil informatique et les bases d'un tableur.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+L’objectif de ce cours est de décrire les données d’enquête dans toute leur diversité en insistant sur leur dimension spatiale. 
+
+Nous présenterons des enquêtes de la statistique publique, des enquêtes conduites en population générale ainsi que des enquêtes sur des échantillons plus restreints construites dans le cadre d’un projet de recherche. 
+
+Il s'agira notamment, d'établir une typologie des différents types d’enquête en insistant sur le vocabulaire utilisé pour les désigner (transversale, longitudinale, panel, biographique, etc.). 
+
+Enfin nous traiterons la question de la représentativité spatiale et de la production de résultats statistiques. 
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+*A venir...*
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -65,23 +71,20 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-
-\
+*A venir...*
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-\
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+-   [Données EDS](../donnees/eds_afriq.qmd)
+-   [Données ETST Tunisie](../donnees/enq_tunis_2016.qmd)
+-   [Données issues de la thèse Vakaramoko BAMABA sur l’approvisionnement en Côte d’Ivoire](../donnees/enq_cotiv_2016.qmd)
 
-\
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

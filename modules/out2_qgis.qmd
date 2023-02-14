@@ -37,7 +37,8 @@ format:
 
 <!-- ::: -->
 
-::: {}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc à un public de tout niveau sensible à l'information spatiale.
@@ -45,7 +46,8 @@ Ce module est conçu comme une initiation aux SIG et à QGIS, il s'adresse donc 
 L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
 
 Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin [**SCP *(Semi-Automatic Classification Plugin)***](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) et un logiciel de traitement de texte pour suivre les exercices.
-:::
+
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 

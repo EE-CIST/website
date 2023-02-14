@@ -8,7 +8,7 @@ categories:
 - Géomatique
 - Analyse spatiale
 - Cartographie
-ordre: "01" 
+ordre: "03" 
 author: 
 - Mme Pauline GLUSKI
 - Mr Labaly TOURÉ
