@@ -1,5 +1,5 @@
 ---
-title: "Statistique I univariée"
+title: "Statistique I - univariée"
 subtitle: "Introduction à la statistique descritpive univariée"
 image: img/univarie.png
 date: 02/28/2023

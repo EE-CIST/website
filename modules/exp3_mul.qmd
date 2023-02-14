@@ -1,11 +1,11 @@
 ---
-title: "Statistique III - multivariée"
+title: "Statistique multivariée"
 subtitle: "Introduction à l'analyse statistique multivariée"
 date: 03/03/2023
 image: img/multi.png
 categories: 
 - Statistique
-ordre: "06" 
+ordre: "07" 
 author: 
 - Mr Ané Landry TANOH
 - Mme France GUERIN-PACE
@@ -31,37 +31,48 @@ format:
 Claude GRASLAND
 :::
 
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module porte sur le traitement ou l'analyse des données statistiques et géographiques multidimensionnelles. Il cible la plupart des chercheurs et étudiants dans le domaine des sciences économiques, sociales ou humaines.
+Ce module porte sur le traitement ou l'analyse des données statistiques et géographiques multidimensionnelles. Il cible la plupart des chercheurs et étudiants dans le domaine des sciences économiques, sociales ou humaines. 
 
-Il se fera sous la forme de travaux dirigées (TD) avec des exercices pratiques de traitement des données sur le **logiciel R**. La résolution de ces exercices nécessite des outils tels que l'ordinateur, les logiciels et la connexion Internet.
+Il se fera sous la forme de travaux dirigées (TD) avec des exercices pratiques de traitement des données sur le **logiciel R**. La résolution de ces exercices nécessite des outils tels que l’ordinateur, les logiciels et la connexion Internet.
 
-La partie théorique de ce module pourra se faire en 3 heures de temps au minimum et l'application des exercices en 2 heures au minimum.
+La partie théorique de ce module pourra se faire en 3 heures de temps au minimum et l’application des exercices en 2 heures au minimum.   
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Une maîtrise de l'outil informatique et une unitiation à [R et Rstudio](out1_r.qmd) sont necessaire ainsqi qu'une bonne connexion à internet afin de télécharger les supports (cours, données et packages R).
 
-Avoir une connaissance des notions fondamentales ou basiques de la statistique descriptive : - connaissance de la nature des variables à analyser et des modalités associées - il peut s'agir de variables continues, de variables nominales ou de catégories dans le cas des tableaux de contingence. - les lignes peuvent être des individus ou des catégories
+Avoir une connaissance des notions fondamentales ou basiques de la statistique descriptive : 
+-   connaissance de la nature des variables à analyser et des modalités associées
+-   il peut s’agir de variables continues, de variables nominales ou de catégories dans le cas des tableaux de contingence. 
+-   les lignes peuvent être des individus ou des catégories
 
-Voir les modules : - [statistique I](exp1_uni.qmd) - [statistique II](exp2_biv.qmd)
+Voir les modules : 
+-   [statistique I](exp1_uni.qmd)
+-   [statistique II](exp2_biv.qmd) 
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L'analyse exploratoire des variables qualitatives et quantitative grâce à la statistique descriptive est certes indispensable mais elle reste tout à fait insuffisante. Cette analyse univariée ou bivariée laisse de côté les liaisons multiples qui peuvent exister entre plusieurs variables. Cela nécessite donc une analyse des données tenant compte de leur caractère multidimensionnel en recourant à l'analyse factorielle qui est un ensemble de méthodes.\
+L’analyse exploratoire des variables qualitatives et quantitative grâce à la statistique descriptive est certes indispensable mais elle reste tout à fait insuffisante. Cette analyse univariée ou bivariée laisse de côté les liaisons multiples qui peuvent exister entre plusieurs variables. Cela nécessite donc une analyse des données tenant compte de leur caractère multidimensionnel en recourant à l’analyse factorielle qui est un ensemble de méthodes.\
 Ces méthodes permettent de structurer et synthétiser les informations sur les individus et les variables sous forme de représentations graphiques ou plans factoriels.\
-Elles ont pour objet de réduire les dimensions des tableaux de données de façon à représenter les associations entre individus et entre variables dans des espaces de faibles dimensions.
+Elles ont pour objet de réduire les dimensions des tableaux de données de façon à représenter les associations entre individus et entre variables dans des espaces de faibles dimensions. 
 
-Les principales méthodes de l'analyse factorielle sont : - **L'analyse en composantes principales (ACP)** pour des variables quantitatives (ou encore des variables pour lesquels la notion de moyenne a un sens) - **L'analyse factorielle des correspondances simples (AFC)** pour deux variables qualitatives uniquement - **L'analyse des correspondances multiples (ACM)** pour plusieurs variables qualitatives - **L'analyse factorielle multiple (AFM)** pour les tableaux dans lesquels les variables sont structurées en groupes.
+Les principales méthodes de l’analyse factorielle sont :
+-   **L’analyse en composantes principales (ACP)** pour des variables quantitatives (ou encore des variables pour lesquels la notion de moyenne a un sens)
+-   **L’analyse factorielle des correspondances simples (AFC)** pour deux variables qualitatives uniquement
+-   **L’analyse des correspondances multiples (ACM)** pour plusieurs variables qualitatives
+-   **L’analyse factorielle multiple (AFM)** pour les tableaux dans lesquels les variables sont structurées en groupes. 
 
-Elles peuvent être complétées par une classification ou une analyse discriminante dont le but sera de faire apparaître des groupes d'individus homogènes vis-à-vis des variables analysées. Ces dernières techniques sont des méthodes explicatives.
+Elles peuvent être complétées par une classification ou une analyse discriminante dont le but sera de faire apparaître des groupes d’individus homogènes vis-à-vis des variables analysées. Ces dernières techniques sont des méthodes explicatives. 
 
-Le module s'organise en deux parties : d'une part faire le point sur les généralités de l'analyse factorielle et d'autre part présenter chaque méthode d'analyse et les données possibles pour sa mise en œuvre.
+Le module s’organise en deux parties : d’une part faire le point sur les généralités de l’analyse factorielle et d’autre part présenter chaque méthode d’analyse et les données possibles pour sa mise en œuvre. 
+
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
--   Introduction à l'ACP : Cours adapté de Daniel J. Denis
+-	Introduction à l’ACP :  Cours adapté de Daniel J. Denis 
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -77,19 +88,25 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
--   TD : ACP-CAH sur le développement des pays africains
--   TD : ACP-CAH sur les forces et faiblesses de la CEDEAO
+-	TD : ACP-CAH sur le développement des pays africains
+-	TD : ACP-CAH sur les forces et faiblesses de la CEDEAO
+
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
+
+
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   ACP / CAH : [Développement des pays Africains](../donnees/dev_afric_2018.qmd)
--   ACP/CAH : Forces et faiblesses de la CEDEAO en 2021
--   AFC : Données du recensement du Bénin sur les langues parlées et les départements
--   ACM : Données d'enquêtes sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire (Bagoué, Folon, Kabadougou et Minignan). L'enquête a été réalisé entre 2016 et 2018 auprès de 635 Chefs de ménage dans huit départements et 25 sous-préfectures. Plusieurs variables ont été mobilisé : variables géographiques, démographiques, économiques, sociales, culturelles et de l'offre.
+-	ACP / CAH : [Développement des pays Africains](../donnees/dev_afric_2018.qmd)
+-	ACP/CAH : Forces et faiblesses de la CEDEAO en 2021
+-	AFC : Données du recensement du Bénin sur les langues parlées et les départements
+-	 ACM : Données d’enquêtes sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d’Ivoire (Bagoué, Folon, Kabadougou et Minignan). L’enquête a été réalisé entre 2016 et 2018 auprès de 635 Chefs de ménage dans huit départements et 25 sous-préfectures. Plusieurs variables ont été mobilisé : variables géographiques, démographiques, économiques, sociales, culturelles et de l’offre.  
+
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
