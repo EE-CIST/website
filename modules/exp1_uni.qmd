@@ -1,5 +1,5 @@
 ---
-title: "Statistique univariée"
+title: "Statistique I univariée"
 subtitle: "Introduction à la statistique descritpive univariée"
 image: img/univarie.png
 date: 02/28/2023
@@ -11,7 +11,7 @@ author:
 - Mme Malb Ama N’Danida YAGNINIM
 - Mme Sèïvè Ermine Armande DAMENOU
 author-title: Auteurs
-# bibliography: biblio/session1.bib
+bibliography: biblio/exp1.bib
 nocite: '@*'
 csl: geo.csl
 about:
