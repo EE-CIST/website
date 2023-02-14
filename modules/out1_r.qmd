@@ -10,7 +10,7 @@ categories:
 - Géomatique
 - Analyse spatiale
 - Cartographie
-ordre: "17" 
+ordre: "16" 
 author: 
 - Justin Dansou
 - Hugues Pecout
@@ -168,7 +168,7 @@ Ce module de formation utilisent des données déjà préalablement utilisés da
 Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste :
 
 |             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
-|:----------------:|:----------------:|:-----------------------------------:|
+|:----------------:|:----------------:|:----------------------------------:|
 | Données pays africains (UN-CEPII) |    Tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 | Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 |   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |

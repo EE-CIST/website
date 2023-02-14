@@ -1,5 +1,5 @@
 ---
-title: "Analayse spatiale III : Interaction Spatiale et Flux"
+title: "Analyse spatiale III : Interaction Spatiale et Flux"
 subtitle: "Introduction à l'analyse de l'interaction spatiale et des flux"
 date: 03/02/2023
 image: img/distance.png
@@ -7,7 +7,6 @@ categories:
 - Analyse spatiale
 ordre: "11" 
 author: 
-- Mr Vakaramoko BAMBA
 - Mr Claude GRASLAND
 author-title: Auteurs
 # bibliography: biblio/spa3.bib

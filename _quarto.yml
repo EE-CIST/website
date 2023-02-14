@@ -20,10 +20,10 @@ website:
         text: Programme
       - href: equipe.qmd
         text: Équipe
-      - href: modules.qmd
-        text: Modules
       - href: donnees.qmd
         text: Données
+      - href: modules.qmd
+        text: Modules
     right:
       - href: apropos.qmd
         text: À propos
@@ -57,9 +57,9 @@ website:
       - href: modules/exp3_mul.qmd
         text: EXP3 - Statistique multivariée  
       - href: modules/cart1-2_the.qmd
-        text: CART1 - Cartographie thématique         
+        text: CAR1 - Cartographie thématique         
       - href: modules/cart3_dyn.qmd
-        text: CART2 - Cartographie dynamique         
+        text: CAR2 - Cartographie dynamique         
       - href: modules/spa1_sem.qmd
         text: SPA1 - Semis de points  
       - href: modules/spa2_dis.qmd

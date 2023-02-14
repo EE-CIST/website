@@ -7,10 +7,10 @@ categories:
 - Statistique
 ordre: "05" 
 author: 
-- Mr xx
-- Mme xx
+- Mme Malika MADELIN
+- Mr Yentougle MOUTORE
 author-title: Auteurs
-# bibliography: biblio/session1.bib
+bibliography: biblio/exp2.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,31 +25,35 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-### Contributeur·rice·s
+<!-- ::: {#contrib} -->
+<!-- ### Contributeur·rice·s -->
 
-Hugues Pecout, ...
-:::
-
-<div>
+<!-- Hugues Pecout, ... -->
+<!-- ::: -->
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Ce module s'adresse à des  étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R). 
 
-</div>
+Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfondissement et exercices pratiques).
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Il est necessaire d'être au fait des [statistiques univariées](exp1_uni.qmd) (tableau élémentaire, données qualitatives / quantitatives, distribution, etc.). 
+
+Il est aussi important de maitriser l'outil informatique et d'avoir un niveau de [base sous R](out1_r.qmd) (manipulation d’un tableau de données, graphiques élémentaires, fonctions statistiques de base, etc.). 
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+*A venir...*
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+*A venir...*
+
+Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des données environnementales raster (LST, NDVI, altitude, occ sol) pour l'analyse de la variance et la corrélation.
+
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -65,19 +69,17 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+*A venir...*
 
-\
+Exercices pratiques : précipitations en Afrique de l’Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ??
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-\
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
-
-\
+-   [Marché de Bouaké](../donnees/mar_bouake_2018.qmd)
+-   GHCN et/ou données de Moutoré (fiche(s) à faire)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
