@@ -21,7 +21,7 @@ about:
       href: https://github.com
       
 affiliation: FR CIST, Université Paris 1 Panthéon-Sorbonne
-statut: Ingénieur d'études en communication
+statut: Chargée de communication
 pays: France
 title-block-categories: false
 
