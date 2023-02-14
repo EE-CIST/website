@@ -4,7 +4,7 @@ subtitle: "Introduction aux données d'enquête"
 image: img/enquete.jpg
 date: 02/27/2023
 categories: 
-- Données
+- données
 ordre: "01" 
 author: 
 - Mme Fatoumata COULIBALY

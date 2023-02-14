@@ -4,7 +4,7 @@ subtitle: "Introduction à la statistique descritpive bivariée"
 date: 03/01/2023
 image: img/khi2.png
 categories: 
-- Statistique
+- statistique
 ordre: "05" 
 author: 
 - Mme Malika MADELIN
@@ -26,23 +26,24 @@ format:
 ---
 
 <!-- ::: {#contrib} -->
+
 <!-- ### Contributeur·rice·s -->
 
 <!-- Hugues Pecout, ... -->
+
 <!-- ::: -->
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse à des  étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R). 
+Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R).
 
 Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfondissement et exercices pratiques).
 
-
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Il est necessaire d'être au fait des [statistiques univariées](exp1_uni.qmd) (tableau élémentaire, données qualitatives / quantitatives, distribution, etc.). 
+Il est necessaire d'être au fait des [statistiques univariées](exp1_uni.qmd) (tableau élémentaire, données qualitatives / quantitatives, distribution, etc.).
 
-Il est aussi important de maitriser l'outil informatique et d'avoir un niveau de [base sous R](out1_r.qmd) (manipulation d’un tableau de données, graphiques élémentaires, fonctions statistiques de base, etc.). 
+Il est aussi important de maitriser l'outil informatique et d'avoir un niveau de [base sous R](out1_r.qmd) (manipulation d'un tableau de données, graphiques élémentaires, fonctions statistiques de base, etc.).
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -53,7 +54,6 @@ Il est aussi important de maitriser l'outil informatique et d'avoir un niveau de
 *A venir...*
 
 Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des données environnementales raster (LST, NDVI, altitude, occ sol) pour l'analyse de la variance et la corrélation.
-
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -71,10 +71,9 @@ Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des donné
 
 *A venir...*
 
-Exercices pratiques : précipitations en Afrique de l’Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ??
+Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ??
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

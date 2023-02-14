@@ -4,7 +4,7 @@ subtitle: "Introduction aux données de recensement"
 image: img/recensement.jpg
 date: 02/27/2023
 categories: 
-- Données
+- données
 ordre: "02" 
 author: 
 - Mr Mouftaou AMADOU SANNI

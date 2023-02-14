@@ -4,7 +4,7 @@ subtitle: "Introduction à l'analyse de l'interaction spatiale et des flux"
 date: 03/02/2023
 image: img/distance.png
 categories: 
-- Analyse spatiale
+- analyse spatiale
 ordre: "11" 
 author: 
 - Mr Claude GRASLAND

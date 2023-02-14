@@ -4,7 +4,7 @@ subtitle: "Introduction à la sémiologie grahique et à la cartographie"
 date: 02/28/2023
 image: img/carto.jpg
 categories: 
-- Cartographie
+- cartographie
 ordre: "07" 
 author: 
 - Mme Christine ZANIN
