@@ -44,35 +44,11 @@ format:
 :::
 :::
 
-## <i class="bi bi-ui-checks-grid"></i> Thème de recherche
+## <i class="bi bi-ui-checks-grid"></i> Chargée de communication
 
-::: {#liste}
--   Theme 1
--   Theme 2
--   Theme 3
--   Theme 4
--   Theme 5
-:::
+Chargée de communication au CIST, je coordonne notamment ses colloques internationaux, conçoit et mets à jour le site du CIST et les sites dédiés à ses événements, suit les diverses collections HAL d'archives ouvertes.
 
-## <i class="bi bi-person-video3"></i> Enseignements dispensés
-
-<div>
-
--   Enseignement 1
--   Enseignement 2
--   Enseignement 3
--   Enseignement 4
--   Enseignement 5
-
-</div>
-
-## <i class="bi bi-clipboard-data"></i> Données mobilisées
-
--   data 1
--   data 2
--   data 3
--   data 4
--   data 5
+En tant qu'éditrice, j'édite les proceedings des colloques et tous les ouvrages parus dans le cadre des activités des axes structurants et des projets exploratoires du CIST."
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
