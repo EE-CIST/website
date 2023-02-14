@@ -28,7 +28,7 @@ website:
       - href: apropos.qmd
         text: À propos
       - href: contact.qmd
-        text: Contact
+        text: Contacts
     tools:
       - icon: github
         aria-label: GitHub

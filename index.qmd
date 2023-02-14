@@ -42,7 +42,9 @@ mamap
 :::
 
 ::: {#maptext}
-L'école d'été CIST·2023 s'est déroulée en mars 2023 à Ouidah, Bénin, etc... ... .. . .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. .. ... .... .... ... ... .. ...
+> Première action de formation d\'envergure du CIST coordonnée par Mouftaou Amadou Sanni (LARESPD / Université de Parakou, Bénin), Emmanuel Bonnet (IRD), Claude Grasland (UPC-CIST) et France Guérin-Pace (Ined-CIST)
+
+Cette école d\'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d\'une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l\'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l\'emploi d\'outils informatiques d\'accès libre.
 
 </br></br>
 

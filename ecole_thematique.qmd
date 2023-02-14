@@ -1,5 +1,5 @@
 ---
-title: "École d'été internationale du CIST"
+title: "Méthodes et outils des sciences des territoires : une perspective Nord-Sud, Sud-Nord et Sud-Sud"
 about:
   template: marquee
   image : img/header.png
@@ -7,15 +7,9 @@ about:
   image-shape: rounded
 ---
 
-## Méthodes et outils des sciences des territoires : une perspective Nord-Sud
+## L'école d'été international du CIST : une école en deux étapes
 
-> Première action de formation d'envergure du CIST coordonnée par Mouftaou Amadou Sanni (LARESPD / Université de Parakou, Bénin), Emmanuel Bonnet (IRD), Claude Grasland (CIST) et France Guérin-Pace (Ined)
-
-Cette école d'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d'une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès d'un nombre équivalent de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l'emploi d'outils informatiques d'accès libre.
-
-### Une école en 2 étapes
-
-#### Première étape de l'école d'été sur le campus Condorcet (juin 2022)
+### Première étape de l'école d'été sur le campus Condorcet (juin 2022)
 
 La première étape de ce projet se tiendra sur le campus Condorcet avec l'accueil durant une semaine d'une quinzaine de formateur·rices de pays d'Afrique francophone subsaharienne (Burkina Faso, Bénin, Cameroun, Côte d'Ivoire, Mali, Niger, Sénégal, Togo). Avec une quinzaine d'homologues du Nord, ils échangeront afin de mettre en place très concrètement un corpus d'enseignements, d'outils et de données qui pourront être mobilisés en fonction des besoins scientifiques et pédagogiques des participant.es autour de thématiques ciblées.
 
