@@ -33,8 +33,6 @@ format:
 
 <!-- ::: -->
 
-
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse à toute personne intéressée par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
@@ -42,8 +40,6 @@ Ce module s'adresse à toute personne intéressée par la connaissance et l'util
 Il s'organise autour d'un cours magistral d'une durée approximative d'une heure et un TD de deux heures permettant la prise en main des données via des exercices.
 
 Pour le TD il est nécessaire d'avoir des ordinateurs individuels équipés de **R et R Studio** ainsi que d'un logiciel tableur (Excel ou LibreOffice).
-
-
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 

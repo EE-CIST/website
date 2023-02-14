@@ -5,7 +5,7 @@ date: 03/03/2023
 image: img/multi.png
 categories: 
 - Statistique
-ordre: "11" 
+ordre: "07" 
 author: 
 - Mr Ané Landry TANOH
 - Mme France GUERIN-PACE
@@ -41,6 +41,8 @@ Il se fera sous la forme de travaux dirigées (TD) avec des exercices pratiques 
 La partie théorique de ce module pourra se faire en 3 heures de temps au minimum et l’application des exercices en 2 heures au minimum.   
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+Une maîtrise de l'outil informatique et une unitiation à [R et Rstudio](out1_r.qmd) sont necessaire ainsqi qu'une bonne connexion à internet afin de télécharger les supports (cours, données et packages R).
 
 Avoir une connaissance des notions fondamentales ou basiques de la statistique descriptive : 
 -   connaissance de la nature des variables à analyser et des modalités associées

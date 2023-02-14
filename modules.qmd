@@ -7,7 +7,7 @@ listing:
   field-links: ["title"]
   contents: modules
   sort-ui:  [categories]
-  sort: [ordre]
+  sort: ["ordre"]
   filter-ui: true
   type: default
   categories: true
