@@ -26,18 +26,18 @@ format:
 ---
 
 <!-- ::: {#contrib} -->
+
 <!-- ### Contributeur·rice·s -->
 
 <!-- Hugues Pecout, ... -->
-<!-- ::: -->
 
+<!-- ::: -->
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Le public ciblé est très large en Sciences humaines et sociales. Il s’agit d’un cours magistral qui peut s’accompagner d’exercices de manipulations de bases de données. 
+Le public ciblé est très large en Sciences humaines et sociales. Il s'agit d'un cours magistral qui peut s'accompagner d'exercices de manipulations de bases de données.
 
-Environ deux heures pour présenter ce cours sont nécessaires. 
-
+Environ deux heures pour présenter ce cours sont nécessaires.
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -45,13 +45,13 @@ Aucun prérequis si ce n'est l'usage de l'outil informatique et les bases d'un t
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L’objectif de ce cours est de décrire les données d’enquête dans toute leur diversité en insistant sur leur dimension spatiale. 
+L'objectif de ce cours est de décrire les données d'enquête dans toute leur diversité en insistant sur leur dimension spatiale.
 
-Nous présenterons des enquêtes de la statistique publique, des enquêtes conduites en population générale ainsi que des enquêtes sur des échantillons plus restreints construites dans le cadre d’un projet de recherche. 
+Nous présenterons des enquêtes de la statistique publique, des enquêtes conduites en population générale ainsi que des enquêtes sur des échantillons plus restreints construites dans le cadre d'un projet de recherche.
 
-Il s'agira notamment, d'établir une typologie des différents types d’enquête en insistant sur le vocabulaire utilisé pour les désigner (transversale, longitudinale, panel, biographique, etc.). 
+Il s'agira notamment, d'établir une typologie des différents types d'enquête en insistant sur le vocabulaire utilisé pour les désigner (transversale, longitudinale, panel, biographique, etc.).
 
-Enfin nous traiterons la question de la représentativité spatiale et de la production de résultats statistiques. 
+Enfin nous traiterons la question de la représentativité spatiale et de la production de résultats statistiques.
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
@@ -75,16 +75,13 @@ Enfin nous traiterons la question de la représentativité spatiale et de la pro
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Données EDS](../donnees/eds_afriq.qmd)
 -   [Données ETST Tunisie](../donnees/enq_tunis_2016.qmd)
--   [Données issues de la thèse Vakaramoko BAMABA sur l’approvisionnement en Côte d’Ivoire](../donnees/enq_cotiv_2016.qmd)
-
+-   [Données issues de la thèse Vakaramoko BAMABA sur l'approvisionnement en Côte d'Ivoire](../donnees/enq_cotiv_2016.qmd)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

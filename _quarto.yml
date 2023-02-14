@@ -51,15 +51,15 @@ website:
       - href: modules/typ3_ig.qmd
         text: L'information géographique
       - href: modules/exp1_uni.qmd
-        text: Statistique univariée
+        text: Statistique I - univariée
       - href: modules/exp2_biv.qmd
-        text: Statistique bivariée     
+        text: Statistique II - bivariée     
       - href: modules/exp3_mul.qmd
-        text: Statistique multivariée  
+        text: Statistique III - multivariée  
       - href: modules/cart1-2_the.qmd
-        text: Cartographie thématique         
+        text: Cartographie I - thématique         
       - href: modules/cart3_dyn.qmd
-        text: Cartographie dynamique         
+        text: Cartographie II - dynamique         
       - href: modules/spa1_sem.qmd
         text: Analayse Spatiale - Semis de points  
       - href: modules/spa2_dis.qmd
@@ -69,11 +69,11 @@ website:
       - href: modules/spa4_aut.qmd
         text: Analayse Spatiale IV - Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
-        text: Modélisation I - Y quantitative
+        text: Modélisation I
       - href: modules/mod2_quali.qmd 
-        text: Modélisation II - Y qualitative
+        text: Modélisation II
       - href: modules/mod3_multiniv.qmd 
-        text: Modélisation III - Multiniveau
+        text: Modélisation III
       - href: modules/out2_qgis.qmd
         text: Initiation à QGIS
       - href: modules/out1_r.qmd

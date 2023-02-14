@@ -1,11 +1,11 @@
 ---
-title: "Cartographie Dynamique"
+title: "Cartographie II - Dynamique"
 subtitle: "Cartographie dynamique avec Observable JavaScript et Quarto"
 date: 02/28/2023
 image: img/carto.jpg
 categories: 
 - Cartographie
-ordre: "07" 
+ordre: "08" 
 author: 
 - Mr Manhamady OUEDRAOGO
 - Mr Nicolas LAMBERT
@@ -31,7 +31,8 @@ format:
 Claude GRASLAND *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Malika MADELIN *(France)* -- Sébastien REY-COYREHOURCQ *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Hugues PECOUT *(France)* -- Yentougle MOUTORE *(Togo)* -- Bénédicte GARNIER *(France)* -- Côomlan Charles HOUNTON *(Bénin)* -- Pauline GLUSKI *(France)*
 :::
 
-::: {}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou des étudiants en informatique (géomatique) ou en école d'ingénieur.
@@ -39,7 +40,8 @@ Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou d
 Il est composé d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécéssite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet.
 
 Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
-:::
+
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 

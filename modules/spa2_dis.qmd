@@ -33,15 +33,15 @@ format:
 
 <!-- ::: -->
 
-::: {}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce cours d'analyse spatiale propose une introduction aux concepts de distance et d'accessibilité en associant théorie et pratique.
 
 Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se limite à la présentation des fondements conceptuels et à leur mise en pratique sur des cas concrets en utilisant le logiciel R et l'API Osrm.
-:::
 
-
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -57,10 +57,6 @@ Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se li
 -   Utilisation de R-base
 -   Utilisation de dplyr
 -   Utilisation de sf et mapsf (+ si possible leaflet)
-
-
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -86,10 +82,6 @@ Le cours se déroule comme suis :
 
     a.  Analyse statistique et cartographique du marché de gros de Bouaké
     b.  Apprentissage du package osrm (application aux 8 pays de l'EE)
-
-
-
-
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
@@ -123,10 +115,6 @@ Le cours se déroule comme suis :
 
 <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-
-
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 **TD1 : [Données sur le marché de Bouaké](../donnees/mar_bouake_2013.qmd)**
@@ -143,8 +131,6 @@ Le cours se déroule comme suis :
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

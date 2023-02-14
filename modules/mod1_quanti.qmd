@@ -5,7 +5,7 @@ date: 03/03/2023
 image: img/model.png
 categories: 
 - Statistique
-ordre: "12" 
+ordre: "13" 
 author: 
 - Mme Gbètoton Nadège DJOSSOU
 - Mr Claude GRASLAND
@@ -33,15 +33,15 @@ format:
 
 <!-- ::: -->
 
-::: {}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Cet enseignement est plutôt destiné à des étudiants de fin de licence (L3), de master ou de doctorat car il suppose une maîtrise déjà approfondie de la statistique bivariée.
 
 Dans le format retenu pour l'EE CIST 2023 (2h de cours & 2h de TD) l'enseignement proposé constitue avant tout une **introduction** à la modélisation d'une variable quantitative faisant appel à la régression simple, la régression multiple et l'analyse de variance. Mais une maîtrise avancée de chacun de ces outils supposerait un minimum de 30h (pour des étudiants connaissant déjà la régression simple et l'analyse de variance) voire 60h s'il faut rappeler les bases de statistiques bivariée.
-:::
 
-
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -52,10 +52,6 @@ D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ce
 -   [Statistiques descriptives univariées](exp1_uni.qmd)
 
 -   [Statistiques discriptiques bivariées](exp2_biv.qmd)
-
-
-
-
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -68,10 +64,6 @@ Il fait appel aux outils statistiques suivants : régression linéaire simple ou
 -   **L'analyse des comportements économiques** au travers de modèles décrivant des relations entre des variables économiques : consommation, épargne, revenu, salaire, production, prix, emploi, investissement, taux d'intérêt, etc.
 
 Le module associe un cours théorique avec des applications dans R.
-
-
-
-
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
@@ -88,15 +80,9 @@ B.  **Applications sur R**
     1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*
     2.  Modélisation des revenus des ménages du Bénin *(Licence CC-BY-NC-SA)*
 
-
-
-
-
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 A venir
-
-
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -110,25 +96,17 @@ A venir
 
 </object>
 
-
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 A venir
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-
-
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Précipitations en Californie](../donnees/pre_calif_1965.qmd)
 -   [Développement des pays africains](../donnees/dev_afric_2018.qmd)
 -   [Enquête consommation Bénin](../donnees/fin_benin_2018.qmd)
-
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

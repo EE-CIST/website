@@ -1,5 +1,5 @@
 ---
-title: "Cartographie Thématique"
+title: "Cartographie I - Thématique"
 subtitle: "Introduction à la sémiologie grahique et à la cartographie"
 date: 02/28/2023
 image: img/carto.jpg

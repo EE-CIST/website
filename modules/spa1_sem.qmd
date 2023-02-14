@@ -33,7 +33,8 @@ format:
 
 <!-- ::: -->
 
-::: {}
+<div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module propose de suivre un cours et des travaux dirigés durant 2 heures chacun, bien adaptés à une initiation à l'analyse spatiale.
@@ -42,7 +43,8 @@ Les travaux dirigés se font en deux parties :
 
 -   partie 1 : résumé d'un semis de points réalisé sous R (1h)
 -   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous (R ou QGIS)
-:::
+
+</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 

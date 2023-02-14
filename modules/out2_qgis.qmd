@@ -8,7 +8,7 @@ categories:
 - Géomatique
 - Analyse spatiale
 - Cartographie
-ordre: "20" 
+ordre: "16" 
 author: 
 - Mme Cathy CHATEL
 - Mr Zakariyao KOUMOI
@@ -55,19 +55,7 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Le module a pour objectif d’initier les participants à l’utilisation de l’outil SIG « QGis » en se
-familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux
-processus de travail dans un environnement SIG. En cinq séances de deux heures maximums,
-les participants apprendront à maitriser le logiciel SIG/QGIS à travers des séances de travaux
-dirigés. Au cours de ces travaux dirigés, les participants apprendront à :
-- Manipuler les données vecteurs et raster  afin d’utiliser les outils d’analyse spatiale
-proposés par QGis ;
-- produire des cartes thématiques.
-Ces TD proposées sont en lien avec les enseignements dispensés lors des autres modules de
-l’Ecole d’Eté portant notamment sur les données géographiques et géostatistiques, la
-cartographie et l’analyse spatiale.
-A la fin de ce module, les participants posséderont les connaissances nécessaires pour
-élaborer des cartes thématiques avec le logiciel QGIS de façon autonome.
+Le module a pour objectif d'initier les participants à l'utilisation de l'outil SIG « QGis » en se familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux processus de travail dans un environnement SIG. En cinq séances de deux heures maximums, les participants apprendront à maitriser le logiciel SIG/QGIS à travers des séances de travaux dirigés. Au cours de ces travaux dirigés, les participants apprendront à : - Manipuler les données vecteurs et raster  afin d'utiliser les outils d'analyse spatiale proposés par QGis ; - produire des cartes thématiques. Ces TD proposées sont en lien avec les enseignements dispensés lors des autres modules de l'Ecole d'Eté portant notamment sur les données géographiques et géostatistiques, la cartographie et l'analyse spatiale. A la fin de ce module, les participants posséderont les connaissances nécessaires pour élaborer des cartes thématiques avec le logiciel QGIS de façon autonome.
 
 ## <i class="bi bi-calendar-week"></i> Programme
 
