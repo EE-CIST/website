@@ -39,18 +39,14 @@ Elina Marveaux, Timothée Giraud, Sébastien Rey-Coyrehourcq
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 ::: {#block}
+
 **Ce module de formation à R pour le traitement de l'information géographique est complémentaire aux différents modules thématiques de l'école utilisant le language R pour le traitement, l'analyse ou la représentation de données.**
 
 Il s'agit d'un module de formation technique pour l'apprentissage des différentes opérations d'import, de manipulation, d'analyse et de représentation de données avec R. Son objectif est de former à l'utilisation de R sur l'ensemble de la chaîne de traitement des données géographiques pour que les participants de l'école d'été soient le mieux préparer à l'utilisation de R dans le cadre des modules thématiques.
 
 Ce module "outil" se déroule sur 5 jours, à un rythme de 2h par jours (10h au total). Il est organisé en leçons de différentes durées et indépendantes les unes des autres.
 
-## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Même si ce module peut être suivi par les moins initiés à R, il est tout de même nécessaire de connaître les principes et fonctionnement de bases du langage R.
-
-Ce module "outil" se déroule sur 5 jours, à un rythme de 2h par jours (10h au total). Il est organisé en leçons de différentes durées et indépendantes les unes des autres.
-:::
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -122,20 +118,6 @@ Jour 5. **Statistique multivariée (données raster)**
 -   Statistique multivariée
 -   Géomatique avec R - raster
 
-## <i class="bi bi-person-video3"></i> Support de cours
-
-Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié (<https://tigr.netlify.app/>).
-
-Jour 4. **Géomatique et analyse spatiale (données vectorielles)**
-
--   Géomatique avec R - vecteur
--   Calcul d'une matrice de distance
--   utilisation d'OpenStreet map
-
-Jour 5. **Statistique multivariée (données raster)**
-
--   Statistique multivariée
--   Géomatique avec R - raster
 
 </div>
 
@@ -153,7 +135,7 @@ Les différentes leçons ont été rassemblées et mises à disposition sur une 
 
 <div>
 
-Il est possible de récupérer les différentes leçons et exercices associés en sur sa machine.
+Il est possible de récupérer les différentes leçons et exercices associés sur sa machine.
 
 </div>
 
@@ -161,20 +143,10 @@ Il est possible de récupérer les différentes leçons et exercices associés e
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste :
+Ce module de formation utilise des données déjà préalablement utilisées dans les différents modules thématiques de l'école. En voici la liste :
 
 <div>
 
-Ce module de formation utilisent des données déjà préalablement utilisés dans le différents modules thématiques de l'école. En voici la liste :
-
-|             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
-|:----------------:|:----------------:|:----------------------------------:|
-| Données pays africains (UN-CEPII) |    Tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-| Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-|   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-|        Élévation au Bénin         | image raster (TIF) | <a href="https://bit.ly/3XqLAKR" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
-
-Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : <https://tigr.netlify.app/data.html>.
 
 |             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
 |:-----------------------------:|:------------------:|:-------------------:|
@@ -186,6 +158,8 @@ Tous ces jeux de données sont présentés et mis à disposition sur une page d�
 Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : <https://tigr.netlify.app/data.html>.
 
 </div>
+
+:::
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
