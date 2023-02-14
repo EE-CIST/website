@@ -1,5 +1,5 @@
 ---
-title: "Statistique multivariée"
+title: "Statistique III - multivariée"
 subtitle: "Introduction à l'analyse statistique multivariée"
 date: 03/03/2023
 image: img/multi.png

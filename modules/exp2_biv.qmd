@@ -1,5 +1,5 @@
 ---
-title: "Statistique bivariée"
+title: "Statistique II - bivariée"
 subtitle: "Introduction à la statistique descritpive bivariée"
 date: 03/01/2023
 image: img/khi2.png
