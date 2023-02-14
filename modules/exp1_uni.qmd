@@ -7,8 +7,9 @@ categories:
 - Statistique
 ordre: "06" 
 author: 
-- Mr xx
-- Mme xx
+- Mme Bénédicte GARNIER
+- Mme Malb Ama N’Danida YAGNINIM
+- Mme Sèïvè Ermine Armande DAMENOU
 author-title: Auteurs
 # bibliography: biblio/session1.bib
 nocite: '@*'
@@ -28,38 +29,38 @@ format:
 ::: {#contrib}
 ### Contributeur·rice·s
 
-Hugues Pecout, ...
+Cômlan Charles HOUNTON *(Bénin) --* Nicolas LAMBERT *(France)* – Pierre PISTRE *(France)* – Malika MADELIN *(France)* – Vakaramoko BAMBA *(Côte d'Ivoire)* – Cathy CHATEL *(France)* – Souleymane Sidi TRAORE *(Mali)* – Ané Landry TANOH *(Côte d'Ivoire)* – Mouftaou AMADOU SANNI *(Bénin)*
 :::
 
-::: {}
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-:::
+Ce module concerne toute personne désirant produire des statistiques simples univariées sur des données territoriales ou non, les comprendre et les organiser (prise en main des données, comprendre la structure des données et pour pouvoir calculer des indicateurs synthétiques).
 
+Il se déroule en suivant deux heures de cours magistral et quatre heure de travaux dirigés. Ces TDs proposent des exercices sur la théorie et la structure des données ainsi que des applications sur ordinateur avec R.
 
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Disposer de données quantitatives (données d'enquêtes, de recensement….)
+Ce module nécessite de maîtriser l'outil informatique et notamment les tableurs (avoir manipulé des données chiffrées avec des logiciels quels qu’ils soient).
 
-
-
+D'autre part quelques notions de statistiques de niveau secondaire seront appréciées.
 
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Que ce soit à l'issue d'une enquête, par observation directe ou à la suite d'une expérimentation, nous disposons d'un ensemble de données. Elles nous sont généralement fournies de façon brute ou simplifiée. Par exemple, ces données sont fournies avec des niveaux d’informations différentes dans des tables (ménages, femmes, enfants, hommes) ou dans un seul fichier.
 
+Dans ce contexte, il faut traiter cet ensemble de données. Ce qui suppose que nous devons les organiser, les regarder, identifier les différents types de variables avant de produire des indicateurs synthétiques (fréquence, moyenne, quantiles). Nous appliquerons ces concepts dans le cas des méthodes de discrétisation embarquées en cartographie.
 
+Ce cours alternera entre des rappels théoriques de la statistique descriptive univariée et des applications chiffrées.
 
+Nous utiliserons des données extraites des Enquêtes Démographiques et de Santé (EDS)
 
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
-
-
+*A venir ...*
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -73,32 +74,21 @@ Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sa
 
 </object>
 
-
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+*A venir...*
 
-\
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
-\
-
-
-
 
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
+-   [Enquêtes Démographiques et de Santé (EDS)](../donnees/eds_afriq.qmd)
+-   Extraits à 10% des EDS pour quatre pays (Bénin, Burkina-Faso, Mali, Togo)
 
-\
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
-\
-
 
 
 ## <i class="bi bi-file-earmark-text"></i> Références
