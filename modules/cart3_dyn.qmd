@@ -35,9 +35,9 @@ Claude GRASLAND *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Malika MADELIN 
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Le module s'adresse à des étudiants en géographie niveau Master (1 ou 2) ou des étudiants en informatique (géomatique) ou en école d'ingénieur.
+Le module s'adresse à des étudiant·es en géographie niveau master (1 ou 2) ou des étudiant·es en informatique (géomatique) ou en école d'ingénieur.
 
-Il est composé d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécéssite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet.
+Il est composé d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécessite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet.
 
 Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
 
@@ -45,9 +45,9 @@ Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heure
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
+Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf. module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
 
-La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécéssaires.
+La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécessaires.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -62,10 +62,6 @@ La séquence s'organise en 3 étapes :
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 -   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
--   Un notebook guide pour le [TP1](https://ee-cist.github.io/CART3_cartodyn/TP1/docs/index.html)
--   Un notebook guide pour le [TP2](https://ee-cist.github.io/CART3_cartodyn/TP2/docs/index.html) et sa solution
-
-Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_cartodyn) du module.
 
 <center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
@@ -77,28 +73,29 @@ Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CART3_c
 
 </object>
 
-<!--  -->
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
+## <i class="bi bi-person-video3"></i> Support de TD
 
-<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
+-   Un notebook guide pour le [TP1](https://ee-cist.github.io/CART3_cartodyn/TP1/docs/index.html)
+-   Un notebook guide pour le [TP2](https://ee-cist.github.io/CART3_cartodyn/TP2/docs/index.html) et sa solution
 
-<!--  -->
+Ces supports sont accessibles sur le GitHub du module.
+
+<center><a href="https://github.com/EE-CIST/CART3_cartodyn" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
+
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Deux fichiers de données au niveau des pays à 2 échelles géographiques sont téléchargeables :
 
--   Pays Africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
+-   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-\
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

@@ -8,7 +8,7 @@ categories:
 ordre: "09" 
 author: 
 - Mr Souleymane TRAORÉ
-- Mme Mariane GUÉROIS
+- Mme Marianne GUÉROIS
 author-title: Auteurs
 bibliography: biblio/spa1.bib
 nocite: '@*'
@@ -42,45 +42,37 @@ Ce module propose de suivre un cours et des travaux dirigés durant 2 heures cha
 Les travaux dirigés se font en deux parties :
 
 -   partie 1 : résumé d'un semis de points réalisé sous R (1h)
--   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous (R ou QGIS)
+-   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous R ou QGIS
 
 </div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-**Méthodologiques** : initiation aux [statistiques univariées](exp1_uni.qmd) (et ponctuellement, [bivariées](exp2_biv.qmd) -- [corrélation](mod1_quanti.qmd)) et notions sur la dimension spatiale de [l'information géographique](typ3_ig.qmd) (systèmes de coordonnées)
+**Méthodologiques** : initiation aux [statistiques univariées](exp1_uni.qmd) (EXP1) (et ponctuellement, [bivariées](exp2_biv.qmd) (EXP2) -- [corrélation](mod1_quanti.qmd) (MOD1)) et notions sur la dimension spatiale de [l'information géographique](typ3_ig.qmd) (TYP3) (systèmes de coordonnées)
 
 **Techniques** : maîtrise de l'outil informatique, sous R, manipulations et résumés élémentaires de données au format dataframe, manipulations élémentaires de données au format sf, cartographie.
 
-Les notions abordées dans ce modules sont utiles pour les niveaux suivants : [autocorrélation spatiale](spa4_aut.qmd), et [accessibilité et distance](spa2_dis.qmd).
+Les notions abordées dans ce modules sont utiles pour les niveaux suivants : [autocorrélation spatiale](spa4_aut.qmd) (SPA4), et [accessibilité et distance](spa2_dis.qmd) (SPA2).
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
 Le cours est constitué de trois parties :
 
--   
+1.  la définition d'un semis de points (et la distinction entre lieux et points)
 
-    1)  la définition d'un semis de points (et la distinction entre lieux et points)
+2.  les résumés élémentaires d'un semis de points (points centraux non pondérés ; points centraux pondérés ; dispersion autour de ces points)
 
--   
-
-    2)  les résumés élémentaires d'un semis de points (points centraux non pondérés ; points centraux pondérés ; dispersion autour de ces points)
-
--   
-
-    3)  la forme d'un semis de points (méthode des quadrats et méthode du plus proche voisin)
+3.  la forme d'un semis de points (méthode des quadrats et méthode du plus proche voisin)
 
 Le TD est construit autour de deux parties :
 
--   
+1.  l'exercice s'appuie sur la base Africapolis pour suivre l'évolution du semis urbain (1950-2015) dans plusieurs pays : le Bénin est l'exemple suivi en TD, chaque participant.e choisit un autre pays (Burkina-Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo) pour reproduire les analyses et comparer l'évolution de son pays avec celle du Bénin, en suivant plusieurs étapes (depuis le résumé de la diffusion du semis urbain jusqu'à la réflexion sur la localisation optimale d'un équipement à implanter).
 
-    1)  l'exercice s'appuie sur la base Africapolis pour suivre l'évolution du semis urbain (1950-2015) dans plusieurs pays : le Bénin est l'exemple suivi en TD, chaque participant.e choisit un autre pays (Burkina-Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo) pour reproduire les analyses et comparer l'évolution de son pays avec celle du Bénin, en suivant plusieurs étapes (depuis le résumé de la diffusion du semis urbain jusqu'à la réflexion sur la localisation optimale d'un équipement à implanter).
-
--   2)application d'une méthode d'analyse de forme de semis de points à la répartition des forages d'eau au Togo.
+2.  application d'une méthode d'analyse de forme de semis de points à la répartition des forages d'eau au Togo.
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un PowerPoint ainsi que des exercices au format Word sont disponibles à la consultation et au téléchargement.
+Un diaporama ainsi que des exercices au format Word sont disponibles à la consultation et au téléchargement.
 
 <!--  -->
 
