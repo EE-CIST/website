@@ -47,12 +47,12 @@ Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se li
 
 **Cours :**
 
--   [Statistiques univariées](exp1_uni.qmd)
--   [Semis de points](spa1_sem.qmd)
--   [Cartographie thématique](cart1-2_the.qmd)
--   [Données géospatiales](typ3_ig.qmd)
+-   EXP1 - [Statistiques univariées](exp1_uni.qmd)
+-   SPA1 - [Semis de points](spa1_sem.qmd)
+-   CAR1 - [Cartographie thématique](cart1-2_the.qmd)
+-   TYP3 - [Données géospatiales](typ3_ig.qmd)
 
-**TD : Voir module [Outils - R](out1_r.qmd)**
+**TD : Voir module [OUT1 - R](out1_r.qmd)**
 
 -   Utilisation de R-base
 -   Utilisation de dplyr
@@ -60,9 +60,9 @@ Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se li
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L'objectif de ce cours est de familiariser les étudiants avec deux notions centrales en géographie et en analyse spatiale :
+L'objectif de ce cours est de familiariser les étudiant·es avec deux notions centrales en géographie et en analyse spatiale :
 
--   **La distance** : C'est l'intervalle entre deux points. La distance est une relation entre les lieux dans l'espace géométrique donné. Définir une distance est un acte profondément géographique, qui revient à définir la nature de la relation entre les lieux, l'espace de référence et donc le nombre de ses dimensions (Brunet et al, 1994).\
+-   **La distance** : C'est l'intervalle entre deux points. La distance est une relation entre les lieux dans l'espace géométrique donné. Définir une distance est un acte profondément géographique, qui revient à définir la nature de la relation entre les lieux, l'espace de référence et donc le nombre de ses dimensions (Brunet *et al.*, 1994).\
     *Exemple : la distance métrique, topologique, social, perçue*
 
 -   **L'accessibilité** : C'est la capacité à être atteint par une clientèle, un message, un service. Elle dépend de l'état des moyens de transport et représente un coût. C'est l'ensemble de possibilités effectives pour relier deux lieux par un déplacement ou pour accéder à un service.\
@@ -70,7 +70,7 @@ L'objectif de ce cours est de familiariser les étudiants avec deux notions cent
 
 ------------------------------------------------------------------------
 
-Le cours se déroule comme suis :
+Le cours se déroule comme suit :
 
 1.  **Cours** (2 heures)
 
@@ -81,13 +81,12 @@ Le cours se déroule comme suis :
 2.  **Travaux dirigés** (2 heures)
 
     a.  Analyse statistique et cartographique du marché de gros de Bouaké
-    b.  Apprentissage du package osrm (application aux 8 pays de l'EE)
+    b.  Apprentissage du package osrm (application aux 8 pays de l'école d'été)
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
--   **Cours** : Document Word : SPA3-Distance-Accessibilité-Cours.docx
--   **TD1** : Document markdown : SPA3-Appli1.Rmd
--   **TD2** : Document markdown : SPA3-Appli2.Rmd
+-   **Cours** : SPA3-Distance-Accessibilite-Cours.docx *(Document Word)*
+
 
 <!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
 
@@ -109,11 +108,14 @@ Le cours se déroule comme suis :
 
 <!--  -->
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Télécharger </a></center>
 
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
+## <i class="bi bi-person-video3"></i> Support de TD
 
-<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+-   **TD1** : SPA3-Appli1.Rmd *(Document rMarkdown)*
+-   **TD2** : SPA3-Appli2.Rmd *(Document rMarkdown)*
+
+<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
