@@ -37,11 +37,11 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse à des étudiants, formateurs de premier niveau et comprend un cours margistral et des exercices en travaux dirigés.
+Ce module s'adresse à des étudiant·es, formateur·ices de premier niveau et comprend un cours magistral et des exercices en travaux dirigés.
 
 Outils de base : crayons et papiers ET/OU un ordinateur avec un logiciel de cartographie thématique [MAGRIT](http://magrit.cnrs.fr) ou un logiciel de dessin type Adobe Illustrator ou InkScape (libre et gratuit)
 
-Ce module est construit autour de 3 heures de cours et environ 6 heures d'exercices (qui peuvent être allongées pour bien maîtriser les compétences visées)
+Ce module est construit autour de 3 heures de cours et environ 6 heures d'exercices (qui peuvent être allongées pour bien maîtriser les compétences visées).
 
 </div>
 
@@ -51,7 +51,7 @@ Un niveau débutant en statistique (univarié) est requis a minima.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-L'objectif général de ce cours est d'apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d'apprendre ou de réviser les règles physiologiques et règles culturelles pour représenter graphiquement des données spatiales et être capable d'optimiser la visualisation (la cartographie) des données géographiques.
+L'objectif général de ce cours est d'apprendre à représenter une information géographique (faire une carte thématique). Plus spécifiquement le cours doit permettre d'apprendre ou de réviser les règles physiologiques et les règles culturelles pour représenter graphiquement des données spatiales et être capable d'optimiser la visualisation (la cartographie) des données géographiques.
 
 Les compétences visées sont simples :
 
@@ -63,11 +63,11 @@ Les compétences visées sont simples :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargement ci-dessous.
+Un diaporama ainsi qu'un fichier d'exercices sont disponibles en téléchargement ci-dessous.
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
-<object class="slide" data="support/cart1_cours.pdf" type="application/pdf">
+<object class="slide" data="support/car1_cours.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/cart1_cours.pdf">
 
@@ -89,7 +89,7 @@ Un powerpoint ainsi qu'un fichier d'exercices sont disponibles en téléchargeme
 
 Deux fichiers de données sont téléchargeables :
 
--   Pays Africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
+-   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
 
 \
