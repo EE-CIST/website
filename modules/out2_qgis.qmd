@@ -10,9 +10,9 @@ categories:
 - Cartographie
 ordre: "17" 
 author: 
-- Mme Cathy CHATEL
-- Mr Zakariyao KOUMOI
-- Mme Elina MARVEAUX
+- Mme. Cathy CHATEL
+- M. Zakariyao KOUMOI
+- Mme. Elina MARVEAUX
 author-title: Auteurs
 bibliography: ../modules/biblio/out2.bib
 nocite: '@*'
@@ -55,11 +55,9 @@ Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'out
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Le module a pour objectif d'initier les participants à l'utilisation de l'outil SIG "QGis" en se familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux processus de travail dans un environnement SIG. En cinq séances de deux heures maximums, les participants apprendront à maîtriser le logiciel SIG "QGIS" à travers des séances de travaux dirigés. 
+Le module a pour objectif d'initier les participants à l'utilisation de l'outil SIG "QGis" en se familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux processus de travail dans un environnement SIG. En cinq séances de deux heures maximums, les participants apprendront à maîtriser le logiciel SIG "QGIS" à travers des séances de travaux dirigés.
 
-Les participant.es apprendront à :
--   Manipuler les données vecteurs et raster  afin d'utiliser les outils d'analyse spatiale proposés par QGis ;
--   Produire des cartes thématiques. 
+Les participant.es apprendront à : - Manipuler les données vecteurs et raster  afin d'utiliser les outils d'analyse spatiale proposés par QGis ; - Produire des cartes thématiques.
 
 Ces TD sont en lien avec les enseignements dispensés lors des autres modules de l'école d'été portant notamment sur les [données géographiques](typ3_ig.qmd) et géostatistiques, la [cartographie](cart1-2_the.qmd) et l'[analyse spatiale](spa1_sem.qmd). A la fin de ce module, les participants possèderont les connaissances nécessaires pour élaborer des cartes thématiques avec le logiciel QGIS de façon autonome.
 
