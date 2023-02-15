@@ -5,10 +5,10 @@ date: 03/03/2023
 image: img/model.png
 categories: 
 - modelisation
-ordre: "13" 
+ordre: "13"
 author: 
-- Mme Gbètoton Nadège DJOSSOU
-- Mr Claude GRASLAND
+- Mme. Gbètoton Nadège DJOSSOU
+- M. Claude GRASLAND
 author-title: Auteurs
 bibliography: biblio/mod1.bib
 nocite: '@*'
@@ -16,6 +16,9 @@ csl: geo.csl
 about:
   template: marquee
   links:
+    - icon: bi-badge-cc
+      text: CC-BY-NC-SA
+      href: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
     - icon: github
       text: GitHub
       href: https://github.com/EE-CIST/MOD1_Yquanti
@@ -37,9 +40,9 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Cet enseignement est plutôt destiné à des étudiants de fin de licence (L3), de master ou de doctorat car il suppose une maîtrise déjà approfondie de la statistique bivariée.
+Cet enseignement est plutôt destiné à des étudiant·es de fin de licence (L3), de master ou de doctorat car il suppose une maîtrise déjà approfondie de la statistique bivariée.
 
-Dans le format retenu pour l'EE CIST 2023 (2h de cours & 2h de TD) l'enseignement proposé constitue avant tout une **introduction** à la modélisation d'une variable quantitative faisant appel à la régression simple, la régression multiple et l'analyse de variance. Mais une maîtrise avancée de chacun de ces outils supposerait un minimum de 30h (pour des étudiants connaissant déjà la régression simple et l'analyse de variance) voire 60h s'il faut rappeler les bases de statistiques bivariée.
+Dans le format retenu pour l'école d'été EE·CIST·2023 (2h de cours & 2h de TD) l'enseignement proposé constitue avant tout une **introduction** à la modélisation d'une variable quantitative faisant appel à la régression simple, la régression multiple et l'analyse de variance. Mais une maîtrise avancée de chacun de ces outils supposerait un minimum de 30h (pour des étudiant·s connaissant déjà la régression simple et l'analyse de variance) voire 60h s'il faut rappeler les bases de statistique bivariée.
 
 </div>
 
@@ -49,9 +52,9 @@ La maîtrise de l'outil informatique est requise pour suivre ce module, ainsi qu
 
 D'un point de vue méthodologique il est nécessaire, a minima, d'avoir suivi ces deux modules :
 
--   [Statistique descriptive univariée](exp1_uni.qmd)
+-   EXP1 - [Statistique descriptive univariée](exp1_uni.qmd)
 
--   [Statistique descriptique bivariée](exp2_biv.qmd)
+-   EXP2 - [Statistique descriptique bivariée](exp2_biv.qmd)
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -69,16 +72,16 @@ Le module associe un cours théorique avec des applications dans R.
 
 A.  **Cours**
 
-    1\. Introduction non technique à la régression multiple : Les précipitations en Californie (*Licence CC-BY-NC-SA)*
+    1\. Introduction non technique à la régression multiple : Les précipitations en Californie
 
-    2\. Cours de modélisation économétrique par régression simple ou multiple *(Licence CC-BY-NC-SA)*
+    2\. Cours de modélisation économétrique par régression simple ou multiple
 
 <!-- -->
 
 B.  **Applications sur R**
 
-    1.  Modélisation de la mortalité infantile des pays africains *(Licence CC-BY-NC-SA)*
-    2.  Modélisation des revenus des ménages du Bénin *(Licence CC-BY-NC-SA)*
+    1.  Modélisation de la mortalité infantile des pays africains
+    2.  Modélisation des revenus des ménages du Bénin
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
