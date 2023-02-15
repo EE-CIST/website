@@ -36,7 +36,7 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse aux utilisateurs ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte.
+Ce module s'adresse aux utilisateur.ices ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte.
 
 Il propose un TD et des applications sur des données du Bénin (Echantillon recensement 2013). Les traitements sont effectués à partir du package lme4.
 
@@ -50,9 +50,15 @@ Public avec connaissances nécessaires en modèles de régression. Possible auss
 
 Les modèles multiniveaux sont mis en œuvre dans le cadre d'une structure hiérarchique des données, et permettent une modélisation qui prend en compte à la fois les caractéristiques de l'individu et de son contexte (environnement).
 
-**Objectifs** : Identifier un problème à deux niveaux (individuel et contextuel) et appliquer un modèle de régression prenant en compte ces deux niveaux. Tester et valider le modèle. Déterminer l'intérêt de son application. Mettre en pratique un modèle de régression logistique dans le cas d'une structure hiérarchique à deux niveaux. Montrer l'intérêt d'une démarche d'une analyse multiniveau et aides à l'interprétation des résultats
+**Objectifs** :
 
-Présentation du modèle à constante aléatoire puis à effets aléatoire sur une variable explicative individuelle : Modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d'une variable contextuelle.
+-   Identifier un problème à deux niveaux (individuel et contextuel) et appliquer un modèle de régression prenant en compte ces deux niveaux.
+-   Tester et valider le modèle.
+-   Déterminer l'intérêt de son application.
+-   Mettre en pratique un modèle de régression logistique dans le cas d'une structure hiérarchique à deux niveaux.
+-   Montrer l'intérêt d'une démarche d'une analyse multiniveau et aider à l'interprétation des résultats.
+
+Présentation du modèle à constante aléatoire puis à effets aléatoires sur une variable explicative individuelle : Modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d'une variable contextuelle.
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
