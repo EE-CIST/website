@@ -1,5 +1,5 @@
 ---
-title: "L'information Géographique"
+title: "TYP3 - L'information Géographique"
 subtitle: "Introduction à l'information Géographique"
 image: img/sig.jpg
 date: 02/27/2023
@@ -10,8 +10,8 @@ categories:
 - cartographie
 ordre: "03" 
 author: 
-- Mme Pauline GLUSKI
-- Mr Labaly TOURÉ
+- Mme. Pauline GLUSKI
+- M. Labaly TOURÉ
 author-title: Auteurs
 bibliography: biblio/typ3.bib
 nocite: '@*'
@@ -56,7 +56,7 @@ Le module Information géographique a pour objectif d'une part d'expliquer ce qu
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un powerpoint pour suivre le cours ainsi des fichiers word pour les exercices sont disponibles au téléchargement et à la consultation.
+Un diaporama pour suivre le cours ainsi des fichiers word pour les exercices sont disponibles au téléchargement et à la consultation.
 
 <!--  -->
 
