@@ -14,7 +14,7 @@ Webmaster : Elina Marveaux
 
 ## Hébergement
 
-Hébergeur : nom / adresse / téléphone
+Hébergeur : Netlify - 2023
 
 ## Protection des informations nominatives
 
