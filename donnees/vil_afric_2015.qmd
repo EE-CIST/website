@@ -4,10 +4,10 @@ name: "Africapolis"
 nocite: '@*'
 csl: geo.csl
 categories: 
-- Type de données II
-- Analyse Spatiale I
-- Analyse Spatiale III
-- Outils - QGIS
+- TYP2
+- SPA1
+- SPA2
+- OUT2
 about:
   template: marquee
 producteur: 
@@ -63,9 +63,9 @@ format:
 
 -   **Module(s) de formation concerné(s)** :
 
-    -   [**Type de données II** - Recensement](../modules/typ2_rec.qmd)
-    -   [**Analyse Spatiale I** : Semis de points](../modules/spa1_sem.qmd)
-    -   [**Analyse Spatiale II** : Distance et accessibilité](../modules/spa2_dis.qmd)
-    -   [**Outils 2** : QGIS](../modules/out2_qgis.qmd)
+    -   [**TYP**](../modules/typ2_rec.qmd)**2**[ - Recensement](../modules/typ2_rec.qmd)
+    -   [**SPA1** : Semis de points](../modules/spa1_sem.qmd)
+    -   [**SPA2** : Distance et accessibilité](../modules/spa2_dis.qmd)
+    -   [**TYP2** : QGIS](../modules/out2_qgis.qmd)
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
