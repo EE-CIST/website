@@ -42,8 +42,12 @@ title: "**Programme**"
 <tbody>
   <tr>
     <td class="tg-u8h6">8h30-10h30</td>
-    <td class="tg-fj14" rowspan="2"><a href="../modules/typ1_enq.qmd" target="_blank" rel="noopener noreferrer">TYP1 TYP2 TYP3</a></td>
-    <td class="tg-fj14"><a href="../modules/exp1.qmd" target="_blank" rel="noopener noreferrer">EXP1</a><br><a href="https://ee2023.netlify.app/modules/exp1_uni.html" target="_blank" rel="noopener noreferrer">univarié</a></td>
+    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/typ1_enq.html" target="_blank" rel="noopener noreferrer">TYP1</a><br>
+    <a href="https://ee2023.netlify.app/modules/typ2_rec.html" target="_blank" rel="noopener noreferrer">TYP2</a><br>
+    <a href="https://ee2023.netlify.app/modules/typ3_ig.html" target="_blank" rel="noopener noreferrer"> TYP3</a>
+    </td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/exp1_uni.html" target="_blank" rel="noopener noreferrer">EXP1 - univarié</a>
+    </td>
     <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp2_biv.html" target="_blank" rel="noopener noreferrer">EXP2</a><br><a href="https://ee2023.netlify.app/modules/exp2_biv.html" target="_blank" rel="noopener noreferrer">bivarié</a></td>
     <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">SPA1</a><br><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">semis de points</a></td>
     <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer">EXP3</a><br><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer"> multivariée</a></td>
