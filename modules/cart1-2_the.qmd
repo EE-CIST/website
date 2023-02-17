@@ -69,7 +69,7 @@ Un diaporama ainsi qu'un fichier d'exercices sont disponibles en téléchargemen
 
 <object class="slide" data="support/car1_cours.pdf" type="application/pdf">
 
-<iframe class="slide" src="../modules/support/cart1_cours.pdf">
+<iframe class="slide" src="../modules/support/car1_cours.pdf">
 
 </iframe>
 
