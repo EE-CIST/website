@@ -17,22 +17,21 @@ title: "**Programme**"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-bghx{background-color:#FEF298;border-color:inherit;color:#231F20;text-align:center;vertical-align:top}
-.tg .tg-yon2{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:bottom}
 .tg .tg-fj14{background-color:#D5E3EB;border-color:inherit;color:#524B48;text-align:center;text-decoration:underline;
   vertical-align:top}
+.tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-cbcc{background-color:#9DC5D7;border-color:inherit;color:#524B48;text-align:center;text-decoration:underline;
   vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-8mk8{border-color:inherit;color:#231F20;text-align:center;vertical-align:top}
 .tg .tg-u8h6{border-color:inherit;color:#231F20;text-align:left;vertical-align:top}
-.tg .tg-za14{border-color:inherit;text-align:left;vertical-align:bottom}
 .tg .tg-bypi{background-color:#F4C98C;border-color:inherit;color:#231F20;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lboi"> </th>
+    <th class="tg-0pky"> </th>
     <th class="tg-8mk8">lundi 27 février</th>
     <th class="tg-8mk8">mardi 28 février</th>
     <th class="tg-8mk8">mercredi 1er mars</th>
@@ -43,24 +42,24 @@ title: "**Programme**"
 <tbody>
   <tr>
     <td class="tg-u8h6">8h30-10h30</td>
-    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/typ1_enq.html">TYP1 TYP2 TYP3</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/exp1_uni.html">EXP1</a><br><a href="https://ee2023.netlify.app/modules/exp1_uni.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;univarié</a></td>
-    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp2_biv.html">EXP2</a><br><a href="https://ee2023.netlify.app/modules/exp2_biv.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bivarié</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa1_sem.html">SPA1</a><br><a href="https://ee2023.netlify.app/modules/spa1_sem.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;semis de points</a></td>
-    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp3_mul.html">EXP3</a><br><a href="https://ee2023.netlify.app/modules/exp3_mul.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multivariée</a></td>
+    <td class="tg-fj14" rowspan="2"><a href="../modules/typ1.qmd" target="_blank" rel="noopener noreferrer">TYP1 TYP2 TYP3</a></td>
+    <td class="tg-fj14"><a href="../modules/exp1.qmd" target="_blank" rel="noopener noreferrer">EXP1</a><br><a href="https://ee2023.netlify.app/modules/exp1_uni.html" target="_blank" rel="noopener noreferrer">univarié</a></td>
+    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp2_biv.html" target="_blank" rel="noopener noreferrer">EXP2</a><br><a href="https://ee2023.netlify.app/modules/exp2_biv.html" target="_blank" rel="noopener noreferrer">bivarié</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">SPA1</a><br><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">semis de points</a></td>
+    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer">EXP3</a><br><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer"> multivariée</a></td>
   </tr>
   <tr>
     <td class="tg-u8h6">11h-13h</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart1-2_the.html">CAR1</a><br><a href="https://ee2023.netlify.app/modules/cart1-2_the.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carto thématique</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa2_dis.html">SPA2</a><br><a href="https://ee2023.netlify.app/modules/spa2_dis.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distance &amp; accessibilité</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart1-2_the.html" target="_blank" rel="noopener noreferrer">CAR1</a><br><a href="https://ee2023.netlify.app/modules/cart1-2_the.html" target="_blank" rel="noopener noreferrer">carto thématique</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa2_dis.html" target="_blank" rel="noopener noreferrer">SPA2</a><br><a href="https://ee2023.netlify.app/modules/spa2_dis.html" target="_blank" rel="noopener noreferrer">distance &amp; accessibilité</a></td>
   </tr>
   <tr>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
   </tr>
   <tr>
     <td class="tg-u8h6">14h-16h</td>
@@ -72,22 +71,22 @@ title: "**Programme**"
   </tr>
   <tr>
     <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(parallèles)</td>
-    <td class="tg-bypi">TYP<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">CAR1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">EXP1-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">SPA1-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">EXP3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
+    <td class="tg-bypi">TYP<br>applications</td>
+    <td class="tg-bypi">CAR1<br>applications</td>
+    <td class="tg-bypi">EXP1<br>applications</td>
+    <td class="tg-bypi">SPA1-2<br>applications</td>
+    <td class="tg-bypi">EXP3<br>applications</td>
   </tr>
   <tr>
-    <td class="tg-yon2"></td>
-    <td class="tg-yon2"></td>
-    <td class="tg-yon2"></td>
-    <td class="tg-yon2"></td>
-    <td class="tg-yon2"></td>
-    <td class="tg-yon2"></td>
+    <td class="tg-llyw"></td>
+    <td class="tg-llyw"></td>
+    <td class="tg-llyw"></td>
+    <td class="tg-llyw"></td>
+    <td class="tg-llyw"></td>
+    <td class="tg-llyw"></td>
   </tr>
   <tr>
-    <td class="tg-lboi"> </td>
+    <td class="tg-0pky"> </td>
     <td class="tg-8mk8">lundi 6 mars</td>
     <td class="tg-8mk8">mardi 7 mars</td>
     <td class="tg-8mk8">mercredi 8 mars</td>
@@ -96,241 +95,46 @@ title: "**Programme**"
   </tr>
   <tr>
     <td class="tg-u8h6">8h30-10h30</td>
-    <td class="tg-bghx" rowspan="2">ateliers<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ou<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cours Stat &amp; R</td>
-    <td class="tg-bghx" rowspan="2">ateliers<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ou<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cours Stat &amp; R</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html">MOD1</a><br><a href="https://ee2023.netlify.app/modules/mod1_quanti.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y quantitative</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html">MOD2</a><br><a href="https://ee2023.netlify.app/modules/mod2_quali.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y qualitative</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html">MOD3</a><br><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multiniveau</a></td>
+    <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
+    <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">MOD1</a><br><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">Y quantitative</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">MOD2</a><br><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">Y qualitative</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">MOD3</a><br><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">multiniveau</a></td>
   </tr>
   <tr>
     <td class="tg-u8h6">11h-13h</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart3_dyn.html">CAR2</a><br><a href="https://ee2023.netlify.app/modules/cart3_dyn.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carto dynamique</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa3_int.html">SPA3</a><br><a href="https://ee2023.netlify.app/modules/spa3_int.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interaction spatiale</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa4_aut.html">SPA4</a><br><a href="https://ee2023.netlify.app/modules/spa4_aut.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocorrélation spatiale</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart3_dyn.html" target="_blank" rel="noopener noreferrer">CAR2</a><br><a href="https://ee2023.netlify.app/modules/cart3_dyn.html" target="_blank" rel="noopener noreferrer">carto dynamique</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">SPA3</a><br><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">interaction spatiale</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa4_aut.html" target="_blank" rel="noopener noreferrer">SPA4</a><br><a href="https://ee2023.netlify.app/modules/spa4_aut.html" target="_blank" rel="noopener noreferrer">autocorrélation spatiale</a></td>
   </tr>
   <tr>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
-    <td class="tg-za14"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
   </tr>
   <tr>
     <td class="tg-u8h6">14h-16h</td>
-    <td class="tg-bghx" rowspan="2">ateliers<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ou<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cours Stat &amp; R</td>
-    <td class="tg-bghx" rowspan="2">ateliers<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ou<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cours Stat &amp; R</td>
-    <td class="tg-bypi">MOD1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">MOD2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">MOD3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
+    <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
+    <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
+    <td class="tg-bypi">MOD1<br>applications</td>
+    <td class="tg-bypi">MOD2<br>applications</td>
+    <td class="tg-bypi">MOD3<br>applications</td>
   </tr>
   <tr>
     <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(parallèles)</td>
-    <td class="tg-bypi">CAR2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">SPA3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
-    <td class="tg-bypi">SPA4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</td>
+    <td class="tg-bypi">CAR2<br>applications</td>
+    <td class="tg-bypi">SPA3<br>applications</td>
+    <td class="tg-bypi">SPA4<br>applications</td>
   </tr>
 </tbody>
 </table>
 ```
 
-<!-- ```{=html} -->
-<!-- <style type="text/css"> -->
-<!-- .tg  {border-collapse:collapse;border-spacing:0;} -->
-<!-- .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; -->
-<!--   overflow:hidden;padding:0px 0px;word-break:normal;} -->
-<!-- .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; -->
-<!--   font-weight:normal;overflow:hidden;padding:0px 0px;word-break:normal;} -->
-<!-- .tg .tg-om0r{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center; -->
-<!--   vertical-align:middle} -->
-<!-- .tg .tg-w20a{background-color:#6cc3d5;border-color:#000000; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-style:italic;font-weight:bold; -->
-<!--   text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-serq{background-color:#B1E2ED;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-style:italic;text-align:center; -->
-<!--   vertical-align:middle} -->
-<!-- .tg .tg-i5fv{background-color:#F3F3F3;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-4kck{background-color:#6cc3d5;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-bbw1{background-color:#ffffff;border-color:inherit;color:#434343; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-5hrr{background-color:#B1E2ED;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-1fit{border-color:inherit;color:#434343;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important; -->
-<!--   font-weight:bold;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-rfie{border-color:inherit;color:#434343;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important; -->
-<!--   text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-0ccp{background-color:#b1e2ed;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-471y{background-color:#F3F3F3;border-color:inherit;color:#434343; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-jkz1{background-color:#b1e2ed;border-color:inherit;color:#000000; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-069q{background-color:#6cc3d5;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-style:italic;font-weight:bold; -->
-<!--   text-align:center;vertical-align:middle} -->
-<!-- .tg .tg-c9vq{background-color:#F3F3F3;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-weight:bold;text-align:center; -->
-<!--   vertical-align:middle} -->
-<!-- .tg .tg-7gv0{background-color:#6CC3D5;border-color:inherit; -->
-<!--   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;text-align:center;vertical-align:middle} -->
-<!-- </style> -->
-<!-- <table class="tg" style="undefined;table-layout: fixed; width: 952px"> -->
-<!-- <colgroup> -->
-<!-- <col style="width: 51.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 81.2px"> -->
-<!-- <col style="width: 22.2px"> -->
-<!-- <col style="width: 22.2px"> -->
-<!-- <col style="width: 22.2px"> -->
-<!-- <col style="width: 22.2px"> -->
-<!-- </colgroup> -->
-<!-- <thead> -->
-<!--   <tr> -->
-<!--     <th class="tg-om0r"></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">LUNDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">MARDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">MERCREDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">JEUDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">VENDREDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">SAMEDI</span></th> -->
-<!--     <th class="tg-1fit" colspan="2"><span style="font-weight:bold;color:#434343">DIMANCHE</span></th> -->
-<!--   </tr> -->
-<!-- </thead> -->
-<!-- <tbody> -->
-<!--   <tr> -->
-<!--     <td class="tg-bbw1"><span style="font-style:italic">08:00 </span></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--     <td class="tg-4kck" colspan="2"></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">08:30 </span></td> -->
-<!--     <td class="tg-om0r" rowspan="9">Type de données I &amp; II &amp; III<br><br>link<br></td> -->
-<!--     <td class="tg-om0r" rowspan="9">salle ?<br></td> -->
-<!--     <td class="tg-om0r" rowspan="4">Statistiques I univariées</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-om0r" rowspan="9">Statistiques II <br><br>Bivariées<br></td> -->
-<!--     <td class="tg-om0r" rowspan="9">salle ?<br></td> -->
-<!--     <td class="tg-om0r" rowspan="4">Analyse spatiale I Semis de points</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-om0r" rowspan="4">Statistiques III multivariées</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-0ccp" colspan="2" rowspan="20"></td> -->
-<!--     <td class="tg-5hrr" colspan="2" rowspan="20"></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">09:00 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">09:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">10:00 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">10:30 </span></td> -->
-<!--     <td class="tg-jkz1" colspan="2"><span style="font-style:italic">Pause</span></td> -->
-<!--     <td class="tg-serq" colspan="2"><span style="font-style:italic">Pause</span></td> -->
-<!--     <td class="tg-serq" colspan="2"><span style="font-style:italic">Pause</span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">11:00 </span></td> -->
-<!--     <td class="tg-i5fv" rowspan="4">Cartographie I &amp; II</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-i5fv" rowspan="4">Analyse spatiale II Distance et accès</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-i5fv" rowspan="4">Modélisation</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">11:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">12:00 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">12:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">13:00 </span></td> -->
-<!--     <td class="tg-w20a" colspan="2" rowspan="2">Déjeuner</td> -->
-<!--     <td class="tg-069q" colspan="2" rowspan="2">Déjeuner</td> -->
-<!--     <td class="tg-069q" colspan="2" rowspan="2">Déjeuner</td> -->
-<!--     <td class="tg-069q" colspan="2" rowspan="2">Déjeuner</td> -->
-<!--     <td class="tg-069q" colspan="2" rowspan="2">Déjeuner</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">13:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">14:00 </span></td> -->
-<!--     <td class="tg-i5fv" rowspan="4"><span style="font-weight:bold">Outils :</span> R ou QGIS</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4"><span style="font-weight:bold">Outils :</span> R ou QGIS</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4"><span style="font-weight:bold">Outils :</span> R ou QGIS</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4"><span style="font-weight:bold">Outils :</span> R ou QGIS</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4"><span style="font-weight:bold">Outils :</span> R ou QGIS</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">14:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">15:00 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">15:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">16:00 </span></td> -->
-<!--     <td class="tg-i5fv" rowspan="4"><span style="font-weight:bold">Type de données :</span> <span style="font-style:italic">Applications</span></td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-i5fv" rowspan="4"><span style="font-weight:bold">Cartographie I&amp; II </span>: <br><span style="font-style:italic">Applications</span></td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4">Statistiques II &amp; II <br>Applications</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4">Analyse spatiale I &amp; II <br>Application</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--     <td class="tg-c9vq" rowspan="4">Statistiques III <br>Application</td> -->
-<!--     <td class="tg-om0r" rowspan="4"></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">16:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">17:00 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-rfie"><span style="font-weight:normal;color:#434343">17:30 </span></td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td class="tg-471y"><span style="font-weight:normal;color:#434343;background-color:#F3F3F3">18:00 </span></td> -->
-<!--     <td class="tg-7gv0" colspan="2"></td> -->
-<!--     <td class="tg-7gv0" colspan="2"></td> -->
-<!--     <td class="tg-7gv0" colspan="2"></td> -->
-<!--     <td class="tg-7gv0" colspan="2"></td> -->
-<!--     <td class="tg-7gv0" colspan="2"></td> -->
-<!--   </tr> -->
-<!-- </tbody> -->
-<!-- </table> -->
-<!-- ``` -->
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger le programme </a></center>
 
 
 
