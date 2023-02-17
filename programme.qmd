@@ -46,17 +46,25 @@ title: "**Programme**"
     <a href="https://ee2023.netlify.app/modules/typ2_rec.html" target="_blank" rel="noopener noreferrer">TYP2</a><br>
     <a href="https://ee2023.netlify.app/modules/typ3_ig.html" target="_blank" rel="noopener noreferrer"> TYP3</a>
     </td>
+    
     <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/exp1_uni.html" target="_blank" rel="noopener noreferrer">EXP1<br>univarié</a>
     </td>
+    
     <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp2_biv.html" target="_blank" rel="noopener noreferrer"> EXP2 <br> bivarié</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">SPA1</a><br><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">semis de points</a></td>
-    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer">EXP3</a><br><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer"> multivariée</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa1_sem.html" target="_blank" rel="noopener noreferrer">SPA1<br>semis de points</a></td>
+    
+    <td class="tg-fj14" rowspan="2"><a href="https://ee2023.netlify.app/modules/exp3_mul.html" target="_blank" rel="noopener noreferrer"> EXP3<br>multivariée</a></td>
   </tr>
+  
   <tr>
     <td class="tg-u8h6">11h-13h</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart1-2_the.html" target="_blank" rel="noopener noreferrer">CAR1</a><br><a href="https://ee2023.netlify.app/modules/cart1-2_the.html" target="_blank" rel="noopener noreferrer">carto thématique</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa2_dis.html" target="_blank" rel="noopener noreferrer">SPA2</a><br><a href="https://ee2023.netlify.app/modules/spa2_dis.html" target="_blank" rel="noopener noreferrer">distance &amp; accessibilité</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart1-2_the.html" target="_blank" rel="noopener noreferrer">CAR1<br>carto thématique</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa2_dis.html" target="_blank" rel="noopener noreferrer">SPA2<br>distance &amp; accessibilité</a></td>
   </tr>
+  
   <tr>
     <td class="tg-0pky"> </td>
     <td class="tg-0pky"> </td>
@@ -65,9 +73,12 @@ title: "**Programme**"
     <td class="tg-0pky"> </td>
     <td class="tg-0pky"> </td>
   </tr>
+  
   <tr>
     <td class="tg-u8h6">14h-16h</td>
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
+    
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1_R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html">OUT2_QGIS</a></td>
+    
     <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
     <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
     <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>

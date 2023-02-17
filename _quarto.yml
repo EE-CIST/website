@@ -2,7 +2,7 @@ project:
   type: website
 lang: fr
 website:
-  title: "<b>EE·2023</b>"
+  title: "<b>CIST·EE2023</b>"
   favicon: img/cist.png
   twitter-card: true
   site-url: https://cist2023.netlify.app/
