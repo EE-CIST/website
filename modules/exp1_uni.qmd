@@ -16,10 +16,10 @@ nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
 published-title: Date de publication 
 format:
   html: 
@@ -34,13 +34,13 @@ Cômlan Charles HOUNTON *(Bénin) --* Nicolas LAMBERT *(France)* -- Pierre PISTR
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module concerne toute personne désirant produire des statistiques simples univariées sur des données territoriales ou non, les comprendre et les organiser (prise en main des données, comprendre la structure des données et pour pouvoir calculer des indicateurs synthétiques).
+Ce module concerne toute personne désirant produire des statistiques simples univariées sur des données territoriales ou non, les comprendre et les organiser : prendre en main des données, en comprendre la structure et pouvoir calculer des indicateurs synthétiques.
 
 Il se déroule en suivant deux heures de cours magistral et quatre heure de travaux dirigés. Ces TDs proposent des exercices sur la théorie et la structure des données ainsi que des applications sur ordinateur avec R.
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Disposer de données quantitatives (données d'enquêtes, de recensement....) Ce module nécessite de maîtriser l'outil informatique et notamment les tableurs (avoir manipulé des données chiffrées avec des logiciels quels qu'ils soient).
+Disposer de données quantitatives (données d'enquêtes, de recensement... ) Ce module nécessite de maîtriser l'outil informatique et notamment les tableurs (avoir manipulé des données chiffrées avec des logiciels quels qu'ils soient).
 
 D'autre part quelques notions de statistiques de niveau secondaire seront appréciées.
 
