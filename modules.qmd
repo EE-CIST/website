@@ -21,7 +21,7 @@ listing:
 ::: callout-important
 ## Condition d'utilisation
 
-A préciser
+Pour les conditions d'utilisation des supports et des données, se reporter à la page ["Conditions d'utilisation"](conditions.qmd)
 :::
 
 Accédez à l'ensemble des supports de cours ou d'exercice, ainsi qu'aux données utilisées en cliquant sur le module ciblé.
