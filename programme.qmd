@@ -2,13 +2,13 @@
 title: "**Programme**"
 ---
 
-<object class="slide" data="../img/programme.pdf" type="application/pdf">
+<!-- <object class="slide" data="../img/programme.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="../img/programme.pdf">
+<!-- <iframe class="slide" src="../img/programme.pdf"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-</object>
+<!-- </object> -->
 
 ```{=html}
 <style type="text/css">
