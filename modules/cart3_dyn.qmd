@@ -63,7 +63,6 @@ La séquence s'organise en 3 étapes :
 
 -   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
 
-<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -72,6 +71,8 @@ La séquence s'organise en 3 étapes :
 </iframe>
 
 </object>
+
+<!-- <center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i>Télécharger les supports</a></center> -->
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
@@ -89,7 +90,7 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

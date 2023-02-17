@@ -63,10 +63,6 @@ Les compétences visées sont simples :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un diaporama ainsi qu'un fichier d'exercices sont disponibles en téléchargement ci-dessous.
-
-<center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
-
 <object class="slide" data="support/car1_cours.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/car1_cours.pdf">
@@ -75,15 +71,19 @@ Un diaporama ainsi qu'un fichier d'exercices sont disponibles en téléchargemen
 
 </object>
 
-<!--  -->
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+## <i class="bi bi-person-video3"></i> Support de TD
 
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
+<object class="slide" data="support/car1_exos.pdf" type="application/pdf">
 
-<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
+<iframe class="slide" src="../modules/support/car1_exos.pdf">
 
-<!--  -->
+</iframe>
+
+</object>
+
+<center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Télécharger les supports </a></center>
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

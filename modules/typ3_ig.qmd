@@ -84,12 +84,10 @@ Un diaporama pour suivre le cours ainsi des fichiers word pour les exercices son
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   Base de données sur la ville de Ouidah
+-   Base de données sur la ville de Ouidah (shapefile d'OSM et raster de l'USGS)
 -   Collecte de données sur le terrain via l'application **GPStest**
 
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
