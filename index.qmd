@@ -4,7 +4,7 @@ title: "**École d'été du CIST · EE2023**"
 
 ## Méthodes et outils des sciences des territoires, une perspective Nord-Sud, Sud-Nord, Sud-Sud
 
-> Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI *(LARESPD / Université de Parakou, Bénin)*, Emmanuel BONNET *(IRD)*, Claude GRASLAND *(UPC-CIST)* et France GUERIN-PACE *(INED-CIST)*
+> Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI *(LARESPD / Université de Parakou, Bénin)* -- Emmanuel BONNET *(IRD)* -- Claude GRASLAND *(UPC-CIST)* -- France GUERIN-PACE *(INED-CIST)*
 
 ::: {#map}
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}

@@ -26,7 +26,7 @@ website:
         text: Modules
     right:
       - href: apropos.qmd
-        text: Crédits
+        text: Mentions légales
       - href: conditions.qmd
         text: Conditions d'utilisation
       - href: contact.qmd
