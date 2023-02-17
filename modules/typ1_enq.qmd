@@ -35,7 +35,7 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Le public ciblé est très large en Sciences humaines et sociales. Il s'agit d'un cours magistral qui peut s'accompagner d'exercices de manipulations de bases de données.
+Le public ciblé est très large en sciences humaines et sociales. Il s'agit d'un cours magistral qui peut s'accompagner d'exercices de manipulations de bases de données.
 
 Environ deux heures pour présenter ce cours sont nécessaires.
 
@@ -49,7 +49,7 @@ L'objectif de ce cours est de décrire les données d'enquête dans toute leur d
 
 Nous présenterons des enquêtes de la statistique publique, des enquêtes conduites en population générale ainsi que des enquêtes sur des échantillons plus restreints construites dans le cadre d'un projet de recherche.
 
-Il s'agira notamment, d'établir une typologie des différents types d'enquête en insistant sur le vocabulaire utilisé pour les désigner (transversale, longitudinale, panel, biographique, etc.).
+Il s'agira notamment d'établir une typologie des différents types d'enquête en insistant sur le vocabulaire utilisé pour les désigner (transversale, longitudinale, panel, biographique, etc.).
 
 Enfin nous traiterons la question de la représentativité spatiale et de la production de résultats statistiques.
 
