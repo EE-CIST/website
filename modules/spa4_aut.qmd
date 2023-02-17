@@ -1,10 +1,10 @@
 ---
-title: "Analyse spatiale IV"
-subtitle: "Autocorrélation spatiale"
+title: "SPA4 - Autocorrélation spatiale"
+subtitle: "Introduction à l'autocorrélation spatiale"
 date: 03/03/2023
 image: img/model.png
 categories: 
-- analyse spatiales
+- Analyse spatiales
 ordre: "12" 
 author: 
 - Mme 

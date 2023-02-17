@@ -1,10 +1,10 @@
 ---
-title: "Modélisation I"
+title: "MOD1 - Modélisation I"
 subtitle: "Introduction à la modélisation : Y quantitative"
 date: 03/03/2023
 image: img/model.png
 categories: 
-- modelisation
+- Modelisation
 ordre: "13"
 author: 
 - Mme. Gbètoton Nadège DJOSSOU

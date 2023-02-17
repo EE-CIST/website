@@ -1,14 +1,14 @@
 ---
-title: "Cartographie II - Dynamique"
+title: "CAR2 - Cartographie dynamique"
 subtitle: "Cartographie dynamique avec Observable JavaScript et Quarto"
 date: 02/28/2023
 image: img/carto.jpg
 categories: 
-- cartographie
+- Cartographie
 ordre: "08" 
 author: 
-- Mr Manhamady OUEDRAOGO
-- Mr Nicolas LAMBERT
+- M. Manhamady OUEDRAOGO
+- M. Nicolas LAMBERT
 author-title: Auteurs
 bibliography: biblio/cart3.bib
 nocite: '@*'
@@ -73,8 +73,6 @@ La séquence s'organise en 3 étapes :
 
 </object>
 
-
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 -   Un notebook guide pour le [TP1](https://ee-cist.github.io/CART3_cartodyn/TP1/docs/index.html)
@@ -84,8 +82,6 @@ Ces supports sont accessibles sur le GitHub du module.
 
 <center><a href="https://github.com/EE-CIST/CART3_cartodyn" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
 
-
-
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Deux fichiers de données au niveau des pays à 2 échelles géographiques sont téléchargeables :
@@ -93,9 +89,7 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-
 <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

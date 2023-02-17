@@ -1,14 +1,14 @@
 ---
-title: "Modélisation II"
+title: "MOD2 - Modélisation II"
 subtitle: "Introduction à la modélisation : Y qualitative"
 date: 03/03/2023
 image: img/model.png
 categories: 
-- modelisation
+- Modelisation
 ordre: "14" 
 author: 
-- Mme France GUERIN-PACE
-- Mr Issa ABDOU YONLIHINZA
+- Mme. France GUERIN-PACE
+- M. Issa ABDOU YONLIHINZA
 author-title: Auteurs
 # bibliography: biblio/session1.bib
 nocite: '@*'

@@ -1,24 +1,24 @@
 ---
-title: "Statistique II - bivariée"
+title: "EXP2 - Statistique bivariée"
 subtitle: "Introduction à la statistique descritpive bivariée"
 date: 03/01/2023
 image: img/khi2.png
 categories: 
-- statistique
+- Statistique
 ordre: "05" 
 author: 
-- Mme Malika MADELIN
-- Mr Yentougle MOUTORE
+- Mme. Malika MADELIN
+- M. Yentougle MOUTORE
 author-title: Auteurs
 bibliography: biblio/exp2.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
 published-title: Date de publication 
 format:
   html: 
@@ -41,9 +41,9 @@ Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfo
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Il est necessaire d'être au fait des [statistiques univariées](exp1_uni.qmd) (tableau élémentaire, données qualitatives / quantitatives, distribution, etc.).
+Il est nécessaire d'être au fait des [statistiques univariées](exp1_uni.qmd) (tableau élémentaire, données qualitatives / quantitatives, distribution, etc.).
 
-Il est aussi important de maitriser l'outil informatique et d'avoir un niveau de [base sous R](out1_r.qmd) (manipulation d'un tableau de données, graphiques élémentaires, fonctions statistiques de base, etc.).
+Il est aussi important de maîtriser l'outil informatique et d'avoir un niveau de [base sous R](out1_r.qmd) (manipulation d'un tableau de données, graphiques élémentaires, fonctions statistiques de base, etc.).
 
 ## <i class="bi bi-bookmark"></i> Résumé
 

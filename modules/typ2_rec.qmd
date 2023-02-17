@@ -1,14 +1,15 @@
 ---
-title: "Données de recensement"
+title: "TYP2 - Données de recensement"
 subtitle: "Introduction aux données de recensement"
 image: img/recensement.jpg
 date: 02/27/2023
 categories: 
-- données
+- Données
+- Recensement
 ordre: "02" 
 author: 
-- Mr Mouftaou AMADOU SANNI
-- Mr Pierre PISTRE
+- M. Mouftaou AMADOU SANNI
+- M. Pierre PISTRE
 author-title: Auteurs
 bibliography: biblio/typ2.bib
 nocite: '@*'

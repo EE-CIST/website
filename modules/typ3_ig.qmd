@@ -4,10 +4,10 @@ subtitle: "Introduction à l'information Géographique"
 image: img/sig.jpg
 date: 02/27/2023
 categories: 
-- données
-- géomatique
-- analyse spatiale
-- cartographie
+- Données
+- Géomatique
+- Analyse spatiale
+- Cartographie
 ordre: "03" 
 author: 
 - Mme. Pauline GLUSKI

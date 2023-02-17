@@ -1,24 +1,25 @@
 ---
-title: "Données d'enquête"
+title: "TYP1 - Données d'enquête"
 subtitle: "Introduction aux données d'enquête"
 image: img/enquete.jpg
 date: 02/27/2023
 categories: 
-- données
+- Données
+- Enquêtes
 ordre: "01" 
 author: 
-- Mme Fatoumata COULIBALY
-- Mme France GUERIN-PACE
+- Mme. Fatoumata COULIBALY
+- Mme. France GUERIN-PACE
 author-title: Auteurs
 bibliography: biblio/typ1.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
 published-title: Date de publication 
 format:
   html: 

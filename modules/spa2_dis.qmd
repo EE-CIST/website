@@ -1,10 +1,10 @@
 ---
-title: "Analayse spatiale II : Distance et accessibilité"
+title: "SPA2 - Distance et accessibilité"
 subtitle: "Introduction à l'analyse de distance"
 date: 03/02/2023
 image: img/distance.png
 categories: 
-- analyse spatiale
+- Analyse spatiale
 ordre: "10" 
 author: 
 - Mr Vakaramoko BAMBA
@@ -86,7 +86,6 @@ Le cours se déroule comme suit :
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 -   **Cours** : SPA3-Distance-Accessibilite-Cours.docx *(Document Word)*
-
 
 <!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
 

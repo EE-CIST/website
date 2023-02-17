@@ -1,5 +1,5 @@
 ---
-title: "TIG'R"
+title: "OUT1 - TIG'R"
 subtitle: "Formation à R pour le traitement de l'information géographique"
 image: img/R.png
 date: 02/27/2023

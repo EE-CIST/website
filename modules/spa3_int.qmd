@@ -1,13 +1,13 @@
 ---
-title: "Analyse spatiale III : Interaction Spatiale et Flux"
+title: "SPA3 - Interaction Spatiale et Flux"
 subtitle: "Introduction à l'analyse de l'interaction spatiale et des flux"
 date: 03/02/2023
 image: img/distance.png
 categories: 
-- analyse spatiale
+- Analyse spatiale
 ordre: "11" 
 author: 
-- Mr Claude GRASLAND
+- M. Claude GRASLAND
 author-title: Auteurs
 # bibliography: biblio/spa3.bib
 nocite: '@*'

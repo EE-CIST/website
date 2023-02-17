@@ -1,15 +1,15 @@
 ---
-title: "Modélisation III"
+title: "MOD3 - Modélisation III"
 subtitle: "Introduction à la régression logistique et à l'analyse multiniveau"
 date: 03/03/2023
 image: img/model.png
 categories: 
-- modelisation
+- Modelisation
 ordre: "15" 
 author: 
-- Mr Arnaud BRINGÉ
-- Mme France GUERIN-PACE
-- Mr Mouftaou AMADOU SANNI
+- M. Arnaud BRINGÉ
+- Mme. France GUERIN-PACE
+- M. Mouftaou AMADOU SANNI
 author-title: Auteurs
 bibliography: biblio/mod3.bib
 nocite: '@*'

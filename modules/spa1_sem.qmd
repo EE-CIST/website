@@ -1,14 +1,14 @@
 ---
-title: "Analyse Spatiale I - Semis de Points"
+title: "SPA1 - Semis de Points"
 subtitle: "Initiation à l’analyse spatiale : résumés élémentaires et formes de semis de points"
 date: 03/02/2023
 image: img/point.png
 categories: 
-- analyse spatiale
+- Analyse spatiale
 ordre: "09" 
 author: 
-- Mr Souleymane TRAORÉ
-- Mme Marianne GUÉROIS
+- M. Souleymane TRAORÉ
+- Mme. Marianne GUÉROIS
 author-title: Auteurs
 bibliography: biblio/spa1.bib
 nocite: '@*'
