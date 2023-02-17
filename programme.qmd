@@ -77,13 +77,17 @@ title: "**Programme**"
   <tr>
     <td class="tg-u8h6">14h-16h</td>
     
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1_R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html">OUT2_QGIS</a></td>
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html" target="_blank" rel="noopener noreferrer">OUT1 R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html target="_blank" rel="noopener noreferrer"">OUT2 QGIS</a></td>
     
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
-    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html">OUT1&nbsp;&nbsp;&nbsp;R ou OUT2 QGIS</a></td>
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html" target="_blank" rel="noopener noreferrer">OUT1 R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html target="_blank" rel="noopener noreferrer"">OUT2 QGIS</a></td>
+    
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html" target="_blank" rel="noopener noreferrer">OUT1 R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html target="_blank" rel="noopener noreferrer"">OUT2 QGIS</a></td>
+    
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html" target="_blank" rel="noopener noreferrer">OUT1 R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html target="_blank" rel="noopener noreferrer"">OUT2 QGIS</a></td>
+    
+    <td class="tg-cbcc"><a href="https://ee2023.netlify.app/modules/out1_r.html" target="_blank" rel="noopener noreferrer">OUT1 R</a><br>ou<br><a href="https://ee2023.netlify.app/modules/out2_qgis.html target="_blank" rel="noopener noreferrer"">OUT2 QGIS</a></td>
   </tr>
+  
   <tr>
     <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(parallèles)</td>
     <td class="tg-bypi">TYP<br>applications</td>
@@ -110,18 +114,28 @@ title: "**Programme**"
   </tr>
   <tr>
     <td class="tg-u8h6">8h30-10h30</td>
+    
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
+    
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">MOD1</a><br><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">Y quantitative</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">MOD2</a><br><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">Y qualitative</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">MOD3</a><br><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">multiniveau</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">MOD1<br>Y quantitative</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">MOD2<br>Y qualitative</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">MOD3<br>logit &amp multiniveau</a></td>
   </tr>
+  
   <tr>
     <td class="tg-u8h6">11h-13h</td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart3_dyn.html" target="_blank" rel="noopener noreferrer">CAR2</a><br><a href="https://ee2023.netlify.app/modules/cart3_dyn.html" target="_blank" rel="noopener noreferrer">carto dynamique</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">SPA3</a><br><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">interaction spatiale</a></td>
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa4_aut.html" target="_blank" rel="noopener noreferrer">SPA4</a><br><a href="https://ee2023.netlify.app/modules/spa4_aut.html" target="_blank" rel="noopener noreferrer">autocorrélation spatiale</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/cart3_dyn.html" target="_blank" rel="noopener noreferrer">CAR3<br>carto dynamique</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">SPA3<br>interaction spatiale</a></td>
+    
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa4_aut.html" target="_blank" rel="noopener noreferrer">SPA4<br>autocorrélation spatiale</a></td>
   </tr>
+  
   <tr>
     <td class="tg-0pky"> </td>
     <td class="tg-0pky"> </td>
