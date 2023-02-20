@@ -73,7 +73,7 @@ Différents exemples sont utilisés pour rendre plus concrète la formation : n
 </object>
 
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
 
 L'intégralité des supports et données sont téléchargeables ci-dessous. Le fichier zip contient : 

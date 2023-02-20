@@ -83,9 +83,11 @@ Le cours se déroule comme suit :
     a.  Analyse statistique et cartographique du marché de gros de Bouaké
     b.  Apprentissage du package osrm (application aux 8 pays de l'école d'été)
 
-## <i class="bi bi-person-video3"></i> Support de cours
+## <i class="bi bi-person-video3"></i> Support de cours et de TD
 
 -   **Cours** : SPA3-Distance-Accessibilite-Cours.docx *(Document Word)*
+-   **TD1** : SPA3-Appli1.Rmd *(Document rMarkdown)*
+-   **TD2** : SPA3-Appli2.Rmd *(Document rMarkdown)*
 
 <!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
 
@@ -107,14 +109,13 @@ Le cours se déroule comme suit :
 
 <!--  -->
 
-<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Télécharger </a></center>
+<center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
-## <i class="bi bi-person-video3"></i> Support de TD
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
--   **TD1** : SPA3-Appli1.Rmd *(Document rMarkdown)*
--   **TD2** : SPA3-Appli2.Rmd *(Document rMarkdown)*
 
-<center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter </a></center>
+
+<!-- <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter </a></center> -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -129,9 +130,8 @@ Le cours se déroule comme suit :
 -   Localisation (latitude-longitude) et nom des chefs-lieux
 -   Population estimée des unités administratives
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="https://bit.ly/3RvFczN" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
