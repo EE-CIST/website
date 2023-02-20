@@ -60,30 +60,39 @@ Différents exemples sont utilisés pour rendre plus concrète la formation : n
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Pour suivre le cours un diaporama est consultable (et téléchargeable) ci-dessous :
-
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
 <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
 
 </iframe>
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
 </object>
 
-## <i class="bi bi-person-video3"></i> Support de TD
-
-Le TD contenant les exercices est disponible ci-dessous :
 
 <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+
+
+L'intégralité des supports et données sont téléchargeables ci-dessous. Le fichier zip contient : 
+
+-   Un document Quarto et une sortie html produits avec RStudio permettant de suivre les exercices
+
+-   Un dossier avec l'ensemble des autres fichiers utilisés (lien projet R, dossiers et fichiers de données, figures) pour permettre la reprise intégrale par un utilisateur extérieur.
+
+<center><a href="https://bit.ly/3WVpXRT" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+
+<!-- Le TD contenant les exercices est disponible ci-dessous : -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [IPUMS](../donnees/ipums)
 -   Données agrégées sur les populations urbaines et rurales du projet [Géopolis](http://e-geopolis.org/)
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
