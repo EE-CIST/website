@@ -127,7 +127,7 @@ title: "**Programme**"
     
     <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/spa3_int.html" target="_blank" rel="noopener noreferrer">SPA3<br>interaction spatiale</a></td>
     
-    <td class="tg-fj14">MOD3<br>applications</td>
+    <td class="tg-bypi">MOD3<br>applications</td>
   </tr>
   
   <tr>
@@ -144,10 +144,10 @@ title: "**Programme**"
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
     <td class="tg-bypi">MOD1<br>applications</td>
     <td class="tg-bypi">MOD2<br>applications</td>
-    <td class="tg-bypi" rowspan="2">Clôture <br> de <br> l'école d'été</td>
+    <td class="tg-bypi" rowspan="2"><em>Clôture <br> de <br> l'école d'été</em></td>
   </tr>
   <tr>
-    <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;&nbsp;(parallèles)</td>
+    <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;(parallèles)</td>
     <td class="tg-bypi">CAR2<br>applications</td>
     <td class="tg-bypi">SPA3<br>applications</td>
 
