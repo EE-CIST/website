@@ -44,7 +44,7 @@ mamap
 :::
 
 ::: {#maptext}
-Cette école d'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d'une trentaine de formateur.rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant.es et ingénieur.es. Menée dans une perspective pluridisciplinaire, l'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l'emploi d'outils informatiques d'accès libre.
+Cette école d'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d'une trentaine de formateur·rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant·es et ingénieur·es.\\ Menée dans une perspective pluridisciplinaire, l'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l'emploi d'outils informatiques d'accès libre.
 
 <img src="img/logo.png" width="90%;"/>
 :::
