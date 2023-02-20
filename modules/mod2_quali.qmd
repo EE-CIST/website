@@ -1,6 +1,6 @@
 ---
-title: "MOD2 - Modélisation II"
-subtitle: "Introduction à la modélisation : Y qualitative"
+title: "MOD2 - Modèle Logit"
+subtitle: "Introduction à la modélisation : Regression logistique"
 date: 03/03/2023
 image: img/model.png
 categories: 

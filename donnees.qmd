@@ -15,7 +15,7 @@ listing:
   field-display-names:
     categories: "Module(s)"
     name: "Nom"
-    nature: "Nature"
+    nature: "Descriptif"
     producteur: "Producteur(s)"
 about:
   template: marquee

@@ -130,7 +130,7 @@ Le cours se déroule comme suit :
 -   Localisation (latitude-longitude) et nom des chefs-lieux
 -   Population estimée des unités administratives
 
-<center><a href="https://bit.ly/3RvFczN" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3RnebOU" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 
 ## <i class="bi bi-file-earmark-text"></i> Références

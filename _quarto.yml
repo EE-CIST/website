@@ -68,21 +68,21 @@ website:
         text: SPA2 - Distance et accessibilité    
       - href: modules/spa3_int.qmd
         text: SPA3 - Interaction spatiale et flux   
-      - href: modules/spa4_aut.qmd
-        text: SPA4 - Autocorrélation spatiale   
+      # - href: modules/spa4_aut.qmd
+      #   text: SPA4 - Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
-        text: MOD1 - Modélisation I
+        text: MOD1 - Regression multiple
       - href: modules/mod2_quali.qmd 
-        text: MOD2 - Modélisation II
+        text: MOD2 - Modèle Logit
       - href: modules/mod3_multiniv.qmd 
-        text: MOD3 - Modélisation III
+        text: MOD3 - Multiniveaux
       - href: modules/out1_r.qmd
         text: OUT1 - Inititation à R 
       - href: modules/out2_qgis.qmd
         text: OUT2 - Initiation à QGIS
         
 
-  page-footer: ET CIST·2023 - [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
+  page-footer: ET CIST·2023 - [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
   margin-header: |
     ![](img/cist.png)
 

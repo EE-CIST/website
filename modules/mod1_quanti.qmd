@@ -1,6 +1,6 @@
 ---
-title: "MOD1 - Modélisation I"
-subtitle: "Introduction à la modélisation : Y quantitative"
+title: "MOD1 - Régression multiple"
+subtitle: "Introduction à la modélisation : régression multiple"
 date: 03/03/2023
 image: img/model.png
 categories: 

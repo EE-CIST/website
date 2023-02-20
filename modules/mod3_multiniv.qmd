@@ -1,6 +1,6 @@
 ---
-title: "MOD3 - Modélisation III"
-subtitle: "Introduction à la régression logistique et à l'analyse multiniveau"
+title: "MOD3 - Multiniveau"
+subtitle: "Introduction à l'analyse multiniveau"
 date: 03/03/2023
 image: img/model.png
 categories: 
@@ -36,7 +36,7 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse aux utilisateur.ices ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte.
+Ce module s'adresse aux utilisateur·ices ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte.
 
 Il propose un TD et des applications sur des données du Bénin (Echantillon recensement 2013). Les traitements sont effectués à partir du package lme4.
 
