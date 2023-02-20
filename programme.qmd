@@ -144,7 +144,7 @@ title: "**Programme**"
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
     <td class="tg-bypi">MOD1<br>applications</td>
     <td class="tg-bypi">MOD2<br>applications</td>
-    <td class="tg-bypi" rowspan="2"><b>Clôture <br> de <br> l'école d'été</b></td>
+    <td class="tg-bypi" rowspan="2"><b>Clôture <br> de <br> l'école d'été</b> <br><i class="bi bi-trophy-fill"></i></td>
   </tr>
   <tr>
     <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;(parallèles)</td>
