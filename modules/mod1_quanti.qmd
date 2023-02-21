@@ -82,7 +82,7 @@ B.  **Applications sur R**
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-*A venir*
+<center><a href="https://ee-cist.github.io/MOD1_Yquanti/" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -98,17 +98,17 @@ B.  **Applications sur R**
 
 <!-- </object> -->
 
-## <i class="bi bi-person-video3"></i> Support de TD
+## <i class="bi bi-person-video3"></i> Support de TD et données
 
-A venir
+Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données.
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
-
-## <i class="bi bi-clipboard-data"></i> Données
+<!-- ## <i class="bi bi-clipboard-data"></i> Données -->
 
 -   [Précipitations en Californie](../donnees/pre_calif_1965.qmd)
 -   [Développement des pays africains](../donnees/dev_afric_2018.qmd)
 -   [Enquête consommation Bénin](../donnees/fin_benin_2018.qmd)
+
+<center><a href="https://bit.ly/3wI9EgF" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
