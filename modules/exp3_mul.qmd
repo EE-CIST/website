@@ -85,17 +85,17 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 <center><a href="https://ee-cist.github.io/EXP3-Multivar/Cours-CAH.html" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
-</object>
+<!-- </object> -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
