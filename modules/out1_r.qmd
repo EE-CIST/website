@@ -81,33 +81,32 @@ Jour 1. **Import, manipulation et représentation graphique**
 
 -   Import et export de données
 -   Manipulation de données (R-base)
--   Manipulation de données (Tidyverse)
--   Graphique avec ggplot2
+-   Manipulation de données (`tidyverse`)
+-   Graphique avec `ggplot2`
 
 Jour 2. **Statistique descriptive et cartographie thématique**
 
 -   Statistique univariée et bivariée
 -   Graphique avec R-base
--   Statistique multivariée (CAH)
--   Cartographie avec mapsf
+-   Statistique multivariée (CAH avec `FactoMineR`)
+-   Cartographie avec `mapsf`
 
 Jour 3. **Géomatique avec sf et terra**
 
--   Géomatique avec R - vecteur
--   Géomatique avec R - raster
+-   Géomatique avec R - vecteur (`sf`)
+-   Géomatique avec R - raster (`terra`)
 
-Jour 4. **Analyse spatiale avec R**
+Jour 4. **OpenStreetMap & R**
 
--   Création grille régulière
--   Calcul d'une matrice de distance
--   R et OpenStreetMap
--   utilisation d'OSRM
+-   Géocodage avec `tidygeocoder`
+-   Cartographie intéractive (`leaflet` et `mapview`)
+-   Extraction de données (`maptiles`, `osmdata` et `osmextract`)
+-   Calcul d’un itinéraire avec `osrm`
 
 Jour 5. **Programmation lettrée et notebook**
 
--   Programmation lettrée et article exécutable
--   Les notebooks avec R
--   Mise en pratique avec rmarkdown
+-   Introduction à la programmation lettrée et au notebook
+-   Mise en pratique avec `rmarkdown`
 -   Git...
 
 ## <i class="bi bi-person-video3"></i> Support de cours
