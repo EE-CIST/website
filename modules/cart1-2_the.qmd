@@ -15,10 +15,10 @@ nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
 published-title: Date de publication 
 format:
   html: 
@@ -71,7 +71,6 @@ Les compétences visées sont simples :
 
 </object>
 
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 <object class="slide" data="support/car1_exos.pdf" type="application/pdf">
@@ -83,7 +82,6 @@ Les compétences visées sont simples :
 </object>
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Télécharger les supports </a></center>
-
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

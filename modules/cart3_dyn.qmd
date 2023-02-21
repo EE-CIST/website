@@ -63,7 +63,6 @@ La séquence s'organise en 3 étapes :
 
 -   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
 
-
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
 <iframe class="slide" src="https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide">

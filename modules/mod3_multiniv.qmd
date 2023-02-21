@@ -64,21 +64,24 @@ Présentation du modèle à constante aléatoire puis à effets aléatoires sur 
 
 *A venir ...*
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-## <i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i>
 
-</object>
+<!-- ## <i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i> -->
+
+<!-- </object> -->
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 *A venir ...*
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true">\## <i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true">
+
+<i class="bi bi-eye"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

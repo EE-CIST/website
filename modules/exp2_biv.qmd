@@ -55,17 +55,17 @@ Il est aussi important de maîtriser l'outil informatique et d'avoir un niveau d
 
 Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des données environnementales raster (LST, NDVI, altitude, occ sol) pour l'analyse de la variance et la corrélation.
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
-</object>
+<!-- </object> -->
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 

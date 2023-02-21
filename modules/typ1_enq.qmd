@@ -58,17 +58,17 @@ Enfin nous traiterons la question de la représentativité spatiale et de la pro
 
 *A venir...*
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
 
-</iframe>
+<!-- </iframe> -->
 
-::: {#url}
-<i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-:::
+<!-- ::: {#url} -->
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+<!-- ::: -->
 
-</object>
+<!-- </object> -->
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 

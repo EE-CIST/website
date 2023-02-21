@@ -34,12 +34,12 @@ format:
 ::: {#contrib}
 ### Contributeur·rice·s
 
-Elina MARVEAUX *(France)*, Timothée GIRAUD *(France)*, Sébastien REY-COYREHOURCQ *(France)*
+Elina MARVEAUX *(France)* -- Timothée GIRAUD *(France)* -- Sébastien REY-COYREHOURCQ *(France)*
 :::
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-**Ce module de formation à R pour le traitement de l'information géographique est complémentaire aux différents modules thématiques de l'école utilisant le language R pour le traitement, l'analyse ou la représentation de données.**
+**Ce module de formation à R pour le traitement de l'information géographique est complémentaire aux différents modules thématiques de l'école utilisant le langage R pour le traitement, l'analyse ou la représentation de données.**
 
 Il s'agit d'un module de formation technique pour l'apprentissage des différentes opérations d'import, de manipulation, d'analyse et de représentation de données avec R. Son objectif est de former à l'utilisation de R sur l'ensemble de la chaîne de traitement des données géographiques pour que les participants de l'école d'été soient le mieux préparer à l'utilisation de R dans le cadre des modules thématiques.
 
@@ -125,7 +125,7 @@ Il est possible de récupérer les différentes leçons et exercices associés s
 Ce module de formation utilise des données déjà préalablement utilisées dans les différents modules thématiques de l'école. En voici la liste :
 
 |             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
-|:-----------:|:-----------:|:--------------------------------------------:|
+|:-------------:|:-------------:|:----------------------------------------:|
 | Données pays africains (UN-CEPII) |    tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 | Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 |   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |

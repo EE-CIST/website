@@ -81,9 +81,7 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 -   **TD**: ACP-CAH sur le développement des pays africains
 -   **TD**: ACP-CAH sur les forces et faiblesses de la CEDEAO
 
-
 <center><a href="https://ee-cist.github.io/EXP3-Multivar/Cours-CAH.html" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
-
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -92,7 +90,9 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
