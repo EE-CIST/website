@@ -113,11 +113,11 @@ title: "**Programme**"
     
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
     
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">MOD1<br>Y quantitative</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod1_quanti.html" target="_blank" rel="noopener noreferrer">MOD1<br>Regression multiple</a></td>
     
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">MOD2<br>Y qualitative</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod2_quali.html" target="_blank" rel="noopener noreferrer">MOD2<br>Modèle Logit</a></td>
     
-    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">MOD3<br>logit &amp multiniveau</a></td>
+    <td class="tg-fj14"><a href="https://ee2023.netlify.app/modules/mod3_multiniv.html" target="_blank" rel="noopener noreferrer">MOD3<br>Multiniveau</a></td>
   </tr>
   
   <tr>
@@ -144,7 +144,7 @@ title: "**Programme**"
     <td class="tg-bghx" rowspan="2">ateliers<br>ou<br>cours Stat &amp; R</td>
     <td class="tg-bypi">MOD1<br>applications</td>
     <td class="tg-bypi">MOD2<br>applications</td>
-    <td class="tg-bypi" rowspan="2"><b>Clôture <br> de <br> l'école d'été</b> <br><i class="bi bi-trophy-fill"></i></td>
+    <td class="tg-bypi" rowspan="2"><br><b>Clôture <br> de <br> l'école d'été</b> <br><i class="bi bi-trophy-fill"></i></td>
   </tr>
   <tr>
     <td class="tg-u8h6">16h30-18h30<br>&nbsp;&nbsp;(parallèles)</td>

@@ -72,8 +72,8 @@ Le module associe un cours théorique avec des applications dans R.
 
 A.  **Cours**
 
-    1. Introduction non technique à la régression multiple : Les précipitations en Californie
-    2. Cours de modélisation économétrique par régression simple ou multiple
+    1.  Introduction non technique à la régression multiple : Les précipitations en Californie
+    2.  Cours de modélisation économétrique par régression simple ou multiple
 
 B.  **Applications sur R**
 
