@@ -82,7 +82,7 @@ L'intégralité des supports et données sont téléchargeables ci-dessous. Le f
 
 -   Un dossier avec l'ensemble des autres fichiers utilisés (lien projet R, dossiers et fichiers de données, figures) pour permettre la reprise intégrale par un utilisateur extérieur.
 
-<center><a href="https://bit.ly/3WVpXRT" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3WVpXRT" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 

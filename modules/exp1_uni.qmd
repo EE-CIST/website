@@ -65,7 +65,9 @@ Nous utiliserons des données extraites des Enquêtes Démographiques et de Sant
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
@@ -74,14 +76,14 @@ Nous utiliserons des données extraites des Enquêtes Démographiques et de Sant
 
 *A venir...*
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Enquêtes Démographiques et de Santé (EDS)](../donnees/eds_afriq.qmd)
 -   Extraits à 10% des EDS pour quatre pays (Bénin, Burkina-Faso, Mali, Togo)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down" target="_blank" rel="noopener noreferrer"></i> Data.zip</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

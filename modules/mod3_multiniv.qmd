@@ -70,7 +70,6 @@ Présentation du modèle à constante aléatoire puis à effets aléatoires sur 
 
 <!-- </iframe> -->
 
-
 <!-- ## <i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i> -->
 
 <!-- </object> -->
@@ -79,14 +78,14 @@ Présentation du modèle à constante aléatoire puis à effets aléatoires sur 
 
 *A venir ...*
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true">
+<center>
 
-<i class="bi bi-eye"></i> Consulter</a></center>
+<a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Extrait du fichier recensement [Bénin 2013](../donnees/ipums.qmd) (fichier IPUMS)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true">\## <i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"> <i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références

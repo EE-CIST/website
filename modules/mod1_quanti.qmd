@@ -91,7 +91,9 @@ B.  **Applications sur R**
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
@@ -100,7 +102,7 @@ B.  **Applications sur R**
 
 A venir
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

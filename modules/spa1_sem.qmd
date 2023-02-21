@@ -98,7 +98,7 @@ Un diaporama ainsi que des exercices au format Word sont disponibles à la consu
 
 \
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 \
 
@@ -109,7 +109,7 @@ Un diaporama ainsi que des exercices au format Word sont disponibles à la consu
 
 \
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
 

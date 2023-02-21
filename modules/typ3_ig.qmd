@@ -80,14 +80,14 @@ Un diaporama pour suivre le cours ainsi des fichiers word pour les exercices son
 
 <!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   Base de données sur la ville de Ouidah (shapefile d'OSM et raster de l'USGS)
 -   Collecte de données sur le terrain via l'application **GPStest**
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

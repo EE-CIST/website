@@ -80,7 +80,7 @@ La séquence s'organise en 3 étapes :
 
 Ces supports sont accessibles sur le GitHub du module.
 
-<center><a href="https://github.com/EE-CIST/CART3_cartodyn" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
+<center><a href="https://github.com/EE-CIST/CART3_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -89,7 +89,7 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
+<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

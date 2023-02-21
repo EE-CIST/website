@@ -81,7 +81,7 @@ Les compétences visées sont simples :
 
 </object>
 
-<center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Télécharger les supports </a></center>
+<center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger les supports </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -92,7 +92,7 @@ Deux fichiers de données sont téléchargeables :
 
 \
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
 

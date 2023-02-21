@@ -107,7 +107,7 @@ L'intégralité des supports de cours est disponible ci-dessous. Chaque cours es
 
 Le `.zip` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 novembre 2022)*
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -144,7 +144,7 @@ Le `.zip` nécessaire à l'installation du plugin SCP est aussi téléchargeable
 -   MNT
 -   Landsat
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 \
 

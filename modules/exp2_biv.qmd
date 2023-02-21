@@ -62,7 +62,9 @@ Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des donné
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
@@ -73,14 +75,14 @@ Diaporama sous Quarto ; exemple du marché de Bouaké pour le chi2 et des donné
 
 Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ??
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Marché de Bouaké](../donnees/mar_bouake_2018.qmd)
 -   [GHCN](../donnees/pre_calif_1965.qmd) et/ou données de Moutoré (fiche(s) à faire)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down" target="_blank" rel="noopener noreferrer"></i> Data.zip</a></center>
 
 \
 
