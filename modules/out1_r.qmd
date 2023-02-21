@@ -57,7 +57,7 @@ Il est important d'**utiliser des versions similaires ou plus récentes pour s'a
 
 L'installation d'un certain nombre de packages est nécessaire pour ce module. Une connexion internet est donc indispensable. Cependant, il est possible de pré-télécharger l'ensemble des sources des packages utilisés, afin de s'affranchir d'une connexion internet. Les packages nécessaires pourront être installés depuis un "miniCRAN" local, que vous pouvez télécharger ci-dessous.
 
-<center><a href="https://bit.ly/3X1L4lk" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger le miniCRAN (500MB) </a></center>
+<center><a href="https://bit.ly/3y0SKdT" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger le miniCRAN (500MB) </a></center>
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -112,13 +112,15 @@ Jour 5. **Programmation lettrée et notebook**
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié (<https://tigr.netlify.app/>).
+Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié.
 
 <center><a href="https://tigr.netlify.app/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le site du module TIG'R</a></center>
 
-Il est possible de récupérer les différentes leçons et exercices associés sur sa machine.
+\
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> R_lessons_pdf.zip</a></center>
+Il est possible de récupérer le code source de l'ensemble du site, les données utilisées ainsi que les corrections des exercices en cliquant sur ce lien :
+
+<center><a href="https://bit.ly/3IIJSQ9" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> TIG'R.zip</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
