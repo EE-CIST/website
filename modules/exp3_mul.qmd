@@ -81,7 +81,7 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 -   **TD**: ACP-CAH sur le développement des pays africains
 -   **TD**: ACP-CAH sur les forces et faiblesses de la CEDEAO
 
-<center><a href="https://ee-cist.github.io/EXP3-Multivar/Cours-CAH.html" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
+<center><a href="https://ee-cist.github.io/EXP3-Multivar/Cours-CAH.html" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -108,7 +108,7 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 -   **AFC** : Données du recensement du Bénin sur les langues parlées et les départements
 -   **ACM** : Données d'enquêtes sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire (Bagoué, Folon, Kabadougou et Minignan). L'enquête a été réalisée entre 2016 et 2018 auprès de 635 chefs de ménage dans huit départements et 25 sous-préfectures. Plusieurs variables ont été mobilisées : variables géographiques, démographiques, économiques, sociales, culturelles et de l'offre.
 
-<center><a href="https://bit.ly/3DwvgjY" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3DwvgjY" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
