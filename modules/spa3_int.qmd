@@ -48,7 +48,7 @@ Dans le temps disponible (2h de cours et 2h de TD) on se limitera à l'apprentis
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Pour suivre ce module il est recommandé d'avoir pris connaissaices des modules suivants :
+Pour suivre ce module il est recommandé d'avoir pris connaissance des modules suivants :
 
 -   **TYP2** : [Données de recensement](typ2_rec.qmd)
 -   **EXP1**: [Statistique univariée](exp1_uni.qmd)
@@ -70,7 +70,6 @@ L'objectif de ce module est de montrer les différentes étapes d'analyse d'une 
 
 Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous. 
 
-Ils peuvent aussi être téléchargé et réaliser sur son ordinateur personnel.
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
