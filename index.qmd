@@ -4,7 +4,7 @@ title: "**École d'été du CIST · EE2023**"
 
 ## Méthodes et outils des sciences des territoires, une perspective Nord-Sud, Sud-Nord, Sud-Sud
 
-> Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI *(LARESPD / Université de Parakou, Bénin)* -- Emmanuel BONNET *(IRD)* -- Claude GRASLAND *(UPC-CIST)* -- France GUERIN-PACE *(INED-CIST)*
+> Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI (LARESPD / Université de Parakou, Bénin) -- Emmanuel BONNET (IRD) -- Claude GRASLAND (UPC-CIST) -- France GUERIN-PACE (INED-CIST)
 
 ::: {#map}
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -33,9 +33,10 @@ icons <- awesomeIcons(
 
 
 # Affichage du point - carte interactive
-mamap <- leaflet(Here, width = 350, height = 170) %>%
-            setView( lat = lat+2, lng = lng, zoom = 6) %>% addProviderTiles("CartoDB.Positron") %>%
-             addAwesomeMarkers( icon = icons,popup = paste0("<img src = ", file,  " width = 160>", "<br /><p style='text-align:center;'><a href='https://www.irsp-ouidah.org/' style='font-size:12pt;'>Institut Régional</br>de Santé Publique</br>Comlan Alfred Quenum</a></p>"))
+mamap <- leaflet(Here, width = 350, height = 200) %>%
+  setView(lat = lat+2, lng = lng, zoom = 6) %>%
+  addProviderTiles("CartoDB.Positron") %>%
+  addAwesomeMarkers(icon = icons,popup = paste0("<img src = ", file,  " width = 160>", "<br /><p style='text-align:center;'><a href='https://www.irsp-ouidah.org/' style='font-size:12pt;'>Institut Régional</br>de Santé Publique</br>Comlan Alfred Quenum</a></p>"))
 ```
 
 ```{r, echo=FALSE}
