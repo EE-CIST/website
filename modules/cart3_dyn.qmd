@@ -18,7 +18,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/EE-CIST/CART3_cartodyn
+      href: https://github.com/EE-CIST/CAR2_cartodyn
 published-title: Date de publication 
 format:
   html: 
@@ -61,11 +61,11 @@ La séquence s'organise en 3 étapes :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
--   Un diaporama de [présentation](https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide)
+-   Un diaporama de [présentation](https://ee-cist.github.io/CAR2_cartodyn/intro/docs/index.html#/title-slide)
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
-<iframe class="slide" src="https://ee-cist.github.io/CART3_cartodyn/intro/docs/index.html#/title-slide">
+<iframe class="slide" src="https://ee-cist.github.io/CAR2_cartodyn/intro/docs/index.html#/title-slide">
 
 </iframe>
 
@@ -75,12 +75,12 @@ La séquence s'organise en 3 étapes :
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
--   Un notebook guide pour le [TP1](https://ee-cist.github.io/CART3_cartodyn/TP1/docs/index.html)
--   Un notebook guide pour le [TP2](https://ee-cist.github.io/CART3_cartodyn/TP2/docs/index.html) et sa solution
+-   Un notebook guide pour le [TP1](https://ee-cist.github.io/CAR2_cartodyn/TP1/docs/index.html)
+-   Un notebook guide pour le [TP2](https://ee-cist.github.io/CAR2_cartodyn/TP2/docs/index.html) et sa solution
 
 Ces supports sont accessibles sur le GitHub du module.
 
-<center><a href="https://github.com/EE-CIST/CART3_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
+<center><a href="https://github.com/EE-CIST/CAR2_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
