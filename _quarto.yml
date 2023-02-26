@@ -68,8 +68,6 @@ website:
         text: SPA2 - Distance et accessibilité    
       - href: modules/spa3_int.qmd
         text: SPA3 - Interaction spatiale et flux   
-      # - href: modules/spa4_aut.qmd
-      #   text: SPA4 - Autocorrélation spatiale   
       - href: modules/mod1_quanti.qmd 
         text: MOD1 - Regression multiple
       - href: modules/mod2_quali.qmd 
