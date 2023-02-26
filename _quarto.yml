@@ -86,7 +86,6 @@ website:
   margin-header: |
     ![](img/cist.png)
 
-
 format:
   html:
     theme: 
