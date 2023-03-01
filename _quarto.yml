@@ -9,8 +9,8 @@ website:
   description: "Site web de l'école d'été international 2023 du CIST"
   page-navigation: false
   search: 
-    location: navbar
-    type: overlay
+    location: sidebar
+    type: textbox
   navbar:
     background: "#1a8cab"
     left: 
