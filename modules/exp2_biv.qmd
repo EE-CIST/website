@@ -7,8 +7,7 @@ categories:
 - Statistique
 ordre: "05" 
 author: 
-- text: Mme. Malika MADELIN
-  href: ../formateurs/madelin.qmd
+- [Mme. Malika MADELIN](../formateurs/madelin.qmd)
 - M. Yentougle MOUTORE
 author-title: Auteurs
 bibliography: biblio/exp2.bib
