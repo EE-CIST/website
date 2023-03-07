@@ -7,7 +7,7 @@ categories:
 - Statistique
 ordre: "05" 
 author: 
-- [Mme. Malika MADELIN](../formateurs/madelin.qmd)
+- "[Mme. Malika MADELIN](../formateurs/madelin.qmd)"
 - M. Yentougle MOUTORE
 author-title: Auteurs
 bibliography: biblio/exp2.bib
@@ -76,10 +76,8 @@ Le script d'exercice peut-être téléchargé seul ...
 \
 
 ...ou avec les données et le diaporama (dépot GitHub)
-
-<!-- Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ?? -->
-
 <center><a href="https://github.com/mmadelin/EECIST23_EXP2/archive/refs/heads/main.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le dossier complet </a></center>
+<!-- Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ?? -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
