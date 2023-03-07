@@ -7,8 +7,8 @@ categories:
 - Analyse spatiale
 ordre: "09" 
 author: 
-- M. Souleymane TRAORÉ
-- Mme. Marianne GUÉROIS
+- "[M. Souleymane TRAORÉ](../formateurs/traore.qmd)"
+- "[Mme. Marianne GUÉROIS](../formateurs/querois.qmd)"
 author-title: Auteurs
 bibliography: biblio/spa1.bib
 nocite: '@*'

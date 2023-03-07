@@ -7,13 +7,13 @@ categories:
 - Analyse spatiale
 ordre: "11" 
 author: 
-- M. Claude GRASLAND
-- Mme. Fatoumata COULIBALY
-- M. Manhamady OUEDRAOGO
-- M. Justin DANSOU
-- M. Pierre PISTRE
-- M. Mouftaou AMADOU SANNI
-- M. Nicolas LAMBERT
+- "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
+- "[Mme. Fatoumata COULIBALY](../formateurs/coulibaly.qmd)"
+- "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo.qmd)"
+- "[M. Justin DANSOU](../formateurs/dansou.qmd)"
+- "[M. Pierre PISTRE](../formateurs/pistre.qmd)"
+- "[M. Mouftaou AMADOU SANNI](../formateurs/amadou-sanni.qmd)"
+- "[M. Nicolas LAMBERT](../formateurs/lambert.qmd)"
 author-title: Auteurs
 bibliography: biblio/spa3.bib
 nocite: '@*'
@@ -68,8 +68,7 @@ L'objectif de ce module est de montrer les différentes étapes d'analyse d'une 
 
 ## <i class="bi bi-person-video3"></i> Support de cours et de TD
 
-Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous. 
-
+Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous.
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -78,24 +77,23 @@ Les supports de cours et le déroulé des exercices sont disponibles à la consu
 <!-- </iframe> -->
 
 <!-- ::: {#url} -->
+
 <!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
 <!-- ::: -->
 
 <!-- </object> -->
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-
 <center><a href="https://ee-cist.github.io/SPA3-INTERACTION/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i>Consulter le cours et le TD en ligne</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   **GEO** : Découpages administratifs de niveau 1 et 2 des pays de l’école d’été
+-   **GEO** : Découpages administratifs de niveau 1 et 2 des pays de l'école d'été
 -   **IPUMS** : Extraction des RP du Bénin (2002, 2013), du Burkina Faso (2008) et du Mali (2009)
 
-
 <center><a href="https://bit.ly/3RvFczN " class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

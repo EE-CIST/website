@@ -7,8 +7,8 @@ categories:
 - Statistique
 ordre: "07" 
 author: 
-- M. Ané Landry TANOH
-- Mme. France GUERIN-PACE
+- "[M. Ané Landry TANOH](../formateurs/tanoh.qmd)"
+- "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp3.bib
 nocite: '@*'

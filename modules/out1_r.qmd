@@ -13,8 +13,8 @@ categories:
 - Outils
 ordre: "16" 
 author: 
-- M. Justin DANSOU
-- M. Hugues PECOUT
+- "[M. Justin DANSOU](../formateurs/dansou.qmd)"
+- "[M. Hugues PECOUT](../formateurs/pecout.qmd)"
 author-title: Auteurs
 bibliography: biblio/R.bib
 nocite: '@*'
@@ -101,7 +101,7 @@ Jour 4. **OpenStreetMap & R**
 -   Géocodage avec `tidygeocoder`
 -   Cartographie intéractive (`leaflet` et `mapview`)
 -   Extraction de données (`maptiles`, `osmdata` et `osmextract`)
--   Calcul d’un itinéraire avec `osrm`
+-   Calcul d'un itinéraire avec `osrm`
 
 Jour 5. **Programmation lettrée et notebook**
 
@@ -126,7 +126,7 @@ Il est possible de récupérer le code source de l'ensemble du site, les donnée
 Ce module de formation utilise des données déjà préalablement utilisées dans les différents modules thématiques de l'école. En voici la liste :
 
 |             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
-|:---------------:|:---------------:|:-------------------------------------:|
+|:----------------:|:----------------:|:-----------------------------------:|
 | Données pays africains (UN-CEPII) |    tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 | Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 |   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |

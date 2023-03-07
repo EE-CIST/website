@@ -7,9 +7,9 @@ categories:
 - Modelisation
 ordre: "15" 
 author: 
-- M. Arnaud BRINGÉ
-- Mme. France GUERIN-PACE
-- M. Mouftaou AMADOU SANNI
+- "[M. Arnaud BRINGÉ](../formateurs/bringe.qmd)"
+- "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
+- "[M. Mouftaou AMADOU SANNI](../formateurs/amadou-sanni.qmd)"
 author-title: Auteurs
 bibliography: biblio/mod3.bib
 nocite: '@*'
@@ -78,9 +78,7 @@ Présentation du modèle à constante aléatoire puis à effets aléatoires sur 
 
 *A venir ...*
 
-<center>
-
-<a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

@@ -8,8 +8,8 @@ categories:
 - Recensement
 ordre: "02" 
 author: 
-- M. Mouftaou AMADOU SANNI
-- M. Pierre PISTRE
+- "[M. Mouftaou AMADOU SANNI](../formateurs/amadou-sanni.qmd)"
+- "[M. Pierre PISTRE](../formateurs/pistre.qmd)"
 author-title: Auteurs
 bibliography: biblio/typ2.bib
 nocite: '@*'

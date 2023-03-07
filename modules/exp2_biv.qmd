@@ -8,7 +8,7 @@ categories:
 ordre: "05" 
 author: 
 - "[Mme. Malika MADELIN](../formateurs/madelin.qmd)"
-- M. Yentougle MOUTORE
+- "[M. Yentougle MOUTORE](../formateurs/moutore.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp2.bib
 nocite: '@*'

@@ -8,8 +8,8 @@ categories:
 - Enquêtes
 ordre: "01" 
 author: 
-- Mme. Fatoumata COULIBALY
-- Mme. France GUERIN-PACE
+- "[Mme. Fatoumata COULIBALY](../formateurs/coulibaly.qmd)"
+- "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
 author-title: Auteurs
 bibliography: biblio/typ1.bib
 nocite: '@*'

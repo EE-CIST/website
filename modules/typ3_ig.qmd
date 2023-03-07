@@ -10,8 +10,8 @@ categories:
 - Cartographie
 ordre: "03" 
 author: 
-- Mme. Pauline GLUSKI
-- M. Labaly TOURÉ
+- "[Mme. Pauline GLUSKI](../formateurs/gluski.qmd)"
+- "[M. Labaly TOURÉ](../formateurs/toure.qmd)"
 author-title: Auteurs
 bibliography: biblio/typ3.bib
 nocite: '@*'
