@@ -24,6 +24,8 @@ website:
         text: Données
       - href: modules.qmd
         text: Modules
+      - href: modulesA.qmd
+        text: ModulesA        
     right:
       - href: apropos.qmd
         text: Mentions légales
@@ -47,6 +49,7 @@ website:
       - href: donnees.qmd
         text: <b>Données</b>
       - modules.qmd
+      - modulesA.qmd
       - href: modules/typ1_enq.qmd
         text: TYP1 - Données d'enquête      
       - href: modules/typ2_rec.qmd
