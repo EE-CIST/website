@@ -6,7 +6,7 @@ website:
   favicon: img/cist.png
   twitter-card: true
   site-url: https://cist2023.netlify.app/
-  description: "Site web de l'école d'été international 2023 du CIST"
+  description: "Site web de l'école d'été internationale 2023 du CIST"
   page-navigation: false
   search: 
     location: sidebar
