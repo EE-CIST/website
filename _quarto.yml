@@ -16,16 +16,10 @@ website:
     left: 
       - href: ecole_thematique.qmd
         text: École d'été
-      - href: programme.qmd
-        text: Programme
       - href: equipe.qmd
-        text: Équipe
-      - href: donnees.qmd
-        text: Données
+        text: Equipe
       - href: modules.qmd
         text: Modules
-      - href: modulesA.qmd
-        text: ModulesA        
     right:
       - href: apropos.qmd
         text: Mentions légales
@@ -42,47 +36,20 @@ website:
     contents:
       - href: ecole_thematique.qmd
         text: <b>École d'été</b>
-      - href: programme.qmd
-        text: Programme
       - href: equipe.qmd
         text: <b>Équipe</b>      
-      - href: donnees.qmd
-        text: <b>Données</b>
-      - modules.qmd
-      - modulesA.qmd
-      - href: modules/typ1_enq.qmd
-        text: TYP1 - Données d'enquête      
-      - href: modules/typ2_rec.qmd
-        text: TYP2 - Données recensement    
-      - href: modules/typ3_ig.qmd
-        text: TYP3 - L'information géographique
-      - href: modules/exp1_uni.qmd
-        text: EXP1 - Statistique univariée
-      - href: modules/exp2_biv.qmd
-        text: EXP2 - Statistique bivariée     
-      - href: modules/exp3_mul.qmd
-        text: EXP3 - Statistique multivariée  
-      - href: modules/cart1-2_the.qmd
-        text: CAR1 - Cartographie thématique         
-      - href: modules/cart3_dyn.qmd
-        text: CAR2 - Cartographie dynamique         
-      - href: modules/spa1_sem.qmd
-        text: SPA1 - Semis de points  
-      - href: modules/spa2_dis.qmd
-        text: SPA2 - Distance et accessibilité    
-      - href: modules/spa3_int.qmd
-        text: SPA3 - Interaction spatiale et flux   
-      - href: modules/mod1_quanti.qmd 
-        text: MOD1 - Regression multiple
-      - href: modules/mod2_quali.qmd 
-        text: MOD2 - Modèle Logit
-      - href: modules/mod3_multiniv.qmd 
-        text: MOD3 - Multiniveaux
-      - href: modules/out1_r.qmd
-        text: OUT1 - Inititation à R 
-      - href: modules/out2_qgis.qmd
-        text: OUT2 - Initiation à QGIS
-        
+      - href: modulesA.qmd
+        text: A. COLLECTE DES DONNEES
+      - href: modulesB.qmd
+        text: B. STATISTIQUE EXPLORATOIRE  
+      - href: modulesC.qmd
+        text: C. MODELES DE REGRESSION
+      - href: modulesD.qmd
+        text: D. CARTOGRAPHIE
+      - href: modulesE.qmd
+        text: E. ANALYSE SPATIALE 
+      - href: modulesF.qmd
+        text: F. OUTILS      
 
   page-footer: ET CIST·2023 - [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
   margin-header: |

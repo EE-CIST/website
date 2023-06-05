@@ -1,0 +1,97 @@
+---
+title: "CAR2 - Cartographie dynamique"
+subtitle: "Cartographie dynamique avec Observable JavaScript et Quarto"
+date: 02/28/2023
+image: img/carto.jpg
+categories: 
+- Cartographie
+ordre: "08" 
+author: 
+- "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo.qmd)"
+- "[M. Nicolas LAMBERT](../formateurs/lambert.qmd)"
+author-title: Auteurs
+bibliography: biblio/cart3.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/EE-CIST/CAR2_cartodyn
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+::: {#contrib}
+### Contributeur·rice·s
+
+Claude GRASLAND *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Malika MADELIN *(France)* -- Sébastien REY-COYREHOURCQ *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Hugues PECOUT *(France)* -- Yentougle MOUTORE *(Togo)* -- Bénédicte GARNIER *(France)* -- Côomlan Charles HOUNTON *(Bénin)* -- Pauline GLUSKI *(France)*
+:::
+
+<div>
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+
+Le module s'adresse à des étudiant·es en géographie niveau master (1 ou 2) ou des étudiant·es en informatique (géomatique) ou en école d'ingénieur.
+
+Il est composé d'un cours magistral et de deux travaux pratiques en salle informatique. Le module nécessite donc des ordinateurs sur lesquels sont installés **RStudio** et **Quarto**. Et si possible, une connexion Internet.
+
+Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heures par exemple.
+
+</div>
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf. module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
+
+La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécessaires.
+
+## <i class="bi bi-bookmark"></i> Résumé
+
+Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript bertin.
+
+La séquence s'organise en 3 étapes :
+
+-   une présentation générale sur la visualisation de données sur le web et les concepts de l'Observable JavaScript et des notebooks computationnels
+-   un premier TP de prise en main sur ordinateur pour apprendre à réaliser des cartes interactives avec Quarto et Rstudio à l'échelle des pays africains
+-   un second TP pour apprendre à réaliser une réelle application de cartographie interactive (single page application) à l'échelle mondiale.
+
+## <i class="bi bi-person-video3"></i> Support de cours
+
+-   Un diaporama de [présentation](https://ee-cist.github.io/CAR2_cartodyn/intro/docs/index.html#/title-slide)
+
+<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+
+<iframe class="slide" src="https://ee-cist.github.io/CAR2_cartodyn/intro/docs/index.html#/title-slide">
+
+</iframe>
+
+</object>
+
+<!-- <center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i>Télécharger les supports</a></center> -->
+
+## <i class="bi bi-person-video3"></i> Support de TD
+
+-   Un notebook guide pour le [TP1](https://ee-cist.github.io/CAR2_cartodyn/TP1/docs/index.html)
+-   Un notebook guide pour le [TP2](https://ee-cist.github.io/CAR2_cartodyn/TP2/docs/index.html) et sa solution
+
+Ces supports sont accessibles sur le GitHub du module.
+
+<center><a href="https://github.com/EE-CIST/CAR2_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
+
+## <i class="bi bi-clipboard-data"></i> Données
+
+Deux fichiers de données au niveau des pays à 2 échelles géographiques sont téléchargeables :
+
+-   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
+-   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
+
+<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::

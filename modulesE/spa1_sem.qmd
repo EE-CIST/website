@@ -1,0 +1,119 @@
+---
+title: "SPA1 - Semis de Points"
+subtitle: "Initiation à l’analyse spatiale : résumés élémentaires et formes de semis de points"
+date: 03/02/2023
+image: img/point.png
+categories: 
+- Analyse spatiale
+ordre: "09" 
+author: 
+- "[M. Souleymane TRAORÉ](../formateurs/traore.qmd)"
+- "[Mme. Marianne GUÉROIS](../formateurs/guerois.qmd)"
+author-title: Auteurs
+bibliography: biblio/spa1.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  # links:
+  #   - icon: github
+  #     text: GitLab
+  #     href: https://gitlab.huma-num.fr/elementr/session_2
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+<!-- ::: {#contrib} -->
+
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
+
+<div>
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+
+Ce module propose de suivre un cours et des travaux dirigés durant 2 heures chacun, bien adaptés à une initiation à l'analyse spatiale.
+
+Les travaux dirigés se font en deux parties :
+
+-   partie 1 : résumé d'un semis de points réalisé sous R (1h)
+-   partie 2 : forme (dispersion/concentration) d'un semis de points réalisé sous R ou QGIS
+
+</div>
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+**Méthodologiques** : initiation aux [statistiques univariées](exp1_uni.qmd) (EXP1) (et ponctuellement, [bivariées](exp2_biv.qmd) (EXP2) -- [corrélation](mod1_quanti.qmd) (MOD1)) et notions sur la dimension spatiale de [l'information géographique](typ3_ig.qmd) (TYP3) (systèmes de coordonnées)
+
+**Techniques** : maîtrise de l'outil informatique, sous R, manipulations et résumés élémentaires de données au format dataframe, manipulations élémentaires de données au format sf, cartographie.
+
+Les notions abordées dans ce modules sont utiles pour les niveaux suivants : [autocorrélation spatiale](spa4_aut.qmd) (SPA4), et [accessibilité et distance](spa2_dis.qmd) (SPA2).
+
+## <i class="bi bi-bookmark"></i> Résumé
+
+Le cours est constitué de trois parties :
+
+1.  la définition d'un semis de points (et la distinction entre lieux et points)
+
+2.  les résumés élémentaires d'un semis de points (points centraux non pondérés ; points centraux pondérés ; dispersion autour de ces points)
+
+3.  la forme d'un semis de points (méthode des quadrats et méthode du plus proche voisin)
+
+Le TD est construit autour de deux parties :
+
+1.  l'exercice s'appuie sur la base Africapolis pour suivre l'évolution du semis urbain (1950-2015) dans plusieurs pays : le Bénin est l'exemple suivi en TD, chaque participant.e choisit un autre pays (Burkina-Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo) pour reproduire les analyses et comparer l'évolution de son pays avec celle du Bénin, en suivant plusieurs étapes (depuis le résumé de la diffusion du semis urbain jusqu'à la réflexion sur la localisation optimale d'un équipement à implanter).
+
+2.  application d'une méthode d'analyse de forme de semis de points à la répartition des forages d'eau au Togo.
+
+## <i class="bi bi-person-video3"></i> Support de cours
+
+Un diaporama ainsi que des exercices au format Word sont disponibles à la consultation et au téléchargement.
+
+<!--  -->
+
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+
+<!-- </iframe> -->
+
+<!-- ::: {#url} -->
+
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
+<!-- ::: -->
+
+<!-- </object> -->
+
+<!--  -->
+
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
+
+\
+
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
+
+\
+
+## <i class="bi bi-clipboard-data"></i> Données
+
+-   Partie 1 : Base [Africapolis](../donnees/vil_afric_2015.qmd) et GADM
+-   Partie 2 : Puits de forage au Togo
+
+\
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+
+\
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::

@@ -1,8 +1,8 @@
 ---
-title: "**ModulesA**"
-subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
+title: "**A. DONNEES**"
+subtitle: "**Collecte et préparation des données**"
 listing:
-  id: modules
+  id: modulesA
   fields: [author, image, title, subtitle, categories]
   field-links: ["title"]
   contents: modulesA

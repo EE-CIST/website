@@ -1,0 +1,154 @@
+---
+title: "OUT2 - Initiation à QGIS"
+subtitle: "Introduction aux systèmes d'information géographique et à l'outil QGIS"
+image: img/qgis.png
+date: 02/27/2023
+categories: 
+- Outils
+- Géomatique
+- Analyse spatiale
+- Cartographie
+ordre: "17" 
+author: 
+- "[Mme. Cathy CHATEL](../formateurs/chatel.qmd)"
+- "[M. Zakariyao KOUMOI](../formateurs/koumoi.qmd)"
+- "[Mme. Elina MARVEAUX](../formateurs/marveaux.qmd)"
+author-title: Auteurs
+bibliography: ../modules/biblio/out2.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: GitLab
+      href: https://gitlab.huma-num.fr/elementr/session_2
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+<!-- ::: {#contrib} -->
+
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
+
+<div>
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+
+Ce module est conçu comme une initiation aux **Systèmes d'Information Géographique** (SIG) et à "QGIS", il s'adresse donc à un public de tout niveau sensible à l'information spatiale.
+
+L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
+
+Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin [**SCP *(Semi-Automatic Classification Plugin)***](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) et un logiciel de traitement de texte pour suivre les exercices.
+
+</div>
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'outil informatique (ordinateur, traitement de texte, internet...)
+
+## <i class="bi bi-bookmark"></i> Résumé
+
+Le module a pour objectif d'initier les participants à l'utilisation de l'outil SIG "QGis" en se familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux processus de travail dans un environnement SIG. En cinq séances de deux heures maximums, les participants apprendront à maîtriser le logiciel SIG "QGIS" à travers des séances de travaux dirigés.
+
+Les participant.es apprendront à : - Manipuler les données vecteurs et raster  afin d'utiliser les outils d'analyse spatiale proposés par QGis ; - Produire des cartes thématiques.
+
+Ces TD sont en lien avec les enseignements dispensés lors des autres modules de l'école d'été portant notamment sur les [données géographiques](typ3_ig.qmd) et géostatistiques, la [cartographie](cart1-2_the.qmd) et l'[analyse spatiale](spa1_sem.qmd). A la fin de ce module, les participants possèderont les connaissances nécessaires pour élaborer des cartes thématiques avec le logiciel QGIS de façon autonome.
+
+## <i class="bi bi-calendar-week"></i> Programme
+
+*Les cours d'initiation à QGIS ont lieu tous les jours du lundi au vendredi de 14h à 16h.*
+
+1.  **Introduction**
+
+    -   Présentation de l'environnement de travail et des types de données
+    -   Modes d'acquisition des données
+    -   Premières manipulations de données vectorielles :
+        -   Géoréférencer une image
+        -   Digitaliser
+        -   (Saisir et enrichir de la table attributaire)
+
+2.  **Introduction aux données vectorielles**
+
+    -   Sélections
+    -   Calculs champs et résumés stat
+    -   Jointures attributaires
+    -   Jointures Spatiales
+
+3.  **Analyse spatiale - *Vecteur***
+
+    -   Géotraitements
+    -   Comptage de points et interpolation
+    -   Voronoï
+    -   Calculs de distances
+
+4.  **Analyse spatiale - *Raster***
+
+    -   Découverte des données raster et des manipulations
+    -   Modèle Numérique de Terrain (MNT) : visualisation et calculs de pentes
+    -   Images satellites LandSat : classification de l'occupation du sol
+    -   Interpolation (grid), symbologie des raster
+
+5.  **Cartographie**
+
+    -   Appliquer les règles de sémiologie graphique
+    -   Générer une symbologie
+    -   Générer une mise en page
+
+## <i class="bi bi-person-video3"></i> Support de cours
+
+L'intégralité des supports de cours est disponible ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données propres permettant de reprendre ces exercices (y compris des projets qgis prets à l'emploi)
+
+Le `.zip` nécessaire à l'installation du plugin SCP est aussi téléchargeable *(en version 7.10.10 du 12 novembre 2022)*
+
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
+
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+
+<!-- </iframe> -->
+
+<!-- ::: {#url} -->
+
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
+<!-- ::: -->
+
+<!-- </object> -->
+
+<!--  -->
+
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+
+<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
+
+<!-- \ -->
+
+<!-- \ -->
+
+<!--  -->
+
+## <i class="bi bi-clipboard-data"></i> Données
+
+-   OSM (Geofabrik) du Togo
+-   Fonds découpages administratifs : préfectures du Togo avec leurs noms, ID
+-   Tableur avec les préfectures du Togo : nom, ID, population - extraction RGP Afrique
+-   [Africapolis](../donnees/vil_afric_2015.qmd) - sous corpus
+-   MNT
+-   Landsat
+
+<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+
+\
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::

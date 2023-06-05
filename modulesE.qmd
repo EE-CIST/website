@@ -1,0 +1,30 @@
+---
+title: "**E. ANALYSE SPATIALE**"
+subtitle: "**Distance, semis de points, interaction, autocorrléation, ...**"
+listing:
+  id: modulesE
+  fields: [author, image, title, subtitle, categories]
+  field-links: ["title"]
+  contents: modulesE
+  sort-ui:  [categories]
+  sort: ["ordre"]
+  filter-ui: true
+  type: default
+  categories: true
+  image-height: 160px
+  table-hover: true
+  page-size: 30
+  field-display-names:
+    categories: "Thématique"
+---
+
+::: callout-important
+## Condition d'utilisation
+
+Pour les conditions d'utilisation des supports et des données, se reporter à la page ["Conditions d'utilisation"](conditions.qmd)
+:::
+
+Accédez à l'ensemble des supports de cours ou d'exercice, ainsi qu'aux données utilisées en cliquant sur le module ciblé.
+
+::: {#modulesE}
+:::
