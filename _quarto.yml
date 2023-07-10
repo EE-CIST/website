@@ -33,23 +33,43 @@ website:
         text: GitHub
         href: https://github.com/EE-CIST/website
   sidebar:
+    collapse-level: 1
     contents:
       - href: ecole_thematique.qmd
         text: <b>École d'été</b>
       - href: equipe.qmd
-        text: <b>Équipe</b>      
-      - href: modulesA.qmd
-        text: A. COLLECTE DES DONNEES
-      - href: modulesB.qmd
-        text: B. STATISTIQUE EXPLORATOIRE  
-      - href: modulesC.qmd
-        text: C. MODELES DE REGRESSION
-      - href: modulesD.qmd
-        text: D. CARTOGRAPHIE
-      - href: modulesE.qmd
-        text: E. ANALYSE SPATIALE 
-      - href: modulesF.qmd
-        text: F. OUTILS      
+        text: <b>Équipe</b> 
+      - href: modules.qmd
+        text: <b>Tous les modules</b> 
+      - section: "A. Collecte des données"
+        contents:
+          - modules/typ1_enq.qmd
+          - modules/typ2_rec.qmd
+          - modules/typ3_ig.qmd
+      - section: "B. Statistique exploratoire"
+        contents:
+          - modules/exp1_uni.qmd
+          - modules/exp2_biv.qmd
+          - modules/exp3_mul.qmd
+      - section: "C. Modèles de régression"
+        contents:
+          - modules/mod1_quanti.qmd
+          - modules/mod2_quali.qmd
+          - modules/mod3_multiniv.qmd
+      - section: "D. Cartographie"
+        contents:
+          - modules/cart1-2_the.qmd
+          - modules/cart3_dyn.qmd
+      - section: "E. Analyse spatiale"
+        contents:
+          - modules/spa1_sem.qmd
+          - modules/spa2_dis.qmd
+          - modules/spa3_int.qmd
+          - modules/spa4_aut.qmd
+      - section: "F. Outils"
+        contents:
+          - modules/out1_r.qmd
+          - modules/out2_qgis.qmd
 
   page-footer: ET CIST·2023 - [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
   margin-header: |
