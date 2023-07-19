@@ -24,7 +24,6 @@ format:
   html: 
     css: styles_ter.css
 ---
-
 <!-- ::: {#contrib} -->
 
 <!-- ### Contributeur·rice·s -->
@@ -32,9 +31,7 @@ format:
 <!-- Hugues Pecout, ... -->
 
 <!-- ::: -->
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
-
 Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R).
 
 Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfondissement et exercices pratiques).
@@ -72,11 +69,15 @@ Ce diaporama utilise notamment les données du marché de Bouaké pour présente
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Le script d'exercice peut-être téléchargé seul ...
+
 <center><a href="support/EXP2_ExoPratique.R" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Télécharger le script seul</a></center>
+
 \
 
 ...ou avec les données et le diaporama (dépot GitHub)
+
 <center><a href="https://github.com/mmadelin/EECIST23_EXP2/archive/refs/heads/main.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le dossier complet </a></center>
+
 <!-- Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ?? -->
 
 ## <i class="bi bi-clipboard-data"></i> Données

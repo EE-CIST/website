@@ -25,7 +25,6 @@ format:
   html: 
     css: styles_ter.css
 ---
-
 ::: {#contrib}
 ### Contributeur·rice·s
 
