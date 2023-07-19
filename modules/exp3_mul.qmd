@@ -5,9 +5,10 @@ date: 03/03/2023
 image: img/multi.png
 categories: 
 - Statistique
-ordre: "07" 
+ordre: "06" 
 author: 
 - "[M. Ané Landry TANOH](../formateurs/tanoh.qmd)"
+- "[Mr Claude GRASLAND](../formateurs/grasland.qmd)"
 - "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp3.bib
@@ -24,12 +25,6 @@ format:
   html: 
     css: styles_ter.css
 ---
-::: {#contrib}
-### Contributeur·rice·s
-
-Claude GRASLAND *(France)*
-:::
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module porte sur le traitement ou l'analyse des données statistiques et géographiques multidimensionnelles. Il cible la plupart des chercheur·es et étudiant·es dans le domaine des sciences économiques, sociales ou humaines.

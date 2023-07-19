@@ -23,8 +23,6 @@ website:
     right:
       - href: apropos.qmd
         text: Mentions légales
-      - href: conditions.qmd
-        text: Conditions d'utilisation
       - href: contact.qmd
         text: Contacts
     tools:
