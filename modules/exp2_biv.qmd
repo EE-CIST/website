@@ -2,7 +2,7 @@
 title: "EXP2 - Statistique bivariée"
 subtitle: "Introduction à la statistique descritpive bivariée"
 date: 03/01/2023
-image: img/khi2.png
+image: img/exp1.png
 categories: 
 - Statistique
 ordre: "05" 
@@ -24,14 +24,8 @@ format:
   html: 
     css: styles_ter.css
 ---
-<!-- ::: {#contrib} -->
-
-<!-- ### Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
 ## <i class="bi bi-info-circle"></i> Informations pratiques
+
 Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R).
 
 Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfondissement et exercices pratiques).
@@ -57,12 +51,6 @@ Ce diaporama utilise notamment les données du marché de Bouaké pour présente
 <iframe class="slide" src="https://mmadelin.github.io/EECIST23_EXP2/EXP2_statsbivar.html#/title-slide">
 
 </iframe>
-
-<!-- ::: {#url} -->
-
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-
-<!-- ::: -->
 
 </object>
 

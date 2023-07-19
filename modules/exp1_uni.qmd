@@ -1,15 +1,15 @@
 ---
 title: "EXP1 - Statistique univariée"
 subtitle: "Introduction à la statistique descritpive univariée"
-image: img/univarie.png
+image: img/exp1.png
 date: 02/28/2023
 categories: 
 - Statistique
 ordre: "04" 
 author: 
-- "[Mme. Bénédicte GARNIER](../formateurs/garnier.qmd)"
-- "[Mme. Malb Ama N’Danida YAGNINIM](../formateurs/yagninim.qmd)"
-- "[Mme. Sèïvè Ermine Armande DAMENOU](../formateurs/damenou.qmd)"
+- "[Mme Bénédicte GARNIER](../formateurs/garnier.qmd)"
+- "[Mme Malb Ama N’Danida YAGNINIM](../formateurs/yagninim.qmd)"
+- "[Mme Sèïvè Ermine Armande DAMENOU](../formateurs/damenou.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp1.bib
 nocite: '@*'
@@ -25,10 +25,11 @@ format:
   html: 
     css: styles_ter.css
 ---
+
 ::: {#contrib}
 ### Contributeur·rice·s
 
-Cômlan Charles HOUNTON *(Bénin) --* Nicolas LAMBERT *(France)* -- Pierre PISTRE *(France)* -- Malika MADELIN *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Cathy CHATEL *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Ané Landry TANOH *(Côte d'Ivoire)* -- Mouftaou AMADOU SANNI *(Bénin)*
+Côomlan Charles HOUNTON *(Bénin) --* Nicolas LAMBERT *(France)* -- Pierre PISTRE *(France)* -- Malika MADELIN *(France)* -- Vakaramoko BAMBA *(Côte d'Ivoire)* -- Cathy CHATEL *(France)* -- Souleymane Sidi TRAORE *(Mali)* -- Ané Landry TANOH *(Côte d'Ivoire)* -- Mouftaou AMADOU SANNI *(Bénin)*
 :::
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
@@ -55,34 +56,33 @@ Nous utiliserons des données extraites des Enquêtes Démographiques et de Sant
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-*A venir ...*
+Le diaporama commenté est disponible à la consultation et au téléchargement.
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+<iframe class="slide" src="../modules/support/exp1_uni.pdf">
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+</iframe>
 
-<!-- </iframe> -->
-
-<!-- ::: {#url} -->
-
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-
-<!-- ::: -->
-
-<!-- </object> -->
+<center><a href="https://bit.ly/3rw1isZ" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le diaporama </a></center>
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-*A venir...*
+Trois exercices sont téléchargeables ci-dessous.
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Consulter</a></center>
+Vous trouverez chaque fois :
+
+-   un projet R à lancer un fichier `enonce.qmd` pour réaliser l'exercice
+-   un fichier `correction.qmd` pour réaliser l'exercice avec la correction
+-   un fichier `correction.html` pour consulter la correction
+-   un dossier `datas`
+
+<center><a href="https://bit.ly/3HMUU6g" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Consulter</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [Enquêtes Démographiques et de Santé (EDS)](../donnees/eds_afriq.qmd)
 -   Extraits à 10% des EDS pour quatre pays (Bénin, Burkina-Faso, Mali, Togo)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down" target="_blank" rel="noopener noreferrer"></i> Data.zip</a></center>
+<!-- <center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down" target="_blank" rel="noopener noreferrer"></i> Data.zip</a></center> -->
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

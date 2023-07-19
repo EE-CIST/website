@@ -25,6 +25,7 @@ format:
   html: 
     css: styles_ter.css
 ---
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module porte sur le traitement ou l'analyse des données statistiques et géographiques multidimensionnelles. Il cible la plupart des chercheur·es et étudiant·es dans le domaine des sciences économiques, sociales ou humaines.

@@ -49,15 +49,15 @@ website:
           - modules/exp1_uni.qmd
           - modules/exp2_biv.qmd
           - modules/exp3_mul.qmd
-      - section: "C. Modèles de régression"
+      - section: "C. Cartographie"
+        contents:
+          - modules/cart1-2_the.qmd
+          - modules/cart3_dyn.qmd
+      - section: "D. Modèles de régression"
         contents:
           - modules/mod1_quanti.qmd
           - modules/mod2_quali.qmd
           - modules/mod3_multiniv.qmd
-      - section: "D. Cartographie"
-        contents:
-          - modules/cart1-2_the.qmd
-          - modules/cart3_dyn.qmd
       - section: "E. Analyse spatiale"
         contents:
           - modules/spa1_sem.qmd

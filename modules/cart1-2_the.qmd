@@ -24,6 +24,7 @@ format:
   html: 
     css: styles_ter.css
 ---
+
 <!-- ::: {#contrib} -->
 
 <!-- ### Contributeur·rice·s -->
@@ -31,7 +32,9 @@ format:
 <!-- Hugues Pecout, ... -->
 
 <!-- ::: -->
+
 <div>
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse à des étudiant·es, formateur·ices de premier niveau et comprend un cours magistral et des exercices en travaux dirigés.

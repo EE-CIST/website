@@ -1,7 +1,7 @@
 ---
 title: "TYP3 - L'information Géographique"
 subtitle: "Introduction à l'information Géographique"
-image: img/sig.jpg
+image: img/typ3.png
 date: 02/27/2023
 categories: 
 - Données
@@ -10,7 +10,7 @@ categories:
 - Cartographie
 ordre: "03" 
 author: 
-- "[Mme. Pauline GLUSKI](../formateurs/gluski.qmd)"
+- "[Mme Pauline GLUSKI](../formateurs/gluski.qmd)"
 - "[M. Labaly TOURÉ](../formateurs/toure.qmd)"
 author-title: Auteurs
 bibliography: biblio/typ3.bib
@@ -27,24 +27,11 @@ format:
   html: 
     css: styles_ter.css
 ---
-
-<!-- ::: {#contrib} -->
-
-<!-- ### Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
-
-<div>
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse à tout public et s'organise autour d'un cours (1h30) et de travaux dirigés (3 heures d'exercices).
 
 Les outils mobilisés sont un ordinateur avec **QGIS** et un smartphone Android avec l'application **GPStest** pour les exercices de collecte de données.
-
-</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -56,38 +43,13 @@ Le module Information géographique a pour objectif d'une part d'expliquer ce qu
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un diaporama pour suivre le cours ainsi des fichiers word pour les exercices sont disponibles au téléchargement et à la consultation.
+Le diaporama commenté est disponible à la consultation et au téléchargement.
 
-<!--  -->
+<iframe class="slide" src="../modules/support/typ3_ig.pdf">
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+</iframe>
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
-
-<!-- </iframe> -->
-
-<!-- ::: {#url} -->
-
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-
-<!-- ::: -->
-
-<!-- </object> -->
-
-<!--  -->
-
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
-
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
-
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
-
-## <i class="bi bi-clipboard-data"></i> Données
-
--   Base de données sur la ville de Ouidah (shapefile d'OSM et raster de l'USGS)
--   Collecte de données sur le terrain via l'application **GPStest**
-
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="https://bit.ly/3DihLUi" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger le diaporama </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
