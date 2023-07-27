@@ -34,7 +34,7 @@ format:
 ::: {#contrib}
 ### Contributeur·rice·s
 
-Elina MARVEAUX *(France)* -- Timothée GIRAUD *(France)* -- Sébastien REY-COYREHOURCQ *(France)*
+Elina MARVEAUX *(France)* -- Sébastien REY-COYREHOURCQ *(France)* -- Timothée GIRAUD *(France)*
 :::
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
@@ -67,6 +67,7 @@ Les différentes leçons sont classées en sept blocs thématiques qui segmenten
 -   **Manipulation de données** (gestion & traitement de données)
 -   **Statistique descriptive** (uni, bi et multivariée)
 -   **Représentation graphique** (R-base & ggplot2)
+-   **Analyse de réseau** (théorie de graphes et analyse de réseau)
 -   **Géomatique** (traitement des données vectorielles et raster)
 -   **Cartographie thématique** (statique et interactive)
 -   **Reproductibilité** (bonnes pratiques pour la recherche reproductible)
@@ -88,7 +89,7 @@ Jour 2. **Statistique descriptive et cartographie thématique**
 
 -   Statistique univariée et bivariée
 -   Graphique avec R-base
--   Statistique multivariée (CAH avec `FactoMineR`)
+-   Classification Acsendante Hiérarchique
 -   Cartographie avec `mapsf`
 
 Jour 3. **Géomatique avec sf et terra**
@@ -111,28 +112,32 @@ Jour 5. **Programmation lettrée et notebook**
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié.
-
-<center><a href="https://tigr.netlify.app/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le site du module TIG'R</a></center>
+Les différentes leçons ont été rassemblées et mises à disposition sur une site web dédié :
 
 \
 
-Il est possible de récupérer le code source de l'ensemble du site, les données utilisées ainsi que les corrections des exercices en cliquant sur ce lien :
+<center><a href="https://ee-cist.github.io/TIGR/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Site web TIG'R</a></center>
 
-<center><a href="https://bit.ly/3IIJSQ9" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> TIG'R.zip</a></center>
+<!-- \ -->
+
+<!-- Il est possible de récupérer le code source de l'ensemble du site, les données utilisées ainsi que les corrections des exercices en cliquant sur ce lien : -->
+
+<!-- <center><a href="https://bit.ly/3IIJSQ9" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> TIG'R.zip</a></center> -->
+
+\
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 Ce module de formation utilise des données déjà préalablement utilisées dans les différents modules thématiques de l'école. En voici la liste :
 
 |             Intitulé              |        Type        |                                                                     Téléchargement                                                                      |
-|:----------------:|:----------------:|:-----------------------------------:|
+|:----------------:|:----------------:|:----------------------------------:|
 | Données pays africains (UN-CEPII) |    tableau csv     | <a href="https://bit.ly/3DaCAkX" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 | Fond de carte Afrique (GADM 2020) |   ESRI Shapefile   | <a href="https://bit.ly/3DaAUb2" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 |   Africapolis 2020 (Extraction)   |   ESRI Shapefile   | <a href="https://bit.ly/3wnQKeG" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 |        Élévation au Bénin         | image raster (TIF) | <a href="https://bit.ly/3XqLAKR" class="btn btn-outline-warning" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down"></i> Download</a> |
 
-Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : <https://tigr.netlify.app/data.html>.
+Tous ces jeux de données sont présentés et mis à disposition sur une page dédiée du site web de ce module : <https://ee-cist.github.io/TIGR/data.html>.
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
