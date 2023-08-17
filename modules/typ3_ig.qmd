@@ -49,6 +49,7 @@ Le diaporama commenté est disponible à la consultation et au téléchargement.
 
 </iframe>
 
+
 <center><a href="https://bit.ly/3DihLUi" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger le diaporama </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
