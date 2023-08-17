@@ -64,38 +64,23 @@ Le TD est construit autour de deux exercices :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Un diaporama ainsi que des exercices au format Word sont disponibles à la consultation et au téléchargement.
+Un diaporama du cours commenté ainsi qu'un tutoriel QGIS sont disponibles à la consultation et au téléchargement.
 
-<!--  -->
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+<iframe class="slide" src="spa1_sem.pdf">
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
-
-<!-- </iframe> -->
-
-<!-- ::: {#url} -->
-
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-
-<!-- ::: -->
-
-<!-- </object> -->
-
-<!--  -->
+</iframe>
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   Partie 1 : Base [Africapolis](../donnees/vil_afric_2015.qmd) et GADM
 -   Partie 2 : stations services dans la municipalité de Bamako (enquête S. Traoré, 2020)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="	https://bit.ly/3kZisvY" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

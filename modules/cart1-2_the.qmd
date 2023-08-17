@@ -33,11 +33,10 @@ Outils de base : crayons et papiers ET/OU un ordinateur avec un logiciel de cart
 
 Ce module est construit autour de 3 heures de cours et environ 6 heures d'exercices (qui peuvent être allongées pour bien maîtriser les compétences visées).
 
-</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Un niveau débutant en statistique (univarié) est requis a minima.
+Un niveau débutant en [statistique univariée](exp1_uni.qmd) (EXP1) est requis a minima.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
@@ -71,7 +70,8 @@ Les compétences visées sont simples :
 Deux fichiers de données sont téléchargeables :
 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
--   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
+-   Bénin - *Extraction de GADM*
+<!-- -   Bénin - *Extraction de GADM(../donnees/gen_monde.qmd)* -->
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports \n et les exercices </a></center>
 
