@@ -92,7 +92,11 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 
 <!-- </object> -->
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+## <i class="bi bi-person-video3"></i> Exercices d'application
+
+5 exercices ont été construits sous R pour suivre ce module et sont téléchargeable ci-dessous. 
+
+Dans chaque dossier d'exercice vous trouverez un fichier `.rproj` à ouvrir dans rStudio, un fichier `.qmd` d'énoncé et d'exercice et le `.pdf` issu de la compilation de cet exercice, ainsi que les données et autres fichiers necessaires (images).
 
 <!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
@@ -103,7 +107,7 @@ Le module s'organise en deux parties : d'une part faire le point sur les génér
 -   **AFC** : Données du recensement du Bénin sur les langues parlées et les départements
 -   **ACM** : Données d'enquêtes sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire (Bagoué, Folon, Kabadougou et Minignan). L'enquête a été réalisée entre 2016 et 2018 auprès de 635 chefs de ménage dans huit départements et 25 sous-préfectures. Plusieurs variables ont été mobilisées : variables géographiques, démographiques, économiques, sociales, culturelles et de l'offre.
 
-<center><a href="https://bit.ly/3DwvgjY" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3DwvgjY" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les exercices et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

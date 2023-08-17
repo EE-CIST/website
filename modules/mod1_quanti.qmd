@@ -104,9 +104,9 @@ Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec 
 
 <!-- ## <i class="bi bi-clipboard-data"></i> Données -->
 
--   [Précipitations en Californie](../donnees/pre_calif_1965.qmd)
--   [Développement des pays africains](../donnees/dev_afric_2018.qmd)
--   [Enquête consommation Bénin](../donnees/fin_benin_2018.qmd)
+-   Précipitations en Californie
+-   Développement des pays africains
+-   Enquête consommation Bénin
 
 <center><a href="https://bit.ly/3wI9EgF" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
