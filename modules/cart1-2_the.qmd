@@ -73,7 +73,7 @@ Deux fichiers de données sont téléchargeables :
 -   Bénin - *Extraction de GADM*
 <!-- -   Bénin - *Extraction de GADM(../donnees/gen_monde.qmd)* -->
 
-<center><a href="https://bit.ly/3JvoE96" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports \n et les exercices </a></center>
+<center><a href="https://bit.ly/3JvoE96" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les exercices </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

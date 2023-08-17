@@ -71,9 +71,9 @@ Un diaporama du cours commenté ainsi qu'un tutoriel QGIS sont disponibles à la
 
 </iframe>
 
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+## <i class="bi bi-person-video3"></i> Support de TD
 
-
+Les exercices téléchargeables sont à réaliser sous R. Chaque dossier contient les données et autres sources nécéssaires à la réalisation de l'exercice, un fichier `.html` reprenant l'énoncé de l'exercice accompagné du `.qmd`  permettant sa compilation (modifiable sous R) et d'un script dans lequel réaliser les exercices.
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
