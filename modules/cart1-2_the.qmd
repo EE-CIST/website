@@ -25,16 +25,6 @@ format:
     css: styles_ter.css
 ---
 
-<!-- ::: {#contrib} -->
-
-<!-- ### Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
-
-<div>
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse à des étudiant·es, formateur·ices de premier niveau et comprend un cours magistral et des exercices en travaux dirigés.
@@ -81,7 +71,6 @@ Les compétences visées sont simples :
 
 </object>
 
-<center><a href="https://bit.ly/3JvoE96" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger les supports </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -90,11 +79,8 @@ Deux fichiers de données sont téléchargeables :
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-\
+<center><a href="https://bit.ly/3JvoE96" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports \n et les exercices </a></center>
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
-
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
