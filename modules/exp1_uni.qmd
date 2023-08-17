@@ -62,8 +62,6 @@ Le diaporama commenté est disponible à la consultation et au téléchargement.
 
 </iframe>
 
-<center><a href="https://bit.ly/3rw1isZ" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le diaporama </a></center>
-
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Trois exercices sont téléchargeables ci-dessous.
@@ -81,7 +79,6 @@ Vous trouverez chaque fois :
 
 -   [Enquêtes Démographiques et de Santé (EDS)](../donnees/eds_afriq.qmd)
 -   Extraits à 10% des EDS pour quatre pays (Bénin, Burkina-Faso, Mali, Togo)
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

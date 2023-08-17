@@ -24,6 +24,7 @@ format:
   html: 
     css: styles_ter.css
 ---
+
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R).

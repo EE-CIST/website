@@ -53,23 +53,17 @@ Les compétences visées sont simples :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-<object class="slide" data="support/car1_cours.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/car1_cours.pdf">
 
 </iframe>
 
-</object>
 
 ## <i class="bi bi-person-video3"></i> Support de TD
-
-<object class="slide" data="support/car1_exos.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/car1_exos.pdf">
 
 </iframe>
-
-</object>
 
 
 ## <i class="bi bi-clipboard-data"></i> Données
@@ -80,7 +74,6 @@ Deux fichiers de données sont téléchargeables :
 -   Bénin - *Extraction du [???](../donnees/gen_monde.qmd)*
 
 <center><a href="https://bit.ly/3JvoE96" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports \n et les exercices </a></center>
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
