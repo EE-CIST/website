@@ -57,13 +57,13 @@ website:
         contents:
           - modules/mod1_quanti.qmd
           - modules/mod2_quali.qmd
-          - modules/mod3_multiniv.qmd
+          # - modules/mod3_multiniv.qmd
       - section: "E. Analyse spatiale"
         contents:
           - modules/spa1_sem.qmd
           - modules/spa2_dis.qmd
           - modules/spa3_int.qmd
-          - modules/spa4_aut.qmd
+          # - modules/spa4_aut.qmd
       - section: "F. Outils"
         contents:
           - modules/out1_r.qmd
