@@ -28,38 +28,38 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s\'adresse à toute personne intéressée par la connaissance et l\'utilisation des recensements de la population pour l\'analyse des dynamiques territoriales.
+Ce module s'adresse à toute personne intéressée par la connaissance et l'utilisation des recensements de la population pour l'analyse des dynamiques territoriales.
 
-Il s\'organise autour d\'un cours magistral d\'une durée approximative de deux heures (support de diapositives) et d\'une session d\'exercices de deux ou trois heures (support notebook). La partie Exercices nécessite l\'utilisation d\'un ordinateur équipé de R et R Studio, ainsi que d\'un logiciel tableur (ex. LibreOffice).
+Il s'organise autour d'un cours magistral d'une durée approximative de deux heures (support de diapositives) et d'une session d'exercices de deux ou trois heures (support notebook). La partie Exercices nécessite l'utilisation d'un ordinateur équipé de R et R Studio, ainsi que d'un logiciel tableur (ex. LibreOffice).
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 Aucun prérequis pour la partie cours.
 
-Pour la partie exercices, maîtrise de l\'outil informatique et initiation préalable à l\'utilisation de [R et RStudio](out1_r.qmd) (y compris à l\'univers tidyverse).
+Pour la partie exercices, maîtrise de l'outil informatique et initiation préalable à l'utilisation de [R et RStudio](out1_r.qmd) (y compris à l'univers tidyverse).
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Partie prenante du cycle de formation sur les données utiles pour l\'analyse des territoires, ce module se concentre sur les recensements (de la population) avec un double objectif : 	
+Partie prenante du cycle de formation sur les données utiles pour l'analyse des territoires, ce module se concentre sur les recensements (de la population) avec un double objectif :
 
--   **Cours** : introduire aux principales connaissances nécessaires pour comprendre les intérêts et les limites de cette source, notamment dans une perspective d\'utilisation internationale. Le cours est organisée en quatre parties :
+-   **Cours** : introduire aux principales connaissances nécessaires pour comprendre les intérêts et les limites de cette source, notamment dans une perspective d'utilisation internationale. Le cours est organisée en quatre parties :
 
     1.  définitions
     2.  contextes géographiques et historiques
     3.  méthodes de production
     4.  enjeux-usages-défis.
 
--   **Exercices :** à partir des données archivées par IPUMS international, prendre en main des données individuelles de recensement et les utiliser pour de premières analyses simples. La partie d\'exercices est organisée en trois parties :
+-   **Exercices :** à partir des données archivées par IPUMS international, prendre en main des données individuelles de recensement et les utiliser pour de premières analyses simples. La partie d'exercices est organisée en trois parties :
 
     1.  importation de données (protocole de sélection et commande de données sur le site IPUMS international)
-    2.  préparation des données (création de deux tables de données agrégées, 	structurelles et de flux)
-    3.  utilisation des données pour répondre à des consignes d\'exercices (sur la densité population, les structures de population, les migrations, etc.) 	
+    2.  préparation des données (création de deux tables de données agrégées, structurelles et de flux)
+    3.  utilisation des données pour répondre à des consignes d'exercices (sur la densité population, les structures de population, les migrations, etc.)
 
--   Différents exemples sont utilisés pour rendre plus concrète 	la formation : notamment la comparaison des recensements béninois et français pour la partie cours, et les données du recensement béninois 2013 pour la partie exercices.
+-   Différents exemples sont utilisés pour rendre plus concrète la formation : notamment la comparaison des recensements béninois et français pour la partie cours, et les données du recensement béninois 2013 pour la partie exercices.
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-L\'intégralité des supports de formation sont mis à disposition ainsi que les tableaux de données agrégées utilisées. Il est par contre nécessaire d\'effectuer une commande personnelle de données individuelles sur le site d\'IPUMS International pour la réalisation d\'une partie des exercices (parties 1 et 2).
+L'intégralité des supports de formation sont mis à disposition ainsi que les tableaux de données agrégées utilisées. Il est par contre nécessaire d'effectuer une commande personnelle de données individuelles sur le site d'IPUMS International pour la réalisation d'une partie des exercices (parties 1 et 2).
 
 L'intégralité des supports et données sont téléchargeables ci-dessous. Le fichier zip contient :
 
@@ -69,7 +69,7 @@ L'intégralité des supports et données sont téléchargeables ci-dessous. Le f
 
 <center><a href="https://bit.ly/3WVpXRT" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
-<iframe class="slide" src="../modules/support/typ3_ig.pdf">
+<iframe class="slide" src="../modules/support/typ2_rec.pdf">
 
 </iframe>
 
