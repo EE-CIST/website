@@ -68,17 +68,19 @@ L'intégralité des supports et données sont téléchargeables ci-dessous. Le f
 -   Un dossier avec l'ensemble des autres fichiers utilisés (lien projet R, dossiers et fichiers de données, figures) pour permettre la reprise intégrale par un utilisateur extérieur.
 
 <object class="slide" data="../modules/support/typ2_rec.pdf" type="application/pdf">
+
 <iframe class="slide" src="../modules/support/typ2_rec.pdf">
 
 </iframe>
-</object>
 
+</object>
 
 <center><a href="https://bit.ly/3WVpXRT" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   [IPUMS International](https://international.ipums.org/international/)
+    -   Consulter le [document de présentation](https://ee-cist.github.io/data_RP/) et d'aide à la prise en main des données IPUMS
 -   Données agrégées sur les populations urbaines et rurales du projet [Géopolis](http://e-geopolis.org/)
 
 ## <i class="bi bi-file-earmark-text"></i> Références

@@ -63,7 +63,7 @@ format:
 
 -   **Module(s) de formation concerné(s)** :
 
-    -   [**TYP**](../modules/typ2_rec.qmd)**2**[ - Recensement](../modules/typ2_rec.qmd)
+    -   [**TYP**](../modules/typ2_rec.qmd)**2**[- Recensement](../modules/typ2_rec.qmd)
     -   [**SPA1** : Semis de points](../modules/spa1_sem.qmd)
     -   [**SPA2** : Distance et accessibilité](../modules/spa2_dis.qmd)
     -   [**TYP2** : QGIS](../modules/out2_qgis.qmd)

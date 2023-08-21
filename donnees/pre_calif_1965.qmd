@@ -40,7 +40,7 @@ format:
 **Description des variables** :
 
 | **Nom**    | **Description**                                       | **Type** |
-|--------------|---------------------------------------------|--------------|
+|------------|-------------------------------------------------------|----------|
 | **'CODE'** | Identifiant unique des stations                       | string   |
 | **'NOM'**  | Nom de la sation météorologique                       | string   |
 | **'PRE'**  | Moyenne des cumuls annuels des précipitations en mm ? | entier   |
