@@ -58,9 +58,13 @@ Nous utiliserons des données extraites des Enquêtes Démographiques et de Sant
 
 Le diaporama commenté est disponible à la consultation et au téléchargement.
 
+<object class="slide" data="../modules/support/exp1_uni.pdf" type="application/pdf">
+
 <iframe class="slide" src="../modules/support/exp1_uni.pdf">
 
 </iframe>
+
+</object>
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
@@ -73,7 +77,7 @@ Vous trouverez chaque fois :
 -   un fichier `correction.html` pour consulter la correction
 -   un dossier `datas`
 
-<center><a href="https://bit.ly/3HMUU6g" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3HMUU6g" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noreferrer noopener"><i class="bi bi-eye"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

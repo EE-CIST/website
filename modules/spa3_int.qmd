@@ -66,6 +66,8 @@ L'objectif de ce module est de montrer les différentes étapes d'analyse d'une 
 4.  Modélisation des flux depuis ou à partir d'un lieu (régression linéaire). Combinaison de l'effet de masse et de l'effet de distance.
 5.  Modélisation de l'ensemble de la matrice de flux (modèle à simple ou double contrainte, régression de Poisson) et analyse des résidus (flux préférentiels et effets de barrière)
 
+<center><a href="https://ee-cist.github.io/SPA3-INTERACTION/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i>Consulter le cours et le TD en ligne</a></center>
+
 ## <i class="bi bi-person-video3"></i> Support de cours et de TD
 
 Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous.
@@ -86,14 +88,13 @@ Les supports de cours et le déroulé des exercices sont disponibles à la consu
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-<center><a href="https://ee-cist.github.io/SPA3-INTERACTION/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i>Consulter le cours et le TD en ligne</a></center>
+<center><a href="https://bit.ly/3RvFczN " class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   **GEO** : Découpages administratifs de niveau 1 et 2 des pays de l'école d'été
 -   **IPUMS** : Extraction des RP du Bénin (2002, 2013), du Burkina Faso (2008) et du Mali (2009)
 
-<center><a href="https://bit.ly/3RvFczN " class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

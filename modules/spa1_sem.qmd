@@ -65,21 +65,24 @@ Le TD est construit autour de deux exercices :
 ## <i class="bi bi-person-video3"></i> Support de cours
 
 Un diaporama du cours commenté ainsi qu'un tutoriel QGIS sont disponibles à la consultation et au téléchargement.
-
+<object class="slide" data="../modules/support/spa1_sem.pdf" type="application/pdf">
 <iframe class="slide" src="../modules/support/spa1_sem.pdf">
 
 </iframe>
+</object>
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Les exercices téléchargeables sont à réaliser sous R. Chaque dossier contient les données et autres sources nécéssaires à la réalisation de l'exercice, un fichier `.html` reprenant l'énoncé de l'exercice accompagné du `.qmd` permettant sa compilation (modifiable sous R) et d'un script dans lequel réaliser les exercices.
+
+<center><a href="https://bit.ly/3kZisvY" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
 -   Partie 1 : Base [Africapolis](../donnees/vil_afric_2015.qmd) et GADM
 -   Partie 2 : stations services dans la municipalité de Bamako (enquête S. Traoré, 2020)
 
-<center><a href="   https://bit.ly/3kZisvY" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

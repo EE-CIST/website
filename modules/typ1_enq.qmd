@@ -26,13 +26,6 @@ format:
     css: styles_ter.css
 ---
 
-<!-- ::: {#contrib} -->
-
-<!-- ### Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
@@ -84,7 +77,7 @@ Enfin nous traiterons la question de la représentativité spatiale et de la pro
 -   [Données ETST Tunisie](../donnees/enq_tunis_2016.qmd)
 -   [Données issues de la thèse Vakaramoko BAMABA sur l'approvisionnement en Côte d'Ivoire](../donnees/enq_cotiv_2016.qmd)
 
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

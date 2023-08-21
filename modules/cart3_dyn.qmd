@@ -24,6 +24,7 @@ format:
   html: 
     css: styles_ter.css
 ---
+
 ::: {#contrib}
 ### Contributeur·rice·s
 
@@ -46,11 +47,11 @@ Le nombre d'heures peut s'organiser entre 4 et 8 heures ou 3 séances de 2 heure
 
 Le module est technique. Il nécessite des connaissances préalables en cartographie et sémiologie graphique (cf. module de [cartographie thématique](cart1-2_the.qmd)) ainsi qu'une bonne culture informatique.
 
-La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS bertin ne sont pas nécessaires.
+La connaissance de Quarto, de R, du JavaScript et de la bibliothèque JS Bertin ne sont pas nécessaires.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript bertin.
+Le module vise à apprendre à réaliser des cartes thématiques dynamiques, animées et/ou interactives pour le web à l'aide de la bibliothèque JavaScript Bertin.
 
 La séquence s'organise en 3 étapes :
 
@@ -77,9 +78,11 @@ La séquence s'organise en 3 étapes :
 -   Un notebook guide pour le [TP1](https://ee-cist.github.io/CAR2_cartodyn/TP1/docs/index.html)
 -   Un notebook guide pour le [TP2](https://ee-cist.github.io/CAR2_cartodyn/TP2/docs/index.html) et sa solution
 
-Ces supports sont accessibles sur le GitHub du module.
+Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CAR2_cartodyn) du module.
 
-<center><a href="https://github.com/EE-CIST/CAR2_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center>
+<!-- <center><a href="https://github.com/EE-CIST/CAR2_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center> -->
+
+<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
@@ -88,7 +91,6 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

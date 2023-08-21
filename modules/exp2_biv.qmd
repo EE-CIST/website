@@ -45,7 +45,7 @@ Il est aussi important de maîtriser l'outil informatique et d'avoir un niveau d
 
 Ce diaporama utilise notamment les données du marché de Bouaké pour présenter le chi2 et des données environnementales raster (LST, NDVI, altitude, occ sol) pour l'analyse de la variance et la corrélation.
 
-<center><a href="https://mmadelin.github.io/EECIST23_EXP2/EXP2_statsbivar.html#/title-slide" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Voir le diaporama dans une nouvelle fenêtre</a></center>
+<center><a href="href="https://mmadelin.github.io/EECIST23_EXP2/EXP2_statsbivar.html#/title-slide" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Voir le diaporama dans une nouvelle fenêtre</a></center>
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -73,10 +73,6 @@ Le script d'exercice peut-être téléchargé seul ...
 
 -   [Marché de Bouaké](../donnees/mar_bouake_2018.qmd)
 -   [GHCN](../donnees/pre_calif_1965.qmd) et/ou données de Moutoré (fiche(s) à faire)
-
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true"><i class="bi bi-cloud-arrow-down" target="_blank" rel="noopener noreferrer"></i> Data.zip</a></center>
-
-\
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

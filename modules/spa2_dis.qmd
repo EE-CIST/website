@@ -31,7 +31,6 @@ Ce cours d'analyse spatiale propose une introduction aux concepts de distance et
 
 Compte-tenu de sa durée limitée (2 heures de cours et 2 heures de TD) il se limite à la présentation des fondements conceptuels et à leur mise en pratique sur des cas concrets en utilisant le logiciel R et l'API Osrm.
 
-
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
 **Cours :**
@@ -98,15 +97,15 @@ Le cours se déroule comme suit :
 
 <!--  -->
 
-<center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
+<center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
-## <i class="bi bi-person-video3"></i> Support de TD
+## <i class="bi bi-person-video3"></i> Support de TD et données mobilisées
 
 La seconde partie propose une série d'exercices portant sur l'analyse d'une matrice d'accessibilité. Un énoncé ainsi que son corrigé sont fournis pour l'analyse de la Côte d'Ivoire, seul l'exercice est disponible pour les autres pays.
 
 <!-- <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center> -->
 
-## <i class="bi bi-clipboard-data"></i> Données
+### <i class="bi bi-clipboard-data"></i> Données
 
 **TD1 : [Données sur le marché de Bouaké](../donnees/mar_bouake_2013.qmd)**
 
@@ -121,7 +120,7 @@ La seconde partie propose une série d'exercices portant sur l'analyse d'une mat
 
 *Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données.*
 
-<center><a href="https://bit.ly/3RnebOU" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3RnebOU" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

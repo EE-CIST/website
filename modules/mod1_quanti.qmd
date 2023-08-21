@@ -28,23 +28,11 @@ format:
     css: styles_ter.css
 ---
 
-<!-- ::: {#contrib} -->
-
-<!-- ### Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
-
-<div>
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Cet enseignement est plutôt destiné à des étudiant·es de fin de licence (L3), de master ou de doctorat car il suppose une maîtrise déjà approfondie de la statistique bivariée.
 
 Dans le format retenu pour l'école d'été EE·CIST·2023 (2h de cours & 2h de TD) l'enseignement proposé constitue avant tout une **introduction** à la modélisation d'une variable quantitative faisant appel à la régression simple, la régression multiple et l'analyse de variance. Mais une maîtrise avancée de chacun de ces outils supposerait un minimum de 30h (pour des étudiant·s connaissant déjà la régression simple et l'analyse de variance) voire 60h s'il faut rappeler les bases de statistique bivariée.
-
-</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -82,7 +70,7 @@ B.  **Applications sur R**
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-<center><a href="https://ee-cist.github.io/MOD1_Yquanti/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
+<center><a href="https://ee-cist.github.io/MOD1_Yquanti/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
@@ -108,7 +96,7 @@ Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec 
 -   Développement des pays africains
 -   Enquête consommation Bénin
 
-<center><a href="https://bit.ly/3wI9EgF" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3wI9EgF" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
