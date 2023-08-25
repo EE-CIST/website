@@ -72,6 +72,8 @@ L'objectif de ce module est de montrer les différentes étapes d'analyse d'une 
 
 Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous.
 
+Il s'agit d'un projet `r`, dans ce dossier vous trouverez le fichier \`.rproj\` est à ouvrir dans rStudio, les fichiers \`.qmd\` présentant les énoncés et exercices, ainsi que les données.
+
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
 <!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
@@ -94,7 +96,6 @@ Les supports de cours et le déroulé des exercices sont disponibles à la consu
 
 -   **GEO** : Découpages administratifs de niveau 1 et 2 des pays de l'école d'été
 -   **IPUMS** : Extraction des RP du Bénin (2002, 2013), du Burkina Faso (2008) et du Mali (2009)
-
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
