@@ -1,6 +1,6 @@
 ---
 title: "MOD2 - Modèle Logit"
-subtitle: "Introduction à la modélisation : Regression logistique"
+subtitle: "Régression logistique et analyse multiniveau"
 date: 03/03/2023
 image: img/logit.png
 categories: 
@@ -8,9 +8,10 @@ categories:
 ordre: "14" 
 author: 
 - "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
-- "[M. Issa ABDOU YONLIHINZA](../formateurs/abdou-yonlihinza.qmd)"
+- "[M Arnaud BRINGE](../formateurs/bringe.qmd)"
+- "[M Issa ABDOU YONLIHINZA](../formateurs/abdou-yonlihinza.qmd)"
 author-title: Auteurs
-# bibliography: biblio/session1.bib
+bibliography: biblio/mod2.bib
 nocite: '@*'
 csl: geo.csl
 about:
@@ -25,48 +26,59 @@ format:
     css: styles_ter.css
 ---
 
-::: {#contrib}
-Contributeur·rice·s
-
-Hugues Pecout, ...
-:::
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Ce module cible les utilisateurs ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l’individu et de son contexte. 
+
+Il propose des applications sur les données du Bénin (Echantillon recensement 2013). Les traitements sont effectués dans `r` à partir du package `lme4`. 
+
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Public avec connaissances nécessaires en modèles de régression. Possible aussi d’appliquer ce type de modèles sur des régressions linéaires. 
+
+[Programmations en R](out1_r.qmd), tidyverse nécessaire pour suivre les instructions de programmation utilisées.
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+Les modèles multiniveaux sont mis en œuvre dans le cadre d’une structure hiérarchique des données, et permettent une modélisation qui prend en compte à la fois les caractéristiques de l’individu et de son contexte (environnement).
 
-## <i class="bi bi-person-video3"></i> Support de cours
+**Objectifs **: 
+-   Identifier un problème à deux niveaux (individuel et contextuel) et appliquer un modèle de régression prenant en compte ces deux niveaux. 
+-   Tester et valider le modèle. Déterminer l’intérêt de son application. 
+-   Mettre en pratique un modèle de régression logistique dans le cas d'une structure hiérarchique à deux niveaux. 
+-   Montrer l’intérêt d’une démarche d’une analyse multiniveau et aides à l’interprétation des résultats 
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
 
-<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+Présentation du modèle à constante aléatoire puis à effets aléatoire sur une variable explicative individuelle : Modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d’une variable contextuelle. 
 
-<iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide">
 
-</iframe>
+## <i class="bi bi-person-video3"></i> Support de cours et TD
 
-<i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i>
+Présentation du modèle à constante aléatoire puis à effets aléatoire sur une variable explicative individuelle : Modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d’une variable contextuelle. 
 
-</object>
+Un exercice est à réaliser dans `r`, le contenu est téléchargeable ci-dessous.
 
-## <i class="bi bi-person-video3"></i> Support de TD
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote.
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<center><a href="" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter</a></center>
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+
+<!-- </iframe> -->
+
+<!-- ## <i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i> -->
+
+<!-- </object> -->
+
+
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+
+
+
+<center><a href="https://bit.ly/3Yckgjx" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i>  Télécharger l'exercice</a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
-Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut aisr, sic habetote.
-
-<center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"> <i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center>
+- Extrait du fichier recensement Bénin 2013 (fichier IPUMS)
 
 ## <i class="bi bi-file-earmark-text"></i> Références

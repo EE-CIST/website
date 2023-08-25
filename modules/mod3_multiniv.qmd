@@ -26,14 +26,6 @@ format:
     css: styles_ter.css
 ---
 
-<!-- ::: {#contrib} -->
-
-<!-- Contributeur·rice·s -->
-
-<!-- Hugues Pecout, ... -->
-
-<!-- ::: -->
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module s'adresse aux utilisateur·ices ayant à traiter des données hiérarchisées à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte.
