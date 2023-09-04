@@ -62,7 +62,7 @@ website:
         contents:
           - modules/spa1_sem.qmd
           - modules/spa2_dis.qmd
-          - modules/spa3_int.qmd
+          # - modules/spa3_int.qmd
           # - modules/spa4_aut.qmd
       - section: "F. Outils"
         contents:
