@@ -81,13 +81,13 @@ Le cours est accessible à la fois sous la forme d'un **diaporama**  (*SPA2-Co
 
 <!-- Ces supportys sont disponibles ici https://ee-cist.github.io/Distance/ -->
 
-<!--  -->
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+<object class="slide" data="../modules/support/spa2_dist.pdf" type="application/pdf">
 
-<!-- </iframe> -->
+<iframe class="slide" src="../modules/support/spa2_dist.pdf">
+
+</iframe>
 
 <!-- ::: {#url} -->
 
@@ -95,9 +95,9 @@ Le cours est accessible à la fois sous la forme d'un **diaporama**  (*SPA2-Co
 
 <!-- ::: -->
 
-<!-- </object> -->
+</object>
 
-<!--  -->
+
 
 <center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
