@@ -73,6 +73,8 @@ Le cours se déroule comme suit :
 
 ## <i class="bi bi-person-video3"></i> Support de cours et de TD
 
+Le cours est accessible à la fois sous la forme d'un **diaporama**  (*SPA2-Cours-Diaporama.pptx*) et d'une **page web** *(SPA2-Cours-Commentaires.html*) apportant les commentaires et explications utiles à la compréhension des diapositives. Il fait le choix de partir d'un **exemple empirique concret** (l'approvisionnement du marché de gros de Bouaké) avant de présenter les formulations mathématiques de la distance et les concepts théoriques d'accessibilité.
+
 -   **Cours** : SPA3-Distance-Accessibilite-Cours.docx *(Document Word)*
 -   **TD1** : SPA3-Appli1.Rmd *(Document rMarkdown)*
 -   **TD2** : SPA3-Appli2.Rmd *(Document rMarkdown)*
@@ -99,11 +101,23 @@ Le cours se déroule comme suit :
 
 <center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
-## <i class="bi bi-person-video3"></i> Support de TD et données mobilisées
+## <i class="bi bi-person-video3"></i> Support de TD
 
-La seconde partie propose une série d'exercices portant sur l'analyse d'une matrice d'accessibilité. Un énoncé ainsi que son corrigé sont fournis pour l'analyse de la Côte d'Ivoire, seul l'exercice est disponible pour les autres pays.
+Deux exercices sont proposés, correspondant aux deux parties du cours. Il est préférable de les réaliser dans l'ordre proposé.
+
+*Exo1-Bouaké* : Cet exercice propose aux étudiants de répondre à cinq questions simples sur l'approvisionnement du marché de Bouaké et les variations de la distance en fonction du mode de transport et du type de produit. Il peut être réaliser au choix avec Excel ou R ce qui permet aux étudiants de vérifier que les résultats sont les mêmes quel que soit le logiciel. L'évaluation privilégie la qualité du commentaire autant si ce n'est plus que le calcul proprement dit.
+
+*Exo2-Distance* : Cet exercice est conçu comme un jeu sérieux où les étudiants vont incarner des acteurs confrontés à un problème de localisation optimale. Ils seront amenés à développer la plupart des concepts théoriques vus en cours mais aussi à négocier un compromis entre plusieurs options possibles. L'application sur la **Côte d'Ivoire** comporte à la fois les questions et les réponses. Mais on peut appliquer ensuite l'exercice sur sept autres pays (Sénégal, Togo, Bénin, Niger, Mali, Burkina Faso, France) en reprenant la même démarche.
 
 <!-- <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center> -->
+
+
+#### Annexes
+
+Les personnes plus intéressées par les outils de calcul des distances routières et la construction de matrices d'accessibilité sous R à l'aide du package osrm et pourront se reporter aux pages web suivante :
+https://ee-cist.github.io/SPA2-Distance/appli2_access.html
+ou
+https://ee-cist.github.io/TIGR/modules/geomatique/OpenStreetMap.html
 
 ### <i class="bi bi-clipboard-data"></i> Données
 
