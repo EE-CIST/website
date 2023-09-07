@@ -101,7 +101,7 @@ Le cours est accessible à la fois sous la forme d'un **diaporama**  (*SPA2-Co
 
 <center><a href="https://ee-cist.github.io/SPA2-Distance/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
-## <i class="bi bi-person-video3"></i> Support de TD
+## <i class="bi bi-person-video3"></i> Exercices et données
 
 Deux exercices sont proposés, correspondant aux deux parties du cours. Il est préférable de les réaliser dans l'ordre proposé.
 
@@ -112,12 +112,11 @@ Deux exercices sont proposés, correspondant aux deux parties du cours. Il est p
 <!-- <center><a href="https://ee-cist.github.io/Distance/" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center> -->
 
 
-#### Annexes
+*Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données.*
 
-Les personnes plus intéressées par les outils de calcul des distances routières et la construction de matrices d'accessibilité sous R à l'aide du package osrm et pourront se reporter aux pages web suivante :
-https://ee-cist.github.io/SPA2-Distance/appli2_access.html
-ou
-https://ee-cist.github.io/TIGR/modules/geomatique/OpenStreetMap.html
+<center><a href="https://bit.ly/482f6we" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+
+
 
 ### <i class="bi bi-clipboard-data"></i> Données
 
@@ -132,9 +131,14 @@ https://ee-cist.github.io/TIGR/modules/geomatique/OpenStreetMap.html
 -   Localisation (latitude-longitude) et nom des chefs-lieux
 -   Population estimée des unités administratives
 
-*Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données.*
 
-<center><a href="https://bit.ly/3RnebOU" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+## Annexes 
+
+Les personnes plus intéressées par les outils de calcul des distances routières et la construction de matrices d'accessibilité sous R à l'aide du package osrm et pourront se reporter aux pages web suivante :
+https://ee-cist.github.io/SPA2-Distance/appli2_access.html
+ou
+https://ee-cist.github.io/TIGR/modules/geomatique/OpenStreetMap.html
+
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
