@@ -91,7 +91,6 @@ Deux fichiers de données au niveau des pays à 2 échelles géographiques sont 
 -   Pays africains - *Extraction du [Tableau général des pays du Monde](../donnees/gen_monde.qmd)*
 -   Monde - *Extraction du [???](../donnees/gen_monde.qmd)*
 
-
 ## <i class="bi bi-file-earmark-text"></i> Références
 
 ::: {#refs}

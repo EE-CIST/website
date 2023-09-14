@@ -68,6 +68,7 @@ website:
         contents:
           - modules/out1_r.qmd
           - modules/out2_qgis.qmd
+          - modules/out3_kobo.qmd
 
   page-footer: ET CIST·2023 - [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0) - CIST · INED · IRD · LaReSPD · UPC
   margin-header: |

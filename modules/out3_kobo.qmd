@@ -1,0 +1,83 @@
+---
+title: "OUT3 - Initiation à KoboToolBox"
+subtitle: "KoboToolBox, un outil de collecte de données pour les sciences humaines et sociales"
+image: img/qgis.png
+date: 02/27/2023
+categories: 
+- Outils
+- Géomatique
+- Methodes d'enquête
+- Données d'enquête
+ordre: "18" 
+author: 
+- "[M Labaly TOURE](../formateurs/toure.qmd)"
+- "[M Hugues PECOUT](../formateurs/pecout.qmd)"
+author-title: Auteurs
+bibliography: ../modules/biblio/out3.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: GitLab
+      href: https://github.com/EE-CIST/OUT3_Kobo
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+<div>
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+
+Ce module s'adresse à tout public sensibilisé aux techniques d'enquête. Il s'articule autour d'un cours et d'un TD de deux heures, proposant une démonstration de l'outil et des exercices de prise en main. 
+
+Il est nécessaire d'avoir un ordinateur et éventuellement un smartphone.
+
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+Aucun prérequis pour le cours mais une bonne connaissance des méthodes de collecte de données est appréciée.
+
+## <i class="bi bi-bookmark"></i> Résumé
+
+Kobotoolbox permet la création de formulaire d’enquête ou de recensement et la collecte d’informations de différentes natures : texte, données quantitatives, géographiques, images, sons. La plateforme offre également des fonctionnalités en matière de gestion, traitement, représentation et cartographie des données collectées. L’étendue des possibilités offertes permet son usage et son application dans différents contextes, et la capacité de collecte de certains types de données (images, sons, données géographiques) est un véritable atout pour les SHS. Associé à l’application KoboCollect, il permet la gestion et l’administration d’une collecte individuelle ou collective de données via des smartphones, tablettes ou ordinateurs, quel que soit le système d'exploitation utilisé.
+
+## <i class="bi bi-person-video3"></i> Support de cours
+
+
+<object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
+
+<iframe class="slide" src="https://ee-cist.github.io/OUT3_Kobo/">
+
+</iframe>
+
+</object>
+
+
+<center><a href="https://github.com/EE-CIST/OUT3_Kobo" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le code source du diaporama </a></center>
+
+## <i class="bi bi-person-video3"></i> Support de TD
+
+Exercice : Réaliser un questionnaire de 10 questions de types différents sur un thème de votre choix . Collectez un minimum de 11 réponses à votre formulaire. 
+
+<!-- ## <i class="bi bi-clipboard-data"></i> Données -->
+
+<!-- -   OSM (Geofabrik) du Togo -->
+<!-- -   Fonds découpages administratifs : préfectures du Togo avec leurs noms, ID -->
+<!-- -   Tableur avec les préfectures du Togo : nom, ID, population - extraction RGP Afrique -->
+<!-- -   [Africapolis](../donnees/vil_afric_2015.qmd) - sous corpus -->
+<!-- -   MNT -->
+<!-- -   Landsat -->
+
+<!-- <center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center> -->
+
+<!-- \ -->
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::
+

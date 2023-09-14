@@ -66,7 +66,9 @@ Le TD est construit autour de deux exercices :
 
 Un diaporama du cours commenté ainsi qu'un tutoriel QGIS sont disponibles à la consultation et au téléchargement.
 
-<object class="slide" data="../modules/support/spa1_sem.pdf" type="application/pdf"> <iframe class="slide" src="../modules/support/spa1_sem.pdf">
+<object class="slide" data="../modules/support/spa1_sem.pdf" type="application/pdf">
+
+<iframe class="slide" src="../modules/support/spa1_sem.pdf">
 
 </iframe>
 
