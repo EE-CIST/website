@@ -1,7 +1,7 @@
 ---
 title: "OUT3 - Initiation à KoboToolBox"
 subtitle: "KoboToolBox, un outil de collecte de données pour les sciences humaines et sociales"
-image: img/qgis.png
+image: img/out3.png
 date: 02/27/2023
 categories: 
 - Outils
