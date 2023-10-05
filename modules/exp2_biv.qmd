@@ -59,7 +59,7 @@ Après une introduction sur les relations (causalité, étapes-clefs), le cours 
 L'exercice est composé de trois fichiers :
 
 -   [1 fichier `.R`](https://github.com/mmadelin/EECIST23_EXP2/blob/main/EXP2_Exo_AfrCO2.R) à compléter
--   [1 fichier `.html`](https://github.com/mmadelin/EECIST23_EXP2/raw/main/EECIST23_EXP2_ExoQnQn.html) à télécharger et qui contient l'énoncé et les solutions de l'exercice 
+-   [1 fichier `.html`](https://github.com/mmadelin/EECIST23_EXP2/blob/main/EECIST23_EXP2_ExoQnQn.html) à télécharger et qui contient l'énoncé et les solutions de l'exercice 
 -   [1 fichier `.zip`](https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip) qui contient le projet `r` complet avec les données nécessaires
 
 <center><a href="https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Télécharger le projet</a></center>
