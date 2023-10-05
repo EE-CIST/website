@@ -8,6 +8,7 @@ categories:
 ordre: "05" 
 author: 
 - "[Mme. Malika MADELIN](../formateurs/madelin.qmd)"
+- "[M. Yayé MOUSSA](../formateurs/moussa.qmd)"
 - "[M. Yentougle MOUTORE](../formateurs/moutore.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp2.bib
@@ -27,7 +28,7 @@ format:
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
-Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices (notamment sous R).
+Ce module s'adresse à des étudiants et étudiantes en licence et master et comprend un cours magistral ainsi que des travaux dirigés avec exercices sous R.
 
 Ce cours peut se dérouler entre 3h (introduction sans pratique) et 15h (approfondissement et exercices pratiques).
 
@@ -39,14 +40,11 @@ Il est aussi important de maîtriser l'outil informatique et d'avoir un niveau d
 
 ## <i class="bi bi-bookmark"></i> Résumé
 
-*A venir...*
+Après une introduction sur les relations (causalité, étapes-clefs), le cours présente les différentes méthodes à utiliser selon le type des variables, en s'appuyant sur des exemples d'applications : la corrélation sur l'exemple des précipitations en Afrique de l'Ouest, le chi2 à partir des données du marché de Bouaké et l'analyse de la variance sur des données environnementales raster (îlot de chaleur). En complément, deux exercices pratiques sous R sont proposés : un sur l'évolution temporelle des données climatiques au Niger (sud-ouest), un autre sur les émissions de CO2 en Afrique.
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Ce diaporama utilise notamment les données du marché de Bouaké pour présenter le chi2 et des données environnementales raster (LST, NDVI, altitude, occ sol) pour l'analyse de la variance et la corrélation.
-
 <center><a href="https://mmadelin.github.io/EECIST23_EXP2/EXP2_statsbivar.html#/title-slide" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Voir le diaporama dans une nouvelle fenêtre </a></center>
-
 
 <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf">
 
@@ -58,22 +56,27 @@ Ce diaporama utilise notamment les données du marché de Bouaké pour présente
 
 ## <i class="bi bi-person-video3"></i> Support de TD
 
-Le script d'exercice peut-être téléchargé seul ...
+L'exercice est composé de trois fichiers :
 
-<center><a href="support/EXP2_ExoPratique.R" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Télécharger le script seul</a></center>
+-   [1 fichier `.R`](https://github.com/mmadelin/EECIST23_EXP2/blob/main/EXP2_Exo_AfrCO2.R) à compléter
+-   [1 fichier `.html`](https://github.com/mmadelin/EECIST23_EXP2/raw/main/EECIST23_EXP2_ExoQnQn.html) à télécharger et qui contient l'énoncé et les solutions de l'exercice 
+-   [1 fichier `.zip`](https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip) qui contient le projet `r` complet avec les données nécessaires
+
+<center><a href="https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Télécharger le projet</a></center>
 
 \
 
-...ou avec les données et le diaporama (dépot GitHub)
+<!-- ...ou avec les données et le diaporama (dépot GitHub) -->
 
-<center><a href="https://github.com/mmadelin/EECIST23_EXP2/archive/refs/heads/main.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le dossier complet </a></center>
+<!-- <center><a href="https://github.com/mmadelin/EECIST23_EXP2/archive/refs/heads/main.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le dossier complet </a></center> -->
 
-<!-- Exercices pratiques : précipitations en Afrique de l'Ouest (données climatiques GHCN) pour quanti-quanti ; exemple(s) à partir du tableau de Moutoré ?? // seulement des exemples à partir du tableau de Moutoré ?? -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   [Marché de Bouaké](../donnees/mar_bouake_2018.qmd)
--   [GHCN](../donnees/pre_calif_1965.qmd) et/ou données de Moutoré (fiche(s) à faire)
+-   [Global Historical Climatology Network daily (GHCN)](https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily)
+-   [Températures nocturnes de surface de MODIS](https://lpdaac.usgs.gov/products/mod11a1v061/) et [Local Climate Zones](https://zenodo.org/record/7324909)
+-   les données `afrika_don.csv`
+-   les données climatiques du sud-ouest du Niger, provenant de la Direction départementale de l'agriculture de Téra (Niger) et rassemblées par [Yayé MOUSSA](../formateurs/moussa.qmd)
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

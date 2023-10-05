@@ -53,6 +53,11 @@ Il est nécessaire d'avoir un ordinateur avec **QGis 3.22** ainsi que le plugin 
 
 Pas de prérequis nécessaire pour suivre le module hormis la maîtrise de l'outil informatique (ordinateur, traitement de texte, internet...)
 
+Il peut être utile d'avoir fait les modules : 
+-   [Données géographiques](typ3_ig.qmd)
+-   [Statistique univariée](exp1_uni.qmd)
+-   [Semis de points](spa1_sem.qmd)
+
 ## <i class="bi bi-bookmark"></i> Résumé
 
 Le module a pour objectif d'initier les participants à l'utilisation de l'outil SIG "QGis" en se familiarisant avec les tâches les plus fréquentes associées aux différentes disciplines et aux processus de travail dans un environnement SIG. En cinq séances de deux heures maximums, les participants apprendront à maîtriser le logiciel SIG "QGIS" à travers des séances de travaux dirigés.
@@ -77,7 +82,7 @@ Ces TD sont en lien avec les enseignements dispensés lors des autres modules de
 2.  **Introduction aux données vectorielles**
 
     -   Sélections
-    -   Calculs champs et résumés stat
+    -   Calculs champs et résumés statistiques
     -   Jointures attributaires
     -   Jointures Spatiales
 
@@ -85,7 +90,7 @@ Ces TD sont en lien avec les enseignements dispensés lors des autres modules de
 
     -   Géotraitements
     -   Comptage de points et interpolation
-    -   Voronoï
+    <!-- -   Voronoï -->
     -   Calculs de distances
 
 4.  **Analyse spatiale - *Raster***
@@ -97,7 +102,7 @@ Ces TD sont en lien avec les enseignements dispensés lors des autres modules de
 
 5.  **Cartographie**
 
-    -   Appliquer les règles de sémiologie graphique
+    -   Appliquer les règles de sémiologie graphique (voir [module carto 1](cart1-2_the.qmd))
     -   Générer une symbologie
     -   Générer une mise en page
 
