@@ -1,7 +1,7 @@
 ---
 title: "SPA2 - Distance et accessibilité"
 subtitle: "Introduction à l'analyse de distance"
-date: 03/02/2023
+date: last-modified
 image: img/distance.png
 categories: 
 - Analyse spatiale

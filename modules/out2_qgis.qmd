@@ -2,7 +2,7 @@
 title: "OUT2 - Initiation à QGIS"
 subtitle: "Introduction aux systèmes d'information géographique et à l'outil QGIS"
 image: img/qgis.png
-date: 02/27/2023
+date: last-modified
 categories: 
 - Outils
 - Géomatique
