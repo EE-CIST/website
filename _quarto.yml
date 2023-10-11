@@ -82,7 +82,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-    include-after-body:
+    include-in-header:
       file: matomo_tracking.html
 
 
