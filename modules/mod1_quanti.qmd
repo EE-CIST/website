@@ -60,8 +60,8 @@ Le module associe un cours théorique avec des applications dans R.
 
 A.  **Cours**
 
-    1.  Introduction non technique à la régression multiple : Les précipitations en Californie 
-    2.  Cours de modélisation économétrique par régression simple ou multiple 
+    1.  Introduction non technique à la régression multiple : Les précipitations en Californie
+    2.  Cours de modélisation économétrique par régression simple ou multiple
 
 B.  **Applications sur R**
 
@@ -70,11 +70,11 @@ B.  **Applications sur R**
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-Le site internet de ce module propose : 
+Le site internet de ce module propose :
 
-1.    Une introduction simple à la régression linéaire (y compris dans le diaporama, avec un exercice d'introduction et l'exercice 1)
-2.    Un approfondissement en économétrie (avec des exercices d'application)
-3.    Des exercices plus avancés pour les utilisateurs maîtrisant à la fois la régression multiple et l'analyse de variance (exercices n°2, 3 et 4)
+1.  Une introduction simple à la régression linéaire (y compris dans le diaporama, avec un exercice d'introduction et l'exercice 1)
+2.  Un approfondissement en économétrie (avec des exercices d'application)
+3.  Des exercices plus avancés pour les utilisateurs maîtrisant à la fois la régression multiple et l'analyse de variance (exercices n°2, 3 et 4)
 
 <center><a href="https://ee-cist.github.io/MOD1_Yquanti/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
@@ -85,19 +85,16 @@ Le site internet de ce module propose :
 </iframe>
 
 ::: {#url}
-
 <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]()
-
 :::
 
 </object>
 
 ## <i class="bi bi-person-video3"></i> Support de TD et données mobilisées
 
-Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données. 
+Le lien ci-dessous permet de télécharger indépendamment chaque exercice avec ses données.
 
 Cinq des six exercices sont à effectuer avec R. Le dossier "exo_cours" contient plutôt une application du cours à faire sur papier, par exemple à l'occasion d'un examen.
-
 
 ### <i class="bi bi-clipboard-data"></i> Données
 
@@ -105,7 +102,7 @@ Cinq des six exercices sont à effectuer avec R. Le dossier "exo_cours" contient
 -   Développement des pays africains
 -   Enquête consommation Bénin
 
-<center><a href="https://bit.ly/3wI9EgF" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3rTmNVe" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

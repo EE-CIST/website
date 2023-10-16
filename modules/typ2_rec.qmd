@@ -75,7 +75,7 @@ L'intégralité des supports et données sont téléchargeables ci-dessous. Le f
 
 </object>
 
-<center><a href="https://bit.ly/3WVpXRT" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center><a href="https://bit.ly/3tr2iQ4" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

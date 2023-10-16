@@ -30,7 +30,7 @@ format:
 
 Ce module cible les utilisateurs ayant à modéliser des données non linéaires.
 
-Par souci pédagogique, on se limitera à des données binaires (variables à modéliser à deux modalités de type Présence/Absence). Les variables explicatives peuvent être définies simplement à un niveau individuel (régression logistique simple), ou prises en compte plus précisément selon un niveau hiérarchique à différentes échelles géographiques, en disposant de données au niveau de l\'individu et de son contexte (analyse multiniveau).
+Par souci pédagogique, on se limitera à des données binaires (variables à modéliser à deux modalités de type Présence/Absence). Les variables explicatives peuvent être définies simplement à un niveau individuel (régression logistique simple), ou prises en compte plus précisément selon un niveau hiérarchique à différentes échelles géographiques, en disposant de données au niveau de l'individu et de son contexte (analyse multiniveau).
 
 Ce processus peut être étendu à une variable à modéliser de type multinomiale (plus de 2 modalités). Cette extension ne rentre pas dans le cadre de cet apprentissage.
 
@@ -40,7 +40,7 @@ Il propose des applications sur les données du Bénin (Echantillon recensement 
 
 Public avec connaissances nécessaires en modèles de régression.
 
-Il est à noter que les analyses multiniveaux peuvent aussi être effectuées dans le cadre de régressions linéaires. Toutefois, en SHS, il est habituellement plus fréquent de les utiliser dans le cadre de régressions logistiques, c\'est le cadre pédagogique que nous avons volontairement privilégié. Voir les références en bas de pages pour une utilisation en régression linéaire dans le cadre des sciences de l\'éducation.
+Il est à noter que les analyses multiniveaux peuvent aussi être effectuées dans le cadre de régressions linéaires. Toutefois, en SHS, il est habituellement plus fréquent de les utiliser dans le cadre de régressions logistiques, c'est le cadre pédagogique que nous avons volontairement privilégié. Voir les références en bas de pages pour une utilisation en régression linéaire dans le cadre des sciences de l'éducation.
 
 [Programmations en R](out1_r.qmd), tidyverse nécessaire pour suivre les instructions de programmation utilisées.
 
@@ -52,7 +52,7 @@ Les modèles multiniveaux sont mis en œuvre dans le cadre d'une structure hiér
 
 -   Identifier un problème à deux niveaux (individuel et contextuel) et appliquer un modèle de régression prenant en compte ces deux niveaux. Tester et valider le modèle. Déterminer l'intérêt de son application.
 
--   Étendre à l\'analyse multiniveau : Mettre en pratique un modèle de régression logistique dans le cas d\'une structure hiérarchique à deux niveaux. Montrer l\'intérêt d\'une démarche d\'une analyse multiniveau et aides à l\'interprétation des résultats dans ce cadre. Présentation du modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d\'une variable contextuelle.
+-   Étendre à l'analyse multiniveau : Mettre en pratique un modèle de régression logistique dans le cas d'une structure hiérarchique à deux niveaux. Montrer l'intérêt d'une démarche d'une analyse multiniveau et aides à l'interprétation des résultats dans ce cadre. Présentation du modèle à constante aléatoire, puis modèle à pente aléatoire dans le cadre logistique. Introduction d'une variable contextuelle.
 
 ## <i class="bi bi-person-video3"></i> Support de cours et TD
 
@@ -72,7 +72,7 @@ Un exercice est à réaliser dans `r`, le contenu est téléchargeable ci-dessou
 
 <!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
 
-<center><a href="https://bit.ly/3Yckgjx" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger l'exercice </a></center>
+<center><a href="https://bit.ly/45zLNib" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger l'exercice </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

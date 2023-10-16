@@ -26,7 +26,6 @@ format:
     css: styles_ter.css
 ---
 
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Le public ciblé est très large en sciences humaines et sociales. Il s'agit d'un cours magistral qui peut s'accompagner d'exercices de manipulations de bases de données.

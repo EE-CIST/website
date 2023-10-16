@@ -80,11 +80,9 @@ Le module est organisé sous forme de trois sessions de cours et trois exercices
 
 -   **Cours 3** : Classifications : Reprenant le même tableau de données que le cours précédent, ce cours présente les bases des méthodes de classification en détaillant la construction d'une matrice de similarité/dissimilarité puis en montrant comment regrouper les individus à l'aide de méthodes itératives (k-means) ou hiérarchiques (Classification Ascendante Hiérarchique).
 
-
 <center><a href="https://ee-cist.github.io/EXP3-Multivar/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Suivre le cours et les TD en ligne </a></center>
 
-
-:::{callout-info}
+::: {callout-info}
 Le diaporama de cours présenté lors de l'école d'été CIST2022 offre un résumé synthétique des propriétés des trois types d'analyse factorielle (ACP, AFC, ACM) et peut soit servir de préalable à l'ensemble des cours et exercices, soit être mobilisé en conclusion pour effectuer une synthèse des connaissances acquises.
 :::
 
@@ -112,7 +110,7 @@ Dans chaque dossier d'exercice vous trouverez un fichier `.rproj` à ouvrir dans
 
 <!-- <center><a href="" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye"></i> Consulter</a></center> -->
 
-<center><a href="https://bit.ly/3DwvgjY" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les exercices et les données </a></center>
+<center><a href="https://bit.ly/3PdCIqq" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les exercices et les données </a></center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

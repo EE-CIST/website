@@ -105,7 +105,7 @@ Ces TD sont en lien avec les enseignements dispensés lors des autres modules de
 
 L'intégralité des supports de cours est disponible au téléchargement ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données permettant de reprendre ces exercices.
 
-<center><a href="https://bit.ly/3WU8IjK" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center>
+<center><a href="https://bit.ly/3tr1PgM" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center>
 
 <!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
