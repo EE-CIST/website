@@ -21,6 +21,8 @@ website:
       - href: modules.qmd
         text: Modules
     right:
+      - href: conditions.qmd
+        text: Conditions d'utilisation
       - href: apropos.qmd
         text: Mentions légales
       - href: contact.qmd
@@ -76,6 +78,7 @@ website:
 
 format:
   html:
+    copyright: CC BY-SA 4.0 Deed
     theme: 
       light: Minty
       dark: cyborg

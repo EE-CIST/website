@@ -1,0 +1,18 @@
+---
+title: "Conditions d'utilisation"
+code-copy: true
+---
+
+## Conditions générales
+
+L'ensemble des ressources présentées sur ce site web (cours, exercices, bases de données) peuvent être librement utilisés dans les conditions prévues par la licence Creative Commons CC BY-SA 4.0 Deed
+
+## Propriété intellectuelle des modules
+
+Chaque module de cours est considéré comme équivalent à un article scientifique dont vous devez citer les auteurs et la source en ajoutant le DOI. Par exemple pour citer le module de statistique univariée, vous devrez utiliser :
+
+```{markdown}
+**GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004
+```
+
+<q>**GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004</q>
