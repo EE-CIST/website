@@ -33,7 +33,7 @@ Aucune garantie n'est donnée. La licence peut ne pas vous donner toutes les aut
 
 Chaque module de cours est considéré comme équivalent à un article scientifique dont vous devez citer les auteurs et la source en ajoutant le DOI. Par exemple pour citer le module de statistique univariée, vous devrez utiliser :
 
-```{md}
+```r
 **GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004
 ```
 
