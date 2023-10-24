@@ -5,13 +5,35 @@ code-copy: true
 
 ## Conditions générales
 
-L'ensemble des ressources présentées sur ce site web (cours, exercices, bases de données) peuvent être librement utilisés dans les conditions prévues par la licence Creative Commons CC BY-SA 4.0 Deed
+L'ensemble des ressources présentées sur ce site web (cours, exercices, bases de données) peuvent être librement utilisés dans les conditions prévues par la licence **Creative Commons CC BY-SA 4.0 Deed**
+
+::: callout-important
+### Vous êtes libre de
+
+**Partager** - copier et redistribuer le matériel sur n'importe quel support ou dans n'importe quel format, à n'importe quelle fin, même commerciale.
+
+**Adapter** - remixer, transformer et développer le matériel dans n'importe quel but, même commercial.
+
+Le donneur de licence ne peut pas révoquer ces libertés tant que vous respectez les conditions de la licence.
+
+### Sous les conditions suivantes :
+
+**Attribution** - Vous devez donner le crédit approprié, fournir un lien vers la licence et indiquer si des modifications ont été apportées. Vous pouvez le faire de toute manière raisonnable, mais pas d'une manière qui suggérerait que le concédant de licence vous approuve ou approuve votre utilisation.
+
+**Partage à l'identique** - Si vous remixez, transformez ou développez le matériel, vous devez distribuer vos contributions sous la même licence que l'original. Pas de restrictions supplémentaires - Vous ne pouvez pas appliquer de conditions juridiques ou de mesures technologiques qui empêchent légalement d'autres personnes de faire tout ce que la licence autorise.
+
+### Avis :
+
+Vous n'êtes pas tenu de respecter la licence pour les éléments du matériel relevant du domaine public ou lorsque votre utilisation est autorisée par une exception ou une limitation applicable.
+
+Aucune garantie n'est donnée. La licence peut ne pas vous donner toutes les autorisations nécessaires à l'utilisation que vous souhaitez en faire. Par exemple, d'autres droits tels que la publicité, le respect de la vie privée ou les droits moraux peuvent limiter la manière dont vous utilisez le matériel.
+:::
 
 ## Propriété intellectuelle des modules
 
 Chaque module de cours est considéré comme équivalent à un article scientifique dont vous devez citer les auteurs et la source en ajoutant le DOI. Par exemple pour citer le module de statistique univariée, vous devrez utiliser :
 
-```{markdown}
+```{md}
 **GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004
 ```
 
