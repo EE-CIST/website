@@ -1,40 +1,49 @@
 ---
 title: "Conditions d'utilisation"
 code-copy: true
+code-overflow: wrap
 ---
 
 ## Conditions générales
 
-L'ensemble des ressources présentées sur ce site web (cours, exercices, bases de données) peuvent être librement utilisés dans les conditions prévues par la licence **Creative Commons CC BY-SA 4.0 Deed**
+L'ensemble des ressources présentées sur ce site web (cours, exercices, bases de données) peuvent être librement utilisées dans les conditions prévues par la licence **Creative Commons CC BY-SA 4.0 Deed**
 
 ::: callout-important
 ### Vous êtes libre de
 
-**Partager** - copier et redistribuer le matériel sur n'importe quel support ou dans n'importe quel format, à n'importe quelle fin, même commerciale.
+**Partager** - copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.
 
-**Adapter** - remixer, transformer et développer le matériel dans n'importe quel but, même commercial.
+**Adapter** - remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
 
-Le donneur de licence ne peut pas révoquer ces libertés tant que vous respectez les conditions de la licence.
+L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
 ### Sous les conditions suivantes :
 
-**Attribution** - Vous devez donner le crédit approprié, fournir un lien vers la licence et indiquer si des modifications ont été apportées. Vous pouvez le faire de toute manière raisonnable, mais pas d'une manière qui suggérerait que le concédant de licence vous approuve ou approuve votre utilisation.
+**Attribution** - Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l’œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
 
-**Partage à l'identique** - Si vous remixez, transformez ou développez le matériel, vous devez distribuer vos contributions sous la même licence que l'original. Pas de restrictions supplémentaires - Vous ne pouvez pas appliquer de conditions juridiques ou de mesures technologiques qui empêchent légalement d'autres personnes de faire tout ce que la licence autorise.
+**Partage dans les Mêmes Conditions** - Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée.
 
-### Avis :
+**Pas de restrictions complémentaires** - Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.
 
-Vous n'êtes pas tenu de respecter la licence pour les éléments du matériel relevant du domaine public ou lorsque votre utilisation est autorisée par une exception ou une limitation applicable.
+### Notes :
 
-Aucune garantie n'est donnée. La licence peut ne pas vous donner toutes les autorisations nécessaires à l'utilisation que vous souhaitez en faire. Par exemple, d'autres droits tels que la publicité, le respect de la vie privée ou les droits moraux peuvent limiter la manière dont vous utilisez le matériel.
+Vous n'êtes pas dans l'obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une exception .
+
+Aucune garantie n'est donnée. Il se peut que la licence ne vous donne pas toutes les permissions nécessaires pour votre utilisation. Par exemple, certains droits comme les droits moraux, le droit des données personnelles et le droit à l'image sont susceptibles de limiter votre utilisation.
 :::
+
+Pour citer le site-internet : 
+*Citation à venir...*
+
 
 ## Propriété intellectuelle des modules
 
-Chaque module de cours est considéré comme équivalent à un article scientifique dont vous devez citer les auteurs et la source en ajoutant le DOI. Par exemple pour citer le module de statistique univariée, vous devrez utiliser :
+Chaque module de cours est considéré comme un article scientifique qui doit  être cité selon les normes habituelles. Par exemple pour citer le module de statistique univariée : 
 
-```r
-**GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004
+> **GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004
+
+
+```
+GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023, « EXP1 : Statistiques univariées », in. EECIST 2022-2023, Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud, https://doi.org/10.400/eecict.004
 ```
 
-<q>**GARNIER Bénédicte, YAGNINIM Malb Ama N'Danida, DAMENOU Sèïvè Ermine Armande, 2023,** « EXP1 : Statistiques univariées », in. EECIST 2022-2023, *Méthodes et outils des sciences territoriales : une perspective Nord-Sud, Sud-Nord et Sud-Sud,* https://doi.org/10.400/eecict.004</q>

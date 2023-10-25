@@ -1,5 +1,5 @@
 ---
-title: "**Auteur·e·s**"
+title: "**Equipe**"
 listing:
   id: formateurs
   fields: [image, name, affiliation, pays]
@@ -21,12 +21,11 @@ listing:
 about:
   template: marquee
   image : img/formateurs.jpeg
-  image-width: 40em
-  image-shape: rounded
+  # image-width: 40em
+  # image-shape: rounded
 ---
 
-Vous trouverez ci-dessous la liste des chercheurs, enseignants-chercheurs et ingénieurs qui ont contribué à la réalisation de l’ensemble des modules pédagogiques au cours des deux écoles d’été de 2022 et 2023, soit comme auteur de module , soit comme soutien logistique ou intellectuel. 
-
+Vous trouverez ci-dessous la liste de toutes celles et ceux qui ont contribué d'une manière ou d'une autre à l'organisation de l'école d'été et à son contenu pédagogique.
 
 ::: {#formateurs}
 :::

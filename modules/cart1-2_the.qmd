@@ -51,7 +51,7 @@ Les compétences visées sont simples :
 
 ## <i class="bi bi-person-video3"></i> Support de cours
 
-<object class="slide" data="../modules/support/car1_exos.pdf" type="application/pdf">
+<object class="slide" data="../modules/support/car1_cours.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/car1_cours.pdf">
 
