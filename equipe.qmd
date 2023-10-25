@@ -1,5 +1,6 @@
 ---
 title: "**Equipe**"
+image : img/formateurs.jpeg
 listing:
   id: formateurs
   fields: [image, name, affiliation, pays]
@@ -20,9 +21,8 @@ listing:
     affiliation: "Affiliation(s)"
 about:
   template: marquee
-  image : img/formateurs.jpeg
-  # image-width: 40em
-  # image-shape: rounded
+  image-width: 40em
+  image-shape: rounded
 ---
 
 Vous trouverez ci-dessous la liste de toutes celles et ceux qui ont contribué d'une manière ou d'une autre à l'organisation de l'école d'été et à son contenu pédagogique.
