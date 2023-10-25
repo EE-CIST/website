@@ -1,7 +1,9 @@
 ---
 title: "Conditions d'utilisation"
-code-copy: true
-code-overflow: wrap
+format:
+  html:
+    code-copy: true
+    code-overflow: wrap
 ---
 
 ## Conditions générales
