@@ -2,6 +2,8 @@
 title: "**Modules**"
 subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
 listing:
+  exclude: 
+    title: "MOD3 - Multiniveau" 
   id: modules
   fields: [author, image, title, subtitle, categories]
   field-links: 
@@ -17,8 +19,6 @@ listing:
   page-size: 30
   field-display-names:
     categories: "Thématique"
-  exclude: 
-    title: "MOD3 - Multiniveau" 
 ---
 
 ::: callout-important
