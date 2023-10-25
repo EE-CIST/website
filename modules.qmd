@@ -16,10 +16,7 @@ listing:
   table-hover: true
   page-size: 30
   exclude:
-    title: 
-      - "MOD3 - Multiniveau"
-      - "SPA3 - Interaction Spatiale et Flux"
-      - "SPA4 - Autocorrélation spatiale"
+    title: "MOD3 - Multiniveau"
   field-display-names:
     categories: "Thématique"
 ---
