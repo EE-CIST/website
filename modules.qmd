@@ -2,13 +2,13 @@
 title: "**Modules**"
 subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'été**"
 listing:
-  exclude: 
-    title: "MOD3" 
   id: modules
   fields: [author, image, title, subtitle, categories]
   field-links: 
     - author
   contents: modules
+  exclude:
+    title: "MOD3*" 
   sort-ui:  [categories]
   sort: ["ordre"]
   filter-ui: true
