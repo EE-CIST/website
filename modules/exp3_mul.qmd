@@ -114,7 +114,7 @@ Dans chaque dossier d'exercice vous trouverez un fichier `.rproj` à ouvrir dans
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
--   **ACP / CAH** : [Développement des pays africains](../donnees/dev_afric_2018.qmd)
+-   **ACP / CAH** : Développement des pays africains
 -   **ACP / CAH** : Forces et faiblesses de la CEDEAO en 2021
 -   **AFC** : Données du recensement du Bénin sur les langues parlées et les départements
 -   **ACM** : Données d'enquêtes sur la problématique de la scolarisation des filles et des garçons dans le nord-ouest de la Côte d'Ivoire (Bagoué, Folon, Kabadougou et Minignan). L'enquête a été réalisée entre 2016 et 2018 auprès de 635 chefs de ménage dans huit départements et 25 sous-préfectures. Plusieurs variables ont été mobilisées : variables géographiques, démographiques, économiques, sociales, culturelles et de l'offre.

@@ -113,12 +113,12 @@ Deux exercices sont proposés, correspondant aux deux parties du cours. Il est p
 
 ### <i class="bi bi-clipboard-data"></i> Données
 
-**TD1 : [Données sur le marché de Bouaké](../donnees/mar_bouake_2013.qmd)**
+**TD1 : Données sur le marché de Bouaké**
 
 -   Tableau de données d'enquête sur les entrées de camion
 -   Fonds de carte associé aux localisations des lieux d'origine et destination
 
-**TD2 : [Données sur les découpages administratifs de niveau 1 et 2](../donnees/geo_admin_2023)**
+**TD2 : Données sur les découpages administratifs de niveau 1 et 2**
 
 -   Géométrie des contours d'unités administratives (en EPSG 4326)
 -   Localisation (latitude-longitude) et nom des chefs-lieux
