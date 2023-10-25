@@ -16,7 +16,10 @@ listing:
   table-hover: true
   page-size: 30
   exclude:
-    filename: "{spa3_int.qmd, spa4_aut.qmd, mod3_multiniv.qmd}"
+    filename: 
+      - "spa3_int.qmd"
+      - "spa4_aut.qmd"
+      - "mod3_multiniv.qmd"
   field-display-names:
     categories: "Thématique"
 ---
