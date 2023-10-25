@@ -2,29 +2,8 @@
 title: "Contact"
 ---
 
-Toute question doit être adressée à la même [adresse email](mailto:info@cist.cnrs.fr) en indiquant en objet ou dans le corps du mail à qui la question s'adresse.
+Pour toute question concernant le site, vous pouvez envoyer
 
-### Pour toute question technique
+Toute question concernant le site internet ou l'école d'été en général doit être adressée à cette [adresse email](mailto:info@cist.cnrs.fr "[EE2023] -")
 
-Relative au site Web et à la mise en place technique de l'école d'été
-
--   Sébastien REY-COYREHOURCQ
--   Justin DANSOU
--   Hugues PECOUT
--   Elina MARVEAUX
-
-### Pour toute question relative à l'organisation
-
--   Sur place au Bénin :
-    -   Mouftaou AMADOU SANNI
-    -   Justin DANSOU
--   En France :
-    -   Helena LARCHER
-
-### Pour toute question relative à la communication
-
--   Marion GENTILHOMME
-
-### Pour toute question relative aux modules présentés
-
-Contactez directement les formateur·rices.
+<!-- En ce qui concerne les modules ou un contenu pédagogique spécifique, vous pouvez contacter directement les formateur·rices. -->
