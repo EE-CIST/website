@@ -16,10 +16,10 @@ listing:
   table-hover: true
   page-size: 30
   exclude:
-    filename: 
-      - "spa3_int.qmd"
-      - "spa4_aut.qmd"
-      - "mod3_multiniv.qmd"
+    title: 
+      - "MOD3 - Multiniveau"
+      - "SPA3 - Interaction Spatiale et Flux"
+      - "SPA4 - Autocorrélation spatiale"
   field-display-names:
     categories: "Thématique"
 ---
