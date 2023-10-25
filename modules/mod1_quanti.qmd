@@ -7,7 +7,7 @@ categories:
 - Modelisation
 ordre: "13"
 author: 
-- "[Mme. Gbètoton Nadège DJOSSOU](../formateurs/djossou.qmd)"
+- "[Mme Gbètoton Nadège DJOSSOU](../formateurs/djossou.qmd)"
 - "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
 author-title: Auteurs
 bibliography: biblio/mod1.bib

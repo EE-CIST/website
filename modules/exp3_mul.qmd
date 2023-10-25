@@ -8,8 +8,8 @@ categories:
 ordre: "06" 
 author: 
 - "[M. Ané Landry TANOH](../formateurs/tanoh.qmd)"
-- "[Mr Claude GRASLAND](../formateurs/grasland.qmd)"
-- "[Mme. France GUERIN-PACE](../formateurs/guerin.qmd)"
+- "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
+- "[Mme France GUERIN-PACE](../formateurs/guerin.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp3.bib
 nocite: '@*'

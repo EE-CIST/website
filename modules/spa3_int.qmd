@@ -8,7 +8,7 @@ categories:
 ordre: "11" 
 author: 
 - "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
-- "[Mme. Fatoumata COULIBALY](../formateurs/coulibaly.qmd)"
+- "[Mme Fatoumata COULIBALY](../formateurs/coulibaly.qmd)"
 - "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo.qmd)"
 - "[M. Justin DANSOU](../formateurs/dansou.qmd)"
 - "[M. Pierre PISTRE](../formateurs/pistre.qmd)"

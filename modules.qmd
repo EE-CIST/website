@@ -4,7 +4,8 @@ subtitle: "**Supports et matériaux pour l'ensemble des modules de l'école d'é
 listing:
   id: modules
   fields: [author, image, title, subtitle, categories]
-  field-links: ["title"]
+  field-links: 
+    - author
   contents: modules
   sort-ui:  [categories]
   sort: ["ordre"]
@@ -15,7 +16,7 @@ listing:
   table-hover: true
   page-size: 30
   exclude:
-    filename: {"spa3_int.qmd", "spa4_aut.qmd", "mod3_multiniv.qmd"}
+    filename: "{spa3_int.qmd, spa4_aut.qmd, mod3_multiniv.qmd}"
   field-display-names:
     categories: "Thématique"
 ---

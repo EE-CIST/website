@@ -7,7 +7,7 @@ categories:
 - Statistique
 ordre: "05" 
 author: 
-- "[Mme. Malika MADELIN](../formateurs/madelin.qmd)"
+- "[Mme Malika MADELIN](../formateurs/madelin.qmd)"
 - "[M. Yayé MOUSSA](../formateurs/moussa.qmd)"
 - "[M. Yentougle MOUTORE](../formateurs/moutore.qmd)"
 author-title: Auteurs
