@@ -15,10 +15,10 @@ listing:
   image-height: 160px
   table-hover: true
   page-size: 30
-  exclude:
-    title: "MOD3 - Multiniveau"
   field-display-names:
     categories: "Thématique"
+  exclude: 
+    title: "MOD3 - Multiniveau" 
 ---
 
 ::: callout-important

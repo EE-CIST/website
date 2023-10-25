@@ -1,5 +1,6 @@
 project:
   type: website
+  
 lang: fr
 website:
   title: "<b>CIST·EE2023</b>"
