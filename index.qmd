@@ -6,47 +6,10 @@ title: "**École d'été du CIST · EE2023**"
 
 > Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI (LARESPD / Université de Parakou, Bénin) -- Emmanuel BONNET (IRD) -- Claude GRASLAND (UPC-CIST) -- France GUERIN-PACE (INED-CIST)
 
-::: {#map}
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Ce site présente un ensemble cohérent de cours et exercices couvrant l'ensemble des étapes d'analyse de données territoriales en partant de la collecte (module A ) vers la description statistique et l'analyse des données (module B) la cartographie (module C) la modélisation (module D) et l'analyse spatiale (module E). La plupart des exercices ont été élaborés avec le logiciel R, mais d'autres outils ont été mobilisés : QGis, Magrit et Observable JS, KoboToolbox. L'ensemble des cours, programmes et exercices sont accessibles librement à la communauté scientifique et pédagogique.
 
-library(sf)
-library(leaflet)
+Les jeux de données ont été choisis collectivement sur des corpus diversifiés (enquêtes, recensements, information géographique, etc.) sur des terrains situés au Sud comme au Nord.
 
-lat = 6.349879282633317
-lng = 2.0875418515099504
+L'ensemble du contenu de ce site résulte d'un travail collectif coordonné par le CIST et mené entre 2021 et 2023. Cette action a mobilisé un groupe de près de 40 chercheurs, enseignants-chercheurs et ingénieurs de France et d'Afrique de l'Ouest (Bénin, Burkina Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo)
 
-
-file <- 'https://www.centrelogivac.org/wp-content/uploads/2021/09/DJI_0084-450x253.jpg'
-
-# Création d'un point (localisation centre des colloques)
-ptsfg <- st_point(c(lng, lat)) 
-ptsfc <- st_sfc(ptsfg, crs = (4326))
-ptdf <- data.frame(id= 1, name = "UMR8504")
-Here <- st_sf(ptdf,geometry = ptsfc)
-
-icons <- awesomeIcons(
-  icon = 'ios-people',
-  iconColor = 'white',
-  library = 'ion',
-  markerColor = 'blue'
-)
-
-
-# Affichage du point - carte interactive
-mamap <- leaflet(Here, width = 350, height = 200) %>%
-  setView(lat = lat+2, lng = lng, zoom = 6) %>%
-  addProviderTiles("CartoDB.Positron") %>%
-  addAwesomeMarkers(icon = icons,popup = paste0("<img src = ", file,  " width = 160>", "<br /><p style='text-align:center;'><a href='https://www.irsp-ouidah.org/' style='font-size:12pt;'>Institut Régional</br>de Santé Publique</br>Comlan Alfred Quenum</a></p>"))
-```
-
-```{r, echo=FALSE}
-mamap
-```
-:::
-
-::: {#maptext}
-Cette école d'été internationale est destinée à mettre en commun des ressources pédagogiques et scientifiques d'une trentaine de formateur·rices du Nord et du Sud, puis de diffuser ces connaissances auprès de doctorant·es et ingénieur·es.\
-Menée dans une perspective pluridisciplinaire, l'école permet de diffuser les concepts et méthodes les plus avancés des sciences territoriales, en privilégiant l'emploi d'outils informatiques d'accès libre.
-
-<img src="img/logo.png" width="90%;"/>
-:::
+![](img/logo.png){width="90%;" fig-align="center"}
