@@ -1,0 +1,103 @@
+---
+title: "SPA3 - Interaction Spatiale et Flux"
+subtitle: "Introduction à l'analyse de l'interaction spatiale et des flux"
+date: 03/02/2023
+image: img/distance.png
+categories: 
+- Analyse spatiale
+ordre: "11" 
+author: 
+- "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
+- "[Mme Fatoumata COULIBALY](../formateurs/coulibaly.qmd)"
+- "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo.qmd)"
+- "[M. Justin DANSOU](../formateurs/dansou.qmd)"
+- "[M. Pierre PISTRE](../formateurs/pistre.qmd)"
+- "[M. Mouftaou AMADOU SANNI](../formateurs/amadou-sanni.qmd)"
+- "[M. Nicolas LAMBERT](../formateurs/lambert.qmd)"
+author-title: Auteurs
+bibliography: biblio/spa3.bib
+nocite: '@*'
+csl: geo.csl
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: GitLab
+      href: https://github.com/EE-CIST/SPA3-INTERACTION
+published-title: Date de publication 
+format:
+  html: 
+    css: styles_ter.css
+---
+
+<!-- ::: {#contrib} -->
+
+<!-- ### Contributeur·rice·s -->
+
+<!-- Hugues Pecout, ... -->
+
+<!-- ::: -->
+
+## <i class="bi bi-info-circle"></i> Informations pratiques
+
+Ce module est destiné à des étudiant·es de démographie, sociologie ou géographie de niveau licence, master ou doctorat.
+
+Son objectif est d'apprendre (1) à construire une matrice de migration à partir de données de recensement (2) la décrire de façon statistique et cartographie et enfin (3) modéliser les effets de masse et de distance à l'aide de modèles d'interaction spatiale de type gravitaire.
+
+Dans le temps disponible (2h de cours et 2h de TD) on se limitera à l'apprentissage des bases théoriques et on privilégiera l'analyse comparative d'exemples pris dans trois pays à deux niveaux de découpage différents.
+
+## <i class="bi bi-ui-checks-grid"></i> Prérequis
+
+Pour suivre ce module il est recommandé d'avoir pris connaissance des modules suivants :
+
+-   **TYP2** : [Données de recensement](typ2_rec.qmd)
+-   **EXP1**: [Statistique univariée](exp1_uni.qmd)
+-   **EXP2** : [Statistique bivariée](exp2_biv.qmd)
+-   **CAR1** : [Cartographie thématique](cart1-2_the.qmd)
+-   **MOD1** : [Régression multiple](mod1_quanti.qmd)
+
+## <i class="bi bi-bookmark"></i> Résumé
+
+L'objectif de ce module est de montrer les différentes étapes d'analyse d'une matrice de flux en se limitant au cas d'une matrice de migration interne à un pays.
+
+1.  Agrégation des données individuelles de recensement pour construire une matrice de flux origine-destination, éventuellement segmentée par sous-populations.
+2.  Analyse des marges de la matrice de flux (arrivées, départs, volume, solde, asymétrie)
+3.  Cartographie des flux (volume, solde, flux dominants)
+4.  Modélisation des flux depuis ou à partir d'un lieu (régression linéaire). Combinaison de l'effet de masse et de l'effet de distance.
+5.  Modélisation de l'ensemble de la matrice de flux (modèle à simple ou double contrainte, régression de Poisson) et analyse des résidus (flux préférentiels et effets de barrière)
+
+<center><a href="https://ee-cist.github.io/SPA3-INTERACTION/" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i>Consulter le cours et le TD en ligne</a></center>
+
+## <i class="bi bi-person-video3"></i> Support de cours et de TD
+
+Les supports de cours et le déroulé des exercices sont disponibles à la consultation en ligne ci-dessous.
+
+Il s'agit d'un projet `r`, dans ce dossier vous trouverez le fichier \`.rproj\` est à ouvrir dans rStudio, les fichiers \`.qmd\` présentant les énoncés et exercices, ainsi que les données.
+
+<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
+
+<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
+
+<!-- </iframe> -->
+
+<!-- ::: {#url} -->
+
+<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
+
+<!-- ::: -->
+
+<!-- </object> -->
+
+<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
+
+<center><a href="https://bit.ly/3RvFczN " class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
+
+## <i class="bi bi-clipboard-data"></i> Données
+
+-   **GEO** : Découpages administratifs de niveau 1 et 2 des pays de l'école d'été
+-   **IPUMS** : Extraction des RP du Bénin (2002, 2013), du Burkina Faso (2008) et du Mali (2009)
+
+## <i class="bi bi-file-earmark-text"></i> Références
+
+::: {#refs}
+:::

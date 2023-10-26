@@ -6,10 +6,10 @@ title: "**École d'été du CIST · EE2023**"
 
 > Première action de formation d'envergure du CIST coordonnée par Mouftaou AMADOU SANNI (LARESPD / Université de Parakou, Bénin) -- Emmanuel BONNET (IRD) -- Claude GRASLAND (UPC-CIST) -- France GUERIN-PACE (INED-CIST)
 
-Ce site présente un ensemble cohérent de cours et exercices couvrant l'ensemble des étapes d'analyse de données territoriales en partant de la collecte (module A ) vers la description statistique et l'analyse des données (module B) la cartographie (module C) la modélisation (module D) et l'analyse spatiale (module E). La plupart des exercices ont été élaborés avec le logiciel R, mais d'autres outils ont été mobilisés : QGis, Magrit et Observable JS, KoboToolbox. L'ensemble des cours, programmes et exercices sont accessibles librement à la communauté scientifique et pédagogique.
+Ce site présente un ensemble cohérent de cours et exercices couvrant l'ensemble des étapes d'analyse de données territoriales en partant de la collecte (module A ) vers la description statistique et l\'analyse des données (module B), la cartographie (module C), la modélisation (module D) et l\'analyse spatiale (module E). La plupart des exercices ont été élaborés avec le logiciel R, mais d\'autres outils ont été mobilisés : QGis, Magrit et Observable JS, KoboToolbox. L\'ensemble des cours, programmes et exercices sont accessibles librement à la communauté scientifique et pédagogique.
 
 Les jeux de données ont été choisis collectivement sur des corpus diversifiés (enquêtes, recensements, information géographique, etc.) sur des terrains situés au Sud comme au Nord.
 
-L'ensemble du contenu de ce site résulte d'un travail collectif coordonné par le CIST et mené entre 2021 et 2023. Cette action a mobilisé un groupe de près de 40 chercheurs, enseignants-chercheurs et ingénieurs de France et d'Afrique de l'Ouest (Bénin, Burkina Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo)
+L\'ensemble du contenu de ce site résulte d\'un travail collectif coordonné par le CIST et mené entre 2021 et 2023. Cette action a mobilisé un groupe de près de 40 chercheur·es, enseignant·es-chercheur·es et ingénieur·es de France et d'Afrique de l'Ouest (Bénin, Burkina Faso, Côte d'Ivoire, Mali, Niger, Sénégal, Togo)
 
 ![](img/logo.png){width="90%;" fig-align="center"}
