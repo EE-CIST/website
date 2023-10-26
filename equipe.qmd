@@ -22,10 +22,9 @@ listing:
 about:
   template: marquee
   image-width: 40em
-  image-shape: rounded
 ---
 
-Vous trouverez ci-dessous la liste de toutes celles et ceux qui ont contribué d\'une manière ou d\'une autre à l\'organisation de l\'école d\'été et à son contenu pédagogique.
+Vous trouverez ci-dessous la liste de toutes celles et ceux qui ont contribué d'une manière ou d'une autre à l'organisation de l'école d'été et à son contenu pédagogique.
 
 ::: {#formateurs}
 :::

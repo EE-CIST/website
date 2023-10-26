@@ -1,8 +1,8 @@
 ---
 title: "École d'été du CIST · EE2023"
+image : img/header.png
 about:
   template: marquee
-  image : img/header.png
   image-width: 40em
   image-shape: rounded
 ---
