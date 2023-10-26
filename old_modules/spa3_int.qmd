@@ -17,7 +17,7 @@ author:
 author-title: Auteurs
 bibliography: biblio/spa3.bib
 nocite: '@*'
-csl: geo.csl
+# csl: geo.csl
 about:
   template: marquee
   links:
