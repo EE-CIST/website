@@ -15,7 +15,7 @@ author:
 - "[M. Mouftaou AMADOU SANNI](../formateurs/amadou-sanni.qmd)"
 - "[M. Nicolas LAMBERT](../formateurs/lambert.qmd)"
 author-title: Auteurs
-bibliography: biblio/spa3.bib
+# bibliography: biblio/spa3.bib
 nocite: '@*'
 # csl: geo.csl
 about:
