@@ -1,13 +1,13 @@
 ---
 title: "EXP1 - Statistique univariée"
 subtitle: "Introduction à la statistique descriptive univariée"
-image: img/exp1.png
+image: img/exp1_uni.png
 date: 02/28/2023
 categories: 
 - Statistique
 ordre: "04" 
 author: 
-- "[Mme Bénédicte GARNIER](../formateurs/garnier.qmd)"
+  - [Mme Bénédicte GARNIER](../formateurs/garnier.qmd)
 - "[Mme Malb Ama N’Danida YAGNINIM](../formateurs/yagninim.qmd)"
 - "[Mme Sèïvè Ermine Armande DAMENOU](../formateurs/damenou.qmd)"
 author-title: Auteurs
