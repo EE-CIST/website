@@ -34,7 +34,6 @@ website:
         text: GitHub
         href: https://github.com/EE-CIST/website
   sidebar:
-    collapse-level: 1
     contents:
       - href: ecole_thematique.qmd
         text: <b>École d'été</b>
