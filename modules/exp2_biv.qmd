@@ -2,7 +2,7 @@
 title: "EXP2 - Statistique bivariée"
 subtitle: "Introduction à la statistique descriptive bivariée"
 date: last-modified
-image: img/exp1_uni.png
+image: img/exp1.png
 categories: 
 - Statistique
 ordre: "05" 
