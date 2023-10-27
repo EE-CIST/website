@@ -10,8 +10,8 @@ categories:
 - Données d'enquêtes
 ordre: "18" 
 author: 
-  - "[M. Labaly TOURE](../formateurs/toure)"
-  - "[M. Hugues PECOUT](../formateurs/pecout)"
+  - "M. Labaly TOURE"
+  - "M. Hugues PECOUT"
 author-title: Auteurs
 bibliography: biblio/out3.bib
 nocite: '@*'
