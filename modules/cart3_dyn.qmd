@@ -2,7 +2,7 @@
 title: "CAR2 - Cartographie dynamique"
 subtitle: "Cartographie dynamique avec Observable JavaScript et Quarto"
 date: 02/28/2023
-image: img/carto.jpg
+image: img/car2_dyn.png
 categories: 
 - Cartographie
 ordre: "08" 

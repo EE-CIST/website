@@ -1,6 +1,6 @@
 ---
 title: "EXP1 - Statistique univariée"
-subtitle: "Introduction à la statistique descritpive univariée"
+subtitle: "Introduction à la statistique descriptive univariée"
 image: img/exp1.png
 date: 02/28/2023
 categories: 
