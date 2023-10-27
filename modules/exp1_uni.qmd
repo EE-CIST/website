@@ -7,8 +7,8 @@ categories:
 - Statistique
 ordre: "04" 
 author: 
-  - "<a href='../formateurs/garnier.qmd'>Mme Bénédicte GARNIER</a>"
-  - "[Mme Malb Ama N’Danida YAGNINIM](../formateurs/yagninim.qmd)"
+  - "<a href='../formateurs/garnier'>Mme Bénédicte GARNIER</a>"
+  - "[Mme Malb Ama N’Danida YAGNINIM](../formateurs/yagninim)"
   - "[Mme Sèïvè Ermine Armande DAMENOU](../formateurs/damenou.qmd)"
 author-title: Auteurs
 bibliography: biblio/exp1.bib
