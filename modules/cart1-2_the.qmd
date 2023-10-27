@@ -7,8 +7,8 @@ categories:
 - Cartographie
 ordre: "07" 
 author: 
-- "[Mme Christine ZANIN](../formateurs/zanin.qmd)"
-- "[M. Charles HOUNTON](../formateurs/hounton.qmd)"
+- "[Mme Christine ZANIN](../formateurs/zanin)"
+- "[M. Charles HOUNTON](../formateurs/hounton)"
 author-title: Auteurs
 bibliography: biblio/cart1.bib
 nocite: '@*'

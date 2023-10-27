@@ -7,8 +7,8 @@ categories:
 - Cartographie
 ordre: "08" 
 author: 
-- "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo.qmd)"
-- "[M. Nicolas LAMBERT](../formateurs/lambert.qmd)"
+- "[M. Manhamady OUEDRAOGO](../formateurs/ouedraogo)"
+- "[M. Nicolas LAMBERT](../formateurs/lambert)"
 author-title: Auteurs
 bibliography: biblio/cart3.bib
 nocite: '@*'

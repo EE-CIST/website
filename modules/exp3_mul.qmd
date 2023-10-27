@@ -7,9 +7,9 @@ categories:
 - Statistique
 ordre: "06" 
 author: 
-- "[M. Ané Landry TANOH](../formateurs/tanoh.qmd)"
-- "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
-- "[Mme France GUERIN-PACE](../formateurs/guerin.qmd)"
+- "[M. Ané Landry TANOH](../formateurs/tanoh)"
+- "[M. Claude GRASLAND](../formateurs/grasland)"
+- "[Mme France GUERIN-PACE](../formateurs/guerin)"
 author-title: Auteurs
 bibliography: biblio/exp3.bib
 nocite: '@*'

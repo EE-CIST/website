@@ -7,9 +7,9 @@ categories:
 - Modelisation
 ordre: "14" 
 author: 
-- "[Mme France GUERIN-PACE](../formateurs/guerin.qmd)"
-- "[M. Arnaud BRINGE](../formateurs/bringe.qmd)"
-- "[M. Issa ABDOU YONLIHINZA](../formateurs/abdou-yonlihinza.qmd)"
+- "[Mme France GUERIN-PACE](../formateurs/guerin)"
+- "[M. Arnaud BRINGE](../formateurs/bringe)"
+- "[M. Issa ABDOU YONLIHINZA](../formateurs/abdou-yonlihinza)"
 author-title: Auteurs
 bibliography: biblio/mod2.bib
 nocite: '@*'

@@ -10,9 +10,9 @@ categories:
 - Cartographie
 ordre: "17" 
 author: 
-- "[Mme Cathy CHATEL](../formateurs/chatel.qmd)"
-- "[M. Zakariyao KOUMOI](../formateurs/koumoi.qmd)"
-- "[Mme Elina MARVEAUX](../formateurs/marveaux.qmd)"
+- "[Mme Cathy CHATEL](../formateurs/chatel)"
+- "[M. Zakariyao KOUMOI](../formateurs/koumoi)"
+- "[Mme Elina MARVEAUX](../formateurs/marveaux)"
 author-title: Auteurs
 bibliography: ../modules/biblio/out2.bib
 nocite: '@*'

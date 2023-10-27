@@ -7,8 +7,8 @@ categories:
 - Analyse spatiale
 ordre: "10" 
 author: 
-- "[M. Vakaramoko BAMBA](../formateurs/bamba.qmd)"
-- "[M. Claude GRASLAND](../formateurs/grasland.qmd)"
+- "[M. Vakaramoko BAMBA](../formateurs/bamba)"
+- "[M. Claude GRASLAND](../formateurs/grasland)"
 author-title: Auteurs
 bibliography: biblio/spa2.bib
 nocite: '@*'
