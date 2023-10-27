@@ -31,15 +31,15 @@ website:
         text: GitHub
         href: https://github.com/EE-CIST/website
   sidebar:
-    search: false
+    search: true
     collapse-level: 1
     contents:
       - href: ecole_thematique.qmd
-        text: <b>École d'été</b>
+        text: "<b>École d'été</b>"
       - href: equipe.qmd
-        text: <b>Équipe</b> 
+        text: "<b>Équipe</b>" 
       - href: modules.qmd
-        text: <b>Tous les modules</b> 
+        text: "<b>Tous les modules</b>" 
       - section: "A. Collecte des données"
         contents:
           - modules/typ1_enq.qmd
