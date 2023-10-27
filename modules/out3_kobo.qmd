@@ -11,7 +11,7 @@ categories:
 ordre: "18" 
 author: 
 - "[M. Labaly TOURE](../formateurs/toure.qmd)"
-- "[M. Hugues PECOUT](../formateurs/pecout.qmd)"
+- "[M. Hugues PECOUT](./formateurs/pecout.qmd)"
 author-title: Auteurs
 bibliography: ../modules/biblio/out3.bib
 nocite: '@*'
