@@ -1,8 +1,6 @@
 ---
 title: "École d'été du CIST · EE2023"
 image : img/header.png
-about:
-  template: marquee
 ---
 
 ## L'école d'été internationale du CIST : une école en trois étapes

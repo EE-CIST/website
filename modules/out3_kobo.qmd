@@ -8,10 +8,10 @@ categories:
 - Géomatique
 - Méthodes d'enquête
 - Données d'enquêtes
-ordre: "17" 
+ordre: "18" 
 author: 
-- "[M. Labaly TOURE](../formateurs/toure)"
-- "[M. Hugues PECOUT](../formateurs/pecout)"
+  - "[M. Labaly TOURE](../formateurs/toure)"
+  - "[M. Hugues PECOUT](../formateurs/pecout)"
 author-title: Auteurs
 bibliography: biblio/out3.bib
 nocite: '@*'
@@ -57,24 +57,6 @@ Kobotoolbox permet la création de formulaire d'enquête ou de recensement et la
 ## <i class="bi bi-person-video3"></i> Support de TD
 
 Exercice : Réaliser un questionnaire de 10 questions de types différents sur un thème de votre choix . Collectez un minimum de 11 réponses à votre formulaire.
-
-<!-- ## <i class="bi bi-clipboard-data"></i> Données -->
-
-<!-- -   OSM (Geofabrik) du Togo -->
-
-<!-- -   Fonds découpages administratifs : préfectures du Togo avec leurs noms, ID -->
-
-<!-- -   Tableur avec les préfectures du Togo : nom, ID, population - extraction RGP Afrique -->
-
-<!-- -   [Africapolis](../donnees/vil_afric_2015.qmd) - sous corpus -->
-
-<!-- -   MNT -->
-
-<!-- -   Landsat -->
-
-<!-- <center><a href="" class="btn btn-info" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Data.zip</a></center> -->
-
-<!-- \ -->
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 
