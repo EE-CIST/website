@@ -2,33 +2,31 @@
 title: "OUT3 - Initiation à KoboToolBox"
 subtitle: "KoboToolBox, un outil de collecte de données pour les sciences humaines et sociales"
 image: img/out3.png
-date: 02/27/2023
+date: 10/05/2023
 categories: 
 - Outils
 - Géomatique
-- Methodes d'enquête
-- Données d'enquête
-ordre: "18" 
+- Méthodes d'enquête
+- Données d'enquêtes
+ordre: "17" 
 author: 
-  - "[M. Labaly TOURÉ](../formateurs/toure)"
-  - "[M. Hugues PÉCOUT](../formateurs/pecout)"
+- "[M. Labaly TOURE](../formateurs/toure)"
+- "[M. Hugues PECOUT](../formateurs/pecout)"
 author-title: Auteurs
-bibliography: ../modules/biblio/out3.bib
+bibliography: biblio/out3.bib
 nocite: '@*'
 csl: geo.csl
 about:
   template: marquee
   links:
     - icon: github
-      text: GitLab
+      text: GitHub
       href: https://github.com/EE-CIST/OUT3_Kobo
 published-title: Date de publication 
 format:
   html: 
     css: styles_ter.css
 ---
-
-<div>
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
