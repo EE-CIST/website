@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-Pour toute question concernant le site, vous pouvez envoyer
-
 Toute question concernant le site internet ou l'école d'été en général doit être adressée à cette [adresse email](mailto:info@cist.cnrs.fr "[EE2023] -")
 
 <!-- En ce qui concerne les modules ou un contenu pédagogique spécifique, vous pouvez contacter directement les formateur·rices. -->
