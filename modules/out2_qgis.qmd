@@ -37,7 +37,6 @@ format:
 
 <!-- ::: -->
 
-<div>
 
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
@@ -47,7 +46,6 @@ L'initiation est construite sous forme de travaux dirigés (exercices en petits 
 
 Il est nécessaire d'avoir un ordinateur avec **QGis 3.22**, un logiciel de traitement de texte et de présentation (powerpoint ou odp) pour suivre les exercices.
 
-</div>
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 

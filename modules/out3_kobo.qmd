@@ -6,12 +6,12 @@ date: 10/05/2023
 categories: 
 - Outils
 - Géomatique
-- Méthodes d'enquête
-- Données d'enquêtes
+- Méthodes enquête
+- Données enquêtes
 ordre: "18" 
 author: 
-  - "M. Labaly TOURE"
-  - "M. Hugues PECOUT"
+- "[M. Labaly TOURÉ](../formateurs/toure)"
+- "[M. Hugues PECOUT](../formateurs/pecout)"
 author-title: Auteurs
 bibliography: biblio/out3.bib
 nocite: '@*'
