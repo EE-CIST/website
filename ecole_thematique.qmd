@@ -3,8 +3,6 @@ title: "École d'été du CIST · EE2023"
 image : img/header.png
 about:
   template: marquee
-  image-width: 40em
-  image-shape: rounded
 ---
 
 ## L'école d'été internationale du CIST : une école en trois étapes
@@ -15,12 +13,10 @@ La première étape de ce projet s'est tenue sur le campus Condorcet avec l'accu
 
 ### Seconde étape de l'école d'été à Ouidah au Bénin (27 février - 10 mars 2023)
 
-La deuxième étape s'est déroulée début 2023 au siège de l'Institut régional de santé ([IRSP-CAQ](https://www.irsp-ouidah.org/home/))
-à Ouidah (Bénin). Elle a réuni durant deux semaines les formateur·rices impliqué·es dans la première étape en France pour soumettre et dispenser les modules de cours retenus lors de la première phase. Elle a constitué une opportunité d'autoformation et de dialogue interdisciplinaire entre géographes, démographes, géomaticiens, économistes, gestionnaires. Ces modules ont été testés au cours de la deuxième semaine auprès d'un public d'une dizaine de jeunes enseignants invités. Cette seconde étape a permis d'améliorer et de valider les modules pédagogiques.
+La deuxième étape s'est déroulée début 2023 au siège de l'Institut régional de santé ([IRSP-CAQ](https://www.irsp-ouidah.org/home/)) à Ouidah (Bénin). Elle a réuni durant deux semaines les formateur·rices impliqué·es dans la première étape en France pour soumettre et dispenser les modules de cours retenus lors de la première phase. Elle a constitué une opportunité d'autoformation et de dialogue interdisciplinaire entre géographes, démographes, géomaticiens, économistes, gestionnaires. Ces modules ont été testés au cours de la deuxième semaine auprès d'un public d'une dizaine de jeunes enseignants invités. Cette seconde étape a permis d'améliorer et de valider les modules pédagogiques.
 
-### Troisième étape : retour sur expérience et valorisation de l’action de formation (avril-octobre 2023)
+### Troisième étape : retour sur expérience et valorisation de l'action de formation (avril-octobre 2023)
 
-Cette dernière étape a consisté à améliorer et finaliser les différents modules en tenant compte des discussions qui se sont tenues à Ouidah. Un site dédié a été conçu pour valoriser et mettre à disposition de la communauté scientifique et pédagogique l'ensemble des ressources (cours, exercices, données) produites au sein de l'école d'été du CIST. 
+Cette dernière étape a consisté à améliorer et finaliser les différents modules en tenant compte des discussions qui se sont tenues à Ouidah. Un site dédié a été conçu pour valoriser et mettre à disposition de la communauté scientifique et pédagogique l'ensemble des ressources (cours, exercices, données) produites au sein de l'école d'été du CIST.
 
-Ce site constitue une forme inédite de manuel interactif des méthodes et outils des sciences des territoires où chaque module est un chapitre cosigné par ses auteur·es. 
-
+Ce site constitue une forme inédite de manuel interactif des méthodes et outils des sciences des territoires où chaque module est un chapitre cosigné par ses auteur·es.
