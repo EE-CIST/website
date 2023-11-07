@@ -46,7 +46,7 @@ Le module Information géographique a pour objectif d'une part d'expliquer ce qu
 
 Le diaporama commenté est disponible à la consultation et au téléchargement.
 
-<object class="slide" data="../modules/support/typ2_rec.pdf" type="application/pdf">
+<object class="slide" data="../modules/support/typ3_ig.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/typ3_ig.pdf">
 
