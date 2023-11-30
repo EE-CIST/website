@@ -85,7 +85,7 @@ format:
     toc: true
     page-layout: full
     include-in-header:
-      file: matomo.html
+      file: matomo_tracking.html
 
 editor: visual
 
