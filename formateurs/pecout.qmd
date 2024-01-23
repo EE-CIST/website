@@ -7,6 +7,7 @@ nocite: '@*'
 csl: geo.csl
 categories: 
 - Enseignant·es
+- Organisation
 about:
   template: marquee
   image: img/pecout.png
@@ -61,7 +62,7 @@ format:
 -   Info. géo. : initiation aux SIG et à la cartographie thématique
 -   Introduction à R et à la statistique descriptive
 -   Géomatique et cartographie avec R
--   La cartographie, recherche et applications 
+-   La cartographie, recherche et applications
 
 </div>
 
@@ -70,7 +71,6 @@ format:
 -   Données conventionnelles (statistique publique)
 -   Données issues du web
 -   Données d'enquêtes
-
 
 ## <i class="bi bi-file-earmark-text"></i> Publications
 
