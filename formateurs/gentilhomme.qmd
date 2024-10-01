@@ -46,7 +46,7 @@ format:
 
 ## <i class="bi bi-ui-checks-grid"></i> Chargée de communication
 
-Chargée de communication au CIST, je coordonne notamment ses colloques internationaux, conçoit et mets à jour le site du CIST et les sites dédiés à ses événements, suit les diverses collections HAL d'archives ouvertes.
+Chargée de communication au CIST, je coordonne notamment ses colloques internationaux, conçois et mets à jour le site du CIST et les sites dédiés à ses événements, suis les diverses collections HAL d'archives ouvertes.
 
 En tant qu'éditrice, j'édite les proceedings des colloques et tous les ouvrages parus dans le cadre des activités des axes structurants et des projets exploratoires du CIST."
 
