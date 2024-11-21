@@ -14,6 +14,17 @@ author-title: Auteurs
 bibliography: biblio/exp2.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Malika Madelin
+    - Yayé Moussa
+    - Yentougle Moutore
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14191583
+  url: https://doi.org/10.5281/zenodo.14191583
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
   links:
@@ -62,13 +73,13 @@ L'exercice est composé de trois fichiers :
 -   [1 fichier `.html`](https://github.com/mmadelin/EECIST23_EXP2/blob/main/EECIST23_EXP2_ExoQnQn.html) à télécharger et qui contient l'énoncé et les solutions de l'exercice
 -   [1 fichier `.zip`](https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip) qui contient le projet `r` complet avec les données nécessaires
 
-<center><a href="https://github.com/mmadelin/EECIST23_EXP2/raw/main/EXP2_Exos.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i>Télécharger le projet</a></center>
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14191583" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>\
 
-\
-
-<!-- ...ou avec les données et le diaporama (dépot GitHub) -->
-
-<!-- <center><a href="https://github.com/mmadelin/EECIST23_EXP2/archive/refs/heads/main.zip" class="btn btn-warning" role="button" aria-disabled="true"><i class="bi bi-eye" target="_blank" rel="noopener noreferrer"></i> Télécharger le dossier complet </a></center> -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

@@ -16,15 +16,25 @@ author-title: Auteurs
 bibliography: biblio/typ3.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Pauline Gluski
+    - Labaly Touré
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14178470
+  url: https://doi.org/10.5281/zenodo.14178470
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
   # links:
   #   - icon: github
   #     text: GitLab
   #     href: https://gitlab.huma-num.fr/elementr/session_2
-published-title: Date de publication 
+# published-title: Date de publication 
 format:
-  html: 
+  html:  
     css: styles_ter.css
 ---
 
@@ -49,12 +59,18 @@ Le diaporama commenté est disponible à la consultation et au téléchargement.
 <object class="slide" data="../modules/support/typ3_ig.pdf" type="application/pdf">
 
 <iframe class="slide" src="../modules/support/typ3_ig.pdf">
-
 </iframe>
-
 </object>
 
-<center><a href="https://bit.ly/3DihLUi" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger le diaporama </a></center>
+<br>
+<br>
+
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14192173" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 
 ## <i class="bi bi-file-earmark-text"></i> Références
 

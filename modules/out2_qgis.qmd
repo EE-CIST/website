@@ -17,13 +17,19 @@ author-title: Auteurs
 bibliography: ../modules/biblio/out2.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Cathy Chatel
+    - Zakariyao Koumoi
+    - Elina Marveaux
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14192056
+  url: https://doi.org/10.5281/zenodo.14192056
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
-published-title: Date de publication 
 format:
   html: 
     css: styles_ter.css
@@ -37,7 +43,6 @@ format:
 
 <!-- ::: -->
 
-
 ## <i class="bi bi-info-circle"></i> Informations pratiques
 
 Ce module est conçu comme une initiation aux **Systèmes d'Information Géographique** (SIG) et à "QGIS", il s'adresse donc à un public de tout niveau sensible à l'information spatiale.
@@ -45,7 +50,6 @@ Ce module est conçu comme une initiation aux **Systèmes d'Information Géograp
 L'initiation est construite sous forme de travaux dirigés (exercices en petits groupes), autour de 5 cours de 2 heures chacun (soit 10 heures au total).
 
 Il est nécessaire d'avoir un ordinateur avec **QGis 3.22**, un logiciel de traitement de texte et de présentation (powerpoint ou odp) pour suivre les exercices.
-
 
 ## <i class="bi bi-ui-checks-grid"></i> Prérequis
 
@@ -103,33 +107,13 @@ Ces TD sont en lien avec les enseignements dispensés lors des autres modules de
 
 L'intégralité des supports de cours est disponible au téléchargement ci-dessous. Chaque cours est construit autour d'une présentation, d'un cahier d'exercice et des données permettant de reprendre ces exercices.
 
-<center><a href="https://bit.ly/3tr1PgM" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter </a></center>
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14192056" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
-
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
-
-<!-- </iframe> -->
-
-<!-- ::: {#url} -->
-
-<!-- <i class="bi bi-cloud-arrow-down-fill"></i> [Télécharger</i>]() -->
-
-<!-- ::: -->
-
-<!-- </object> -->
-
-<!--  -->
-
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
-
-<!-- Quam ob rem cave Catoni anteponas ne istum quidem ipsum, quem Apollo, ut ais, sapientissimum iudicavit; huius enim facta, illius dicta laudantur. De me autem, ut iam cum utroque vestrum loquar, sic habetote. -->
-
-<!-- \ -->
-
-<!-- \ -->
-
-<!--  -->
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

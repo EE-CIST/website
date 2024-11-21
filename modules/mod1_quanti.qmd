@@ -13,6 +13,17 @@ author-title: Auteurs
 bibliography: biblio/mod1.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Gbètoton Nadège Djossou
+    - Claude Grasland
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14191820
+  url: https://doi.org/10.5281/zenodo.14191820
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
+
 about:
   template: marquee
   links:
@@ -102,8 +113,12 @@ Cinq des six exercices sont à effectuer avec R. Le dossier "exo_cours" contient
 -   Développement des pays africains
 -   Enquête consommation Bénin
 
-<center><a href="https://bit.ly/3rTmNVe" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
-
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14191820" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 ## <i class="bi bi-file-earmark-text"></i> Références
 
 ::: {#refs}

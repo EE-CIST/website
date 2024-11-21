@@ -14,12 +14,20 @@ author-title: Auteurs
 bibliography: biblio/mod2.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - France Guérin-Pace
+    - Arnaud Bringé
+    - Issa Abdou Yonlihinza
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14191892
+  url: https://doi.org/10.5281/zenodo.14191892
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
-  links:
-    - icon: github
-      text: GitLab
-      href: https://gitlab.huma-num.fr/elementr/session_2
+
 published-title: Date de publication 
 format:
   html: 
@@ -60,19 +68,13 @@ Modélisation via une régression logistique, puis extension à une analyse mult
 
 Un exercice est à réaliser dans `r`, le contenu est téléchargeable ci-dessous.
 
-<!-- <object class="slide" data="support/introR_seance2_diapo.pdf" type="application/pdf"> -->
 
-<!-- <iframe class="slide" src="https://meghan.rbind.io/slides/neair/neair.html#/title-slide"> -->
-
-<!-- </iframe> -->
-
-<!-- ## <i class="bi bi-cloud-arrow-down-fill"></i> Télécharger</i> -->
-
-<!-- </object> -->
-
-<!-- ## <i class="bi bi-person-video3"></i> Support de TD -->
-
-<center><a href="https://bit.ly/45zLNib" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Télécharger l'exercice </a></center>
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14191892" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

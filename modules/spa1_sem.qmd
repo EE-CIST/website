@@ -13,6 +13,16 @@ author-title: Auteurs
 bibliography: biblio/spa1.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Souleymane Traoré
+    - Marianne Guérois
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14192098
+  url: https://doi.org/10.5281/zenodo.14192098
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
   # links:
@@ -78,7 +88,12 @@ Un diaporama du cours commenté ainsi qu'un tutoriel QGIS sont disponibles à la
 
 Les exercices téléchargeables sont à réaliser sous R. Chaque dossier contient les données et autres sources nécéssaires à la réalisation de l'exercice, un fichier `.html` reprenant l'énoncé de l'exercice accompagné du `.qmd` permettant sa compilation (modifiable sous R) et d'un script dans lequel réaliser les exercices.
 
-<center><a href="https://bit.ly/3M4rnqt" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i> Télécharger les supports et les données </a></center>
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14192098" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 

@@ -13,6 +13,16 @@ author-title: Auteurs
 bibliography: biblio/cart3.bib
 nocite: '@*'
 csl: geo.csl
+citation:
+  author: 
+    - Manhamady Ouedraogo
+    - Nicolas Lambert
+  publisher: Zenodo
+  doi: 10.5281/zenodo.14178620
+  url: https://doi.org/10.5281/zenodo.14178620
+  type: article-journal
+  container-title: "CIST-EE2023 : Methodes et outils des sciences du territoire "
+  container-id: https://ee2023.netlify.app/
 about:
   template: marquee
   links:
@@ -80,9 +90,12 @@ La séquence s'organise en 3 étapes :
 
 Ces supports sont accessibles sur le [GitHub](https://github.com/EE-CIST/CAR2_cartodyn) du module.
 
-<!-- <center><a href="https://github.com/EE-CIST/CAR2_cartodyn" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-eye"></i> Consulter le GitHub </a></center> -->
-
-<center><a href="https://bit.ly/3Dz1FX4" class="btn btn-warning" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer"><i class="bi bi-cloud-arrow-down"></i>Télécharger les supports et données</a></center>
+<center>
+Télécharger sur
+  <a href="https://zenodo.org/records/14178620" role="button" aria-disabled="true" target="_blank" rel="noopener noreferrer">
+    <img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg" style="height: 3em;"></img>
+  </a>
+</center>
 
 ## <i class="bi bi-clipboard-data"></i> Données
 
